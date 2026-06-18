@@ -1,0 +1,115 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 21706 invoked by uid 210); 20 Jul 2005 09:35:41 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/984. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.033972 secs); 20 Jul 2005 07:35:41 -0000
+Received: from unknown (HELO zrr-ubuntu) (zdavatz@ywesee.com@217.162.177.109)
+  by bbmb.ch with ESMTPA; 20 Jul 2005 09:35:41 +0200
+Received: by zrr-ubuntu (Postfix, from userid 1000)
+	id 4184D888C; Wed, 20 Jul 2005 09:35:11 +0200 (CEST)
+Date: Wed, 20 Jul 2005 09:35:11 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Majstorovic Jelena <jelena.majstorovic@weko.admin.ch>,
+	Dozio Stefano <stefano.dozio@weko.admin.ch>, todo@oddb.org
+Cc: news@generika.cc, svkh@oddb.org, softwarehaeuser@ywesee.com,
+	pharmafirma@oddb.org
+Subject: 32-0178 - Stellungnahme zu Ihrem Schreiben vom 18.7.2005
+Message-ID: <20050720073511.GA6675@zrr-ubuntu.local>
+Reply-To: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.6+20040907i
+
+Sehr geehrte Frau Majstorovic
+
+Besten Dank für Ihr Schreiben vom 18.7.2005.
+
+Ich möchte dazu wie folgt Stellung nehmen:
+
+Wir haben keine Geschäftsgeheimnisse, da wir nichts zu verbergen
+haben. Wir glauben an OpenSource Software und an das OpenSource
+Business-Modell.
+
+Nun noch einige Bemerkungen zum Schlussbericht der Vorabklärung:
+
+Zu 5: Ich denke es ist erwähnenswert, dass die IKS damals ein umfassendes Werk
+vorausgesetzt hat. Das steht so in den Richtlinien von 1988. Darum tut
+sich die Swissmedic nun auch so schwer mit dem Verwerfen des Buches.
+Heute steht nichts mehr im Gesetz, dass das Buch umfassend sein muss. Ihr
+Schreiben zeigt aber sehr schön, dass viele Pharmafirmen offenbar immer
+noch meinen, die Swissmedic wolle ein umfassendes Buch per Gesetz. Genau
+in diesem Punkt gibt es eine komplette Wettbewerbsverzerrung.
+
+zu 7. Der Personalbestand der Documed AG ist eine totale Farce und zeigt
+meiner Meinung nach am allerschönsten wie auf einem Monopol einfach
+ungehindert sinnlos Geld verschwendet wird. ywesee betreibt
+ODDB.org seit 4 Jahren auf einer Stufe von 2-4 Personen. In dieser Zeit
+wurde jedoch die Software mehrfach komplett umgeschrieben. Hinzu kommt
+auch noch die Übernahme der Rohdaten aus den PDF's und dem HTML der
+Documed-Website. Diese Unterfangen haben bei ywesee massive Kosten
+ausgelöst, ganz zu schweigen von den Anwaltskosten. Hinzu kommt noch,
+dass unsere Software einiges mehr kann als diejenige der Documed AG.
+ODDB.org verbindet quasi in einem was E-mediat und Documed AG in zwei
+seapraten Firmen und Softwares tut.
+
+Zu 11: ywesee ist in der Zwischenzeit eine GmbH.
+
+Zu 17: Die Geschäftsleitung der Documed ist seit der Übernahme durch die
+Galenica genau die gleiche wie bei der E-mediat! Herr Bangerter und Herr
+Schäfer sind auf beiden Websiten als Geschäftsleiter aufgelistet. An
+dieser Stelle kann ich nur nochmals auf die Bedeutung vom Galdat
+hinweisen. Viel wichtiger ist jedoch, dass der Ursprung vom
+Monopolverhalten an der genau gleichen Stelle liegt und nur gegen aussen
+durch Firmennamen überdeckt wird.
+
+Zu 18: Es gilt meiner Meinung nach zu verhindern, dass die Swissmedic
+die Publikation der FI's an sich reisst in einer überstürzten Lösung.
+Viel wichtiger für die Swissmedic sind die offenen Standards und die
+Publikation der Rohdaten in einem maschinenlesbaren, offenen Standard.
+
+Zu 44: Achtung: Die E-mediat versucht bei vielen amtlich geforderten
+Datensammlungen einen Urheberrechtsschutz geltend zu machen, siehe
+EAN-Code Sammlung (http://www.medwin.ch und Galdat 3.0). Es gibt in der
+Schweiz sehr viele regulierte Verzeichnisdaten (Sammlung der
+Arztadressen durch die FMH, Adressdaten gemäss Fernmeldegesetz) wo ein
+Missbrauch aus einer ehemals staatlichen Verordnung geschieht.
+
+Zu 55: Bei einer Verwirrung profitiert immer der Monopolist!
+
+Zu 57: Es wäre schön wenn Sie hier den Galdat 3.0 erwähnen. ywesee
+verwendet den Galdat 3.0 für die Bestellplattform der MediSerivce in
+Zuchwil, dies weil die MediService das so will. Der Galdat enthält mehr
+als nur die Arzneimittelinformationen. Der Galdat enthält auch die
+Packungsinformationen, Interaktinen und vieles mehr. Hier gehen sie ohne
+es zu erwähnen auf das meiner Meinung nach illegale Dienstleistungsbundling 
+der E-mediat ein.
+
+Das Softwarprodukt für die MediService, wurde von ywesee entwickelt und
+wird nur für die MediService betrieben. Die MediService bezahlt für
+jeden einzelnen Arzt eine Gebühr für die Verwendung der Galdat-Daten.
+Der Galdat darf somit _nicht_ für das Softwareprodukt von ywesee
+verwendet werden sondern nur für das Produkt, bei welchem die E-mediat
+die Zulassung gibt! Die E-mediat kontrolliert somit die
+Dienstleistungsentwicklung vom Softwarhaus ywesee. Das ist eine Frace!
+
+Zu 68: Mit anderen Worten: Die E-mediat kontrolliert ganz genau, wo Ihre
+Daten eingesetzt werden dürfen! Weil sie ein Monopol hat kontrolliert
+sie somit auch die Softwareentwicklung von ywesee (in dem sie CHF
+125'000 pro Jahr für eine Online Galdat-Lizenz und CHF 800.- für eine
+Arzt-Galdat-Lizenz verlangt). Im gleichen Zug macht sie auch noch ein
+Dienstleistungsbundling, denn es gibt keine separaten Preise für die
+unterschiedlichen Rohdatenexporte aus dem Galdat (z.B. Export nur der
+Medidaten ohne Fi's und Pi's oder Export nur der Fi-Rohdaten). Das wäre
+wie wenn die Swisscom sagt: Entweder sie nehmen Fixnet, Mobile und
+Internet bei uns oder wir geben Ihnen gar nichts. Die Swisscom kann das
+zum Glück nicht mehr machen, weil es Konkurrenz gibt, hat es aber lange
+versucht mit der letzten Meile (dies ist ein Beispiel).
+
+Besten Dank und mit freundlichen Grüssen aus Zürich
+Zeno Davatz

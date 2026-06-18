@@ -1,0 +1,39 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.7) Gecko/20060918 Firefox/1.5.0.7
+author=
+host=84.72.152.159
+name=Ywesee.InfoCodexSlideShow
+rev=10
+targets=
+text=!!Slide-Show%0a%3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-11319" width="730" height="598">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-11319" />%3c/object>%0a%0aAttach:InfoCodex_en_pub.pdf%0a%0a!! Heat-Map Ansicht%0aAttach:HeatMap_Ansich.jpg
+time=1160396447
+author:1160396447=
+diff:1160396447:1160396351:=2,3c2,3%0a%3c %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-11319" width="730" height="598">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-11319" />%3c/object>%0a%3c %0a---%0a> %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-2481" width="730" height="598">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-2481" />%3c/object>%0a> %0a
+host:1160396447=84.72.152.159
+author:1160396351=
+diff:1160396351:1160396336:=1c1%0a%3c !!Slide-Show%0a---%0a> !!SlideShow%0a6c6%0a%3c !! Heat-Map Ansicht%0a---%0a> !! HeatMap Ansicht%0a
+host:1160396351=84.72.152.159
+author:1160396336=
+diff:1160396336:1160396257:=1d0%0a%3c !!SlideShow%0a6d4%0a%3c !! HeatMap Ansicht%0a
+host:1160396336=84.72.152.159
+author:1160396257=
+diff:1160396257:1160386664:=3,5c3%0a%3c Attach:InfoCodex_en_pub.pdf%0a%3c %0a%3c Attach:HeatMap_Ansich.jpg%0a\ No newline at end of file%0a---%0a> Attach:InfoCodex_en_pub.pdf%0a\ No newline at end of file%0a
+host:1160396257=84.72.152.159
+author:1160386664=
+diff:1160386664:1160386379:=3c3%0a%3c Attach:InfoCodex_en_pub.pdf%0a\ No newline at end of file%0a---%0a> [[http://www.ywesee.com/uploads/Ywesee/Infocodex.pdf | Download Slideshow]]%0a\ No newline at end of file%0a
+host:1160386664=84.72.152.159
+author:1160386379=
+diff:1160386379:1160385551:=1,3c1%0a%3c %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-2481" width="730" height="598">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-2481" />%3c/object>%0a%3c %0a%3c [[http://www.ywesee.com/uploads/Ywesee/Infocodex.pdf | Download Slideshow]]%0a\ No newline at end of file%0a---%0a> %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-2481" width="730" height="598">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-2481" />%3c/object>%0a\ No newline at end of file%0a
+host:1160386379=84.72.152.159
+author:1160385551=
+diff:1160385551:1160128736:=1c1%0a%3c %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-2481" width="730" height="598">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4872&doc=infocodex-4872-2481" />%3c/object>%0a\ No newline at end of file%0a---%0a> %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" width="730" height="598">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" />%3c/object>%0a\ No newline at end of file%0a
+host:1160385551=84.72.152.159
+author:1160128736=
+diff:1160128736:1160128675:=1c1%0a%3c %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" width="730" height="598">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" />%3c/object>%0a\ No newline at end of file%0a---%0a> %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" width="700" height="573">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" />%3c/object>%0a\ No newline at end of file%0a
+host:1160128736=84.72.152.159
+author:1160128675=
+diff:1160128675:1160128555:=1c1%0a%3c %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" width="700" height="573">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" />%3c/object>%0a\ No newline at end of file%0a---%0a> %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" width="425" height="348">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" />%3c/object>%0a\ No newline at end of file%0a
+host:1160128675=84.72.152.159
+author:1160128555=
+diff:1160128555:1160128555:=1d0%0a%3c %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" width="425" height="348">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=4293&doc=infocodex-22087" />%3c/object>%0a\ No newline at end of file%0a
+host:1160128555=84.72.152.159

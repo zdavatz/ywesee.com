@@ -1,0 +1,21 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9b4pre) Gecko/2008022704 Minefield/3.0b4pre
+author=
+host=77.57.16.157
+name=Software.XMLProPharma
+rev=4
+targets=Software.ProPharma
+text=!XML Lieferschein durch ProPharma%0a* [[http://www.e-galexis.ch/Galexis/de/service/pos/funktionen.php | Galexis XML]]%0a* [[http://www.e-galexis.com/schemas/POS/deliveryNote/ | Galexis Vorlagen]]
+time=1204194732
+author:1204194732=
+diff:1204194732:1204194015:=2,3c2%0a%3c * [[http://www.e-galexis.ch/Galexis/de/service/pos/funktionen.php | Galexis XML]]%0a%3c * [[http://www.e-galexis.com/schemas/POS/deliveryNote/ | Galexis Vorlagen]]%0a\ No newline at end of file%0a---%0a> * [[http://www.e-galexis.ch/Galexis/de/service/pos/funktionen.php | Galexis XML]]%0a\ No newline at end of file%0a
+host:1204194732=77.57.16.157
+author:1204194015=
+diff:1204194015:1204194002:=2c2%0a%3c * [[http://www.e-galexis.ch/Galexis/de/service/pos/funktionen.php | Galexis XML]]%0a\ No newline at end of file%0a---%0a> * [[http://www.e-galexis.ch/Galexis/de/service/pos/funktionen.php | Galexis]]%0a\ No newline at end of file%0a
+host:1204194015=77.57.16.157
+author:1204194002=
+diff:1204194002:1204193989:=2c2%0a%3c * [[http://www.e-galexis.ch/Galexis/de/service/pos/funktionen.php | Galexis]]%0a\ No newline at end of file%0a---%0a> * [[Galexis | http://www.e-galexis.ch/Galexis/de/service/pos/funktionen.php]]%0a\ No newline at end of file%0a
+host:1204194002=77.57.16.157
+author:1204193989=
+diff:1204193989:1204193989:=1,2d0%0a%3c !XML Lieferschein durch ProPharma%0a%3c * [[Galexis | http://www.e-galexis.ch/Galexis/de/service/pos/funktionen.php]]%0a\ No newline at end of file%0a
+host:1204193989=77.57.16.157

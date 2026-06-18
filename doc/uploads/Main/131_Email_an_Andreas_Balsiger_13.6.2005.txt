@@ -1,0 +1,124 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 15127 invoked by uid 74); 13 Jun 2005 16:09:12 -0000
+Received: from zdavatz@ywesee.com by debian by uid 71 with qmail-scanner-1.15 
+ (clamscan: 0.54.  Clear:. 
+ Processed in 1.047364 secs); 13 Jun 2005 16:09:12 -0000
+Received: from 217-162-177-109.dclient.hispeed.ch (HELO zrr.local) (217.162.177.109)
+  by 0 with SMTP; 13 Jun 2005 16:09:11 -0000
+Date: Mon, 13 Jun 2005 18:09:12 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Balsiger Andreas Swissmedic <Andreas.Balsiger@swissmedic.ch>
+Cc: todo@oddb.org <todo@oddb.org>
+Subject: Re: Frage
+Message-ID: <20050613180912.0489a59d@zrr.local>
+In-Reply-To: <3EE656B353A06742992FFDöED9553D5034A6908@smex01s>
+References: <3EE656B353A06742992FFDöED9553D5034A6908@smex01s>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrter Herr Balsiger
+
+Besten Dank für die Info!
+
+Mit freundlichen Grüssen
+Zeno Davatz
+
+On Mon, 13 Jun 2005 18:06:01 +0200
+Balsiger Andreas Swissmedic <Andreas.Balsiger@swissmedic.ch> wrote:
+
+> Nein; im BoeB selber ist diese Frage nicht explizit geregelt, wohl aber in
+> dem ihm zugrunde liegenden Staatsvertrag (GATT/WTO-Übereinkommen über das
+> öffentliche Beschaffungswesen), Art. VI Ziff. 4, die lautet: "Die
+> Beschaffungsstellen dürfen nicht auf eine den Wettbewerb ausschaltende Art
+> und Weise von einer Firma, die ein geschäftliches Interesse an der
+> Beschaffung haben könnte, Ratschläge einholen oder annehmen, welche bei der
+> Ausarbeitung der Spezifikationen für eine bestimmte Beschaffung verwendet
+> werden können." Diese Bestimmung ist auch bei der Anwendung von Bundesrecht,
+> namentlich dem Beschaffungsrecht, gestützt auf den
+> Gleichbehandlungsgrundsatz (Stichwort: "Gleichbehandlung der
+> Gewerbegenossen") ebenfalls anzuwenden.
+> Freundliche Grüsse
+> Swissmedic, Schweizerisches Heilmittelinstitut
+> Leiter Geschäftsbereich Recht
+> Andreas Balsiger Betts
+
+
+> -----Ursprüngliche Nachricht-----
+> Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com]
+> Gesendet: Montag, 13. Juni 2005 17:35
+> An: Balsiger Andreas Swissmedic
+> Cc: todo@oddb.org
+> Betreff: Re: Frage
+
+
+> Sehr geehrter Herr Balsiger
+
+> Meinen Sie vielleicht Artikel 11e?
+
+> http://www.admin.ch/ch/d/sr/172_056_1/a11.html
+
+> Mit freundlichen Grüssen aus Zürich
+> Zeno Davatz
+
+> On Mon, 13 Jun 2005 17:03:56 +0200
+> Balsiger Andreas Swissmedic <Andreas.Balsiger@swissmedic.ch> wrote:
+
+> > Sehr geehrter Herr Davatz
+> > Diese Gefahr besteht aufgrund des Gesetzes über das öffentliche
+> > Beschaffungswesen tatsächlich.
+> > Mit freunlichen Grüssen
+> > Swissmedic, Schweizerisches Heilmittelinstitut
+> > Leiter Geschäftsbereich Recht
+> > Andreas Balsiger Betts
+> 
+> > Erlachstrasse 8, 3000 Bern 9
+> > Tel. +41 31 322 02 03
+> > Fax +41 31 322 04 67
+> > E-Mail: andreas.balsiger@swissmedic.ch
+> > www.swissmedic.ch
+> 
+> > WARNUNG - Diese Mitteilung kann vertrauliche und gesetzlich geschützte
+> > Informationen enthalten und ist zum ausschliesslichen Gebrauch durch den
+> > Empfänger bestimmt.
+> > Jegliche Verbreitung, Kopie oder anderweitige Benützung davon (teilweise
+> > oder gesamthaft) ist verboten.
+> > Sollten Sie nicht der Empfänger dieser Mitteilung sein, sind Sie gebeten,
+> > diese sogleich zu löschen und den Absender über den irrtümlichen Versand und
+> > das Löschen des Mails zu informieren.
+> 
+> 
+> 
+> 
+> > -----Ursprüngliche Nachricht-----
+> > Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com]
+> > Gesendet: Montag, 13. Juni 2005 15:48
+> > An: Andreas Balsiger
+> > Cc: todo@oddb.org
+> > Betreff: Frage
+> 
+> 
+> > Sehr geehrter Herr Balsiger
+> 
+> > Ich habe soeben mit Herr Schneller telefoniert und ihm angeboten, dass wir
+> > die Swissmedic gerne betraten in technischen Anliegen betreffend der
+> Publikation der Daten im maschinenlesbaren Format.
+> 
+> > Er meinte, dass wenn wir die Swissmedic in der entsprechenden Form
+> > unterstützen
+> > würden, wir dann ev. bei einer Aussschreibung zu Publikation der Fi
+> > automatisch
+> > ausgeschlossen würden.
+> 
+> > Ich kann mir das nicht vorstellen und kenne auch kein entsprechendes Gesetz.
+> 
+> > Kennen Sie eines?
+> 
+> > Besten Dank für Ihre Rückmeldung.
+> 
+> > Mit freundlichen Grüssen
+> > Zeno Davatz

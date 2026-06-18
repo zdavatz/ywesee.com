@@ -1,0 +1,27 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de; rv:1.8) Gecko/20051111 Firefox/1.5
+author=
+host=84.73.186.135
+name=Software.YDIM
+rev=6
+targets=Software.PayPal
+text=! ywesee Distributed Invoice Manager%0a* Runs perfect on Linux and Ruby%0a* Sends PDF invoices by Email%0a* Sorts invoices by "payed", "open", "delayed"%0a* Stores all client data%0a* Interacts directly with PayPal%0a* Import data from any other Application%0a* Works from any location with the browser of your choice%0a* Sends out first, second and third level reminders automatically%0a* Converts currencies CHF, EURO, USD%0a* Collects exchange rate direclty from Google
+time=1138820273
+author:1138820273=
+diff:1138820273:1138820259:=2c2%0a%3c * Runs perfect on Linux and Ruby%0a---%0a> * Runs perfect on Linux%0a
+host:1138820273=84.73.186.135
+author:1138820259=
+diff:1138820259:1138820248:=10c10%0a%3c * Converts currencies CHF, EURO, USD%0a---%0a> * Converts currencies CHF, EURO, USD.%0a
+host:1138820259=84.73.186.135
+author:1138820248=
+diff:1138820248:1138820120:=9,11c9%0a%3c * Sends out first, second and third level reminders automatically%0a%3c * Converts currencies CHF, EURO, USD.%0a%3c * Collects exchange rate direclty from Google%0a\ No newline at end of file%0a---%0a> * Sends out first, second and third level reminders automatically%0a\ No newline at end of file%0a
+host:1138820248=84.73.186.135
+author:1138820120=
+diff:1138820120:1138820017:=8,9c8%0a%3c * Works from any location with the browser of your choice%0a%3c * Sends out first, second and third level reminders automatically%0a\ No newline at end of file%0a---%0a> * Works from any location with the browser of your choice%0a\ No newline at end of file%0a
+host:1138820120=84.73.186.135
+author:1138820017=
+diff:1138820017:1138819881:=2,3c2%0a%3c * Runs perfect on Linux%0a%3c * Sends PDF invoices by Email%0a---%0a> * Sends PDF invoices to the clients%0a7,8c6%0a%3c * Import data from any other Application%0a%3c * Works from any location with the browser of your choice%0a\ No newline at end of file%0a---%0a> * Possibility to import data from any other Application%0a\ No newline at end of file%0a
+host:1138820017=84.73.186.135
+author:1138819881=
+diff:1138819881:1138819881:=1,6d0%0a%3c ! ywesee Distributed Invoice Manager%0a%3c * Sends PDF invoices to the clients%0a%3c * Sorts invoices by "payed", "open", "delayed"%0a%3c * Stores all client data%0a%3c * Interacts directly with PayPal%0a%3c * Possibility to import data from any other Application%0a\ No newline at end of file%0a
+host:1138819881=84.73.186.135

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a5pre) Gecko/20100428 Minefield/3.7a5pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1272553970
+host=80.219.10.249
+name=Main.SocialMedia
+rev=2
+targets=
+text=!SocialMedia%0a* Social Media Guidelines der MayoClinic: http://sharing.mayoclinic.org/guidelines/for-mayo-clinic-employees/
+time=1272554039
+author:1272554039=
+diff:1272554039:1272553970:=2c2%0a%3c * Social Media Guidelines der MayoClinic: http://sharing.mayoclinic.org/guidelines/for-mayo-clinic-employees/%0a\ No newline at end of file%0a---%0a> * Guidelines der MayoClinic: http://sharing.mayoclinic.org/guidelines/for-mayo-clinic-employees/%0a\ No newline at end of file%0a
+host:1272554039=80.219.10.249
+author:1272553970=
+diff:1272553970:1272553970:=1,2d0%0a%3c !SocialMedia%0a%3c * Guidelines der MayoClinic: http://sharing.mayoclinic.org/guidelines/for-mayo-clinic-employees/%0a\ No newline at end of file%0a
+host:1272553970=80.219.10.249

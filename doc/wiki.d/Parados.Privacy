@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1774000581
+host=212.51.146.241
+name=Parados.Privacy
+rev=1
+targets=
+text=! Parados Privacy%0a# Parados Games do not store any User Data.%0a# Parados Games do not track any User Data.
+time=1774000581
+author:1774000581=zeno
+diff:1774000581:1774000581:=1,3d0%0a%3c ! Parados Privacy%0a%3c # Parados Games do not store any User Data.%0a%3c # Parados Games do not track any User Data.%0a\ No newline at end of file%0a
+host:1774000581=212.51.146.241

@@ -1,0 +1,117 @@
+Date: Thu, 22 Mar 2007 10:28:29 +0100
+From: "Zeno R.R. Davatz"
+Subject: Eingabe an Sekretariat der Wettbewerbskommission vom 22.3.2007, Version 1.0: 
+Nachtrag Akteneinsicht - task: /weko/32-1078
+
+Sehr geehrter Herr Dozio
+Sehr geehrte Frau Majstorovic
+
+Ich habe noch folgende Nachträge zur Akteneinsicht von
+http://www.ywesee.com/uploads/Main/akteneinsicht_weko_web.pdf
+
+1. Ab Seite 14: Die WEKO muss klar definieren was Sie unter Rohdaten
+versteht. Die ywesee GmbH versteht unter dem Begriff "Rohdaten"
+diejenigen Daten, welche von der Swissmedic im Rahmen der
+Zulassungsverfügung approbiert wurden und an denen ohne Zustimmung der
+Swissmedic nichts mehr geändert werden kann.
+
+Die Documed versteht unter "Rohdaten" diejenigen Daten welche ihnen die
+Pharmafirmen zum Übersezten oder Korrekturlesen geben. Diese Daten sind
+unserer Meinung nach keine "offiziell approbierten Rohdaten" sondern
+betreffen rein das Geschäftsverhältnis zwischen der Documed AG und der
+Pharmafirma (in diesen Bereich fallen auch die Pseudofachinformationen).
+An diesen Daten ist ODDB.org nicht interessiert.
+
+2. Ab Seite 16 und 17: Der durch die WEKO dargestellte Ablauf ist 100%
+korrekt. Die Documed AG weicht der Frage der WEKO aus.
+
+3. Ab Seite 17, Frage 3: Die Documed ist im Grunde genommen ein
+Übersetzungsbüro und eine Korrekurlesestelle für die Pharmafirmen. Diese
+Dienstleistung wird auch in Rechnung gestellt. Gleichzeitig wird diese
+Dienstleistung zur Zeit aber mit der Publikation der Fi in Buchform
+vermischt (Dienstleistungs-Bundling). Diese Vermischung von zwei
+unterschiedlichen Dienstleistungen macht das ganz weniger übersichtlich
+und regt zu Machtmissbrauch an.
+
+4. Ab Seite 19, 4.: Die Frage ist unpräzis gestellt. Wie die
+Pharmafirmen die Dokumente bei der Documed einreichen spielt keine
+Rolle. Diese Dienstleistung wird von der Pharmafirma separat
+entschädigt. Die WEKO muss zwischen den Übersetzungs- und
+Korrekturlesedienstleistungen und der Publikationsdienstleistung der
+Documed AG unterscheiden. Das sind zwei völlig getrennte
+Geschäftsprozesse. Dazwischen liegt die Swissmedic, welche als Behörde
+die Texte überprüfen und genehmigen muss (siehe Mail von Herr Balsiger).
+
+5. Seite 25, Frage 7: Die Documed AG weicht der Frage nach den
+"Rohdaten" aus, weil sie den Begriff "Rohdaten" anders definiert. Nehmen
+wir doch einfach den Begriff "amtlich überprüfte und genehmigte
+Rohdaten". Die einzelne Fachinfo ist ein amtlich gefordertes, geprüftes
+und zugelassenes Dokument.
+
+Die Documed AG spricht wieder von Ihrem 'Standardprozess'. Es sind aber
+zwei unterschiedliche Prozesse, zwischen diesen zwei Prozessen liegt die
+Swissmedic.
+
+Ein "Deep-Link" kann nur auf amtlich zugelassene Rohdaten erfolgen.
+
+Im Darstellungsformat (HTML-Tags, PDF-Tags, CSS etc) der offiziellen
+Rohdaten können selbstverständlich sehr grosse Unterschiede auftreten,
+die Rohdaten sind aber dieselben. Dies ist unter anderem ein
+Zukunftsmarkt, den die Documed nur für sich alleine zu beanspruchen
+versucht (vgl. Deep-Link der Documed AG). Ein weiterer Zukunftsmarkt ist
+die Indexierung und Inhaltliche Strukturierung der amtlich geforderten
+Rohdaten durch unterschiedliche Software. Die ywesee GmbH behauptet z.B.
+das wir dies viel besser können als die Documed AG.
+
+6. Seite 27: Die Documed AG sagt es selber, Zitat: "Entscheidend für den
+redaktionellen Aufwand ist aber in erster Linie die Überprüfung und
+Überarbeitung eingelieferter Texte." Das sind die Texte, welche noch
+nicht von Swissmedic angeschaut und überprüft wurden.
+
+Die Publikation der amtlich geforderten Rohdaten nach dem
+Zulassungsprozess ist ein separates, unabhängiges Geschäftsfeld. Das
+Geschäftsfeld teilt sich auf in die Buchpublikation und die
+elektronische Publikation.
+
+7. Ab Seite 30: Die "common costs" der Documed AG beziehen sich auf das
+Korrekturlesen bevor die Texte von der Pharmafirma an die Swissmedic
+weitergereicht werden. Diese Aufwände dürfen nicht mit dem
+Publikationsaufwand für das Buch oder im Internet verwechselt werden.
+
+Übersetzungs- und Bearbeitungsfirmen für die Fi gibt es einige in der
+Schweiz. Die Swissmedic führt darüber eine Liste.
+
+Die Pseudofachinformationen, welche die Documed AG erstellt sind im
+Grunde genommen Werbetexte, welche einer Fi entsprechen aber nie von der
+Swissmedic zugelassen wurden. Die Documed vermischt hier sehr bewusst
+"offizielle Rohdaten" mit "selber hergestellten Daten ohne jeglichen
+offiziellen Charakter". Weil sich das Buch zur Zeit nur an Ärzte richtet
+ist dies halbwegs möglich. Würde sich das Buch an einen Endkonsumenten
+richten kann eine Pseudofachinformation auch als Werbung betrachtet
+werden. Dies wiederum kann zu Komplikationen bei der Spezialitätenliste
+führen weil Werbung für SL-Produkte nicht erlaubt ist.
+
+Fazit:
+Aus der historisch gewachsenen Verflechtung zwischen der Documed AG und
+der IKS - heute Swissmedic, hat die Documed AG nach wie vor eine
+marktbeherrschende Stellung. Diese marktbeherrschende Stellung wird von
+der Buchpublikationspflicht nach wie vor untermauert. 
+
+Die Documed AG will mit allen Mitteln vom Zukunftsmarkt des
+elektronischen Daten- und Informationsvertriebs ablenken. Documed AG
+schenkt diesem Zukunftsmarkt in Ihren Ausführungen absichtlich keine
+Bedeutung. Dieser Markt wird für die nächsten 100 Jahre von unglaublicher
+Bedeutung sein. Die ywesee GmbH nennt dies den Markt der "amtlich
+geforderten Rohdaten".
+
+Als Referenzbeispiel sei hier die Telefonbuch Auskunft erwähnt
+(Fernmeldegesetz), welche seit Anfangs 2007 nicht mehr unter 111
+auffindbar ist sondern unter 1818, 1811, etc. Wer schaut heute noch das
+Telefonbuch an?
+
+Genau dies wird im Gesundheitswesen auch passieren für amtlich
+geforderte Rohdaten.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50

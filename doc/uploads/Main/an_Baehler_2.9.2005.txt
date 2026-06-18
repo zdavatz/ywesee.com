@@ -1,0 +1,76 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 8976 invoked by uid 210); 2 Sep 2005 10:41:01 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/1052. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.030689 secs); 02 Sep 2005 08:41:01 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 2 Sep 2005 10:41:01 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id 5B00015A467; Fri,  2 Sep 2005 10:33:12 +0200 (CEST)
+Date: Fri, 2 Sep 2005 10:33:12 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: ?iso-8859-1?Q?Bähler? Thomas <thomas.baehler@kellerhalslaw.ch>
+Cc: todo@oddb.org, stefano.dozio@weko.admin.ch
+Subject: Offene Standards, SL-Liste, EAN-Code, Pharmacode
+Message-ID: <20050902083312.GK7470@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrter Herr Bähler
+
+Besten Dank für Ihr Schreiben vom 1.9.2005
+
+1. Administration der SL-Liste
+Sie behaupten, resp. das BSV behauptet, dass die Summe, welche sie der
+E-mediat bezahlt zu Verwaltung der SL-Liste CHF 50'000.- oder weniger
+beträgt. Ich behaupte, dass die Summe eher bei CHF 250'000.- liegt weil
+mir namhafte Persönlichkeiten aus der Schweizerischen Gesundheitspolitik
+diese Betrag bestätigt haben.
+
+Solange Sie keine Dokumente produzieren, welche das Gegenteil
+bestätigen, sehe ich keinen Grund wieso ich meine Behauptung
+zurückziehen soll. Es steht Ihre Behauptung gegen meine Behauptung aber
+wo sind die Belege? Sobald Sie mir ein Schreiben oder einen Beleg oder
+eine Rechnung zeigen oder ein Auftragsschreiben vom BSV an die E-mediat
+bin ich bereit, nach der detaillierten Überprüfung vom Schreiben meine
+Aussagen wahrheitsgemäss anzupassen.
+
+Ich beharre auf einem Beleg und Auftragsschreiben und nicht irgendwelchen
+Bestätigungsschreiben. Rückwirkende oder heute erstellte "Falschbelege"
+werde ich nicht akzeptieren.
+
+Bedenken Sie bitte bei der Rechnung die ich mache auch die Vorteile,
+welche die E-mediat davonträgt dadruch, dass ein öffentliches Amt direkt
+auf der proprietären Software der E-mediat arbeitet und die E-mediat
+somit keinen Aufwand für die Datenübernahme hat, wir aber schon. Dies
+beschreibe ich auch ausführlich in meinem Blog.
+
+2. Qualität der Daten
+Ich werde sie innerhalb der nächsten 2 Tage nochmals präziser über die
+Datenqualität in der SL-Liste informieren.
+
+Ihre Aussage betreffend der Überprüfung der Datenqualität in der
+Apotheke hat nichts mit obiger Sache zu tun. Bis die SL-Daten im Galdat
+sind und der Galdat im ERP-System der Apotheke kann noch vieles mit den
+Daten passieren. Es geht eben genau NICHT um den Datenstamm Ihrer
+Mandatin sondern es geht um die OFFIZIELLE SL-Liste vom BAG. Und dann
+noch etwas wettbewerbspolitisches: Über 90% aller Apotheken in der Schweiz
+arbeiten mit dem Galdat und dem Pharmacode (welcher ein proprietärer
+Standard ist)...
+
+Es gibt einen Unterschied zwischen BAG und E-mediat und Galenica. Das
+BAG ist keine Tochterfirma der Galenica. Oder schon?
+
+Ich wünsche Ihnen noch viel Vergnügen auf Ihrem Betriebsausflug am
+Freitag dem 2. September 2005.
+
+Mit freundlichen Grüssen aus Zürich
+Zeno Davatz
+043 540 05 50

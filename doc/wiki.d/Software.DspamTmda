@@ -1,0 +1,45 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a2pre) Gecko/20090920 Namoroka/3.6a2pre
+author=
+host=80.219.154.90
+name=Software.DspamTmda
+rev=12
+targets=
+text=! Running Dspam and Tmda together%0aOk this is not documented anywhere so I will document this here:%0a%0aIf you run Dspam and Tmda you will only want the Mail in your Tmda, that has not been caught by Dspam. For that you will have to configure Dspam per User via the .qmail-file:%0a%0aWhat Tmda does is link the two users:%0a%0a .qmail-testuser-default -> /var/vpopmail/domains/domain.ch/.qmail-testuser%0a%0ain this case the .qmail-default file contains:%0a%0a | /var/vpopmail/bin/vdelivermail '' postmaster@domain.ch%0a %0aand the .qmail-testuser-default cotains%0a%0a | /usr/bin/dspam --deliver=innocent --user testuser@domain.ch --stdout%0a |preline -f /home/ywesee/src/tmda/tmda-1.1.12/bin/tmda-filter -c /var/vpopmail/domains/domain.ch/testuser/.tmda %0a /config -t /var/vpopmail/domains/rigiwin.ch/bsiegfried/.tmda/templates/%0a |/var/vpopmail//bin/vdelivermail '' /var/vpopmail/domains/domain.ch/testuser%0a%0aAlso see:%0a%0a* http://trac.ywesee.com/ticket/43%0a%0a! Running Dspam via .qmail-default%0aIn this case all the Mails will come in through .qmail-default (because that is normally the Postmaster account and the file belongs to the postmaster account except if Option [[http://www.inter7.com/vpopmail/doc/vdelivermail.html | "bounce-no-mailbox"]] is set %0a%0a%0a* /domains/%3cdomain>/.qmail-spam%0a |/usr/bin/dspam --user $EXT@$USER --class=spam --source=error%0a*./domains/%3cdomain>/.qmail-innocent (untested, as I've not seen any false positives yet)%0a |/usr/bin/dspam --user $EXT@$USER --class=innocent --source=error%0a* By modifying the .qmail-default configuration file:%0a | /usr/bin/dspam --deliver=innocent --user $EXT@$USER  --stdout %0a | /var/vpopmail/bin/vdelivermail '' bounce-no-mailbox%0a
+time=1253525042
+author:1253525042=
+diff:1253525042:1253525031:=35c35,36%0a%3c  | /var/vpopmail/bin/vdelivermail '' bounce-no-mailbox%0a---%0a>  | /var/vpopmail/bin/vdelivermail '' %0a>  bounce-no-mailbox%0a
+host:1253525042=80.219.154.90
+author:1253525031=
+diff:1253525031:1251806035:=34,35c34%0a%3c  | /usr/bin/dspam --deliver=innocent --user $EXT@$USER  --stdout %0a%3c  | /var/vpopmail/bin/vdelivermail '' %0a---%0a>  | /usr/bin/dspam --deliver=innocent --user $EXT@$USER  --stdout | /var/vpopmail/bin/vdelivermail '' %0a
+host:1253525031=80.219.154.90
+author:1251806035=
+diff:1251806035:1251800034:=4,5c4,5%0a%3c If you run Dspam and Tmda you will only want the Mail in your Tmda, that has not been caught by Dspam. For that you will have to configure Dspam per User via the .qmail-file:%0a%3c %0a---%0a> If you run Dspam an Tmda you will only want the Mail in your Tmda, that has not been caught by Dspam. For that you will have to configure Dspam per User via the .qmail-file:%0a> %0a
+host:1251806035=80.219.154.90
+author:1251800034=
+diff:1251800034:1251800022:=34,35c34%0a%3c  | /usr/bin/dspam --deliver=innocent --user $EXT@$USER  --stdout | /var/vpopmail/bin/vdelivermail '' %0a%3c  bounce-no-mailbox%0a---%0a>  | /usr/bin/dspam --deliver=innocent --user $EXT@$USER  --stdout | /var/vpopmail/bin/vdelivermail '' bounce-no-mailbox%0a
+host:1251800034=80.219.154.90
+author:1251800022=
+diff:1251800022:1251799839:=34c34%0a%3c  | /usr/bin/dspam --deliver=innocent --user $EXT@$USER  --stdout | /var/vpopmail/bin/vdelivermail '' bounce-no-mailbox%0a---%0a>  | /usr/bin/dspam --deliver=innocent --user $EXT@$USER  --stdout | /var/%0a\ No newline at end of file%0a
+host:1251800022=80.219.154.90
+author:1251799839=
+diff:1251799839:1251799706:=26,28d25%0a%3c In this case all the Mails will come in through .qmail-default (because that is normally the Postmaster account and the file belongs to the postmaster account except if Option [[http://www.inter7.com/vpopmail/doc/vdelivermail.html | "bounce-no-mailbox"]] is set %0a%3c %0a%3c %0a
+host:1251799839=80.219.154.90
+author:1251799706=
+diff:1251799706:1251799685:=26c26%0a%3c * /domains/%3cdomain>/.qmail-spam%0a---%0a> # /domains/%3cdomain>/.qmail-spam%0a28c28%0a%3c *./domains/%3cdomain>/.qmail-innocent (untested, as I've not seen any false positives yet)%0a---%0a> #./domains/%3cdomain>/.qmail-innocent (untested, as I've not seen any false positives yet)%0a30c30%0a%3c * By modifying the .qmail-default configuration file:%0a---%0a> # By modifying the .qmail-default configuration file:%0a
+host:1251799706=80.219.154.90
+author:1251799685=
+diff:1251799685:1251799552:=24,31c24%0a%3c %0a%3c ! Running Dspam via .qmail-default%0a%3c # /domains/%3cdomain>/.qmail-spam%0a%3c  |/usr/bin/dspam --user $EXT@$USER --class=spam --source=error%0a%3c #./domains/%3cdomain>/.qmail-innocent (untested, as I've not seen any false positives yet)%0a%3c  |/usr/bin/dspam --user $EXT@$USER --class=innocent --source=error%0a%3c # By modifying the .qmail-default configuration file:%0a%3c  | /usr/bin/dspam --deliver=innocent --user $EXT@$USER  --stdout | /var/%0a\ No newline at end of file%0a---%0a> *%0a\ No newline at end of file%0a
+host:1251799685=80.219.154.90
+author:1251799552=
+diff:1251799552:1251799454:=19,24c19%0a%3c  |/var/vpopmail//bin/vdelivermail '' /var/vpopmail/domains/domain.ch/testuser%0a%3c %0a%3c Also see:%0a%3c %0a%3c * http://trac.ywesee.com/ticket/43%0a%3c * %0a\ No newline at end of file%0a---%0a>  |/var/vpopmail//bin/vdelivermail '' /var/vpopmail/domains/domain.ch/testuser%0a\ No newline at end of file%0a
+host:1251799552=80.219.154.90
+author:1251799454=
+diff:1251799454:1251799435:=17,18c17%0a%3c  |preline -f /home/ywesee/src/tmda/tmda-1.1.12/bin/tmda-filter -c /var/vpopmail/domains/domain.ch/testuser/.tmda %0a%3c  /config -t /var/vpopmail/domains/rigiwin.ch/bsiegfried/.tmda/templates/%0a---%0a>  |preline -f /home/ywesee/src/tmda/tmda-1.1.12/bin/tmda-filter -c /var/vpopmail/domains/domain.ch/testuser/.tmda \\ /config -t /var/vpopmail/domains/rigiwin.ch/bsiegfried/.tmda/templates/%0a
+host:1251799454=80.219.154.90
+author:1251799435=
+diff:1251799435:1251799407:=17c17%0a%3c  |preline -f /home/ywesee/src/tmda/tmda-1.1.12/bin/tmda-filter -c /var/vpopmail/domains/domain.ch/testuser/.tmda \\ /config -t /var/vpopmail/domains/rigiwin.ch/bsiegfried/.tmda/templates/%0a---%0a>  |preline -f /home/ywesee/src/tmda/tmda-1.1.12/bin/tmda-filter -c /var/vpopmail/domains/domain.ch/testuser/.tmda/config -t /var/vpopmail/domains/rigiwin.ch/bsiegfried/.tmda/templates/%0a
+host:1251799435=80.219.154.90
+author:1251799407=
+diff:1251799407:1251799407:=1,18d0%0a%3c ! Running Dspam and Tmda together%0a%3c Ok this is not documented anywhere so I will document this here:%0a%3c %0a%3c If you run Dspam an Tmda you will only want the Mail in your Tmda, that has not been caught by Dspam. For that you will have to configure Dspam per User via the .qmail-file:%0a%3c %0a%3c What Tmda does is link the two users:%0a%3c %0a%3c  .qmail-testuser-default -> /var/vpopmail/domains/domain.ch/.qmail-testuser%0a%3c %0a%3c in this case the .qmail-default file contains:%0a%3c %0a%3c  | /var/vpopmail/bin/vdelivermail '' postmaster@domain.ch%0a%3c  %0a%3c and the .qmail-testuser-default cotains%0a%3c %0a%3c  | /usr/bin/dspam --deliver=innocent --user testuser@domain.ch --stdout%0a%3c  |preline -f /home/ywesee/src/tmda/tmda-1.1.12/bin/tmda-filter -c /var/vpopmail/domains/domain.ch/testuser/.tmda/config -t /var/vpopmail/domains/rigiwin.ch/bsiegfried/.tmda/templates/%0a%3c  |/var/vpopmail//bin/vdelivermail '' /var/vpopmail/domains/domain.ch/testuser%0a\ No newline at end of file%0a
+host:1251799407=80.219.154.90

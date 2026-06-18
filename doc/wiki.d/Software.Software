@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a1pre) Gecko/20100127 Minefield/3.7a1pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1264604296
+host=80.219.10.249
+name=Software.Software
+rev=1
+targets=
+text=All about Software.
+time=1264604296
+author:1264604296=
+diff:1264604296:1264604296:=1d0%0a%3c All about Software.%0a\ No newline at end of file%0a
+host:1264604296=80.219.10.249

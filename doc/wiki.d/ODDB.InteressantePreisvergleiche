@@ -1,0 +1,18 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.7) Gecko/20070920 Firefox/2.0.0.7
+author=zrr
+host=77.57.16.157
+name=ODDB.InteressantePreisvergleiche
+rev=3
+targets=ODDB.AstraZeneca,ODDB.GlaxoSmithKline
+text=!Preisvergleiche vom gleichen Hersteller, Deutschland - Schweiz, Stand 3.10.2007%0a%0aSanofi, Triatec 10mg/100Tabletten, in Deutschland 24.6%25 günstger\\%0ahttp://chde.oddb.org/de/drugs/compare_remote/uid/0.215705%0a%0aAstraZeneca, Antra Mups 20mg/20Tabletten, in Deutschland 29.3 %25 günstiger\\%0ahttp://chde.oddb.org/de/drugs/compare_remote/uid/0.221135%0a%0aSandoz, Fluoxetin 20mg/100 Tabletten, in Deutschland 68.9 %25 günstiger\\%0ahttp://chde.oddb.org/de/drugs/compare_remote/uid/0.662125%0a%0aTeva, Amlodipin 10mg/100 Tabletten, in Deutschland 69.2%25 günstiger\\%0ahttp://chde.oddb.org/de/drugs/compare_remote/uid/0.940823%0a%0aMepha / Ratiopharm, Nifedipin 20mg/100 Tabletten, in Deutschland 27.9%25%0agünstiger.\\%0ahttp://chde.oddb.org/de/drugs/compare_remote/uid/0.212566%0a%0aGlaxoSmithKline AG, Zovirax 800mg/35 Tabletten, in Deutschland 49.5%25 günstiger.\\%0ahttp://chde.oddb.org/de/drugs/compare_remote/uid/0.214784
+time=1191485454
+author:1191485454=zrr
+diff:1191485454:1191485378:=1,2c1,2%0a%3c !Preisvergleiche vom gleichen Hersteller, Deutschland - Schweiz, Stand 3.10.2007%0a%3c %0a---%0a> !Interessante Preisvergleich vom gleichen Hersteller, Stand 3.10.2007%0a> %0a
+host:1191485454=77.57.16.157
+author:1191485378=zrr
+diff:1191485378:1191485333:=1,3c1,3%0a%3c !Interessante Preisvergleich vom gleichen Hersteller, Stand 3.10.2007%0a%3c %0a%3c Sanofi, Triatec 10mg/100Tabletten, in Deutschland 24.6%25 günstger\\%0a---%0a> Interessante Preisvergleich vom gleichen Hersteller, Stand 3.10.2007%0a> %0a> Sanofi, Triatec 10mg/100Tabletten, in Deutschland 24.6%25 günstger%0a6c6%0a%3c AstraZeneca, Antra Mups 20mg/20Tabletten, in Deutschland 29.3 %25 günstiger\\%0a---%0a> AstraZeneca, Antra Mups 20mg/20Tabletten, in Deutschland 29.3 %25 günstiger%0a9c9%0a%3c Sandoz, Fluoxetin 20mg/100 Tabletten, in Deutschland 68.9 %25 günstiger\\%0a---%0a> Sandoz, Fluoxetin 20mg/100 Tabletten, in Deutschland 68.9 %25 günstiger%0a12c12%0a%3c Teva, Amlodipin 10mg/100 Tabletten, in Deutschland 69.2%25 günstiger\\%0a---%0a> Teva, Amlodipin 10mg/100 Tabletten, in Deutschland 69.2%25 günstiger%0a16c16%0a%3c günstiger.\\%0a---%0a> günstiger.%0a19c19%0a%3c GlaxoSmithKline AG, Zovirax 800mg/35 Tabletten, in Deutschland 49.5%25 günstiger.\\%0a---%0a> GlaxoSmithKline AG, Zovirax 800mg/35 Tabletten, in Deutschland 49.5%25 günstiger.%0a
+host:1191485378=77.57.16.157
+author:1191485333=zrr
+diff:1191485333:1191485333:=1,20d0%0a%3c Interessante Preisvergleich vom gleichen Hersteller, Stand 3.10.2007%0a%3c %0a%3c Sanofi, Triatec 10mg/100Tabletten, in Deutschland 24.6%25 günstger%0a%3c http://chde.oddb.org/de/drugs/compare_remote/uid/0.215705%0a%3c %0a%3c AstraZeneca, Antra Mups 20mg/20Tabletten, in Deutschland 29.3 %25 günstiger%0a%3c http://chde.oddb.org/de/drugs/compare_remote/uid/0.221135%0a%3c %0a%3c Sandoz, Fluoxetin 20mg/100 Tabletten, in Deutschland 68.9 %25 günstiger%0a%3c http://chde.oddb.org/de/drugs/compare_remote/uid/0.662125%0a%3c %0a%3c Teva, Amlodipin 10mg/100 Tabletten, in Deutschland 69.2%25 günstiger%0a%3c http://chde.oddb.org/de/drugs/compare_remote/uid/0.940823%0a%3c %0a%3c Mepha / Ratiopharm, Nifedipin 20mg/100 Tabletten, in Deutschland 27.9%25%0a%3c günstiger.%0a%3c http://chde.oddb.org/de/drugs/compare_remote/uid/0.212566%0a%3c %0a%3c GlaxoSmithKline AG, Zovirax 800mg/35 Tabletten, in Deutschland 49.5%25 günstiger.%0a%3c http://chde.oddb.org/de/drugs/compare_remote/uid/0.214784%0a\ No newline at end of file%0a
+host:1191485333=77.57.16.157

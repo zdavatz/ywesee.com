@@ -1,0 +1,30 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1369180972
+host=202.221.177.154
+name=Swissmedic.Aips2xml
+rev=6
+targets=
+text=!! aips2xml%0aMit '''aips2xml''' können Sie das Swissmedic XML in schönes, einheitliches,%0awohlformatiertes, sehr gut strukturiertes XML oder HTML umwandeln. Die%0aSoftware ist in Java geschrieben und wurde auf Linux, Mac und Windows%0agetestet.%0a%0aFür Softwarehäuser, Spitäler, Apotheken, Arztpraxen und Heime bedeutet%0adies, dass sie direkt das kostenlose XML der Swissmedic verwenden%0akönnen für ihren Fachinfo Daten-Update.%0a%0ahttps://github.com/zdavatz/aips2xml%0a%0aMit dem folgenden Befehl generieren Sie die Deutschen Fachinfos (Java%0a1.7 muss installiert sein):%0a%0a java -jar aips2xml.jar -lang=de%0a%0aFür weitere Fragen stehen wir gerne zur Verfügung.%0a%0aDarüber und mehr sprechen wir an unserem Anlass vom 27.6.2013,%0a09.00-12.00 Uhr im Hotel Marriott in Zürich.%0a%0a http://www.ywesee.com/HotelMarriott/27062013
+time=1369181141
+author:1369181141=zeno
+diff:1369181141:1369181127:=2c2%0a%3c Mit '''aips2xml''' können Sie das Swissmedic XML in schönes, einheitliches,%0a---%0a> Mit aips2xml können Sie das Swissmedic XML in schönes, einheitliches,%0a
+host:1369181141=202.221.177.154
+author:1369181127=zeno
+diff:1369181127:1369181041:=2c2,6%0a%3c Mit aips2xml können Sie das Swissmedic XML in schönes, einheitliches,%0a---%0a> Mit%0a> %0a>  aips2xml%0a> %0a> können Sie das Swissmedic XML in schönes, einheitliches,%0a
+host:1369181127=202.221.177.154
+author:1369181041=zeno
+diff:1369181041:1369181029:=27c27,29%0a%3c  http://www.ywesee.com/HotelMarriott/27062013%0a\ No newline at end of file%0a---%0a>  http://www.ywesee.com/HotelMarriott/27062013%0a> %0a> http://www.ywesee.com/HotelMarriott/27062013%0a\ No newline at end of file%0a
+host:1369181041=202.221.177.154
+author:1369181029=zeno
+diff:1369181029:1369180985:=26,27d25%0a%3c %0a%3c  http://www.ywesee.com/HotelMarriott/27062013%0a
+host:1369181029=202.221.177.154
+author:1369180985=zeno
+diff:1369180985:1369180972:=20c20%0a%3c  java -jar aips2xml.jar -lang=de%0a---%0a> java -jar aips2xml.jar -lang=de%0a
+host:1369180985=202.221.177.154
+author:1369180972=zeno
+diff:1369180972:1369180972:=1,27d0%0a%3c !! aips2xml%0a%3c Mit%0a%3c %0a%3c  aips2xml%0a%3c %0a%3c können Sie das Swissmedic XML in schönes, einheitliches,%0a%3c wohlformatiertes, sehr gut strukturiertes XML oder HTML umwandeln. Die%0a%3c Software ist in Java geschrieben und wurde auf Linux, Mac und Windows%0a%3c getestet.%0a%3c %0a%3c Für Softwarehäuser, Spitäler, Apotheken, Arztpraxen und Heime bedeutet%0a%3c dies, dass sie direkt das kostenlose XML der Swissmedic verwenden%0a%3c können für ihren Fachinfo Daten-Update.%0a%3c %0a%3c https://github.com/zdavatz/aips2xml%0a%3c %0a%3c Mit dem folgenden Befehl generieren Sie die Deutschen Fachinfos (Java%0a%3c 1.7 muss installiert sein):%0a%3c %0a%3c java -jar aips2xml.jar -lang=de%0a%3c %0a%3c Für weitere Fragen stehen wir gerne zur Verfügung.%0a%3c %0a%3c Darüber und mehr sprechen wir an unserem Anlass vom 27.6.2013,%0a%3c 09.00-12.00 Uhr im Hotel Marriott in Zürich.%0a%3c %0a%3c http://www.ywesee.com/HotelMarriott/27062013%0a\ No newline at end of file%0a
+host:1369180972=202.221.177.154

@@ -1,0 +1,66 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090618 Minefield/3.6a1pre
+author=
+host=84.74.177.14
+name=ODDB.MD
+rev=19
+targets=ODDB.InVitro,EDMA.BezeichnungE,EDMA1.BezeichnungE,EDMA.EDMACode,GMDN1.GMDNCode,GMDN.GMDNCode,ODDB.GenPG,EDMA1.EDMACode,ODDB.IIa,ODDB.IIb
+text=!Medical Devices%0a!!IVD%0a* C: [[http://www.edma-ivd.be/ | EDMA]]: European Diagnostic Manufacturers Association%0a* H: The Global Medical Device Nomenclature ([[http://www.gmdnagency.org/?id=nom | GMDN]])%0a* O: IVD RL: InVitro Diagnostic Richtlinie. %0a%0a#EDMA.BezeichnungE%0a#EDMA_1.BezeichnungE%0a#EDMA.EDMACode%0a#Melderbezeichnung (Firma Melder) bzw. Inverkehrbringer	%0a#GMDN_1.GMDNCode	%0a#GMDN.GMDNCode	%0a#Herstellerbezeichnung (Firma Hersteller)	%0a#Bezeichnung des Bevollmächtigten (Firma Bevollmächtigter)	%0a#Eingang der Meldung IVD Access	%0a#Art der Meldung	%0a#Melder	%0a#[[http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de#sub9 | Klassifizierung]] innerhalb IVD RL	%0a#Notified Body	%0a#Zuständige Behörde%0a%0a!!Non IVD%0a* D:  [[https://www.ecri.org/Products/Pages/UMDNS.aspx | UMDNS]] Code (GenPG_Nr:): Universal Medical Device Nomenclature System, gemäss Herr Studer von der Swissmedic ist dieser Code ein Auslauf-Modell.%0a%0a#E3 Produktetyp%0a#EDMA_1.EDMACode%0a#EDMA.BezeichnungE	%0a#EDMA_1.BezeichnungE	%0a#EDMA.EDMACode	%0a#Melderbezeichnung (Firma Melder) bzw. Inverkehrbringer	%0a#GMDN_1.GMDNCode	%0a#GMDN.GMDNCode	%0a#Herstellerbezeichnung (Firma Hersteller)	%0a#Bezeichnung des Bevollmächtigten (Firma Bevollmächtigter)	%0a#Eingang der Meldung IVD Access	%0a#Art der Meldung	%0a#Melder	%0a#[[http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de#sub9 | Klassifizierung]] innerhalb IVD RL	%0a#Notified Body	%0a#Zuständige Behörde%0a%0a!!Links%0a* http://todo.oddb.org/ezmlm-cgi?mss:523:200906:lcpnmglcpoinpbpghgfb%0a* [[http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de | Leitfaden]] Swissmedic%0a%0a!!Klassifizierung%0a*  Klassische Medizinprodukte: Die Einteilung in die Klassen I, IIa, IIb und III erfolgt nach [[http://eur-lex.europa.eu/LexUriServ/site/de/consleg/1993/L/01993L0042-20031120-de.pdf | Anhang IX der Richtlinie 93/42/EWG]], wobei die Produktinformation immer zu berücksichtigen ist. Je nach Verwendungszweck und Anpreisung können ähnliche Produkte durchaus unterschiedlichen Klassen angehören. Änderungen der Klassifizierung: Brustimplantate sowie Gelenkersatz für Hüfte, Knie und Schulter sind der Klasse III zuzuordnen (für die Umsetzung dieser Änderungen bestehen zum Teil noch Übergangsfristen).%0a* Medizinprodukte für die In-vitro-Diagnostik: Für die Klassifizierung sind zwei Aspekte abzuklären. Einerseits die Zugehörigkeit zur [[http://eur-lex.europa.eu/LexUriServ/site/de/consleg/1998/L/01998L0079-20031120-de.pdf | Liste A oder B in Anhang II der Richtlinie 98/79/EG]], andererseits eine vorgesehene Eigenanwendung. %0a%0a!!Access DB %0a* http://www.edma-ivd.be/index.php?id=4%0a%0a
+time=1245420929
+author:1245420929=
+diff:1245420929:1245420522:=50,52d49%0a%3c !!Access DB %0a%3c * http://www.edma-ivd.be/index.php?id=4%0a%3c %0a
+host:1245420929=84.74.177.14
+author:1245420522=
+diff:1245420522:1245420477:=48,49c48,49%0a%3c * Medizinprodukte für die In-vitro-Diagnostik: Für die Klassifizierung sind zwei Aspekte abzuklären. Einerseits die Zugehörigkeit zur [[http://eur-lex.europa.eu/LexUriServ/site/de/consleg/1998/L/01998L0079-20031120-de.pdf | Liste A oder B in Anhang II der Richtlinie 98/79/EG]], andererseits eine vorgesehene Eigenanwendung. %0a%3c %0a---%0a> * Medizinprodukte für die In-vitro-Diagnostik: Für die Klassifizierung sind zwei Aspekte abzuklären. Einerseits die Zugehörigkeit zur Liste A oder B in Anhang II der Richtlinie 98/79/EG, andererseits eine vorgesehene Eigenanwendung. %0a> %0a
+host:1245420522=84.74.177.14
+author:1245420477=
+diff:1245420477:1245420424:=47c47%0a%3c *  Klassische Medizinprodukte: Die Einteilung in die Klassen I, IIa, IIb und III erfolgt nach [[http://eur-lex.europa.eu/LexUriServ/site/de/consleg/1993/L/01993L0042-20031120-de.pdf | Anhang IX der Richtlinie 93/42/EWG]], wobei die Produktinformation immer zu berücksichtigen ist. Je nach Verwendungszweck und Anpreisung können ähnliche Produkte durchaus unterschiedlichen Klassen angehören. Änderungen der Klassifizierung: Brustimplantate sowie Gelenkersatz für Hüfte, Knie und Schulter sind der Klasse III zuzuordnen (für die Umsetzung dieser Änderungen bestehen zum Teil noch Übergangsfristen).%0a---%0a> *  Klassische Medizinprodukte: Die Einteilung in die Klassen I, IIa, IIb und III erfolgt nach Anhang IX der Richtlinie 93/42/EWG, wobei die Produktinformation immer zu berücksichtigen ist. Je nach Verwendungszweck und Anpreisung können ähnliche Produkte durchaus unterschiedlichen Klassen angehören. Änderungen der Klassifizierung: Brustimplantate sowie Gelenkersatz für Hüfte, Knie und Schulter sind der Klasse III zuzuordnen (für die Umsetzung dieser Änderungen bestehen zum Teil noch Übergangsfristen).%0a
+host:1245420477=84.74.177.14
+author:1245420424=
+diff:1245420424:1245420375:=42c42%0a%3c !!Links%0a---%0a> !!Links:%0a46,49c46%0a%3c !!Klassifizierung%0a%3c *  Klassische Medizinprodukte: Die Einteilung in die Klassen I, IIa, IIb und III erfolgt nach Anhang IX der Richtlinie 93/42/EWG, wobei die Produktinformation immer zu berücksichtigen ist. Je nach Verwendungszweck und Anpreisung können ähnliche Produkte durchaus unterschiedlichen Klassen angehören. Änderungen der Klassifizierung: Brustimplantate sowie Gelenkersatz für Hüfte, Knie und Schulter sind der Klasse III zuzuordnen (für die Umsetzung dieser Änderungen bestehen zum Teil noch Übergangsfristen).%0a%3c * Medizinprodukte für die In-vitro-Diagnostik: Für die Klassifizierung sind zwei Aspekte abzuklären. Einerseits die Zugehörigkeit zur Liste A oder B in Anhang II der Richtlinie 98/79/EG, andererseits eine vorgesehene Eigenanwendung. %0a%3c %0a---%0a> %0a
+host:1245420424=84.74.177.14
+author:1245420375=
+diff:1245420375:1245420270:=18c18%0a%3c #[[http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de#sub9 | Klassifizierung]] innerhalb IVD RL	%0a---%0a> #Klassifizierung innerhalb IVD RL	%0a38c38%0a%3c #[[http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de#sub9 | Klassifizierung]] innerhalb IVD RL	%0a---%0a> #Klassifizierung innerhalb IVD RL	%0a
+host:1245420375=84.74.177.14
+author:1245420270=
+diff:1245420270:1245420167:=7,9c7,16%0a%3c #EDMA.BezeichnungE%0a%3c #EDMA_1.BezeichnungE%0a%3c #EDMA.EDMACode%0a---%0a> %0a> %0a> !!Non IVD%0a> * D:  [[https://www.ecri.org/Products/Pages/UMDNS.aspx | UMDNS]] Code (GenPG_Nr:): Universal Medical Device Nomenclature System, gemäss Herr Studer von der Swissmedic ist dieser Code ein Auslauf-Modell.%0a> %0a> #E3 Produktetyp%0a> #EDMA_1.EDMACode%0a> #EDMA.BezeichnungE	%0a> #EDMA_1.BezeichnungE	%0a> #EDMA.EDMACode	%0a22,41d28%0a%3c !!Non IVD%0a%3c * D:  [[https://www.ecri.org/Products/Pages/UMDNS.aspx | UMDNS]] Code (GenPG_Nr:): Universal Medical Device Nomenclature System, gemäss Herr Studer von der Swissmedic ist dieser Code ein Auslauf-Modell.%0a%3c %0a%3c #E3 Produktetyp%0a%3c #EDMA_1.EDMACode%0a%3c #EDMA.BezeichnungE	%0a%3c #EDMA_1.BezeichnungE	%0a%3c #EDMA.EDMACode	%0a%3c #Melderbezeichnung (Firma Melder) bzw. Inverkehrbringer	%0a%3c #GMDN_1.GMDNCode	%0a%3c #GMDN.GMDNCode	%0a%3c #Herstellerbezeichnung (Firma Hersteller)	%0a%3c #Bezeichnung des Bevollmächtigten (Firma Bevollmächtigter)	%0a%3c #Eingang der Meldung IVD Access	%0a%3c #Art der Meldung	%0a%3c #Melder	%0a%3c #Klassifizierung innerhalb IVD RL	%0a%3c #Notified Body	%0a%3c #Zuständige Behörde%0a%3c %0a
+host:1245420270=84.74.177.14
+author:1245420167=
+diff:1245420167:1245420153:=17c17%0a%3c #Melderbezeichnung (Firma Melder) bzw. Inverkehrbringer	%0a---%0a> #Melderbezeichnung (FirmaMelder) bzw. Inverkehrbringer	%0a20,21c20,21%0a%3c #Herstellerbezeichnung (Firma Hersteller)	%0a%3c #Bezeichnung des Bevollmächtigten (Firma Bevollmächtigter)	%0a---%0a> #Herstellerbezeichnung (FirmaHersteller)	%0a> #Bezeichnung des Bevollmächtigten (FirmaBevollmächtigter)	%0a
+host:1245420167=84.74.177.14
+author:1245420153=
+diff:1245420153:1245419885:=7,8d6%0a%3c %0a%3c %0a12,28d9%0a%3c #E3 Produktetyp%0a%3c #EDMA_1.EDMACode%0a%3c #EDMA.BezeichnungE	%0a%3c #EDMA_1.BezeichnungE	%0a%3c #EDMA.EDMACode	%0a%3c #Melderbezeichnung (FirmaMelder) bzw. Inverkehrbringer	%0a%3c #GMDN_1.GMDNCode	%0a%3c #GMDN.GMDNCode	%0a%3c #Herstellerbezeichnung (FirmaHersteller)	%0a%3c #Bezeichnung des Bevollmächtigten (FirmaBevollmächtigter)	%0a%3c #Eingang der Meldung IVD Access	%0a%3c #Art der Meldung	%0a%3c #Melder	%0a%3c #Klassifizierung innerhalb IVD RL	%0a%3c #Notified Body	%0a%3c #Zuständige Behörde%0a%3c %0a31,33c12%0a%3c * [[http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de | Leitfaden]] Swissmedic%0a%3c %0a%3c %0a---%0a> * [[http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de | Leitfaden]] Swissmedic%0a\ No newline at end of file%0a
+host:1245420153=84.74.177.14
+author:1245419885=
+diff:1245419885:1245419856:=12c12%0a%3c * [[http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de | Leitfaden]] Swissmedic%0a\ No newline at end of file%0a---%0a> * Leitfaden Swissmedic: http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de%0a\ No newline at end of file%0a
+host:1245419885=84.74.177.14
+author:1245419856=
+diff:1245419856:1245419697:=11,12c11%0a%3c * http://todo.oddb.org/ezmlm-cgi?mss:523:200906:lcpnmglcpoinpbpghgfb%0a%3c * Leitfaden Swissmedic: http://www.swissmedic.ch/php/modules/leitfaden/leitfaden.html?lang=de%0a\ No newline at end of file%0a---%0a> * http://todo.oddb.org/ezmlm-cgi?mss:523:200906:lcpnmglcpoinpbpghgfb%0a\ No newline at end of file%0a
+host:1245419856=84.74.177.14
+author:1245419697=
+diff:1245419697:1245419652:=4c4%0a%3c * H: The Global Medical Device Nomenclature ([[http://www.gmdnagency.org/?id=nom | GMDN]])%0a---%0a> * H: The Global Medical Device Nomenclature (GMDN)%0a
+host:1245419697=84.74.177.14
+author:1245419652=
+diff:1245419652:1245419614:=8,9c8,9%0a%3c * D:  [[https://www.ecri.org/Products/Pages/UMDNS.aspx | UMDNS]] Code (GenPG_Nr:): Universal Medical Device Nomenclature System, gemäss Herr Studer von der Swissmedic ist dieser Code ein Auslauf-Modell.%0a%3c %0a---%0a> * D:  UMDNS Code (GenPG_Nr:): Universal Medical Device Nomenclature System, gemäss Herr Studer von der Swissmedic ist dieser Code ein Auslauf-Modell.%0a> %0a
+host:1245419652=84.74.177.14
+author:1245419614=
+diff:1245419614:1245419498:=3c3%0a%3c * C: [[http://www.edma-ivd.be/ | EDMA]]: European Diagnostic Manufacturers Association%0a---%0a> * C: EDMA: European Diagnostic Manufacturers Association%0a
+host:1245419614=84.74.177.14
+author:1245419498=
+diff:1245419498:1245418913:=8,9c8,9%0a%3c * D:  UMDNS Code (GenPG_Nr:): Universal Medical Device Nomenclature System, gemäss Herr Studer von der Swissmedic ist dieser Code ein Auslauf-Modell.%0a%3c %0a---%0a> * D:  UMDNS Code (GenPG_Nr:): Universal Medical Device Nomenclature System%0a> %0a
+host:1245419498=84.74.177.14
+author:1245418913=
+diff:1245418913:1245418873:=10c10%0a%3c !!Links:%0a---%0a> Links:%0a
+host:1245418913=84.74.177.14
+author:1245418873=
+diff:1245418873:1245418858:=2c2%0a%3c !!IVD%0a---%0a> !!IVD-Excel%0a7c7%0a%3c !!Non IVD%0a---%0a> !!Non IVD-Excel%0a
+host:1245418873=84.74.177.14
+author:1245418858=
+diff:1245418858:1245418343:=9,11d8%0a%3c %0a%3c Links:%0a%3c * http://todo.oddb.org/ezmlm-cgi?mss:523:200906:lcpnmglcpoinpbpghgfb%0a\ No newline at end of file%0a
+host:1245418858=84.74.177.14
+author:1245418343=
+diff:1245418343:1245418326:=3,6c3,6%0a%3c * C: EDMA: European Diagnostic Manufacturers Association%0a%3c * H: The Global Medical Device Nomenclature (GMDN)%0a%3c * O: IVD RL: InVitro Diagnostic Richtlinie. %0a%3c %0a---%0a> C: EDMA: European Diagnostic Manufacturers Association%0a> H: The Global Medical Device Nomenclature (GMDN)%0a> O: IVD RL: InVitro Diagnostic Richtlinie. %0a> %0a8c8%0a%3c * D:  UMDNS Code (GenPG_Nr:): Universal Medical Device Nomenclature System%0a---%0a> D:  UMDNS Code (GenPG_Nr:): Universal Medical Device Nomenclature System%0a
+host:1245418343=84.74.177.14
+author:1245418326=
+diff:1245418326:1245418326:=1,8d0%0a%3c !Medical Devices%0a%3c !!IVD-Excel%0a%3c C: EDMA: European Diagnostic Manufacturers Association%0a%3c H: The Global Medical Device Nomenclature (GMDN)%0a%3c O: IVD RL: InVitro Diagnostic Richtlinie. %0a%3c %0a%3c !!Non IVD-Excel%0a%3c D:  UMDNS Code (GenPG_Nr:): Universal Medical Device Nomenclature System%0a
+host:1245418326=84.74.177.14

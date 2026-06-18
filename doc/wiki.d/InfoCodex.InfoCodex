@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1584007930
+host=212.51.146.241
+name=InfoCodex.InfoCodex
+rev=1
+targets=InfoCodex.Index
+text=! Wissensmanagement mit InfoCodex%0a* [[InfoCodex/Index]]
+time=1584007930
+author:1584007930=zeno
+diff:1584007930:1584007930:=1,2d0%0a%3c ! Wissensmanagement mit InfoCodex%0a%3c * [[InfoCodex/Index]]%0a\ No newline at end of file%0a
+host:1584007930=212.51.146.241

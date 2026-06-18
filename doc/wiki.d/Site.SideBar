@@ -1,0 +1,13 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1) Gecko/20061123 BonEcho/2.0
+author=zrr
+host=84.72.152.159
+name=Site.SideBar
+rev=1
+passwdedit=@_site_edit
+targets=Main.Home,Ywesee.OpenSource,Ywesee.OpenStandards,Ywesee.Team,Ywesee.Bewerbung,Ywesee.Kontakt,Software.ODDB,Software.ODBA,Software.BBMB,Software.YDIM,Software.YDPM,Software.XMLConv,Software.Developers,Software.SoftwareRaid,Ywesee.InfoCodex
+text=* [[Main/Home]]%0a* ywesee%0a** [[Ywesee/OpenSource]]%0a** [[Ywesee/OpenStandards]]%0a** [[Ywesee/Team]]%0a** [[http://www.ywesee.com/pmwiki.php/Ywesee/Team#Lernziele_Praktikanten | Praktikum]]%0a** [[Ywesee/Bewerbung]]%0a** [[Ywesee/Kontakt]]%0a%0a* Software%0a** [[Software/ODDB]]%0a** [[Software/ODBA]]%0a** [[Software/BBMB]]%0a** [[Software/YDIM]]%0a** [[Software/YDPM]]%0a** [[Software/XMLConv]]%0a** [[Software/Developers]]%0a** [[Software/Software Raid]]%0a** [[http://www.ywesee.com/pmwiki.php?n=Software.WikiS | Wiki's]]%0a%0a** [[Ywesee/InfoCodex]]
+time=1164729098
+author:1164729098=zrr
+diff:1164729098:1125550800:=1,21c1,19%0a%3c * [[Main/Home]]%0a%3c * ywesee%0a%3c ** [[Ywesee/OpenSource]]%0a%3c ** [[Ywesee/OpenStandards]]%0a%3c ** [[Ywesee/Team]]%0a%3c ** [[http://www.ywesee.com/pmwiki.php/Ywesee/Team#Lernziele_Praktikanten | Praktikum]]%0a%3c ** [[Ywesee/Bewerbung]]%0a%3c ** [[Ywesee/Kontakt]]%0a%3c %0a%3c * Software%0a%3c ** [[Software/ODDB]]%0a%3c ** [[Software/ODBA]]%0a%3c ** [[Software/BBMB]]%0a%3c ** [[Software/YDIM]]%0a%3c ** [[Software/YDPM]]%0a%3c ** [[Software/XMLConv]]%0a%3c ** [[Software/Developers]]%0a%3c ** [[Software/Software Raid]]%0a%3c ** [[http://www.ywesee.com/pmwiki.php?n=Software.WikiS | Wiki's]]%0a%3c %0a%3c ** [[Ywesee/InfoCodex]]%0a\ No newline at end of file%0a---%0a> * [[Main/HomePage]]%0a> * [[Main/WikiSandbox]]%0a> %0a> %25sidehead%25 [[PmWiki/PmWiki]]%0a> * [[PmWiki/Initial Setup Tasks]]  %0a> * [[PmWiki/Basic Editing]]%0a> * [[PmWiki/Documentation Index]]%0a> * [[PmWiki/FAQ | PmWiki FAQ ]]%0a> * [[PmWiki/PmWikiPhilosophy]]%0a> * [[PmWiki/Release Notes]]%0a> * [[PmWiki/ChangeLog]]%0a> %0a> %25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a> * [[Cookbook:CookbookBasics | Cookbook (addons) ]]%0a> * [[Cookbook:Skins | Skins (themes) ]]%0a> * [[PITS:PITS | PITS (issue tracking) ]]%0a> * [[PmWiki/Mailing Lists]]%0a> %0a> %25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a
+host:1164729098=84.72.152.159

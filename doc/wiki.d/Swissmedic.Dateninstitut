@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.10 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1414490750
+host=46.140.30.26
+name=Swissmedic.Dateninstitut
+rev=4
+targets=
+text=! Revision des Heilmittelgesetzes%0a Die Verantwortung für die elektronische Publikation der Arzneimittelinformationen soll bei Swissmedic bleiben; %0a die Kommission lehnt die vom Nationalrat beschlossene privatwirtschaftlich organisierte Lösung ab %0a (Art. 67 Abs. 3-8; 7 zu 0 Stimmen bei 3 Enthaltungen).%0ahttp://www.parlament.ch/d/mm/2014/Seiten/mm-sgk-s-2014-10-24.aspx%0a%0a! Gründe für die Ablehnung%0a[@%0aWas sind die Gründe für die 7:0 Niederlage des Nationalrates gegenüber%0adem Ständerat bezüglich Art. 67a HMG?%0a%0aEs sieht so aus, als hätte der Ständerat nicht begriffen um was es geht.%0a%0aHerr Berset hat in den Sitzungen mit der Ständeratskommission massiv%0agegen die Lösung vom Nationalrat lobbyiert.%0a%0aDas BAG hat das Anliegen der strukturierten Daten nicht begriffen,%0aHerr Berset offenbar auch nicht.%0a%0aEs sieht auch so aus, als hätte die Swissmedic erst in den letzten%0aanderthalb Jahren verstanden, dass es strukturierte Daten braucht und%0adass man Zahlen nicht mit Worten sondern in Ziffern ausdrücken muss%0aund dass man eine einheitliche Sprache verwenden muss, sodass der%0aComputer die Worte einfacher auswerten kann.%0a%0aDer federführende Nationalrat für das Dateninstitut ist Ignazio Cassis.%0a@]
+time=1418031743
+author:1418031743=zeno
+diff:1418031743:1418031740:=
+host:1418031743=46.140.30.26
+author:1418031740=zeno
+diff:1418031740:1414490763:=5,27c5%0a%3c http://www.parlament.ch/d/mm/2014/Seiten/mm-sgk-s-2014-10-24.aspx%0a%3c %0a%3c ! Gründe für die Ablehnung%0a%3c [@%0a%3c Was sind die Gründe für die 7:0 Niederlage des Nationalrates gegenüber%0a%3c dem Ständerat bezüglich Art. 67a HMG?%0a%3c %0a%3c Es sieht so aus, als hätte der Ständerat nicht begriffen um was es geht.%0a%3c %0a%3c Herr Berset hat in den Sitzungen mit der Ständeratskommission massiv%0a%3c gegen die Lösung vom Nationalrat lobbyiert.%0a%3c %0a%3c Das BAG hat das Anliegen der strukturierten Daten nicht begriffen,%0a%3c Herr Berset offenbar auch nicht.%0a%3c %0a%3c Es sieht auch so aus, als hätte die Swissmedic erst in den letzten%0a%3c anderthalb Jahren verstanden, dass es strukturierte Daten braucht und%0a%3c dass man Zahlen nicht mit Worten sondern in Ziffern ausdrücken muss%0a%3c und dass man eine einheitliche Sprache verwenden muss, sodass der%0a%3c Computer die Worte einfacher auswerten kann.%0a%3c %0a%3c Der federführende Nationalrat für das Dateninstitut ist Ignazio Cassis.%0a%3c @]%0a\ No newline at end of file%0a---%0a> http://www.parlament.ch/d/mm/2014/Seiten/mm-sgk-s-2014-10-24.aspx%0a\ No newline at end of file%0a
+host:1418031740=46.140.30.26
+author:1414490763=zeno
+diff:1414490763:1414490750:=2,4c2%0a%3c  Die Verantwortung für die elektronische Publikation der Arzneimittelinformationen soll bei Swissmedic bleiben; %0a%3c  die Kommission lehnt die vom Nationalrat beschlossene privatwirtschaftlich organisierte Lösung ab %0a%3c  (Art. 67 Abs. 3-8; 7 zu 0 Stimmen bei 3 Enthaltungen).%0a---%0a>  Die Verantwortung für die elektronische Publikation der Arzneimittelinformationen soll bei Swissmedic bleiben; die Kommission lehnt die vom Nationalrat beschlossene privatwirtschaftlich organisierte Lösung ab (Art. 67 Abs. 3-8; 7 zu 0 Stimmen bei 3 Enthaltungen).%0a
+host:1414490763=46.140.30.26
+author:1414490750=zeno
+diff:1414490750:1414490750:=1,3d0%0a%3c ! Revision des Heilmittelgesetzes%0a%3c  Die Verantwortung für die elektronische Publikation der Arzneimittelinformationen soll bei Swissmedic bleiben; die Kommission lehnt die vom Nationalrat beschlossene privatwirtschaftlich organisierte Lösung ab (Art. 67 Abs. 3-8; 7 zu 0 Stimmen bei 3 Enthaltungen).%0a%3c http://www.parlament.ch/d/mm/2014/Seiten/mm-sgk-s-2014-10-24.aspx%0a\ No newline at end of file%0a
+host:1414490750=46.140.30.26

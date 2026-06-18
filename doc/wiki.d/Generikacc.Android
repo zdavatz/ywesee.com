@@ -1,0 +1,27 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.81 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1519824341
+host=212.51.146.241
+name=Generikacc.Android
+rev=5
+targets=
+text=!Generika App für Android%0aZum Download der kostenlosen App:%0a* https://play.google.com/store/apps/details?id=org.oddb.generika%0a%0a!!11.4.2018, 1.0.39%0a* Make Rezept Import Stable (if user import wrong file, it just shows alert for failure without crash)%0a* Add Rezept Detail View (like screenshot above)%0a* Set medications order (alphabetical order) in Rezept View%0a* Add + Button in Rezepte List View (attach File Chooser from Device)%0a* Change Activity Transition Animation (more smooth using Fade in/out) for Web View and Rezept View%0a* Make the rendering of all images faster using Glide (Cache/Reducing Size management usw. for Performance)%0a* Make scanned package images slightly rounded, Add paddings
+time=1523469282
+author:1523469282=zeno
+diff:1523469282:1523469265:=5c5,6%0a%3c !!11.4.2018, 1.0.39%0a---%0a> !!11.4.2018%0a> 1.0.39%0a
+host:1523469282=212.51.146.241
+author:1523469265=zeno
+diff:1523469265:1523469239:=5,6c5,6%0a%3c !!11.4.2018%0a%3c 1.0.39%0a---%0a> !! 1.0.39 %0a> 11.4.2018%0a
+host:1523469265=212.51.146.241
+author:1523469239=zeno
+diff:1523469239:1523460571:=6d5%0a%3c 11.4.2018%0a
+host:1523469239=212.51.146.241
+author:1523460571=zeno
+diff:1523460571:1519824341:=3,12c3%0a%3c * https://play.google.com/store/apps/details?id=org.oddb.generika%0a%3c %0a%3c !! 1.0.39 %0a%3c * Make Rezept Import Stable (if user import wrong file, it just shows alert for failure without crash)%0a%3c * Add Rezept Detail View (like screenshot above)%0a%3c * Set medications order (alphabetical order) in Rezept View%0a%3c * Add + Button in Rezepte List View (attach File Chooser from Device)%0a%3c * Change Activity Transition Animation (more smooth using Fade in/out) for Web View and Rezept View%0a%3c * Make the rendering of all images faster using Glide (Cache/Reducing Size management usw. for Performance)%0a%3c * Make scanned package images slightly rounded, Add paddings%0a\ No newline at end of file%0a---%0a> * https://play.google.com/store/apps/details?id=org.oddb.generika%0a\ No newline at end of file%0a
+host:1523460571=212.51.146.241
+author:1519824341=zeno
+diff:1519824341:1519824341:=1,3d0%0a%3c !Generika App für Android%0a%3c Zum Download der kostenlosen App:%0a%3c * https://play.google.com/store/apps/details?id=org.oddb.generika%0a\ No newline at end of file%0a
+host:1519824341=212.51.146.241

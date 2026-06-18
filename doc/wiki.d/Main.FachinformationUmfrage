@@ -1,0 +1,15 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.7) Gecko/20060918 Firefox/1.5.0.7
+author=
+host=84.72.152.159
+name=Main.FachinformationUmfrage
+rev=2
+targets=
+text=%3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=5214&doc=ergebnisse-der-marktumfrage-publikation-der-fach-und-patienteninformation-28560" width="800" height="655">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=5214&doc=ergebnisse-der-marktumfrage-publikation-der-fach-und-patienteninformation-28560" />%3c/object>
+time=1160562879
+author:1160562879=
+diff:1160562879:1160562795:=1c1%0a%3c %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=5214&doc=ergebnisse-der-marktumfrage-publikation-der-fach-und-patienteninformation-28560" width="800" height="655">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=5214&doc=ergebnisse-der-marktumfrage-publikation-der-fach-und-patienteninformation-28560" />%3c/object>%0a\ No newline at end of file%0a---%0a> %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=5214&doc=ergebnisse-der-marktumfrage-publikation-der-fach-und-patienteninformation-28560" width="425" height="348">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=5214&doc=ergebnisse-der-marktumfrage-publikation-der-fach-und-patienteninformation-28560" />%3c/object>%0a\ No newline at end of file%0a
+host:1160562879=84.72.152.159
+author:1160562795=
+diff:1160562795:1160562795:=1d0%0a%3c %3cobject type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=5214&doc=ergebnisse-der-marktumfrage-publikation-der-fach-und-patienteninformation-28560" width="425" height="348">%3cparam name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=5214&doc=ergebnisse-der-marktumfrage-publikation-der-fach-und-patienteninformation-28560" />%3c/object>%0a\ No newline at end of file%0a
+host:1160562795=84.72.152.159

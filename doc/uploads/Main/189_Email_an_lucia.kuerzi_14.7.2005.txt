@@ -1,0 +1,117 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 24428 invoked by uid 210); 14 Jul 2005 10:41:53 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/977. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.033921 secs); 14 Jul 2005 08:41:53 -0000
+Received: from unknown (HELO localhost) (zdavatz@ywesee.com@217.162.177.109)
+  by bbmb.ch with ESMTPA; 14 Jul 2005 10:41:53 +0200
+Date: Thu, 14 Jul 2005 10:39:15 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: lucia kuerzi <lucia.kuerzi@pharmacontext.ch>, todo@oddb.org
+ <todo@oddb.org>
+Subject: Re: Publikation von Patienteninformationen auf ODDB.org
+Message-ID: <20050714103915.7a2dcdab@localhost>
+In-Reply-To: <BEFBEDA0.726%lucia.kuerzi@pharmacontext.ch>
+References: <BEFBEDA0.726%lucia.kuerzi@pharmacontext.ch>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.5 (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Frau Kürzi
+
+Danke für Ihr Mail.
+
+Ich kann Ihre Fragen wie folgt beantworten siehe auch folgender Link für 
+die Anleitung zum Upload der PI's:
+
+  http://wiki.oddb.org/wiki.php/ODDB/Pi-Upload
+
+On Thu, 14 Jul 2005 10:23:28 +0200
+lucia kuerzi <lucia.kuerzi@pharmacontext.ch> wrote:
+
+> Wir sind ein Dienstleistungsunternehmen der Pharmaindustrie und betreuen
+> pharmazeutische Unternehmen im Bereich Arzneimittelzulassungen. Ein Kunde
+> von uns beabsichtigt, die Patienteninformationen seiner Arzneimittel auf
+> ODDB.org zu publizieren. Nach Durchsicht Ihrer Homepage sind uns die die
+> folgenden Punkte noch unklar:
+Das freut mich, in dem Fall auf eine gute Zusammenarbeit!
+
+> 1. Wie schnell nach Anmeldung kann die Zuteilung  des Benutzernamens und
+> Passwortes erfolgen?
+Das kann sofort erfolgen, sobald Sie mir den Namen der Pharmafirma mitteilen.
+
+> 2. Sie erwähnen auf der Seite B3Patienteninformationen selbständig
+> aktualisierenB2, dass die Sprachen D/F/I pro Produkt und Packung im gleichen
+> PDF-File enthalten sein müssen. Wir finden aber keine italienischen Texte
+> (Patienteninformationen) auf ODDB.org. Wie sind diese Texte abrufbar?
+Das ist eben ein PDF-File. Wenn Sie die Fi's der Weleda oder Ebi-Pharm
+anschauen, dann sehen Sie das ein PDF alle Sprachen enthält (also genauso wie
+der Beipackzettel aussieht). Häufig laden die Firmen eben auch genau die
+PDF-Version vom Beipackzettel hoch. Das ist eben eigentlich auch die Idee 
+bei den Pi's.
+
+> 3. Da anscheinend jede Packungsgrösse einzeln eingegeben werden muss,
+> möchten wir Sie bitten, uns mitzuteilen, ob sich bei einer Aktualisierung
+> durch Ywesee die CHF 90.--/ Jahr auf eine Patienteninformation oder auf die
+> Patienteninformation/Packungsgrösse beziehen.
+Im folgenden Link sehen sie das genauer:
+http://wiki.oddb.org/wiki.php/ODDB/Pi-Upload
+
+Grundsätzlich werden die Pi's pro Sequenz hochgeladen. Demzufolge rechnen
+wir nicht pro Packung sondern pro Sequenz ab.
+
+> 4. Wenn wir die Aufschaltung und Aktualisierung der Patienteninformationen
+> (28 Stück) Ihnen übertragen, in welcher Form müssen wir Ihnen die Unterlagen
+> zustellen?
+Per Email oder auf einer CD. Der Pi-Upload geht aber wirklich ganz einfach, dass
+können Sie ohne weiteres erledigen.
+
+> 5. Patienteninformationen enthalten teilweise Informationen zu verschiedenen
+> galenischen Formulierungen und Packungsgrössen. Da diese Texte
+> Swissmedic-genehmigte Vorlagen sind, die nicht verändert werden dürfen,
+> nehmen wir an, dass bei verschiedenen Formulierungen und Packungsgrössen
+> immer derselbe Text pro Packungsgrösse und/oder galenischer Formulierung zu
+> publizieren ist.
+Ja genau, deshalb auch die Publikation pro Sequenz.
+
+> 6. Werden die CHF 90.-- / Jahr nur fakturiert, falls eine Änderung des
+> Textes der entsprechenden Patienteninformation vorgenommen werden muss?
+Die CHF 90.- werden fakturiert falls wir für sie den Upload machen müss
+en. Die CHF 120 laufen einfach ab dem ersten mal wo Sie etwas hochladen und ist eine
+jährlich wiederkehrende Gebühr. Wie oft Sie in dem Jahr eine PI selber
+aktualisieren rechnen wir zur Zeit nicht ab.
+
+> 7. Die Patienten- und Fachinformationen dieser Produkte sind durch Ywesee
+> zurzeit bereits auf ODDB.org publiziert (z.T. nicht die aktuelle Version).
+Dort wo nicht die aktuelle Version, schlage ich Ihnen vor die aktuelle Version
+zu publizieren.
+
+> Da wir nur beabsichtigen, die Patienteninformationen zu publizieren, wird
+> die Fachinformation weiterhin von Ihnen publiziert und aktualisiert werden?
+Ja, das ist zur Zeit so (auch ohne Kosten für Sie). Sobald die Swissmedic das
+Buch nicht mehr als obligatorisch betrachtet, wird für die FI-Publikation auch
+etwas verrechnet werden.
+
+> 8. Gibt es einen Hinweis für den Anwender (Arzt, Apotheker, usw.), welche
+> Arzneimittelinformationen auf ODDB.org von den Vertriebsfirmen aktualisiert,
+> kontrolliert und publiziert werden (mit Stand der Aktualisierung) und welche
+> durch Iwesee nach Publikation im Arzneimittel-Kompendium der Schweiz
+> übernommen werden.
+Der Stand der Information steht immer im Dokument selber (bei der PI/FI jeweils 
+zuunterst im Dokument). Das verordnet ja auch die Swissmedic in der AMZV. An
+dieser Information ändern wir nichts.
+
+> Für die Beantwortung unserer Fragen danken wir Ihnen im Voraus bestens. Für
+> allfällige Rückfragen stehen wir Ihnen jederzeit gerne zur Verfügung.
+
+Ich danke Ihnen auch. Falls ich Ihnen anrufen soll, lassen Sie es mich bitte
+wissen.
+
+Mit Gruss aus Zürich
+Zeno Davatz
+Fon: 043 540 05 50

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.62 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1416554784
+host=46.140.30.26
+name=MEDIupdateXML.Softwarehaeuser
+rev=1
+targets=
+text=! MEDIupdate XML für Softwarehäuser%0a* http://www.hin.ch/mediupdatexml/
+time=1416554784
+author:1416554784=zeno
+diff:1416554784:1416554784:=1,2d0%0a%3c ! MEDIupdate XML für Softwarehäuser%0a%3c * http://www.hin.ch/mediupdatexml/%0a\ No newline at end of file%0a
+host:1416554784=46.140.30.26

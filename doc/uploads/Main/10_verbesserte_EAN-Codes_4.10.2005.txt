@@ -1,0 +1,1862 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 7029 invoked by uid 210); 4 Oct 2005 18:35:17 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.2/1109. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.90007 secs); 04 Oct 2005 16:35:17 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 4 Oct 2005 18:35:16 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1003)
+	id 60D778129E; Tue,  4 Oct 2005 18:33:18 +0200 (CEST)
+Date: Tue, 4 Oct 2005 18:33:16 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: todo@oddb.org
+Subject: Nach wie vor 366 unterschiedliche EAN-Codes auf der SL-Liste im Vgl. zu Medwin.ch
+Message-ID: <20051004163316.GY20871@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.8i
+
+1.10.2005
+Medwin-Differences:             366
+Pharmacode: 1015400
+Huminsulin Basal Amp. 100 E/ml 1 Amp. 10 ml 100 I.E./ml
+Medwin Swissmedic-Nr:  45262 030
+BSV-XLS Swissmedic-Nr: 45262 022
+
+Pharmacode: 1015423
+Huminsulin Normal Amp. 100 E/ml 1 Amp. 10 ml 100 I.E./ml
+Medwin Swissmedic-Nr:  45263 037
+BSV-XLS Swissmedic-Nr: 45263 029
+
+Pharmacode: 1017379
+Pneumovax-23 Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00509 001
+BSV-XLS Swissmedic-Nr:   509   
+
+Pharmacode: 1023807
+Squa-med Shampoo 60 ml Shampoo
+Medwin Swissmedic-Nr:  43007 033
+BSV-XLS Swissmedic-Nr: 43007 025
+
+Pharmacode: 1041774
+Convulex Sirup. 50 mg/ml 300 ml Sirup. 50 mg/ml
+Medwin Swissmedic-Nr:  43615 025
+BSV-XLS Swissmedic-Nr: 43615 017
+
+Pharmacode: 1059001
+Lyman 50'000 Gel 500 E/g 40 g Gel
+Medwin Swissmedic-Nr:  45563 030
+BSV-XLS Swissmedic-Nr: 45563 014
+
+Pharmacode: 1059018
+Lyman 50'000 Gel 500 E/g 100 g Gel
+Medwin Swissmedic-Nr:  45563 049
+BSV-XLS Swissmedic-Nr: 45563 022
+
+Pharmacode: 1127524
+Heparinol Ungt. 200 E/g 30 g Ungt. (200 I.E./u.i./g+0,1%)
+Medwin Swissmedic-Nr:  23602 075
+BSV-XLS Swissmedic-Nr: 23602 016
+
+Pharmacode: 1170135
+Nopil Amp. 400 mg 5 Amp. (400+80 mg)
+Medwin Swissmedic-Nr:  46369 041
+BSV-XLS Swissmedic-Nr: 46369 017
+
+Pharmacode: 1233522
+Temesta Expidet Compr. 1 mg 20 Compr. 1 mg
+Medwin Swissmedic-Nr:  47102 073
+BSV-XLS Swissmedic-Nr: 47102 014
+
+Pharmacode: 1233539
+Temesta Expidet Compr. 1 mg 50 Compr. 1 mg
+Medwin Swissmedic-Nr:  47102 081
+BSV-XLS Swissmedic-Nr: 47102 022
+
+Pharmacode: 1233545
+Temesta Expidet Compr. 2.5 mg 20 Compr. 2,5 mg
+Medwin Swissmedic-Nr:  47102 103
+BSV-XLS Swissmedic-Nr: 47102 049
+
+Pharmacode: 1233551
+Temesta Expidet Compr. 2.5 mg 50 Compr. 2,5 mg
+Medwin Swissmedic-Nr:  47102 111
+BSV-XLS Swissmedic-Nr: 47102 057
+
+Pharmacode: 1287162
+Tussantiol Sirup. 5 % 200 ml Sirup. 5%
+Medwin Swissmedic-Nr:  47110 015
+BSV-XLS Swissmedic-Nr: 47110 017
+
+Pharmacode: 1336328
+Carnitene Sol. 1 g 10 x 10 ml Sol. pot. 1 g
+Medwin Swissmedic-Nr:  48508 022
+BSV-XLS Swissmedic-Nr: 48508 014
+
+Pharmacode: 1337405
+Huminsulin Profil III Amp. 100 E/ml 1 Amp. 10 ml 100 I.E./ml
+Medwin Swissmedic-Nr:  48654 045
+BSV-XLS Swissmedic-Nr: 48654 037
+
+Pharmacode: 1338356
+Selectol Filmtabs 200 mg 30 Filmtabs 200 mg
+Medwin Swissmedic-Nr:  44421 097
+BSV-XLS Swissmedic-Nr: 44421 062
+
+Pharmacode: 1338362
+Selectol Filmtabs 200 mg 90 Filmtabs 200 mg
+Medwin Swissmedic-Nr:  44421 100
+BSV-XLS Swissmedic-Nr: 44421 089
+
+Pharmacode: 1340005
+Eprex Amp. 4000 E/ml 6 Amp. 1 ml 4'000 I.E.
+Medwin Swissmedic-Nr:  49078 307
+BSV-XLS Swissmedic-Nr: 49078 218
+
+Pharmacode: 1357307
+Myrtaven Caps. 58 mg 20 Caps. 58 mg
+Medwin Swissmedic-Nr:  49506 031
+BSV-XLS Swissmedic-Nr: 49506 015
+
+Pharmacode: 1357313
+Myrtaven Caps. 58 mg 60 Caps. 58 mg
+Medwin Swissmedic-Nr:  49506 058
+BSV-XLS Swissmedic-Nr: 49506 023
+
+Pharmacode: 1361869
+Prinil Mepha Compr. 20 mg 28 Compr. 20 mg
+Medwin Swissmedic-Nr:  49268 017
+BSV-XLS Swissmedic-Nr: 49268 041
+
+Pharmacode: 1361875
+Prinil Mepha Compr. 20 mg 98 Compr. 20 mg
+Medwin Swissmedic-Nr:  49268 033
+BSV-XLS Swissmedic-Nr: 49268 068
+
+Pharmacode: 1361881
+Prinil Mepha Compr. 5 mg 30 Compr. submite 5 mg
+Medwin Swissmedic-Nr:  49268 025
+BSV-XLS Swissmedic-Nr: 49268 076
+
+Pharmacode: 1371632
+Spectroxyl Compr. 750 mg 20 Compr. 750 mg
+Medwin Swissmedic-Nr:  50730 026
+BSV-XLS Swissmedic-Nr: 50201 015
+
+Pharmacode: 1371649
+Spectroxyl Sirup. 50 mg/ml 80 ml Sirup. 50 mg/ml
+Medwin Swissmedic-Nr:  52669 022
+BSV-XLS Swissmedic-Nr: 52669 014
+
+Pharmacode: 1372850
+Acemucol Sach. 200 mg 30 Sach. 200 mg
+Medwin Swissmedic-Nr:  50121 054
+BSV-XLS Swissmedic-Nr: 50121 038
+
+Pharmacode: 137756
+Primperan Guttae 0.26 % 60 ml Guttae pro infant. 0,26%
+Medwin Swissmedic-Nr:  31865 026
+BSV-XLS Swissmedic-Nr: 31865 018
+
+Pharmacode: 1379912
+Gen H-B Vax Dialyse Amp. 40 mcg 1 Amp. 40 mcg
+Medwin Swissmedic-Nr:  00545 001
+BSV-XLS Swissmedic-Nr:   545   
+
+Pharmacode: 1390121
+Coridil Compr. 90 mg 20 Compr. retard 90 mg
+Medwin Swissmedic-Nr:  49381 042
+BSV-XLS Swissmedic-Nr: 49381 034
+
+Pharmacode: 1390138
+Coridil Compr. 90 mg 100 Compr. retard 90 mg
+Medwin Swissmedic-Nr:  49381 050
+BSV-XLS Swissmedic-Nr: 49381 026
+
+Pharmacode: 1406135
+Panzytrat Caps. 332 mg 50 Caps. 332 mg
+Medwin Swissmedic-Nr:  50708 098
+BSV-XLS Swissmedic-Nr: 50708 047
+
+Pharmacode: 1406141
+Panzytrat Caps. 332 mg 100 Caps. 332 mg
+Medwin Swissmedic-Nr:  50708 101
+BSV-XLS Swissmedic-Nr: 50708 055
+
+Pharmacode: 1406218
+Heprecomb Berna Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin Swissmedic-Nr:  00544 002
+BSV-XLS Swissmedic-Nr:   544   
+
+Pharmacode: 1417788
+Eprex Amp. 10000 E/ml 6 Amp. 1 ml 10'000 I.E.
+Medwin Swissmedic-Nr:  49078 315
+BSV-XLS Swissmedic-Nr: 49078 226
+
+Pharmacode: 1422358
+Grodurex Compr. 5 mg 20 Compr. (5+50 mg)
+Medwin Swissmedic-Nr:  48421 040
+BSV-XLS Swissmedic-Nr: 48421 032
+
+Pharmacode: 1422364
+Grodurex Compr. 5 mg 100 Compr. (5+50 mg)
+Medwin Swissmedic-Nr:  48421 059
+BSV-XLS Swissmedic-Nr: 48421 024
+
+Pharmacode: 1423263
+Mixtard 20 HM NovoLet Amp. 100 I.E. / ml 5 Amp. 3 ml 100 IE/ml
+Medwin Swissmedic-Nr:  53660 010
+BSV-XLS Swissmedic-Nr: 53600 010
+
+Pharmacode: 1423748
+Flector Compr. 50 mg 20 Compr. 50 mg
+Medwin Swissmedic-Nr:  51093 054
+BSV-XLS Swissmedic-Nr: 51093 011
+
+Pharmacode: 1423783
+Flector Compr. 100 mg 10 Compr. retard 100 mg
+Medwin Swissmedic-Nr:  51094 042
+BSV-XLS Swissmedic-Nr: 51094 018
+
+Pharmacode: 1423808
+Flector Compr. 100 mg 30 Compr. retard 100 mg
+Medwin Swissmedic-Nr:  51094 050
+BSV-XLS Swissmedic-Nr: 51094 026
+
+Pharmacode: 1427232
+Imagopaque Vitr. 300 mg/ml 1 Vitr. 20 ml (658 mg =3D 300 mg)
+Medwin Swissmedic-Nr:  51242 327
+BSV-XLS Swissmedic-Nr: 51242 718
+
+Pharmacode: 1433847
+Kytril Amp. 3 mg 5 Amp. 3 mg
+Medwin Swissmedic-Nr:  51198 042
+BSV-XLS Swissmedic-Nr: 51198 018
+
+Pharmacode: 1435438
+Loceryl Liquid. 5 % 5 ml Liquid. 5% + 30 Tupfer + 30 Feilen + 10 Spatel
+Medwin Swissmedic-Nr:  51281 039
+BSV-XLS Swissmedic-Nr: 51281 012
+
+Pharmacode: 1435467
+Prinzide Mepha Compr. 20 mg 28 Compr. (20+12,5 mg)
+Medwin Swissmedic-Nr:  51053 028
+BSV-XLS Swissmedic-Nr: 51053 044
+
+Pharmacode: 1435473
+Prinzide Mepha Compr. 20 mg 98 Compr. (20+12,5 mg)
+Medwin Swissmedic-Nr:  51053 036
+BSV-XLS Swissmedic-Nr: 51053 052
+
+Pharmacode: 1480829
+Zinat Susp. 25 mg/ml 70 ml Susp. 25 mg/ml
+Medwin Swissmedic-Nr:  50882 063
+BSV-XLS Swissmedic-Nr: 50882 039
+
+Pharmacode: 1528140
+Flector Compr. 50 mg 50 Compr. 50 mg
+Medwin Swissmedic-Nr:  51093 062
+BSV-XLS Swissmedic-Nr: 51093 046
+
+Pharmacode: 1547864
+Taxol Amp. 30 mg 1 Amp. 30 mg
+Medwin Swissmedic-Nr:  52364 035
+BSV-XLS Swissmedic-Nr: 52364 019
+
+Pharmacode: 1552262
+Neotracin Dispersa Ungt. 0.35 % 4 g Ungt. (0,35%+250 E./u./g)
+Medwin Swissmedic-Nr:  57197 002
+BSV-XLS Swissmedic-Nr: 30233 018
+
+Pharmacode: 1565017
+Dafalgan Sach. 150 mg 12 Sach. pro infant. 150 mg
+Medwin Swissmedic-Nr:  51231 058
+BSV-XLS Swissmedic-Nr: 51231 023
+
+Pharmacode: 1586137
+Nifedicor Caps. 10 mg 100 Caps. 10 mg
+Medwin Swissmedic-Nr:  52434 025
+BSV-XLS Swissmedic-Nr: 54666 020
+
+Pharmacode: 1586172
+Nifedicor Caps. 10 mg 50 Caps. 10 mg
+Medwin Swissmedic-Nr:  52434 017
+BSV-XLS Swissmedic-Nr: 54666 012
+
+Pharmacode: 1592089
+Allergodil Spray 0.14 mg/Dosis 10 ml Spray (71 Dosen 0,14 mg pro dosi)
+Medwin Swissmedic-Nr:  51257 022
+BSV-XLS Swissmedic-Nr: 51257 014
+
+Pharmacode: 1599536
+Eprex Amp. 2000 E/0.5ml 6 Amp. ad iniect. parat. 0,5 ml 2'000 I.E.
+Medwin Swissmedic-Nr:  49078 250
+BSV-XLS Swissmedic-Nr: 49078 137
+
+Pharmacode: 1599542
+Eprex Amp. 4000 E/0.4ml 6 Amp. ad iniect. parat. 0,4 ml 4'000 I.E.
+Medwin Swissmedic-Nr:  49078 277
+BSV-XLS Swissmedic-Nr: 49078 153
+
+Pharmacode: 1599559
+Eprex Amp. 10000 E/ml 6 Amp. ad iniect. parat. 1 ml 10'000 I.E.
+Medwin Swissmedic-Nr:  49078 285
+BSV-XLS Swissmedic-Nr: 49078 161
+
+Pharmacode: 1615436
+Fluarix Amp. 1 Amp.
+Medwin Swissmedic-Nr:  00583 051
+BSV-XLS Swissmedic-Nr:   583   
+
+Pharmacode: 1635315
+Desomedine Guttae 0.1 % 10 ml Guttae 0,1%
+Medwin Swissmedic-Nr:  53037 011
+BSV-XLS Swissmedic-Nr: 28111 045
+
+Pharmacode: 1648499
+Eprex Amp. 1000 E/0.5ml 6 Amp. ad iniect. parat. 0,5 ml 1'000 I.E.
+Medwin Swissmedic-Nr:  49078 242
+BSV-XLS Swissmedic-Nr: 49078 129
+
+Pharmacode: 1667255
+Betaferon Amp. 8 Mio E 15 Amp. 8 Mio I.E.
+Medwin Swissmedic-Nr:  53225 039
+BSV-XLS Swissmedic-Nr: 53225 012
+
+Pharmacode: 1720512
+Octagam Amp. 2.5 g 1 Amp. 2,5 g
+Medwin Swissmedic-Nr:  00584 001
+BSV-XLS Swissmedic-Nr:   584   
+
+Pharmacode: 1720529
+Octagam Amp. 5 g 1 Amp. 5 g
+Medwin Swissmedic-Nr:  00584 002
+BSV-XLS Swissmedic-Nr:   584   
+
+Pharmacode: 1720535
+Octagam Amp. 10 g 1 Amp. 10 g
+Medwin Swissmedic-Nr:  00584 003
+BSV-XLS Swissmedic-Nr:   584   
+
+Pharmacode: 1726207
+Oralp=E4don Neutral Pulv. 10 Sach. Pulv. (0,47+0,3+0,53+3,56 g)
+Medwin Swissmedic-Nr:  53205 038
+BSV-XLS Swissmedic-Nr: 53205 011
+
+Pharmacode: 1738682
+Venofer Amp. 100 mg 5 Amp. i.v. 5 ml 100 mg
+Medwin Swissmedic-Nr:  15398 078
+BSV-XLS Swissmedic-Nr: 15398 043
+
+Pharmacode: 1738831
+Kytril Amp. 1 mg 5 Amp. 1 mg
+Medwin Swissmedic-Nr:  51198 034
+BSV-XLS Swissmedic-Nr: 51198 026
+
+Pharmacode: 1770177
+Varilrix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  90058 501
+BSV-XLS Swissmedic-Nr:   585   
+
+Pharmacode: 1802233
+Taxol Amp. 100 mg 1 Amp. 100 mg
+Medwin Swissmedic-Nr:  52364 043
+BSV-XLS Swissmedic-Nr: 52364 027
+
+Pharmacode: 1858966
+Femoston Compr. 2 mg 14 Compr. 2 mg + 14 Compr. (2+10 mg)
+Medwin Swissmedic-Nr:  53128 033
+BSV-XLS Swissmedic-Nr: 53128 017
+
+Pharmacode: 1858989
+Permax Compr. 0.25 mg 100 Compr. 0,25 mg
+Medwin Swissmedic-Nr:  52089 077
+BSV-XLS Swissmedic-Nr: 52089 026
+
+Pharmacode: 1859078
+Vincristine Pfizer Amp. 1 mg 5 Amp. 1 mg
+Medwin Swissmedic-Nr:  53640 052
+BSV-XLS Swissmedic-Nr: 53640 028
+
+Pharmacode: 1859090
+Vincristine Pfizer Amp. 2 mg 5 Amp. 2 mg
+Medwin Swissmedic-Nr:  53640 060
+BSV-XLS Swissmedic-Nr: 53640 036
+
+Pharmacode: 1870163
+Etoposide Pfizer Amp. 100 mg 10 Amp. 100 mg
+Medwin Swissmedic-Nr:  53639 046
+BSV-XLS Swissmedic-Nr: 53639 382
+
+Pharmacode: 1870803
+Imigran Nasenspray 10 mg/2Dos 1 Nasenspray (2 Dosen 10 mg)
+Medwin Swissmedic-Nr:  53708 013
+BSV-XLS Swissmedic-Nr: 53708 001
+
+Pharmacode: 1874445
+Immunine STIM Plus Amp. 1200 IE 1 Amp. 1200 I.E.
+Medwin Swissmedic-Nr:  52474 043
+BSV-XLS Swissmedic-Nr: 52474 027
+
+Pharmacode: 1874451
+Immunine STIM Plus Amp. 600 IE 1 Amp. 600 I.E.
+Medwin Swissmedic-Nr:  52474 035
+BSV-XLS Swissmedic-Nr: 52474 019
+
+Pharmacode: 1874511
+Kogenate SF Amp. 1000 IE 1 Amp. 1000 U.I.
+Medwin Swissmedic-Nr:  52501 164
+BSV-XLS Swissmedic-Nr: 52501 059
+
+Pharmacode: 1874534
+Kogenate SF Amp. 250 IE 1 Amp. 250 U.I.
+Medwin Swissmedic-Nr:  52501 148
+BSV-XLS Swissmedic-Nr: 52501 016
+
+Pharmacode: 1874540
+Kogenate SF Amp. 500 IE 1 Amp. 500 U.I.
+Medwin Swissmedic-Nr:  52501 156
+BSV-XLS Swissmedic-Nr: 52501 032
+
+Pharmacode: 1875203
+Ditanrix Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin Swissmedic-Nr:  00567 001
+BSV-XLS Swissmedic-Nr: 56701   0
+
+Pharmacode: 1877047
+Mutagrip Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00373 041
+BSV-XLS Swissmedic-Nr:   373   
+
+Pharmacode: 1898316
+Eldisine Amp. 5 mg 1 Amp. 5 mg
+Medwin Swissmedic-Nr:  42863 025
+BSV-XLS Swissmedic-Nr: 42863 017
+
+Pharmacode: 1906553
+Fostimon Amp. 75 IE 1 Amp. i.m.,s.c. 75 U.I.
+Medwin Swissmedic-Nr:  52974 062
+BSV-XLS Swissmedic-Nr: 52974 011
+
+Pharmacode: 1906599
+Fostimon Amp. 150 IE 10 Amp. i.m.,s.c. 150 U.I.
+Medwin Swissmedic-Nr:  52974 097
+BSV-XLS Swissmedic-Nr: 52974 054
+
+Pharmacode: 1906889
+Huminsulin Basal Amp. 100 E/ml 5 Amp. 3 ml 100 I.E./ml
+Medwin Swissmedic-Nr:  51750 039
+BSV-XLS Swissmedic-Nr: 51750 020
+
+Pharmacode: 1906895
+Huminsulin Profil III Amp. 100 E/ml 5 Amp. 3 ml 100 I.E./ml
+Medwin Swissmedic-Nr:  51753 046
+BSV-XLS Swissmedic-Nr: 51753 038
+
+Pharmacode: 1907363
+Kytril Filmtabs 2 mg 1 Filmtab 2 mg
+Medwin Swissmedic-Nr:  52354 056
+BSV-XLS Swissmedic-Nr: 52354 064
+
+Pharmacode: 1919900
+Octagam Amp. 1 g 1 Amp. 1 g
+Medwin Swissmedic-Nr:  90058 404
+BSV-XLS Swissmedic-Nr:   584   
+
+Pharmacode: 1924172
+Inflexal Berna V Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00614 051
+BSV-XLS Swissmedic-Nr:   614   
+
+Pharmacode: 1929755
+Transipeg Sach. 2.95 g 30 Sach. (2,95 g+73+284+37,5+84 mg)
+Medwin Swissmedic-Nr:  53282 067
+BSV-XLS Swissmedic-Nr: 53282 024
+
+Pharmacode: 1931887
+Hiberix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00603 001
+BSV-XLS Swissmedic-Nr:   603   
+
+Pharmacode: 1934271
+Choriomon Amp. 5000 IE 3 Amp. 5000 I.E.
+Medwin Swissmedic-Nr:  33524 137
+BSV-XLS Swissmedic-Nr: 33524 080
+
+Pharmacode: 1946133
+Pelsano med. Ungt. 25 % 60 g Ungt. (25+5%)
+Medwin Swissmedic-Nr:  15812 087
+BSV-XLS Swissmedic-Nr: 15812 036
+
+Pharmacode: 1946156
+Pelsano med. Emulsio 0.8 % 300 ml Emulsio (0,8+7,6%)
+Medwin Swissmedic-Nr:  13942 099
+BSV-XLS Swissmedic-Nr: 13942 064
+
+Pharmacode: 1946162
+Pelsano med. Emulsio 0.8 % 1000 ml Emulsio (0,8+7,6%)
+Medwin Swissmedic-Nr:  13942 102
+BSV-XLS Swissmedic-Nr: 13942 072
+
+Pharmacode: 1946972
+Gen H-B Vax Amp. 10 mcg 1 Amp. pro adult. 10 mcg
+Medwin Swissmedic-Nr:  90052 811
+BSV-XLS Swissmedic-Nr:   528   
+
+Pharmacode: 1948586
+Blopress Compr. 8 mg 28 Compr. 8 mg
+Medwin Swissmedic-Nr:  54260 105
+BSV-XLS Swissmedic-Nr: 54260 024
+
+Pharmacode: 1948592
+Blopress Compr. 8 mg 56 Compr. 8 mg
+Medwin Swissmedic-Nr:  54260 113
+BSV-XLS Swissmedic-Nr: 54260 032
+
+Pharmacode: 1948600
+Blopress Compr. 8 mg 98 Compr. 8 mg
+Medwin Swissmedic-Nr:  54260 121
+BSV-XLS Swissmedic-Nr: 54260 040
+
+Pharmacode: 1954606
+Flector Compr. 100 mg 100 Compr. retard 100 mg
+Medwin Swissmedic-Nr:  51094 069
+BSV-XLS Swissmedic-Nr: 51094 034
+
+Pharmacode: 1980288
+Transipeg Sach. 2.95 g 90 Sach. (2,95 g+73+284+37,5+84 mg)
+Medwin Swissmedic-Nr:  53282 083
+BSV-XLS Swissmedic-Nr: 53282 032
+
+Pharmacode: 1982821
+Asasantin Caps. 200 mg 30 Caps. retard (200+25 mg)
+Medwin Swissmedic-Nr:  54262 043
+BSV-XLS Swissmedic-Nr: 54262 019
+
+Pharmacode: 1982838
+Asasantin Caps. 200 mg 100 Caps. retard (200+25 mg)
+Medwin Swissmedic-Nr:  54262 051
+BSV-XLS Swissmedic-Nr: 54262 035
+
+Pharmacode: 1983157
+Brufen Filmtabs 600 mg 20 Filmtabs 600 mg
+Medwin Swissmedic-Nr:  45031 047
+BSV-XLS Swissmedic-Nr: 45031 012
+
+Pharmacode: 2005728
+Rapilysin Amp. 10 IE 2 Amp. 10 I.E.
+Medwin Swissmedic-Nr:  53822 029
+BSV-XLS Swissmedic-Nr: 53822 010
+
+Pharmacode: 2018582
+Huminsulin Basal Amp. 100 E/ml 5 Amp. ad iniect. parat. (Huminsulinpen)
+3 ml 100 I.E./ml
+Medwin Swissmedic-Nr:  54337 027
+BSV-XLS Swissmedic-Nr: 54337 019
+
+Pharmacode: 2019222
+Ecoprofen Filmtabs 400 mg 20 Filmtabs 400 mg
+Medwin Swissmedic-Nr:  48164 080
+BSV-XLS Swissmedic-Nr: 48164 048
+
+Pharmacode: 2019239
+Ecoprofen Filmtabs 400 mg 100 Filmtabs 400 mg
+Medwin Swissmedic-Nr:  48164 099
+BSV-XLS Swissmedic-Nr: 48164 056
+
+Pharmacode: 2050172
+3TC Sol. 10 mg/ml 240 ml Sol. int. 10 mg/ml
+Medwin Swissmedic-Nr:  53663 036
+BSV-XLS Swissmedic-Nr: 53663 028
+
+Pharmacode: 2059090
+Augmentin Duo Susp. 80 mg/ml 35 ml Susp. (80+11 mg/ml)
+Medwin Swissmedic-Nr:  53974 074
+BSV-XLS Swissmedic-Nr: 53974 031
+
+Pharmacode: 2059109
+Augmentin Duo Susp. 80 mg/ml 70 ml Susp. (80+11 mg/ml)
+Medwin Swissmedic-Nr:  53974 058
+BSV-XLS Swissmedic-Nr: 53974 015
+
+Pharmacode: 2059115
+Augmentin Duo Susp. 80 mg/ml 140 ml Susp. (80+11 mg/ml)
+Medwin Swissmedic-Nr:  53974 066
+BSV-XLS Swissmedic-Nr: 53974 023
+
+Pharmacode: 2059552
+Norflocin-Mepha 400 Lactabs 400 mg 7 Lactabs 400 mg
+Medwin Swissmedic-Nr:  54424 043
+BSV-XLS Swissmedic-Nr: 54424 019
+
+Pharmacode: 2059569
+Norflocin-Mepha 400 Lactabs 400 mg 14 Lactabs 400 mg
+Medwin Swissmedic-Nr:  54424 051
+BSV-XLS Swissmedic-Nr: 54424 027
+
+Pharmacode: 2059581
+Norflocin-Mepha 400 Lactabs 400 mg 42 Lactabs 400 mg
+Medwin Swissmedic-Nr:  54424 078
+BSV-XLS Swissmedic-Nr: 54424 035
+
+Pharmacode: 2065280
+Infanrix DTPa-IPV+Hib Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  90061 901
+BSV-XLS Swissmedic-Nr:   619   
+
+Pharmacode: 2067037
+Gyno-Canesten Compr. vagin. 100 mg 6 Compr. vagin. 100 mg
+Medwin Swissmedic-Nr:  37512 060
+BSV-XLS Swissmedic-Nr: 37512 028
+
+Pharmacode: 2067066
+Gyno-Canesten 1 Compr. vagin. 500 mg 1 Compr. vagin. c. Appl. 500 mg
+Medwin Swissmedic-Nr:  37512 095
+BSV-XLS Swissmedic-Nr: 37512 052
+
+Pharmacode: 2067072
+Gyno-Canesten-3 Cr=E8me 2 % 20 g Cr=E8me 2%
+Medwin Swissmedic-Nr:  43401 025
+BSV-XLS Swissmedic-Nr: 43401 017
+
+Pharmacode: 2067089
+Gyno-Canesten Compr. vagin. 200 mg 3 Compr. vagin. 200 mg
+Medwin Swissmedic-Nr:  37512 087
+BSV-XLS Swissmedic-Nr: 37512 044
+
+Pharmacode: 2076651
+Arava Filmtabs 10 mg 100 Filmtabs 10 mg
+Medwin Swissmedic-Nr:  54834 020
+BSV-XLS Swissmedic-Nr: 54834 029
+
+Pharmacode: 2077604
+Zumenon Filmtabs 2 mg 28 Filmtabs 2 mg
+Medwin Swissmedic-Nr:  54888 023
+BSV-XLS Swissmedic-Nr: 54888 015
+
+Pharmacode: 2080256
+Augmentin Trio Susp. 25 mg/ml 100 ml Susp. pro infant. (25+6,25 mg/ml)
+Medwin Swissmedic-Nr:  45673 030
+BSV-XLS Swissmedic-Nr: 45673 014
+
+Pharmacode: 2081215
+Oncotice Amp. 5 mg 1 Amp. (5 x 10 8)
+Medwin Swissmedic-Nr:  52563 038
+BSV-XLS Swissmedic-Nr: 52563 011
+
+Pharmacode: 2107475
+Echinamed Compr. 380 mg 400 Compr. (380+20 mg)
+Medwin Swissmedic-Nr:  54825 021
+BSV-XLS Swissmedic-Nr: 54825 000
+
+Pharmacode: 2111583
+Agenerase Sol. 15 mg/1ml 240 ml Sol. 15 mg/ml
+Medwin Swissmedic-Nr:  55073 002
+BSV-XLS Swissmedic-Nr: 55073 000
+
+Pharmacode: 2114156
+Priorix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00615 001
+BSV-XLS Swissmedic-Nr:   615   
+
+Pharmacode: 2115500
+Torem Compr. 2.5 mg 20 Compr. 2,5 mg
+Medwin Swissmedic-Nr:  48578 144
+BSV-XLS Swissmedic-Nr: 48578 012
+
+Pharmacode: 2115517
+Torem Compr. 2.5 mg 100 Compr. 2,5 mg
+Medwin Swissmedic-Nr:  48578 152
+BSV-XLS Swissmedic-Nr: 48578 039
+
+Pharmacode: 2119018
+Augmentin Trio Susp. 50 mg/ml 100 ml Susp. pro infant. forte (50+12,5
+mg/ml)
+Medwin Swissmedic-Nr:  45673 049
+BSV-XLS Swissmedic-Nr: 45673 022
+
+Pharmacode: 2119478
+Solmucalm Sirup. 200 mg 180 ml Sirup. pro adult. (200+4 mg/10 ml)
+Medwin Swissmedic-Nr:  53336 043
+BSV-XLS Swissmedic-Nr: 53336 027
+
+Pharmacode: 2119484
+Solmucalm Sirup. 100 mg 90 ml Sirup. pro infant. (100+2 mg/5 ml)
+Medwin Swissmedic-Nr:  53336 035
+BSV-XLS Swissmedic-Nr: 53336 019
+
+Pharmacode: 2146185
+Insuman Infusat Inject. 100 E/ml 5 Kart. 3,15 ml 100 I.E./ml
+Medwin Swissmedic-Nr:  53965 016
+BSV-XLS Swissmedic-Nr: 47727 014
+
+Pharmacode: 2152033
+Sonata Caps. 5 mg 7 Caps. 5 mg
+Medwin Swissmedic-Nr:  54835 051
+BSV-XLS Swissmedic-Nr: 54835 019
+
+Pharmacode: 2152062
+Sonata Caps. 10 mg 7 Caps. 10 mg
+Medwin Swissmedic-Nr:  54835 086
+BSV-XLS Swissmedic-Nr: 54835 027
+
+Pharmacode: 2152079
+Sonata Caps. 10 mg 14 Caps. 10 mg
+Medwin Swissmedic-Nr:  54835 094
+BSV-XLS Swissmedic-Nr: 54835 043
+
+Pharmacode: 2159644
+Thrombace Compr. 120 mg 60 Compr. 120 mg
+Medwin Swissmedic-Nr:  55197 002
+BSV-XLS Swissmedic-Nr: 43688 014
+
+Pharmacode: 2159650
+Thrombace Compr. 120 mg 120 Compr. 120 mg
+Medwin Swissmedic-Nr:  55197 004
+BSV-XLS Swissmedic-Nr: 43688 022
+
+Pharmacode: 2160699
+Lacryvisc SE Monodosen 0.3 % 20 Monodosen 5 ml Gel 0,3%
+Medwin Swissmedic-Nr:  54944 039
+BSV-XLS Swissmedic-Nr: 54944 012
+
+Pharmacode: 2160707
+Lacryvisc SE Monodosen 0.3 % 50 Monodosen 5 ml Gel 0,3%
+Medwin Swissmedic-Nr:  54944 047
+BSV-XLS Swissmedic-Nr: 54944 020
+
+Pharmacode: 2183565
+Infanrix DTPA-IPV Amp. 0.5 ml 1 Amp. 0.5 ml
+Medwin Swissmedic-Nr:  90063 801
+BSV-XLS Swissmedic-Nr:   638   
+
+Pharmacode: 2184599
+Regranex Gel 0.01 % 15 g Gel 0,01%
+Medwin Swissmedic-Nr:  54776 012
+BSV-XLS Swissmedic-Nr: 54776 010
+
+Pharmacode: 2188166
+Transipeg Sach. 5.9 g 30 Sach. forte (5,9 g+146+568+75+168 mg)
+Medwin Swissmedic-Nr:  53282 091
+BSV-XLS Swissmedic-Nr: 53282 040
+
+Pharmacode: 2189579
+Augmentin Trio Guttae 50 mg/ml 20 ml Guttae pro infant. (50+12,5 mg/ml)
+Medwin Swissmedic-Nr:  46207 033
+BSV-XLS Swissmedic-Nr: 46207 025
+
+Pharmacode: 2198911
+Pentavac Amp. 0.5 ml 1 Amp. 0.5 ml
+Medwin Swissmedic-Nr:  90061 301
+BSV-XLS Swissmedic-Nr:   613   
+
+Pharmacode: 2198934
+Tetravac Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  90061 201
+BSV-XLS Swissmedic-Nr:   612   
+
+Pharmacode: 2204563
+Keppra Filmtabs 500 mg 20 Filmtabs 500 mg
+Medwin Swissmedic-Nr:  55297 056
+BSV-XLS Swissmedic-Nr: 55297 014
+
+Pharmacode: 2204586
+Keppra Filmtabs 500 mg 100 Filmtabs 500 mg
+Medwin Swissmedic-Nr:  55297 062
+BSV-XLS Swissmedic-Nr: 55297 022
+
+Pharmacode: 2204592
+Keppra Filmtabs 500 mg 200 Filmtabs 500 mg
+Medwin Swissmedic-Nr:  55297 068
+BSV-XLS Swissmedic-Nr: 55297 026
+
+Pharmacode: 2204913
+Rhinocort Pump-Spray 32 mcg/Dosis 120 Dosen Pump-Spray (32 mcg pro dosi)
+Medwin Swissmedic-Nr:  48591 035
+BSV-XLS Swissmedic-Nr: 48591 000
+
+Pharmacode: 2272702
+Ecomucyl Gran. 600 mg 10 Sach. Gran. 600 mg
+Medwin Swissmedic-Nr:  47920 043
+BSV-XLS Swissmedic-Nr: 47920 035
+
+Pharmacode: 2273417
+Prevenar Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  90064 301
+BSV-XLS Swissmedic-Nr:   643   
+
+Pharmacode: 2273452
+Leukeran Obd. 2 mg 25 Obd. 2 mg
+Medwin Swissmedic-Nr:  23426 048
+BSV-XLS Swissmedic-Nr: 23426 013
+
+Pharmacode: 2282764
+Permax Compr. 0.05 mg 109 Compr. 0,05 mg + 57 Compr. 0,25 mg
+Medwin Swissmedic-Nr:  52089 069
+BSV-XLS Swissmedic-Nr: 52089 042
+
+Pharmacode: 2302981
+Infanrix Hexa Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00640 001
+BSV-XLS Swissmedic-Nr:   640   
+
+Pharmacode: 2319326
+Boostrix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00637 001
+BSV-XLS Swissmedic-Nr:   637   
+
+Pharmacode: 2320140
+Redimune Amp. 6 g 1 Amp. 6 g i.v.
+Medwin Swissmedic-Nr:  00500 003
+BSV-XLS Swissmedic-Nr:   500   
+
+Pharmacode: 2320163
+Redimune Amp. 12 g 1 Amp. 12 g i.v.
+Medwin Swissmedic-Nr:  00500 004
+BSV-XLS Swissmedic-Nr:   500   
+
+Pharmacode: 2337206
+Clamoxyl Sirup. 50 mg/ml 80 ml Sirup. 50 mg/ml
+Medwin Swissmedic-Nr:  37848 042
+BSV-XLS Swissmedic-Nr: 37848 026
+
+Pharmacode: 2338849
+Pantozol i.v. Amp. 40 mg 1 Amp. 40 mg
+Medwin Swissmedic-Nr:  55551 010
+BSV-XLS Swissmedic-Nr: 55551 002
+
+Pharmacode: 2343721
+Ilomedin 20/50 i.v. Amp. 1 Amp. i.v. 50 mcg/2,5 ml
+Medwin Swissmedic-Nr:  50064 093
+BSV-XLS Swissmedic-Nr: 50064 077
+
+Pharmacode: 2343773
+Hexavac Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  90064 401
+BSV-XLS Swissmedic-Nr:   644   
+
+Pharmacode: 2343804
+Revaxis Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  90064 601
+BSV-XLS Swissmedic-Nr:   646   
+
+Pharmacode: 2344011
+Meningitec Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  90065 401
+BSV-XLS Swissmedic-Nr:   654   
+
+Pharmacode: 2349681
+Merional Amp. 75 IE 1 Amp. 75 U.I.
+Medwin Swissmedic-Nr:  52703 062
+BSV-XLS Swissmedic-Nr: 52703 011
+
+Pharmacode: 2349698
+Merional Amp. 75 IE 10 Amp. 75 U.I.
+Medwin Swissmedic-Nr:  52703 070
+BSV-XLS Swissmedic-Nr: 52703 038
+
+Pharmacode: 2349706
+Merional Amp. 150 IE 1 Amp. 150 U.I.
+Medwin Swissmedic-Nr:  52703 089
+BSV-XLS Swissmedic-Nr: 52703 046
+
+Pharmacode: 2349712
+Merional Amp. 150 IE 10 Amp. 150 U.I.
+Medwin Swissmedic-Nr:  52703 097
+BSV-XLS Swissmedic-Nr: 52703 054
+
+Pharmacode: 2376666
+Glucose 5% - NaCl 0,9% Amp. 0.9 % 1000 ml (0,9+5%)
+Medwin Swissmedic-Nr:  29551 251
+BSV-XLS Swissmedic-Nr: 29551 030
+
+Pharmacode: 2381503
+Kamillin Medipharm Konzentrat Sol. 1.7 mg/ml 100 ml Sol. (1,7+0,5 mg/ml)
+Medwin Swissmedic-Nr:  33752 024
+BSV-XLS Swissmedic-Nr: 33752 083
+
+Pharmacode: 2397622
+Insuman Basal U-100 OptiSet 100 E/ml 4 Opti-Set 3 ml 100 I.E./ml
+Medwin Swissmedic-Nr:  55708 001
+BSV-XLS Swissmedic-Nr: 57708 001
+
+Pharmacode: 2397639
+Insuman Comb 25 U-100 OptiSet 100 E/ml 4 Opti-Set 3 ml 100 I.E./ml
+Medwin Swissmedic-Nr:  55706 001
+BSV-XLS Swissmedic-Nr: 57706 001
+
+Pharmacode: 2405994
+Glucose 5% - NaCl 0,9% Amp. 0.9 % 500 ml (0,9+5%)
+Medwin Swissmedic-Nr:  29551 243
+BSV-XLS Swissmedic-Nr: 29551 022
+
+Pharmacode: 241264
+Maliasin Obd. 25 mg 50 Obd. 25 mg
+Medwin Swissmedic-Nr:  31862 027
+BSV-XLS Swissmedic-Nr: 31862 019
+
+Pharmacode: 2456299
+Verapam Caps. 120 mg 20 Opticaps retard 120 mg
+Medwin Swissmedic-Nr:  54436 033
+BSV-XLS Swissmedic-Nr: 54436 044
+
+Pharmacode: 2456307
+Verapam Caps. 120 mg 100 Opticaps retard 120 mg
+Medwin Swissmedic-Nr:  54436 041
+BSV-XLS Swissmedic-Nr: 54436 052
+
+Pharmacode: 2463537
+FSME Immun CC Amp. 2.4 mcg 1 Amp. ad iniect. parat. 0,5 ml 2,4 mcg
+Medwin Swissmedic-Nr:  00450 001
+BSV-XLS Swissmedic-Nr:   450   
+
+Pharmacode: 2471465
+Encepur N/Encepur N Kinder Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin Swissmedic-Nr:  00627 001
+BSV-XLS Swissmedic-Nr:   627   
+
+Pharmacode: 2471519
+Encepur N/Encepur N Kinder Amp. 0.25 ml 1 Amp. ad iniect. parat. 0,25 ml
+Medwin Swissmedic-Nr:  00628 001
+BSV-XLS Swissmedic-Nr:   628   
+
+Pharmacode: 2477255
+Endobulin S/D Amp. 2.5 g 1 Amp. 2,5 g
+Medwin Swissmedic-Nr:  00464 003
+BSV-XLS Swissmedic-Nr:   464   
+
+Pharmacode: 2477278
+Endobulin S/D Amp. 5 g 1 Amp. 5 g
+Medwin Swissmedic-Nr:  00464 004
+BSV-XLS Swissmedic-Nr:   464   
+
+Pharmacode: 2477284
+Endobulin S/D Amp. 10 g 1 Amp. 10 g
+Medwin Swissmedic-Nr:  00464 005
+BSV-XLS Swissmedic-Nr:   464   
+
+Pharmacode: 2484019
+Ranitidin-Mepha Compr. 300 mg 40 Compr. 300 mg
+Medwin Swissmedic-Nr:  53664 113
+BSV-XLS Swissmedic-Nr: 53664 059
+
+Pharmacode: 2484025
+Ranitidin-Mepha Compr. 300 mg 60 Compr. 300 mg
+Medwin Swissmedic-Nr:  53664 121
+BSV-XLS Swissmedic-Nr: 53664 067
+
+Pharmacode: 2484031
+Ranitidin-Mepha Compr. 300 mg 20 Compr. 300 mg
+Medwin Swissmedic-Nr:  53664 105
+BSV-XLS Swissmedic-Nr: 53664 040
+
+Pharmacode: 2484048
+Ranitidin-Mepha Compr. 150 mg 20 Compr. 150 mg
+Medwin Swissmedic-Nr:  53664 075
+BSV-XLS Swissmedic-Nr: 53664 016
+
+Pharmacode: 2484054
+Ranitidin-Mepha Compr. 150 mg 60 Compr. 150 mg
+Medwin Swissmedic-Nr:  53664 083
+BSV-XLS Swissmedic-Nr: 53664 024
+
+Pharmacode: 2484060
+Ranitidin-Mepha Compr. 150 mg 120 Compr. 150 mg
+Medwin Swissmedic-Nr:  53664 091
+BSV-XLS Swissmedic-Nr: 53664 032
+
+Pharmacode: 2488282
+Alkeran Compr. 2 mg 25 Compr. 2 mg
+Medwin Swissmedic-Nr:  30897 048
+BSV-XLS Swissmedic-Nr: 30897 013
+
+Pharmacode: 2494489
+Zinat Susp. 25 mg/ml 100 ml Susp. 25 mg/ml
+Medwin Swissmedic-Nr:  50882 071
+BSV-XLS Swissmedic-Nr: 50882 055
+
+Pharmacode: 2495023
+Glucose Infus. 5 % 1000 ml 5%
+Medwin Swissmedic-Nr:  29550 859
+BSV-XLS Swissmedic-Nr: 29550 034
+
+Pharmacode: 2506726
+Engerix-B 20 Amp. 1 Amp. ad iniect. parat.
+Medwin Swissmedic-Nr:  00534 001
+BSV-XLS Swissmedic-Nr:   534   
+
+Pharmacode: 2514826
+Neisvac-C Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin Swissmedic-Nr:  00656 001
+BSV-XLS Swissmedic-Nr:   656   
+
+Pharmacode: 2515978
+Engerix-B 10 Amp. 1 Amp. ad iniect. parat. pro infant.
+Medwin Swissmedic-Nr:  90055 102
+BSV-XLS Swissmedic-Nr:   551   
+
+Pharmacode: 2539654
+Nifedipin-Mepha Compr. 30 mg 30 Compr. retard 30 mg
+Medwin Swissmedic-Nr:  52458 080
+BSV-XLS Swissmedic-Nr: 52458 102
+
+Pharmacode: 2539677
+Nifedipin-Mepha Compr. 30 mg 100 Compr. retard 30 mg
+Medwin Swissmedic-Nr:  52458 099
+BSV-XLS Swissmedic-Nr: 52458 110
+
+Pharmacode: 2539683
+Nifedipin-Mepha Compr. 60 mg 30 Compr. retard 60 mg
+Medwin Swissmedic-Nr:  52458 102
+BSV-XLS Swissmedic-Nr: 52458 080
+
+Pharmacode: 2539743
+Nifedipin-Mepha Compr. 60 mg 100 Compr. retard 60 mg
+Medwin Swissmedic-Nr:  52458 110
+BSV-XLS Swissmedic-Nr: 52458 099
+
+Pharmacode: 2555239
+Acemucol Sach. 100 mg 30 Sach. 100 mg
+Medwin Swissmedic-Nr:  50121 046
+BSV-XLS Swissmedic-Nr: 50121 011
+
+Pharmacode: 2561731
+Copegus Filmtabs 200 168 Filmtabs 200 mg
+Medwin Swissmedic-Nr:  56001 006
+BSV-XLS Swissmedic-Nr: 56001 004
+
+Pharmacode: 2563380
+Remeron Soltab 15 mg 6 Soltabs 15 mg
+Medwin Swissmedic-Nr:  56075 026
+BSV-XLS Swissmedic-Nr: 56075 002
+
+Pharmacode: 2563397
+Remeron Soltab 15 mg 30 Soltabs 15 mg
+Medwin Swissmedic-Nr:  56075 034
+BSV-XLS Swissmedic-Nr: 56075 004
+
+Pharmacode: 2563428
+Remeron Soltab 30 mg 30 Soltabs 30 mg
+Medwin Swissmedic-Nr:  56075 052
+BSV-XLS Swissmedic-Nr: 56075 008
+
+Pharmacode: 2563434
+Remeron Soltab 30 mg 96 Soltabs 30 mg
+Medwin Swissmedic-Nr:  56075 058
+BSV-XLS Swissmedic-Nr: 56075 010
+
+Pharmacode: 2568897
+Florosan eco natura Caps. 250 mg 10 Caps. 250 mg
+Medwin Swissmedic-Nr:  55836 001
+BSV-XLS Swissmedic-Nr: 55836 000
+
+Pharmacode: 2568911
+Florosan eco natura Caps. 250 mg 20 Caps. 250 mg
+Medwin Swissmedic-Nr:  55836 002
+BSV-XLS Swissmedic-Nr: 55836 000
+
+Pharmacode: 2574030
+Stocrin Filmtabs 600 mg 30 Filmtabs 600 mg
+Medwin Swissmedic-Nr:  56000 011
+BSV-XLS Swissmedic-Nr: 56000 001
+
+Pharmacode: 2574142
+Bonefos Amp. 300 mg 5 Amp. 300 mg
+Medwin Swissmedic-Nr:  50958 020
+BSV-XLS Swissmedic-Nr: 50958 019
+
+Pharmacode: 2594096
+Menjugate Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00657 001
+BSV-XLS Swissmedic-Nr:   657   
+
+Pharmacode: 2600632
+Isotretinoin-Mepha Caps. 10 mg 30 Solucaps. 10 mg
+Medwin Swissmedic-Nr:  55972 009
+BSV-XLS Swissmedic-Nr: 55972 001
+
+Pharmacode: 2600649
+Isotretinoin-Mepha Caps. 10 mg 100 Solucaps. 10 mg
+Medwin Swissmedic-Nr:  55972 011
+BSV-XLS Swissmedic-Nr: 55972 003
+
+Pharmacode: 2600655
+Isotretinoin-Mepha Caps. 20 mg 30 Solucaps. 20 mg
+Medwin Swissmedic-Nr:  55972 013
+BSV-XLS Swissmedic-Nr: 55972 005
+
+Pharmacode: 2600661
+Isotretinoin-Mepha Caps. 20 mg 100 Solucaps. 20 mg
+Medwin Swissmedic-Nr:  55972 015
+BSV-XLS Swissmedic-Nr: 55972 007
+
+Pharmacode: 2617845
+Cellufluid Guttae 0.5 % 10 ml Guttae 0,5%
+Medwin Swissmedic-Nr:  55345 008
+BSV-XLS Swissmedic-Nr: 55345 002
+
+Pharmacode: 2629937
+Balmed Hermal Liquid. 85 % 200 ml Liquid. 85%
+Medwin Swissmedic-Nr:  29448 086
+BSV-XLS Swissmedic-Nr: 29448 051
+
+Pharmacode: 2629943
+Balmed Hermal Liquid. 85 % 500 ml Liquid. 85%
+Medwin Swissmedic-Nr:  29448 078
+BSV-XLS Swissmedic-Nr: 29448 043
+
+Pharmacode: 2629966
+Balmed Hermal F Liquid. 46.45 % 200 ml Liquid. (46,45+47%)
+Medwin Swissmedic-Nr:  41476 087
+BSV-XLS Swissmedic-Nr: 41476 060
+
+Pharmacode: 2629972
+Balmed Hermal F Liquid. 46.45 % 500 ml Liquid. (46,45+47%)
+Medwin Swissmedic-Nr:  41476 079
+BSV-XLS Swissmedic-Nr: 41476 052
+
+Pharmacode: 2629989
+Balmed Hermal Plus Liquid. 82.95 % 200 ml Liquid. (82,95+15%)
+Medwin Swissmedic-Nr:  48787 096
+BSV-XLS Swissmedic-Nr: 48787 053
+
+Pharmacode: 2629995
+Balmed Hermal Plus Liquid. 82.95 % 500 ml Liquid. (82,95+15%)
+Medwin Swissmedic-Nr:  48787 118
+BSV-XLS Swissmedic-Nr: 48787 037
+
+Pharmacode: 2639491
+Didronel Compr. 200 mg 60 Compr. 200 mg
+Medwin Swissmedic-Nr:  42599 032
+BSV-XLS Swissmedic-Nr: 42599 018
+
+Pharmacode: 2648320
+Transipeg Sach. 5.9 g 90 Sach. forte (5,9 g+146+568+75+168 mg)
+Medwin Swissmedic-Nr:  53282 075
+BSV-XLS Swissmedic-Nr: 53282 059
+
+Pharmacode: 2665092
+Venoruton 1000 Compr. efferv. 1 g 30 Compr. efferv. 1 g
+Medwin Swissmedic-Nr:  55875 076
+BSV-XLS Swissmedic-Nr: 55875 002
+
+Pharmacode: 2666602
+Ceftriaxon-Biochemie Amp. 1 g 1 Amp. 1 g
+Medwin Swissmedic-Nr:  55682 005
+BSV-XLS Swissmedic-Nr: 55682 029
+
+Pharmacode: 2667814
+Elpradil Compr. 10 mg 98 Compr. mite 10 mg
+Medwin Swissmedic-Nr:  55866 005
+BSV-XLS Swissmedic-Nr: 55866 003
+
+Pharmacode: 2668104
+Calcium-Sandoz D3f/ff Sach. 1000 mg 30 Sach. ff (1000 mg+880 I.E.)
+Medwin Swissmedic-Nr:  53628 079
+BSV-XLS Swissmedic-Nr: 53628 044
+
+Pharmacode: 2668110
+Calcium-Sandoz D3f/ff Sach. 1000 mg 90 Sach. ff (1000 mg+880 I.E.)
+Medwin Swissmedic-Nr:  53628 109
+BSV-XLS Swissmedic-Nr: 53628 052
+
+Pharmacode: 2668156
+Calcium-Sandoz D3f/ff Sach. 500 mg 30 Sach. f (500 mg+440 I.E.)
+Medwin Swissmedic-Nr:  53628 060
+BSV-XLS Swissmedic-Nr: 53628 028
+
+Pharmacode: 2668162
+Calcium-Sandoz D3f/ff Sach. 500 mg 90 Sach. f (500 mg+440 I.E.)
+Medwin Swissmedic-Nr:  53628 095
+BSV-XLS Swissmedic-Nr: 53628 036
+
+Pharmacode: 2678143
+Zorotop Caps. 2 mg 20 Caps. 2 mg
+Medwin Swissmedic-Nr:  56699 006
+BSV-XLS Swissmedic-Nr: 56697 006
+
+Pharmacode: 2678166
+Zorotop Caps. 2 mg 60 Caps. 2 mg
+Medwin Swissmedic-Nr:  56699 010
+BSV-XLS Swissmedic-Nr: 56697 010
+
+Pharmacode: 2710148
+Propycil Compr. 50 mg 20 Compr. 50 mg
+Medwin Swissmedic-Nr:  56300 001
+BSV-XLS Swissmedic-Nr: 56300 018
+
+Pharmacode: 2710177
+Propycil Compr. 50 mg 100 Compr. 50 mg
+Medwin Swissmedic-Nr:  56300 013
+BSV-XLS Swissmedic-Nr: 56300 025
+
+Pharmacode: 2713767
+FSME Immun Junior Amp. 1.19 mcg 1 Amp. ad iniect. parat. 0,25 ml 1,19
+mcg
+Medwin Swissmedic-Nr:  00683 001
+BSV-XLS Swissmedic-Nr:   450   
+
+Pharmacode: 2723688
+HB Vax Pro 10 Amp. 10 mcg 1 Amp. pro adult. 10 mcg
+Medwin Swissmedic-Nr:  00663 001
+BSV-XLS Swissmedic-Nr:   663   
+
+Pharmacode: 2734829
+Hepasol Lipogel 600 E/g 50 g Lipogel 600 I.E./g
+Medwin Swissmedic-Nr:  55948 009
+BSV-XLS Swissmedic-Nr: 55948 001
+
+Pharmacode: 2734835
+Hepasol Lipogel 600 E/g 100 g Lipogel 600 I.E./g
+Medwin Swissmedic-Nr:  55948 015
+BSV-XLS Swissmedic-Nr: 55948 003
+
+Pharmacode: 2734976
+Asp=E9gic Forte Sach. 1000 mg 20 Sach. 1000 mg
+Medwin Swissmedic-Nr:  38133 101
+BSV-XLS Swissmedic-Nr: 38133 047
+
+Pharmacode: 2743455
+Copegus Filmtabs 200 112 Filmtabs 200 mg
+Medwin Swissmedic-Nr:  56001 008
+BSV-XLS Swissmedic-Nr: 56001 006
+
+Pharmacode: 2748949
+Eprex Amp. 20000 IE 1 Amp. ad iniect. parat. 0,5 ml 20'000 I.E.
+Medwin Swissmedic-Nr:  49078 579
+BSV-XLS Swissmedic-Nr: 49078 679
+
+Pharmacode: 2761447
+MultiHance Vitr. 529 mg 1 Vitr. 15 ml (529 mg =3D 334+195 mg/ml)
+Medwin Swissmedic-Nr:  56212 002
+BSV-XLS Swissmedic-Nr: 56212 003
+
+Pharmacode: 2761453
+MultiHance Vitr. 529 mg 1 Vitr. 20 ml (529 mg =3D 334+195 mg/ml)
+Medwin Swissmedic-Nr:  56212 003
+BSV-XLS Swissmedic-Nr: 56212 005
+
+Pharmacode: 2762501
+Simcora Compr. 40 mg 100 Compr. 40 mg
+Medwin Swissmedic-Nr:  56035 008
+BSV-XLS Swissmedic-Nr: 56035 009
+
+Pharmacode: 2762719
+Myoview Vitr. 0.23 mg 2 Vitr. 0,23 mg
+Medwin Swissmedic-Nr:  53562 014
+BSV-XLS Swissmedic-Nr: 53653 014
+
+Pharmacode: 2771345
+Ecovent Easyhaler Pulverinhal. 200 mcg 200 Dosen Pulv. 200 mcg
+Medwin Swissmedic-Nr:  53190 049
+BSV-XLS Swissmedic-Nr: 53190 022
+
+Pharmacode: 2787352
+Sinupret Obd. 12 mg 20 Obd. forte (12+36+36+36+36 mg)
+Medwin Swissmedic-Nr:  53159 044
+BSV-XLS Swissmedic-Nr: 53159 030
+
+Pharmacode: 2787582
+Andriol Testocaps Testocaps 40 mg 60 Testocaps 40 mg
+Medwin Swissmedic-Nr:  42028 029
+BSV-XLS Swissmedic-Nr: 42028 010
+
+Pharmacode: 2802904
+Recombinate Amp. 250 IE 1 Amp. 250 I.E.
+Medwin Swissmedic-Nr:  53627 080
+BSV-XLS Swissmedic-Nr: 53627 013
+
+Pharmacode: 2802927
+Recombinate Amp. 500 IE 1 Amp. 500 I.E.
+Medwin Swissmedic-Nr:  53627 099
+BSV-XLS Swissmedic-Nr: 53627 021
+
+Pharmacode: 2802962
+Recombinate Amp. 1000 IE 1 Amp. 1000 I.E.
+Medwin Swissmedic-Nr:  53627 102
+BSV-XLS Swissmedic-Nr: 53627 048
+
+Pharmacode: 2811599
+Enalapril Sandoz Compr. 10 mg 30 Compr. mite 10 mg
+Medwin Swissmedic-Nr:  56111 010
+BSV-XLS Swissmedic-Nr: 56111 006
+
+Pharmacode: 2811607
+Enalapril Sandoz Compr. 10 mg 100 Compr. mite 10 mg
+Medwin Swissmedic-Nr:  56111 012
+BSV-XLS Swissmedic-Nr: 56111 008
+
+Pharmacode: 2811613
+Enalapril Sandoz Compr. 20 mg 30 Compr. 20 mg
+Medwin Swissmedic-Nr:  56111 014
+BSV-XLS Swissmedic-Nr: 56111 002
+
+Pharmacode: 2811636
+Enalapril Sandoz Compr. 20 mg 100 Compr. 20 mg
+Medwin Swissmedic-Nr:  56111 016
+BSV-XLS Swissmedic-Nr: 56111 004
+
+Pharmacode: 2816332
+Mnesis Compr. 45 mg 30 Compr. 45 mg
+Medwin Swissmedic-Nr:  56276 003
+BSV-XLS Swissmedic-Nr: 56276 000
+
+Pharmacode: 2819951
+Boostrix Polio Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00681 001
+BSV-XLS Swissmedic-Nr:   681   
+
+Pharmacode: 2822574
+Mifegyne Compr. 200 mg 3 Compr. 200 mg
+Medwin Swissmedic-Nr:  55205 002
+BSV-XLS Swissmedic-Nr: 55250 002
+
+Pharmacode: 2822901
+Poliorix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00669 001
+BSV-XLS Swissmedic-Nr:   669   
+
+Pharmacode: 2837311
+Co-Enalapril Sandoz Compr. 20 mg 28 Compr. (20+12,5 mg)
+Medwin Swissmedic-Nr:  56647 006
+BSV-XLS Swissmedic-Nr: 56647 002
+
+Pharmacode: 2837328
+Co-Enalapril Sandoz Compr. 20 mg 98 Compr. (20+12,5 mg)
+Medwin Swissmedic-Nr:  56647 008
+BSV-XLS Swissmedic-Nr: 56647 004
+
+Pharmacode: 2837529
+Principrox Filmtabs 750 mg 20 Filmtabs 750 mg
+Medwin Swissmedic-Nr:  56490 120
+BSV-XLS Swissmedic-Nr: 56649 014
+
+Pharmacode: 2840394
+Tobin Filmtabs 10 mg 30 Filmtabs 10 mg
+Medwin Swissmedic-Nr:  56328 005
+BSV-XLS Swissmedic-Nr: 56328 006
+
+Pharmacode: 2840520
+Influvac Plus Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin Swissmedic-Nr:  00660 051
+BSV-XLS Swissmedic-Nr:   660   
+
+Pharmacode: 2845581
+Solevita Caps. 425 mg 30 Caps. 425 mg
+Medwin Swissmedic-Nr:  55914 007
+BSV-XLS Swissmedic-Nr: 55914 003
+
+Pharmacode: 2845598
+Solevita Caps. 425 mg 100 Caps. 425 mg
+Medwin Swissmedic-Nr:  55914 031
+BSV-XLS Swissmedic-Nr: 55914 021
+
+Pharmacode: 2845954
+Mencevax ACWY Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00652 001
+BSV-XLS Swissmedic-Nr: 65200 001
+
+Pharmacode: 2847189
+HB Vax Pro 5 Amp. 5 mcg 1 Amp. pro infant. 5 mcg
+Medwin Swissmedic-Nr:  00662 001
+BSV-XLS Swissmedic-Nr:   662   
+
+Pharmacode: 2867950
+Zoladex Depot Impl. s. c. 3.6 mg 1 Implantat s.c.3,6 mg
+Medwin Swissmedic-Nr:  48159 044
+BSV-XLS Swissmedic-Nr: 48159 028
+
+Pharmacode: 2867967
+Zoladex Depot Impl. s. c. 3.6 mg 3 Implantate s.c. 3,6 mg
+Medwin Swissmedic-Nr:  48159 052
+BSV-XLS Swissmedic-Nr: 48159 036
+
+Pharmacode: 2867973
+Zoladex LA Impl. s. c. 10.8 mg 1 Implantat s.c. 10,8 mg
+Medwin Swissmedic-Nr:  53371 027
+BSV-XLS Swissmedic-Nr: 53371 019
+
+Pharmacode: 2875300
+Utrogestan Caps. 100 mg 90 Caps. 100 mg
+Medwin Swissmedic-Nr:  45351 041
+BSV-XLS Swissmedic-Nr: 45351 020
+
+Pharmacode: 2879663
+Fem7 System TTS 25 12 Systeme TTS 25
+Medwin Swissmedic-Nr:  53855 075
+BSV-XLS Swissmedic-Nr: 53855 040
+
+Pharmacode: 2883357
+Mimpara Caps. 30 mg 28 Caps. 30 mg
+Medwin Swissmedic-Nr:  56965 004
+BSV-XLS Swissmedic-Nr: 56965 002
+
+Pharmacode: 2883363
+Mimpara Caps. 60 mg 28 Caps. 60 mg
+Medwin Swissmedic-Nr:  56965 010
+BSV-XLS Swissmedic-Nr: 56965 008
+
+Pharmacode: 2883386
+Mimpara Caps. 90 mg 28 Caps. 90 mg
+Medwin Swissmedic-Nr:  56965 016
+BSV-XLS Swissmedic-Nr: 56965 014
+
+Pharmacode: 2885965
+Emtriva Caps. 200 mg 30 Caps. 200 mg
+Medwin Swissmedic-Nr:  56880 003
+BSV-XLS Swissmedic-Nr: 56880 001
+
+Pharmacode: 2900771
+Redimune NF Liquid Amp. 6 g 1 Amp. 6 g/50 ml
+Medwin Swissmedic-Nr:  00678 001
+BSV-XLS Swissmedic-Nr:   678   
+
+Pharmacode: 2900794
+Redimune NF Liquid Amp. 12 g 1 Amp. 12 g/100 ml
+Medwin Swissmedic-Nr:  00678 002
+BSV-XLS Swissmedic-Nr:   678   
+
+Pharmacode: 2912308
+Amiodarone Winthrop Obd. 200 mg 20 Obd. 200 mg
+Medwin Swissmedic-Nr:  53114 067
+BSV-XLS Swissmedic-Nr: 53114 032
+
+Pharmacode: 2912314
+Amiodarone Winthrop Obd. 200 mg 60 Obd. 200 mg
+Medwin Swissmedic-Nr:  53114 075
+BSV-XLS Swissmedic-Nr: 53114 040
+
+Pharmacode: 2912975
+Axotide Aerosol 50 mcg/Dosis 120 Dosen Dosieraerosol (50 mcg pro dosi)
+Medwin Swissmedic-Nr:  54306 032
+BSV-XLS Swissmedic-Nr: 52224 012
+
+Pharmacode: 2937308
+Fluoxetin Sandoz Caps. 20 mg 14 Caps. 20 mg
+Medwin Swissmedic-Nr:  54492 073
+BSV-XLS Swissmedic-Nr: 54492 049
+
+Pharmacode: 2937314
+Fluoxetin Sandoz Caps. 20 mg 30 Caps. 20 mg
+Medwin Swissmedic-Nr:  54492 081
+BSV-XLS Swissmedic-Nr: 54492 057
+
+Pharmacode: 2937320
+Fluoxetin Sandoz Caps. 20 mg 100 Caps. 20 mg
+Medwin Swissmedic-Nr:  54492 103
+BSV-XLS Swissmedic-Nr: 54492 065
+
+Pharmacode: 2943421
+Atenolol Sandoz Filmtabs 50 mg 14 Filmtabs 50 mg
+Medwin Swissmedic-Nr:  50651 088
+BSV-XLS Swissmedic-Nr: 50651 010
+
+Pharmacode: 2943438
+Atenolol Sandoz Filmtabs 50 mg 30 Filmtabs 50 mg
+Medwin Swissmedic-Nr:  50651 096
+BSV-XLS Swissmedic-Nr: 50651 029
+
+Pharmacode: 2943444
+Atenolol Sandoz Filmtabs 50 mg 100 Filmtabs 50 mg
+Medwin Swissmedic-Nr:  50651 118
+BSV-XLS Swissmedic-Nr: 50651 037
+
+Pharmacode: 2943450
+Atenolol Sandoz Filmtabs 100 mg 14 Filmtabs 100 mg
+Medwin Swissmedic-Nr:  50651 126
+BSV-XLS Swissmedic-Nr: 50651 045
+
+Pharmacode: 2943467
+Atenolol Sandoz Filmtabs 100 mg 30 Filmtabs 100 mg
+Medwin Swissmedic-Nr:  50651 134
+BSV-XLS Swissmedic-Nr: 50651 053
+
+Pharmacode: 2943473
+Atenolol Sandoz Filmtabs 100 mg 100 Filmtabs 100 mg
+Medwin Swissmedic-Nr:  50651 142
+BSV-XLS Swissmedic-Nr: 50651 061
+
+Pharmacode: 2943504
+Omeprazol Sandoz Caps. 10 mg 14 Caps. 10 mg
+Medwin Swissmedic-Nr:  55874 023
+BSV-XLS Swissmedic-Nr: 55874 001
+
+Pharmacode: 2943510
+Omeprazol Sandoz Caps. 10 mg 28 Caps. 10 mg
+Medwin Swissmedic-Nr:  55874 025
+BSV-XLS Swissmedic-Nr: 55874 003
+
+Pharmacode: 2943527
+Omeprazol Sandoz Caps. 10 mg 56 Caps. 10 mg
+Medwin Swissmedic-Nr:  55874 027
+BSV-XLS Swissmedic-Nr: 55874 005
+
+Pharmacode: 2943533
+Omeprazol Sandoz Caps. 10 mg 98 Caps. 10 mg
+Medwin Swissmedic-Nr:  55874 029
+BSV-XLS Swissmedic-Nr: 55874 021
+
+Pharmacode: 2943556
+Omeprazol Sandoz Caps. 20 mg 7 Caps. 20 mg
+Medwin Swissmedic-Nr:  55874 037
+BSV-XLS Swissmedic-Nr: 55874 013
+
+Pharmacode: 2943562
+Omeprazol Sandoz Caps. 20 mg 14 Caps. 20 mg
+Medwin Swissmedic-Nr:  55874 031
+BSV-XLS Swissmedic-Nr: 55874 007
+
+Pharmacode: 2943579
+Omeprazol Sandoz Caps. 20 mg 28 Caps. 20 mg
+Medwin Swissmedic-Nr:  55874 033
+BSV-XLS Swissmedic-Nr: 55874 009
+
+Pharmacode: 2943585
+Omeprazol Sandoz Caps. 20 mg 56 Caps. 20 mg
+Medwin Swissmedic-Nr:  55874 035
+BSV-XLS Swissmedic-Nr: 55874 011
+
+Pharmacode: 2943591
+Omeprazol Sandoz Caps. 20 mg 98 Caps. 20 mg
+Medwin Swissmedic-Nr:  55874 039
+BSV-XLS Swissmedic-Nr: 55874 017
+
+Pharmacode: 2943616
+Omeprazol Sandoz Caps. 40 mg 7 Caps. 40 mg
+Medwin Swissmedic-Nr:  55874 043
+BSV-XLS Swissmedic-Nr: 55874 019
+
+Pharmacode: 2943622
+Omeprazol Sandoz Caps. 40 mg 28 Caps. 40 mg
+Medwin Swissmedic-Nr:  55874 041
+BSV-XLS Swissmedic-Nr: 55874 015
+
+Pharmacode: 2946170
+Tarceva Compr. 100 mg 30 Compr. 100 mg
+Medwin Swissmedic-Nr:  57266 003
+BSV-XLS Swissmedic-Nr: 57266 005
+
+Pharmacode: 2946193
+Tarceva Compr. 150 mg 30 Compr. 150 mg
+Medwin Swissmedic-Nr:  57266 005
+BSV-XLS Swissmedic-Nr: 57266 003
+
+Pharmacode: 2958316
+Telzir Filmtabs 700 mg 60 Filmtabs 700 mg
+Medwin Swissmedic-Nr:  56707 002
+BSV-XLS Swissmedic-Nr: 56707 024
+
+Pharmacode: 2958380
+Telzir Susp. 50 mg/ml 225 ml Susp. 50 mg/ml
+Medwin Swissmedic-Nr:  56706 001
+BSV-XLS Swissmedic-Nr: 56706 018
+
+Pharmacode: 2986896
+Zolpidem Helvepharm Filmtabs 10 mg 30 Filmtabs 10 mg
+Medwin Swissmedic-Nr:  57056 021
+BSV-XLS Swissmedic-Nr: 57056 002
+
+Pharmacode: 2993169
+Mefenamins=E4ure Sandoz Supp. 125 mg 10 Supp. 125 mg
+Medwin Swissmedic-Nr:  55390 005
+BSV-XLS Swissmedic-Nr: 55390 001
+
+Pharmacode: 2993175
+Mefenamins=E4ure Sandoz Caps. 250 mg 10 Caps. 250 mg
+Medwin Swissmedic-Nr:  55389 008
+BSV-XLS Swissmedic-Nr: 55389 002
+
+Pharmacode: 2993198
+Mefenamins=E4ure Sandoz Caps. 250 mg 30 Caps. 250 mg
+Medwin Swissmedic-Nr:  55389 010
+BSV-XLS Swissmedic-Nr: 55389 004
+
+Pharmacode: 2993206
+Mefenamins=E4ure Sandoz Caps. 250 mg 100 Caps. 250 mg
+Medwin Swissmedic-Nr:  55389 012
+BSV-XLS Swissmedic-Nr: 55389 006
+
+Pharmacode: 2993212
+Mefenamins=E4ure Sandoz Filmtabs 500 mg 10 Filmtabs 500 mg
+Medwin Swissmedic-Nr:  55388 007
+BSV-XLS Swissmedic-Nr: 55388 001
+
+Pharmacode: 2993229
+Mefenamins=E4ure Sandoz Filmtabs 500 mg 30 Filmtabs 500 mg
+Medwin Swissmedic-Nr:  55388 009
+BSV-XLS Swissmedic-Nr: 55388 003
+
+Pharmacode: 2993235
+Mefenamins=E4ure Sandoz Filmtabs 500 mg 100 Filmtabs 500 mg
+Medwin Swissmedic-Nr:  55388 011
+BSV-XLS Swissmedic-Nr: 55388 005
+
+Pharmacode: 2993241
+Mefenamins=E4ure Sandoz Supp. 500 mg 10 Supp. 500 mg
+Medwin Swissmedic-Nr:  55390 007
+BSV-XLS Swissmedic-Nr: 55390 003
+
+Pharmacode: 2997380
+Methotrexat Wyeth Compr. 2.5 mg 100 Compr. 2,5 mg
+Medwin Swissmedic-Nr:  28541 058
+BSV-XLS Swissmedic-Nr: 28541 023
+
+Pharmacode: 2997397
+Methotrexat Wyeth Amp. 5 mg/2ml 1 Amp. 5 mg/2ml
+Medwin Swissmedic-Nr:  44949 199
+BSV-XLS Swissmedic-Nr: 44949 016
+
+Pharmacode: 2997405
+Methotrexat Wyeth Amp. 25 mg/ml 1 Amp. 25 mg/ml
+Medwin Swissmedic-Nr:  44949 202
+BSV-XLS Swissmedic-Nr: 44949 059
+
+Pharmacode: 2998304
+Immunate SD Amp. 500 IE 1 Amp. 500 I.E.
+Medwin Swissmedic-Nr:  52715 024
+BSV-XLS Swissmedic-Nr: 52716 024
+
+Pharmacode: 2998310
+Immunate SD Amp. 1000 IE 1 Amp. 1000 I.E.
+Medwin Swissmedic-Nr:  52715 032
+BSV-XLS Swissmedic-Nr: 52716 032
+
+Pharmacode: 3022858
+Aranesp Sureclick Amp. 20 mcg 1 Amp. ad iniect. parat. 20 mcg
+Medwin Swissmedic-Nr:  57470 005
+BSV-XLS Swissmedic-Nr: 55725 012
+
+Pharmacode: 3022864
+Aranesp Sureclick Amp. 40 mcg 1 Amp. ad iniect. parat. 40 mcg
+Medwin Swissmedic-Nr:  57470 009
+BSV-XLS Swissmedic-Nr: 55725 020
+
+Pharmacode: 3022870
+Aranesp Sureclick Amp. 60 mcg 1 Amp. ad iniect. parat. 60 mcg
+Medwin Swissmedic-Nr:  57470 013
+BSV-XLS Swissmedic-Nr: 55725 028
+
+Pharmacode: 3022887
+Aranesp Sureclick Amp. 80 mcg 1 Amp. ad iniect. parat. 80 mcg
+Medwin Swissmedic-Nr:  57470 015
+BSV-XLS Swissmedic-Nr: 55725 032
+
+Pharmacode: 3022901
+Aranesp Sureclick Amp. 100 mcg 1 Amp. ad iniect. parat. 100 mcg
+Medwin Swissmedic-Nr:  57470 017
+BSV-XLS Swissmedic-Nr: 55725 036
+
+Pharmacode: 3022924
+Aranesp Sureclick Amp. 150 mcg 1 Amp. ad iniect. parat. 150 mcg
+Medwin Swissmedic-Nr:  57470 019
+BSV-XLS Swissmedic-Nr: 55725 040
+
+Pharmacode: 3022930
+Aranesp Sureclick Amp. 300 mcg 1 Amp. ad iniect. parat. 300 mcg
+Medwin Swissmedic-Nr:  57470 021
+BSV-XLS Swissmedic-Nr: 55725 042
+
+Pharmacode: 3022947
+Aranesp Sureclick Amp. 500 mcg 1 Amp. ad iniect. parat. 500 mcg
+Medwin Swissmedic-Nr:  57470 023
+BSV-XLS Swissmedic-Nr: 55725 046
+
+Pharmacode: 3030622
+Tetralysal Caps. 300 mg 28 Caps. 300 mg
+Medwin Swissmedic-Nr:  56853 004
+BSV-XLS Swissmedic-Nr: 56769 004
+
+Pharmacode: 325972
+Ipeca Sirup. 0.0088 % 200 ml Sirup.
+Medwin Swissmedic-Nr:  12307 020
+BSV-XLS Swissmedic-Nr: 12307 012
+
+Pharmacode: 341988
+Fibrolan Ungt. 1 E 30 g Ungt. (1+666 E./u.)
+Medwin Swissmedic-Nr:  28557 027
+BSV-XLS Swissmedic-Nr: 28557 019
+
+Pharmacode: 342634
+Petinutin Caps. 300 mg 100 Caps. 300 mg
+Medwin Swissmedic-Nr:  29863 024
+BSV-XLS Swissmedic-Nr: 29863 016
+
+Pharmacode: 344805
+Myleran Obd. 2 mg 100 Obd. 2 mg
+Medwin Swissmedic-Nr:  21712 035
+BSV-XLS Swissmedic-Nr: 21712 027
+
+Pharmacode: 344886
+Neosporin Guttae 5000 E/ml 5 ml Guttae (5000+1700+25 I.E./u.i./ml)
+Medwin Swissmedic-Nr:  33314 027
+BSV-XLS Swissmedic-Nr: 33314 019
+
+Pharmacode: 515690
+Alucol Gel 375 mg/5ml 130 ml Gel (375+175 mg/5 ml)
+Medwin Swissmedic-Nr:  36355 107
+BSV-XLS Swissmedic-Nr: 36355 018
+
+Pharmacode: 519498
+Vi-De 3 Liquid. 4500 I.E. / ml 10 ml Liquid. (Sol. alcohol.) 4'500
+U.I./ml
+Medwin Swissmedic-Nr:  09395 016
+BSV-XLS Swissmedic-Nr: 93950  16
+
+Pharmacode: 581706
+Dexalocal-F Cr=E8me 0.1 % 20 g Cr=E8me (0,1+0,5%)
+Medwin Swissmedic-Nr:  36231 025
+BSV-XLS Swissmedic-Nr: 36231 017
+
+Pharmacode: 595039
+M-M-R-Vax II Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00268 001
+BSV-XLS Swissmedic-Nr:   268   
+
+Pharmacode: 606145
+Alucol Gel 375 mg/5ml 500 ml Gel (375+175 mg/5 ml)
+Medwin Swissmedic-Nr:  36355 115
+BSV-XLS Swissmedic-Nr: 36355 026
+
+Pharmacode: 631999
+Clamoxyl Sirup. 25 mg/ml 80 ml Sirup. 25 mg/ml
+Medwin Swissmedic-Nr:  37848 034
+BSV-XLS Swissmedic-Nr: 37848 018
+
+Pharmacode: 720639
+Carbaderm Cr=E8me 10 % 100 ml Cr=E8me 10%
+Medwin Swissmedic-Nr:  40333 037
+BSV-XLS Swissmedic-Nr: 40333 010
+
+Pharmacode: 723543
+Vaccin Rabique Inactiv=E9 Amp. 1 Amp. =E0 1 Dose
+Medwin Swissmedic-Nr:  90041 701
+BSV-XLS Swissmedic-Nr:   417   
+
+Pharmacode: 732944
+Convulex Caps. 150 mg 100 Caps. 150 mg
+Medwin Swissmedic-Nr:  40410 058
+BSV-XLS Swissmedic-Nr: 40410 015
+
+Pharmacode: 732950
+Convulex Caps. 300 mg 100 Caps. 300 mg
+Medwin Swissmedic-Nr:  40410 066
+BSV-XLS Swissmedic-Nr: 40410 023
+
+Pharmacode: 778544
+Demetrin Compr. 10 mg 20 Compr. 10 mg
+Medwin Swissmedic-Nr:  39416 034
+BSV-XLS Swissmedic-Nr: 39416 018
+
+Pharmacode: 778550
+Demetrin Compr. 10 mg 50 Compr. 10 mg
+Medwin Swissmedic-Nr:  39416 042
+BSV-XLS Swissmedic-Nr: 39416 026
+
+Pharmacode: 816210
+Rocaltrol Caps. 0.25 mcg 30 Caps. 0,25 mcg
+Medwin Swissmedic-Nr:  41728 116
+BSV-XLS Swissmedic-Nr: 41728 078
+
+Pharmacode: 816227
+Rocaltrol Caps. 0.25 mcg 100 Caps. 0,25 mcg
+Medwin Swissmedic-Nr:  41728 124
+BSV-XLS Swissmedic-Nr: 41728 086
+
+Pharmacode: 816233
+Rocaltrol Caps. 0.5 mcg 30 Caps. 0,5 mcg
+Medwin Swissmedic-Nr:  41728 132
+BSV-XLS Swissmedic-Nr: 41728 094
+
+Pharmacode: 816256
+Rocaltrol Caps. 0.5 mcg 100 Caps. 0,5 mcg
+Medwin Swissmedic-Nr:  41728 140
+BSV-XLS Swissmedic-Nr: 41728 108
+
+Pharmacode: 823262
+HN 25 Gran. 250 g Gran.
+Medwin Swissmedic-Nr:  39861 038
+BSV-XLS Swissmedic-Nr: 39861 011
+
+Pharmacode: 833378
+Kamillex Liquid. 100 ml Liquid.
+Medwin Swissmedic-Nr:  40231 080
+BSV-XLS Swissmedic-Nr: 40231 013
+
+Pharmacode: 856623
+Solcotrichovac Amp. 7 Mia 3 Amp. 7 Mia
+Medwin Swissmedic-Nr:  90043 703
+BSV-XLS Swissmedic-Nr:   437   
+
+Pharmacode: 860642
+Maliasin Obd. 25 mg 100 Obd. 25 mg
+Medwin Swissmedic-Nr:  31862 086
+BSV-XLS Swissmedic-Nr: 31862 051
+
+Pharmacode: 876100
+Linola fett Emulsio 40 g Emulsio
+Medwin Swissmedic-Nr:  42408 034
+BSV-XLS Swissmedic-Nr: 42408 018
+
+Pharmacode: 876117
+Linola fett Emulsio 100 g Emulsio
+Medwin Swissmedic-Nr:  42408 042
+BSV-XLS Swissmedic-Nr: 42408 026
+
+Pharmacode: 886417
+Squa-med Shampoo 150 ml Shampoo
+Medwin Swissmedic-Nr:  43007 041
+BSV-XLS Swissmedic-Nr: 43007 017
+
+Pharmacode: 908751
+Solcotrichovac Amp. 7 Mia 1 Amp. 7 Mia
+Medwin Swissmedic-Nr:  90043 701
+BSV-XLS Swissmedic-Nr:   437   
+
+Pharmacode: 933217
+Alfar=E9 Pulv. 400 g Pulv.
+Medwin Swissmedic-Nr:  44616 033
+BSV-XLS Swissmedic-Nr: 44616 025
+
+Pharmacode: 933677
+Demetrin Compr. 20 mg 50 Compr. 20 mg
+Medwin Swissmedic-Nr:  39416 069
+BSV-XLS Swissmedic-Nr: 39416 042
+
+Pharmacode: 933683
+Demetrin Compr. 20 mg 20 Compr. 20 mg
+Medwin Swissmedic-Nr:  39416 050
+BSV-XLS Swissmedic-Nr: 39416 034
+
+Pharmacode: 941642
+Influvac Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin Swissmedic-Nr:  00485 051
+BSV-XLS Swissmedic-Nr:   485   
+
+Pharmacode: 959369
+Rocephin Amp. 1 g 1 Amp. 1 g i.m.
+Medwin Swissmedic-Nr:  44625 237
+BSV-XLS Swissmedic-Nr: 44625 180
+
+Pharmacode: 959375
+Rocephin Amp. 1 g 5 Amp. 1 g i.m.
+Medwin Swissmedic-Nr:  44625 245
+BSV-XLS Swissmedic-Nr: 44625 199
+
+Pharmacode: 966369
+Convulex Caps. 500 mg 60 Caps. 500 mg
+Medwin Swissmedic-Nr:  40410 074
+BSV-XLS Swissmedic-Nr: 40410 031
+
+Pharmacode: 977887
+PK-Merz Compr. 100 mg 100 Compr. 100 mg
+Medwin Swissmedic-Nr:  45413 020
+BSV-XLS Swissmedic-Nr: 45413 012
+
+Zeno Davatz
+043 540 05 50

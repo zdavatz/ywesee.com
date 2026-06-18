@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1777215894
+host=216.128.13.34
+name=Rust2Xml.Privacy
+rev=2
+targets=
+text=!Rust2Xml Privacy%0a# Rust2xml does not save personal data.%0a# Rust2xml does not track users.%0a# Rust2xml has no ads.
+time=1777215913
+author:1777215913=zeno
+diff:1777215913:1777215894:=3,4c3,4%0a%3c # Rust2xml does not track users.%0a%3c # Rust2xml has no ads.%0a\ No newline at end of file%0a---%0a> # Rust2xml does not track users%0a> # Rust2xml has not ads.%0a\ No newline at end of file%0a
+host:1777215913=216.128.13.34
+author:1777215894=zeno
+diff:1777215894:1777215894:=1,4d0%0a%3c !Rust2Xml Privacy%0a%3c # Rust2xml does not save personal data.%0a%3c # Rust2xml does not track users%0a%3c # Rust2xml has not ads.%0a\ No newline at end of file%0a
+host:1777215894=216.128.13.34

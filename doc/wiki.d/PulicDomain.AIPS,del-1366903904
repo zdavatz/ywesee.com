@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1366903702
+host=80.219.10.249
+name=PulicDomain.AIPS
+rev=4
+targets=
+text=!! Anlass im Hotel Marriott%0a25.4.2013%0a%0a# Einleitung Matthijs Ouwerkerk: https://www.youtube.com/watch?v=NpExWJpcW2M%0a# Präsentation Zeno Davatz oddb2xml, AmiKo für Android: https://www.youtube.com/watch?v=7fea82x1o0A%0a# Abschluss Matthijs Ouwerkerk: https://www.youtube.com/watch?v=uFWTuHfJaJQ%0a%0aBei Fragen stehe ich Ihnen gerne zur Verfügung. Die Folien zur%0aPräsentation finden Sie im Video-Link auf Youtube.%0a%0a!!!Links zu den Präsentationen%0a* [[https://www.youtube.com/redirect?q=https%253A%252F%252Fdocs.google.com%252Ffile%252Fd%252F1Q4Uv2O4zKVKuYYbA1qervnl5d_ICzXLtEd3Y1nEheSAlJ7287iYnPsl-Ojo1%252Fedit%253Fusp%253Dsharing&session_token=q_OtCpvzmpEXUwqgG_EwZZMTxGN8MTM2NjkxNzI4OEAxMzY2OTAyODg4| Zeno R.R. Davatz]]%0a* [[https://docs.google.com/file/d/1bijwcnFAEoZcW3FODxcbVgK2MF87EUplReFGpN4dsNsUcHYs-2dQ-HZzm7MN/edit?usp=sharing | Matthijs Ouwerkerk]]%0a%0aMfG\\%0aZeno Davatz\\%0a+41 43 540 05 50
+time=1366903760
+author:1366903760=zeno
+diff:1366903760:1366903748:=11c11%0a%3c !!!Links zu den Präsentationen%0a---%0a> !!!Präsentation%0a
+host:1366903760=80.219.10.249
+author:1366903748=zeno
+diff:1366903748:1366903720:=4,6c4,9%0a%3c # Einleitung Matthijs Ouwerkerk: https://www.youtube.com/watch?v=NpExWJpcW2M%0a%3c # Präsentation Zeno Davatz oddb2xml, AmiKo für Android: https://www.youtube.com/watch?v=7fea82x1o0A%0a%3c # Abschluss Matthijs Ouwerkerk: https://www.youtube.com/watch?v=uFWTuHfJaJQ%0a---%0a> Einleitung Matthijs Ouwerkerk:%0a> 1. https://www.youtube.com/watch?v=NpExWJpcW2M%0a> Präsentation Zeno Davatz oddb2xml, AmiKo für Android%0a> 2. https://www.youtube.com/watch?v=7fea82x1o0A%0a> Abschluss Matthijs Ouwerkerk%0a> 3. https://www.youtube.com/watch?v=uFWTuHfJaJQ%0a
+host:1366903748=80.219.10.249
+author:1366903720=zeno
+diff:1366903720:1366903702:=5a6%0a> %0a7a9%0a> %0a18,19c20,21%0a%3c MfG\\%0a%3c Zeno Davatz\\%0a---%0a> MfG%0a> Zeno Davatz%0a
+host:1366903720=80.219.10.249
+author:1366903702=zeno
+diff:1366903702:1366903702:=1,22d0%0a%3c !! Anlass im Hotel Marriott%0a%3c 25.4.2013%0a%3c %0a%3c Einleitung Matthijs Ouwerkerk:%0a%3c 1. https://www.youtube.com/watch?v=NpExWJpcW2M%0a%3c %0a%3c Präsentation Zeno Davatz oddb2xml, AmiKo für Android%0a%3c 2. https://www.youtube.com/watch?v=7fea82x1o0A%0a%3c %0a%3c Abschluss Matthijs Ouwerkerk%0a%3c 3. https://www.youtube.com/watch?v=uFWTuHfJaJQ%0a%3c %0a%3c Bei Fragen stehe ich Ihnen gerne zur Verfügung. Die Folien zur%0a%3c Präsentation finden Sie im Video-Link auf Youtube.%0a%3c %0a%3c !!!Präsentation%0a%3c * [[https://www.youtube.com/redirect?q=https%253A%252F%252Fdocs.google.com%252Ffile%252Fd%252F1Q4Uv2O4zKVKuYYbA1qervnl5d_ICzXLtEd3Y1nEheSAlJ7287iYnPsl-Ojo1%252Fedit%253Fusp%253Dsharing&session_token=q_OtCpvzmpEXUwqgG_EwZZMTxGN8MTM2NjkxNzI4OEAxMzY2OTAyODg4| Zeno R.R. Davatz]]%0a%3c * [[https://docs.google.com/file/d/1bijwcnFAEoZcW3FODxcbVgK2MF87EUplReFGpN4dsNsUcHYs-2dQ-HZzm7MN/edit?usp=sharing | Matthijs Ouwerkerk]]%0a%3c %0a%3c MfG%0a%3c Zeno Davatz%0a%3c +41 43 540 05 50%0a\ No newline at end of file%0a
+host:1366903702=80.219.10.249

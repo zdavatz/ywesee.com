@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1333025298
+host=80.219.10.249
+name=Epha.InteraktionenDownload
+rev=2
+targets=
+text=!! Beispielfile der Interaktionen von EPha.ch%0a%0aAttach:InteraktionenEPha.csv.txt%0a%0aDer Schweregard ist wie folgt geschlüsselt:%0a%0a[@%0aSchweregrad IA%0aA - Keine Massnahmen%0aB - Vorsichtsmassnahmen%0aC - Monitorisieren%0aD - Kombination vermeiden%0aX - Kontraindiziert%0a@]
+time=1333025434
+author:1333025434=zeno
+diff:1333025434:1333025298:=1,14c1%0a%3c !! Beispielfile der Interaktionen von EPha.ch%0a%3c %0a%3c Attach:InteraktionenEPha.csv.txt%0a%3c %0a%3c Der Schweregard ist wie folgt geschlüsselt:%0a%3c %0a%3c [@%0a%3c Schweregrad IA%0a%3c A - Keine Massnahmen%0a%3c B - Vorsichtsmassnahmen%0a%3c C - Monitorisieren%0a%3c D - Kombination vermeiden%0a%3c X - Kontraindiziert%0a%3c @]%0a\ No newline at end of file%0a---%0a> Attach:InteraktionenEPha.csv.txt%0a\ No newline at end of file%0a
+host:1333025434=80.219.10.249
+author:1333025298=zeno
+diff:1333025298:1333025298:=1d0%0a%3c Attach:InteraktionenEPha.csv.txt%0a\ No newline at end of file%0a
+host:1333025298=80.219.10.249

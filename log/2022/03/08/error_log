@@ -1,0 +1,18 @@
+[Tue Mar 08 01:00:55 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Tue Mar 08 01:00:56 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Tue Mar 08 05:04:59 2022] [error] [client 3.69.52.92] File does not exist: /var/www/ywesee.com/doc/.git
+[Tue Mar 08 06:50:55 2022] [error] [client 213.59.139.127] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Tue Mar 08 06:50:57 2022] [error] [client 5.227.24.173] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Tue Mar 08 06:50:58 2022] [error] [client 213.59.139.127] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Tue Mar 08 06:51:00 2022] [error] [client 5.227.24.173] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Tue Mar 08 06:51:00 2022] [error] [client 213.59.139.127] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Tue Mar 08 06:51:02 2022] [error] [client 5.227.24.173] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Tue Mar 08 06:51:02 2022] [error] [client 213.59.139.127] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Tue Mar 08 06:51:04 2022] [error] [client 5.227.24.173] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Tue Mar 08 08:31:33 2022] [error] [client 66.249.64.134] File does not exist: /var/www/ywesee.com/doc/de
+[Tue Mar 08 14:56:31 2022] [error] [client 3.82.193.137] File does not exist: /var/www/ywesee.com/doc/app-ads.txt, referer: https://www.google.com/
+[Tue Mar 08 18:18:50 2022] [error] [client 207.46.13.148] File does not exist: /var/www/ywesee.com/doc/de
+[Tue Mar 08 19:24:37 2022] [error] [client 66.249.64.168] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Tue Mar 08 19:54:36 2022] [error] [client 66.249.64.166] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Tue Mar 08 21:28:05 2022] [error] [client 54.210.215.80] File does not exist: /var/www/ywesee.com/doc/app-ads.txt, referer: https://www.google.com/
+[Tue Mar 08 23:24:55 2022] [error] [client 66.249.64.143] File does not exist: /var/www/ywesee.com/doc/ads.txt

@@ -1,0 +1,42 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9) Gecko/2008052912 Firefox/3.0
+author=
+host=77.57.16.157
+name=Software.BootableGentooUsbStickGrub
+rev=11
+targets=
+text=!I want a bootable Gentoo USB Stick with Grub!%0a# Download the Gentoo ISO from the [[http://www.gentoo.org/main/en/mirrors.xml | Mirror-Site]]: http://bouncer.gentoo.org/fetch/gentoo-2008.0_beta2-livecd/x86/%0a# Put ext2 on the Stick with fdisk. Mark it bootable with "a".%0a# mkfs.ext2 /dev/sdb1 - You may have to load the ext2 Kernel Module.%0a# Unplug the stick, plug it back in. Make sure it shows up correctly in "dmesg".%0a# mount your Gentoo-ISO Image with "-o loop" to /mnt/cdrom.%0a# mount your USB stick to /mnt/usb.%0a# Copy the files from /mnt/cdrom/* to /mnt/usb with "cp -r".%0a# Run grub-install --root-directory=/mnt/usb /dev/sdb%0a# Make sure your BIOS settings are set to boot from USB.%0a# Reboot and Enjoy!%0a%0a!!Links%0a* http://mathias-kettner.de/lw_booten_von_usb.html%0a* http://www.gentoo.org/doc/en/liveusb.xml%0a%0a!How do I boot my customized Kernel from my USB-Grub-Stick?%0a# Copy your kernel bzImage from /usr/src/linux/arch/i386/boot/bzImage to your USB root.%0a# Boot from USB into Grub.%0a# Press c.%0a# Enter "kernel /bzImage".%0a# Enter "boot /bzImage" and your computer will boot from USB.%0a# Enjoy.%0a%0aNote: I find above useful in the case when you mess up your boot partition, say of your Server that is running a software raid. Above method is a lot faster then mounting and chrooting all over the place.
+time=1213966350
+author:1213966350=
+diff:1213966350:1213965386:=21c21%0a%3c # Enter "kernel /bzImage".%0a---%0a> # Enter "kernel /bzImage"%0a23,24c23,24%0a%3c # Enjoy.%0a%3c %0a---%0a> # Enjoy%0a> %0a
+host:1213966350=77.57.16.157
+author:1213965386=
+diff:1213965386:1213960980:=21d20%0a%3c # Enter "kernel /bzImage"%0a
+host:1213965386=77.57.16.157
+author:1213960980=
+diff:1213960980:1213960943:=1c1%0a%3c !I want a bootable Gentoo USB Stick with Grub!%0a---%0a> !I want a bootable Gentoo USB Stick with Grub%0a
+host:1213960980=77.57.16.157
+author:1213960943=
+diff:1213960943:1213960930:=22,23c22%0a%3c # Enjoy%0a%3c %0a---%0a> %0a
+host:1213960943=77.57.16.157
+author:1213960930=
+diff:1213960930:1213960881:=19,20c19,20%0a%3c # Boot from USB into Grub.%0a%3c # Press c.%0a---%0a> # Boot from USB%0a> # Press c%0a
+host:1213960930=77.57.16.157
+author:1213960881=
+diff:1213960881:1213953688:=1c1%0a%3c !I want a bootable Gentoo USB Stick with Grub%0a---%0a> ! I want a bootable Gentoo USB Stick with Grub%0a15,23c15%0a%3c * http://www.gentoo.org/doc/en/liveusb.xml%0a%3c %0a%3c !How do I boot my customized Kernel from my USB-Grub-Stick?%0a%3c # Copy your kernel bzImage from /usr/src/linux/arch/i386/boot/bzImage to your USB root.%0a%3c # Boot from USB%0a%3c # Press c%0a%3c # Enter "boot /bzImage" and your computer will boot from USB.%0a%3c %0a%3c Note: I find above useful in the case when you mess up your boot partition, say of your Server that is running a software raid. Above method is a lot faster then mounting and chrooting all over the place. %0a\ No newline at end of file%0a---%0a> * http://www.gentoo.org/doc/en/liveusb.xml%0a\ No newline at end of file%0a
+host:1213960881=77.57.16.157
+author:1213953688=
+diff:1213953688:1213953543:=11,15c11%0a%3c # Reboot and Enjoy!%0a%3c %0a%3c !!Links%0a%3c * http://mathias-kettner.de/lw_booten_von_usb.html%0a%3c * http://www.gentoo.org/doc/en/liveusb.xml%0a\ No newline at end of file%0a---%0a> # Reboot and Enjoy!%0a\ No newline at end of file%0a
+host:1213953688=77.57.16.157
+author:1213953543=
+diff:1213953543:1213953297:=5c5%0a%3c # Unplug the stick, plug it back in. Make sure it shows up correctly in "dmesg".%0a---%0a> # Unplug the stick, plug it back in.%0a
+host:1213953543=77.57.16.157
+author:1213953297=
+diff:1213953297:1213951140:=2c2%0a%3c # Download the Gentoo ISO from the [[http://www.gentoo.org/main/en/mirrors.xml | Mirror-Site]]: http://bouncer.gentoo.org/fetch/gentoo-2008.0_beta2-livecd/x86/%0a---%0a> # Download the Gentoo ISO Image from Daniel Robbins, http://www.funtoo.org/linux/x86/.%0a
+host:1213953297=77.57.16.157
+author:1213951140=
+diff:1213951140:1213951090:=6c6%0a%3c # mount your Gentoo-ISO Image with "-o loop" to /mnt/cdrom.%0a---%0a> # mount your Gentoo-ISO Image with "-o loop" /mnt/cdrom.%0a
+host:1213951140=77.57.16.157
+author:1213951090=
+diff:1213951090:1213951090:=1,11d0%0a%3c ! I want a bootable Gentoo USB Stick with Grub%0a%3c # Download the Gentoo ISO Image from Daniel Robbins, http://www.funtoo.org/linux/x86/.%0a%3c # Put ext2 on the Stick with fdisk. Mark it bootable with "a".%0a%3c # mkfs.ext2 /dev/sdb1 - You may have to load the ext2 Kernel Module.%0a%3c # Unplug the stick, plug it back in.%0a%3c # mount your Gentoo-ISO Image with "-o loop" /mnt/cdrom.%0a%3c # mount your USB stick to /mnt/usb.%0a%3c # Copy the files from /mnt/cdrom/* to /mnt/usb with "cp -r".%0a%3c # Run grub-install --root-directory=/mnt/usb /dev/sdb%0a%3c # Make sure your BIOS settings are set to boot from USB.%0a%3c # Reboot and Enjoy!%0a\ No newline at end of file%0a
+host:1213951090=77.57.16.157

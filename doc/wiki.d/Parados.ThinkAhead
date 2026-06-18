@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1777561043
+host=212.51.146.241
+name=Parados.ThinkAhead
+rev=2
+targets=
+text=! Parados - Think Ahead Games%0a# Train your Think Ahead Skills with these games.%0a# [[https://apps.microsoft.com/store/detail/9N7RTWZQQ0K7?cid=DevShareMCLPCS | Windows Store]]
+time=1777875453
+author:1777875453=zeno
+diff:1777875453:1777561043:=2,3c2%0a%3c # Train your Think Ahead Skills with these games.%0a%3c # [[https://apps.microsoft.com/store/detail/9N7RTWZQQ0K7?cid=DevShareMCLPCS | Windows Store]]%0a\ No newline at end of file%0a---%0a> # Train your Think Ahead Skills with these games.%0a\ No newline at end of file%0a
+host:1777875453=212.51.146.241
+author:1777561043=zeno
+diff:1777561043:1777561043:=1,2d0%0a%3c ! Parados - Think Ahead Games%0a%3c # Train your Think Ahead Skills with these games.%0a\ No newline at end of file%0a
+host:1777561043=150.228.61.2

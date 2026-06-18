@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1412844068
+host=46.140.30.26
+name=SpitalSchweiz.AnzahlBettenstationaer2012
+rev=4
+targets=SpitalSchweiz.Index
+text=%3c%3c|[[Index]]|>>%0a%0a(:html:)%0a%3ciframe src="http://cf.datawrapper.de/mh7nl/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="800">%3c/iframe>%0a(:htmlend:)
+time=1412845037
+author:1412845037=zeno
+diff:1412845037:1412844108:=1c1%0a%3c %3c%3c|[[Index]]|>>%0a---%0a> %3c|[[Index]]|>>%0a
+host:1412845037=46.140.30.26
+author:1412844108=zeno
+diff:1412844108:1412844080:=1,2d0%0a%3c %3c|[[Index]]|>>%0a%3c %0a
+host:1412844108=46.140.30.26
+author:1412844080=zeno
+diff:1412844080:1412844068:=0a1%0a> %0a3c4%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> (:hmtlend:)%0a\ No newline at end of file%0a
+host:1412844080=46.140.30.26
+author:1412844068=zeno
+diff:1412844068:1412844068:=1,4d0%0a%3c %0a%3c (:html:)%0a%3c %3ciframe src="http://cf.datawrapper.de/mh7nl/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="800">%3c/iframe>%0a%3c (:hmtlend:)%0a\ No newline at end of file%0a
+host:1412844068=46.140.30.26

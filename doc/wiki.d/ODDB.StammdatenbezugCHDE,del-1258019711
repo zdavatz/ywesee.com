@@ -1,0 +1,30 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a1pre) Gecko/20091110 Minefield/3.7a1pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1258019539
+host=80.219.154.254
+name=ODDB.StammdatenbezugCHDE
+rev=6
+targets=
+text=! Stammdatenbezug für die Schweiz und Deutschland%0a* http:ch.oddb.org, siehe auch http://ch.oddb.org/de/gcc/download_export/%0a* http:de.obb.org%0a%0a!!FAQ%0a* Die runtergeladenen Daten dürfen ausdrücklich weiterverwendet und weiterverkauft werden.%0a%0a!!Support%0a* Bei Fragen, Bugs oder Verbesserungsvorschläge zu den Daten, registrieren Sie sich bitte bei http://trac.ywesee.com und erstellen Sie ein Ticket zum '''Yaml-Export'''.%0a* http://trac.ywesee.com/search?q=yaml
+time=1258019678
+author:1258019678=
+diff:1258019678:1258019667:=9c9%0a%3c * Bei Fragen, Bugs oder Verbesserungsvorschläge zu den Daten, registrieren Sie sich bitte bei http://trac.ywesee.com und erstellen Sie ein Ticket zum '''Yaml-Export'''.%0a---%0a> * Bei Fragen, Bugs oder Verbesserungsvorschläge zu den Daten, registrieren Sie sich bitte bei http://trac.ywesee.com und erstellen Sie ein Ticket zum Yaml-Export.%0a
+host:1258019678=80.219.154.254
+author:1258019667=
+diff:1258019667:1258019650:=9c9%0a%3c * Bei Fragen, Bugs oder Verbesserungsvorschläge zu den Daten, registrieren Sie sich bitte bei http://trac.ywesee.com und erstellen Sie ein Ticket zum Yaml-Export.%0a---%0a> * Bei Fragen zu den Daten, registrieren Sie sich bitte bei http://trac.ywesee.com und erstellen Sie ein Ticket zum Yaml-Export.%0a
+host:1258019667=80.219.154.254
+author:1258019650=
+diff:1258019650:1258019621:=9,10c9%0a%3c * Bei Fragen zu den Daten, registrieren Sie sich bitte bei http://trac.ywesee.com und erstellen Sie ein Ticket zum Yaml-Export.%0a%3c * http://trac.ywesee.com/search?q=yaml%0a\ No newline at end of file%0a---%0a> * Bei Fragen zu den Daten, registrieren Sie sich bitte bei http://trac.ywesee.com und erstellen Sie ein Ticket zum Yaml-Export.%0a\ No newline at end of file%0a
+host:1258019650=80.219.154.254
+author:1258019621=
+diff:1258019621:1258019551:=6,9c6%0a%3c * Die runtergeladenen Daten dürfen ausdrücklich weiterverwendet und weiterverkauft werden.%0a%3c %0a%3c !!Support%0a%3c * Bei Fragen zu den Daten, registrieren Sie sich bitte bei http://trac.ywesee.com und erstellen Sie ein Ticket zum Yaml-Export.%0a\ No newline at end of file%0a---%0a> * Die runtergeladenen Daten dürfen ausdrücklich weiterverwendet und weiterverkauft werden.%0a\ No newline at end of file%0a
+host:1258019621=80.219.154.254
+author:1258019551=
+diff:1258019551:1258019539:=6c6%0a%3c * Die runtergeladenen Daten dürfen ausdrücklich weiterverwendet und weiterverkauft werden.%0a\ No newline at end of file%0a---%0a> * Die runtergeladenen Daten dürfen ausdrücklich weiterverwendet werden.%0a\ No newline at end of file%0a
+host:1258019551=80.219.154.254
+author:1258019539=
+diff:1258019539:1258019539:=1,6d0%0a%3c ! Stammdatenbezug für die Schweiz und Deutschland%0a%3c * http:ch.oddb.org, siehe auch http://ch.oddb.org/de/gcc/download_export/%0a%3c * http:de.obb.org%0a%3c %0a%3c !!FAQ%0a%3c * Die runtergeladenen Daten dürfen ausdrücklich weiterverwendet werden.%0a\ No newline at end of file%0a
+host:1258019539=80.219.154.254

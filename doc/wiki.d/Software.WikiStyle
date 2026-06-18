@@ -1,0 +1,16 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1102063794
+text=!Wiki Style² The mother of all Wiki's: http://en.wikipedia.org. Substitute the "en" with "de" or "jp" for your language.
+targets=
+author=
+author:1102063772=
+host:1102063772=217.162.173.195
+diff:1102063772:1102063772:=1,3d0²< !Wiki Style²< * The mother of all Wiki's: http://en.wikipedia.org²< Substitute the "en" with "de" or "jp" for your language.²\ No newline at end of file²
+name=Software.WikiStyle
+host=217.162.173.195
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.5) Gecko/20041118 Firefox/1.0
+rev=2
+author:1102063794=
+host:1102063794=217.162.173.195
+diff:1102063794:1102063772:=2c2,3²<  The mother of all Wiki's: http://en.wikipedia.org. Substitute the "en" with "de" or "jp" for your language.²\ No newline at end of file²---²> * The mother of all Wiki's: http://en.wikipedia.org²> Substitute the "en" with "de" or "jp" for your language.²\ No newline at end of file²

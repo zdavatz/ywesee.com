@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1776240854
+host=212.51.146.241
+name=Swissdamed2Sqlite.Swissdamed2Sqlite
+rev=2
+targets=
+text=! Swissdamed2Sqlite%0a# Export Swissdamed Products to Sqlite or CSV%0a# Export CHRN and SRNs%0a# Generate XLSX files.%0a# Windows: https://apps.microsoft.com/detail/9mvmq21r4mkc?hl=de-DE&gl=CH%0a# macOS: https://apps.apple.com/my/app/swissdamed2sqlite/id6762261366?mt=12
+time=1780299214
+author:1780299214=zeno
+diff:1780299214:1776240854:=4,6c4%0a%3c # Generate XLSX files.%0a%3c # Windows: https://apps.microsoft.com/detail/9mvmq21r4mkc?hl=de-DE&gl=CH%0a%3c # macOS: https://apps.apple.com/my/app/swissdamed2sqlite/id6762261366?mt=12%0a\ No newline at end of file%0a---%0a> # Generate XLSX files.%0a\ No newline at end of file%0a
+host:1780299214=212.51.146.241
+author:1776240854=zeno
+diff:1776240854:1776240854:=1,4d0%0a%3c ! Swissdamed2Sqlite%0a%3c # Export Swissdamed Products to Sqlite or CSV%0a%3c # Export CHRN and SRNs%0a%3c # Generate XLSX files.%0a\ No newline at end of file%0a
+host:1776240854=212.51.146.241

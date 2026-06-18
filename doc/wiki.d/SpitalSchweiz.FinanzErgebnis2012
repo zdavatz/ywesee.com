@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1412842618
+host=46.140.30.26
+name=SpitalSchweiz.FinanzErgebnis2012
+rev=4
+targets=SpitalSchweiz.Index
+text=%3c%3c|[[Index]]|>>%0a%0a(:html:)%0a%3ciframe src="http://cf.datawrapper.de/rVvP6/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="1000">%3c/iframe>%0a(:htmlend:)
+time=1412845050
+author:1412845050=zeno
+diff:1412845050:1412842676:=1c1%0a%3c %3c%3c|[[Index]]|>>%0a---%0a> %3c|[[Index]]|>>%0a
+host:1412845050=46.140.30.26
+author:1412842676=zeno
+diff:1412842676:1412842647:=2d1%0a%3c %0a
+host:1412842676=46.140.30.26
+author:1412842647=zeno
+diff:1412842647:1412842618:=1d0%0a%3c %3c|[[Index]]|>>%0a
+host:1412842647=46.140.30.26
+author:1412842618=zeno
+diff:1412842618:1412842618:=1,3d0%0a%3c (:html:)%0a%3c %3ciframe src="http://cf.datawrapper.de/rVvP6/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="1000">%3c/iframe>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a
+host:1412842618=46.140.30.26

@@ -1,0 +1,142 @@
+>> ERROR: 47 - no ATC-Code found in the XML-Tag "atcCode" - (62132) Adcetris
+>> ERROR: 48 - no ATC-Code found in the XML-Tag "atcCode" - (62169) Adcirca®
+>> ERROR: 59 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (57248) Aero-OM®
+>> ERROR: 93 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (58839) Alendronat-Teva® 70
+>> ERROR: 111 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (60647, 60650, 60659, 60667, 60674, 60675, 60678, 60679, 60680, 60683, 60684) ALK wässrig® SQ
+>> ERROR: 112 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (60649, 60681) ALK wässrig® SQ Insektengifte
+>> ERROR: 114 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (8671) Alka-Seltzer®
+>> ERROR: 124 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (58129) Allopurinol-Teva®
+>> ERROR: 195 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (58353, 58352) Amoxicillin-Teva
+>> ERROR: 229 - no ATC-Code found in the XML-Tag "atcCode" - (55450) Antistax® Kapseln
+>> ERROR: 242 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55179) Aqua ad iniectabilia ACS Dobfar Info
+>> ERROR: 257 - no ATC-Code found in the XML-Tag "atcCode" - (45940) Arilin®
+>> ERROR: 263 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (59825) Arlevert®
+>> ERROR: 281 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55146) Asperivo 300/500/Paediatric
+>> ERROR: 415 - no ATC-Code found in the XML-Tag "atcCode" - (36119, 52403) Betaserc® 8/16/24/Tropfen
+>> ERROR: 499 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55114) Bupivacain ACS Dobfar Info 0,25%/0,5%
+>> ERROR: 526 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (42397) Cafergot®
+>> ERROR: 584 - no ATC-Code found in the XML-Tag "atcCode" - (36988, 33998) Carbostesin®/- Adrenalin
+>> ERROR: 619 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (56966) Cefurim® eco 250/500
+>> ERROR: 623 - no ATC-Code found in the XML-Tag "atcCode" - (61338) Cefuroxim Fresenius i.v.
+>> ERROR: 687 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (59320) Ciprofloxacin Redibag Baxter
+>> ERROR: 708 - no ATC-Code found in the XML-Tag "atcCode" - (60393) Clarelux® Schaum
+>> ERROR: 714 - no ATC-Code found in the XML-Tag "atcCode" - (48243, 52429) Claritine®
+>> ERROR: 720 - no ATC-Code found in the XML-Tag "atcCode" - (49456, 54297) Clexane®/- multi
+>> ERROR: 782 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (46849) Collazin®
+>> ERROR: 793 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (58458) Co-Losartan Spirig®
+>> ERROR: 801 - no ATC-Code found in the XML-Tag "atcCode" - (54522) Comtan®
+>> ERROR: 809 - no ATC-Code found in the XML-Tag "atcCode" - (59483) Contraflux
+>> ERROR: 845 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (32148) Cosmegen®
+>> ERROR: 860 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (45798) Crimanex® Tinktur
+>> ERROR: 868 - no ATC-Code found in the XML-Tag "atcCode" - (56885) Curakne® 5 mg/10 mg/20 mg/40 mg
+>> ERROR: 877 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (32364) Cyclogyl®
+>> ERROR: 911 - no ATC-Code found in the XML-Tag "atcCode" - (33159) Deaftol® Lutschtabletten
+>> ERROR: 912 - no ATC-Code found in the XML-Tag "atcCode" - (33160) Deaftol® Mundspray
+>> ERROR: 919 - no ATC-Code found in the XML-Tag "atcCode" - (50912) Decoderm® bivalent Creme
+>> ERROR: 930 - no ATC-Code found in the XML-Tag "atcCode" - (50271, 40936, 34734) Depakine®
+>> ERROR: 940 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (57642) DermaPlast® Desinfect
+>> ERROR: 959 - no ATC-Code found in the XML-Tag "atcCode" - (36227, 36231) Dexalocal®/- F
+>> ERROR: 970 - no ATC-Code found in the XML-Tag "atcCode" - (47879) Diane®-35
+>> ERROR: 971 - no ATC-Code found in the XML-Tag "atcCode" - (55561, 57720, 57724) Diaphin®
+>> ERROR: 976 - no ATC-Code found in the XML-Tag "atcCode" - (61484) Dicloabak 0,1% Augentropfen
+>> ERROR: 982 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (58137) Diclofenac-CIMEX Kapseln
+>> ERROR: 1031 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55736) DoloCitran® C
+>> ERROR: 1046 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (57167) Dorlotil®
+>> ERROR: 1051 - SwissmedicNo5 not found in SwissMedic Packungen.xls - () Dorzo-Vision®
+>> ERROR: 1056 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (57681) Doxazosin-CIMEX
+>> ERROR: 1076 - no ATC-Code found in the XML-Tag "atcCode" - (58700) Drossadinol®
+>> ERROR: 1108 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (50652) Ecomucyl® 300
+>> ERROR: 1111 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (48317) Ecovent®
+>> ERROR: 1116 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (40453) Efemoline®
+>> ERROR: 1136 - no ATC-Code found in the XML-Tag "atcCode" - (60568) Eloine®
+>> ERROR: 1190 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (45675) Eryaknen® 2/4
+>> ERROR: 1303 - no ATC-Code found in the XML-Tag "atcCode" - (26313, 26314) Flagyl®
+>> ERROR: 1395 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (52568) Fosicomp®
+>> ERROR: 1406 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (57933) Fruttasan Würfel mit Senna
+>> ERROR: 1434 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (53782) Gabitril® 5/10/15 Filmtabletten
+>> ERROR: 1491 - no ATC-Code found in the XML-Tag "atcCode" - (55304) Glucosalin «ACS Dobfar Info» 1:1/2:1/4:1
+>> ERROR: 1491 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55304) Glucosalin «ACS Dobfar Info» 1:1/2:1/4:1
+>> ERROR: 1495 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55508) Glucose «ACS Dobfar Info» 5%/10%/33%, Injektionslösung
+>> ERROR: 1506 - no ATC-Code found in the XML-Tag "atcCode" - (54742) Glucose-Lösungen ACS Dobfar Info 5% und 10%, Infusionslösung
+>> ERROR: 1506 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (54742) Glucose-Lösungen ACS Dobfar Info 5% und 10%, Infusionslösung
+>> ERROR: 1517 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (58306) Goserelin-CIMEX 3.6
+>> ERROR: 1547 - no ATC-Code found in the XML-Tag "atcCode" - (44008) Haldol® decanoas
+>> ERROR: 1595 - no ATC-Code found in the XML-Tag "atcCode" - (44610, 45495, 46875, 49008, 55891) Humaninsuline Monocomponent (HM) Novo Nordisk
+>> ERROR: 1617 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (44816) HypoTears®
+>> ERROR: 1635 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (58138) Ibuprofen-CIMEX 400/600
+>> ERROR: 1714 - no ATC-Code found in the XML-Tag "atcCode" - (56154) IRESSA®
+>> ERROR: 1736 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (62438) Isoniazid USP
+>> ERROR: 1739 - no ATC-Code found in the XML-Tag "atcCode" - (54669) Isotonische Natriumchlorid- Lösung ACS Dobfar Info, Infusionslösung
+>> ERROR: 1739 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (54669) Isotonische Natriumchlorid- Lösung ACS Dobfar Info, Infusionslösung
+>> ERROR: 1741 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (56107) Isotretinoin-Teva®
+>> ERROR: 1742 - no ATC-Code found in the XML-Tag "atcCode" - (56457) Isuprel®
+>> ERROR: 1778 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55844) KCl ACS Dobfar Info 2 mmol/ml
+>> ERROR: 1780 - no ATC-Code found in the XML-Tag "atcCode" - (36360) KCl-retard Hausmann®
+>> ERROR: 1785 - no ATC-Code found in the XML-Tag "atcCode" - (35039) Kenacort® A Orabase®
+>> ERROR: 1825 - no ATC-Code found in the XML-Tag "atcCode" - (57824) Lacrifluid®
+>> ERROR: 1931 - no ATC-Code found in the XML-Tag "atcCode" - (57447) LiDCO Lithiumchlorid
+>> ERROR: 1932 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55461) Lidocain ACS Dobfar Info 1%/2%
+>> ERROR: 1944 - no ATC-Code found in the XML-Tag "atcCode" - (50476) Lioton® 1000
+>> ERROR: 1971 - no ATC-Code found in the XML-Tag "atcCode" - (62329) Livazo®
+>> ERROR: 1998 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (57515) Lorado® Pollen Sandoz
+>> ERROR: 2016 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (61204) Losartax®
+>> ERROR: 2034 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (61854) Luveris® PEN
+>> ERROR: 2082 - no ATC-Code found in the XML-Tag "atcCode" - (31754) Mannitol 20% B. Braun
+>> ERROR: 2100 - no ATC-Code found in the XML-Tag "atcCode" - (56847) Medikinet® MR
+>> ERROR: 2109 - SwissmedicNo5 not found in SwissMedic Packungen.xls - () MENAMIG® Filmtabletten
+>> ERROR: 2118 - no ATC-Code found in the XML-Tag "atcCode" - (38918) Mephanol®
+>> ERROR: 2162 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (54653, 54580) Metopress® 100/- retard 200
+>> ERROR: 2167 - no ATC-Code found in the XML-Tag "atcCode" - (40215, 43324) Metrolag®
+>> ERROR: 2169 - no ATC-Code found in the XML-Tag "atcCode" - (55280) Metronidazole Bioren
+>> ERROR: 2170 - no ATC-Code found in the XML-Tag "atcCode" - (62275, 62276) Metronidazole Zentiva®
+>> ERROR: 2195 - no ATC-Code found in the XML-Tag "atcCode" - (55130) Miflonide®
+>> ERROR: 2202 - no ATC-Code found in the XML-Tag "atcCode" - (56923) Minerva®
+>> ERROR: 2223 - no ATC-Code found in the XML-Tag "atcCode" - (00703) M-M-RVAXPRO®
+>> ERROR: 2276 - no ATC-Code found in the XML-Tag "atcCode" - (00684) Mutaflor®/- mite
+>> ERROR: 2292 - no ATC-Code found in the XML-Tag "atcCode" - (23855) Mydriaticum «Dispersa»
+>> ERROR: 2333 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55494) Natrium bicarbonat ACS Dobfar Info 8,4% Ampullen
+>> ERROR: 2340 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (3570903, 3370901) Natrium-Bicarbonat B. Braun
+>> ERROR: 2348 - no ATC-Code found in the XML-Tag "atcCode" - (55228) Natriumchlorid ACS Dobfar Info 0,9%, Injektionspräparat
+>> ERROR: 2348 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55228) Natriumchlorid ACS Dobfar Info 0,9%, Injektionspräparat
+>> ERROR: 2353 - no ATC-Code found in the XML-Tag "atcCode" - (54489) Nebilet®
+>> ERROR: 2354 - no ATC-Code found in the XML-Tag "atcCode" - (59262) Nebilet® plus
+>> ERROR: 2361 - no ATC-Code found in the XML-Tag "atcCode" - (59887) Nebivolol-Mepha 5 Tabletten
+>> ERROR: 2407 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (52458) Nifedipin-Mepha® 30/60 retard
+>> ERROR: 2436 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55602) Norfloxacin-Teva®
+>> ERROR: 2485 - no ATC-Code found in the XML-Tag "atcCode" - (54974) Nyolol® Gel
+>> ERROR: 2506 - no ATC-Code found in the XML-Tag "atcCode" - (52195) Oestro-Gynaedron®
+>> ERROR: 2562 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (51189, 52293) Orelox®/- pédiatrique
+>> ERROR: 2580 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (18871) Otothricinol®
+>> ERROR: 2597 - no ATC-Code found in the XML-Tag "atcCode" - (51523) Oxybuprocaine 0,4% SDU Faure
+>> ERROR: 2635 - no ATC-Code found in the XML-Tag "atcCode" - (59288) Pantoprazol Helvepharm
+>> ERROR: 2643 - no ATC-Code found in the XML-Tag "atcCode" - (52710, 55551, 58661) Pantozol® 20/40/- Granula/- i.v.
+>> ERROR: 2644 - no ATC-Code found in the XML-Tag "atcCode" - (59558) Pantozol® Control
+>> ERROR: 2706 - no ATC-Code found in the XML-Tag "atcCode" - (33507) Peritoneal-Dialyse-Lösungen I–XX «Bichsel»
+>> ERROR: 2758 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (58831) Plaquenil®
+>> ERROR: 2860 - no ATC-Code found in the XML-Tag "atcCode" - (47598) Protagent®
+>> ERROR: 2953 - no ATC-Code found in the XML-Tag "atcCode" - (57591) Renacet
+>> ERROR: 2956 - no ATC-Code found in the XML-Tag "atcCode" - (54487) Reniten® Plus
+>> ERROR: 3082 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (58214, 58176) Sanalum® 425/650
+>> ERROR: 3113 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (60549) Sensodyne® Proschmelz Fluorid Gelée
+>> ERROR: 3126 - no ATC-Code found in the XML-Tag "atcCode" - (54975, 55552) Seretide®
+>> ERROR: 3177 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (45534) Slow-Trasitensin®
+>> ERROR: 3184 - no ATC-Code found in the XML-Tag "atcCode" - (60580) Solaraze® 3% Gel
+>> ERROR: 3212 - no ATC-Code found in the XML-Tag "atcCode" - (46457) Somnium®
+>> ERROR: 3294 - no ATC-Code found in the XML-Tag "atcCode" - (31841) Symmetrel®
+>> ERROR: 3310 - no ATC-Code found in the XML-Tag "atcCode" - (45710, 45711) Tambocor®
+>> ERROR: 3416 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (55872) Tolflex®/- mite
+>> ERROR: 3478 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (38837) Trasylol®
+>> ERROR: 3498 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (23510) Trilafon®
+>> ERROR: 3573 - no ATC-Code found in the XML-Tag "atcCode" - (53112) Valproate Chrono Zentiva®
+>> ERROR: 3765 - no ATC-Code found in the XML-Tag "atcCode" - (48839) Yal®
+>> ERROR: 3842 - SwissmedicNo5 not found in SwissMedic Packungen.xls - (00709) Zostavax®
+
+Total number of medis : 15458
+Total number of errors in db : 0
+Total number of missing reg. nr. (min) : 2
+Total number of missing pack info : 63
+Total number of missing atc codes : 69
+Number of German medis (Fach Info) : 3857
+Number of French medis (Fach Info) : 3857
+Number of Italian medis (Patienten Info) : 0
+Number of English medis (Patienten Info) : 0

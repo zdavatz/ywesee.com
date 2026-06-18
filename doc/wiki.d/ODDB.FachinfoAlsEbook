@@ -1,0 +1,48 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1265360289
+host=80.219.10.249
+name=ODDB.FachinfoAlsEbook
+rev=12
+targets=
+text=!!Das Kompendium der Schweizer Arzneimittel als Ebook%0a%0a* http://www.ywesee.com/pmwiki.php/Main/EPUB%0a* http://www.ywesee.com/pmwiki.php/Main/AZW %0a* http://www.ywesee.com/pmwiki.php/Ywesee/KindleOniPhone%0a%0a!! Installations-Anleitung%0a# [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | KindleReader runterladen]]%0a# [[http://www.oddb.org | Ebook runterladen]]%0a# Auf das Ebook doppelklicken%0a%0a(:html:)%3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>(:htmlend:)
+time=1367485240
+author:1367485240=zeno
+diff:1367485240:1367485215:=12c12,18%0a%3c (:html:)%3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>(:htmlend:)%0a\ No newline at end of file%0a---%0a> (:html:)%3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>(:htmlend:)%0a> %0a> (:html:)%3cscript src="paypal-button.min.js?merchant=T8DR4UQDLE6SS"%0a>     data-button="buynow"%0a>     data-name="My product"%0a>     data-amount="1.00"%0a> >%3c/script>(:htmlend:)%0a\ No newline at end of file%0a
+host:1367485240=80.219.10.249
+author:1367485215=zeno
+diff:1367485215:1330694197:=12,18c12%0a%3c (:html:)%3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>(:htmlend:)%0a%3c %0a%3c (:html:)%3cscript src="paypal-button.min.js?merchant=T8DR4UQDLE6SS"%0a%3c     data-button="buynow"%0a%3c     data-name="My product"%0a%3c     data-amount="1.00"%0a%3c >%3c/script>(:htmlend:)%0a\ No newline at end of file%0a---%0a> (:html:)%3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>(:htmlend:)%0a\ No newline at end of file%0a
+host:1367485215=80.219.10.249
+author:1330694197=zeno
+diff:1330694197:1330693933:=8,9c8,9%0a%3c # [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | KindleReader runterladen]]%0a%3c # [[http://www.oddb.org | Ebook runterladen]]%0a---%0a> # KindleReader runterladen%0a> # Ebook runterladen%0a
+host:1330694197=80.219.10.249
+author:1330693933=zeno
+diff:1330693933:1282291447:=7,10d6%0a%3c !! Installations-Anleitung%0a%3c # KindleReader runterladen%0a%3c # Ebook runterladen%0a%3c # Auf das Ebook doppelklicken%0a
+host:1330693933=80.219.10.249
+author:1282291447=zeno
+diff:1282291447:1282291435:=6a7%0a> !!Teilen Sie uns Ihre Meinung mit%0a
+host:1282291447=80.219.10.249
+author:1282291435=zeno
+diff:1282291435:1282291402:=1,2d0%0a%3c !!Das Kompendium der Schweizer Arzneimittel als Ebook%0a%3c %0a6,7d3%0a%3c %0a%3c !!Teilen Sie uns Ihre Meinung mit%0a
+host:1282291435=80.219.10.249
+author:1282291402=zeno
+diff:1282291402:1282291383:=5c5%0a%3c (:html:)%3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>(:htmlend:)%0a\ No newline at end of file%0a---%0a> (:html:)%3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="100" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>(:htmlend:)%0a\ No newline at end of file%0a
+host:1282291402=80.219.10.249
+author:1282291383=zeno
+diff:1282291383:1282291326:=5c5%0a%3c (:html:)%3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="100" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>(:htmlend:)%0a\ No newline at end of file%0a---%0a> %3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="100" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>%0a\ No newline at end of file%0a
+host:1282291383=80.219.10.249
+author:1282291326=zeno
+diff:1282291326:1268208339:=3,5c3%0a%3c * http://www.ywesee.com/pmwiki.php/Ywesee/KindleOniPhone%0a%3c %0a%3c %3ciframe src="https://spreadsheets.google.com/embeddedform?formkey=dEtvanFsYjhNUXB3V1lLZjVHNUZjbnc6MQ" width="760" height="100" frameborder="0" marginheight="0" marginwidth="0">Loading...%3c/iframe>%0a\ No newline at end of file%0a---%0a> * http://www.ywesee.com/pmwiki.php/Ywesee/KindleOniPhone%0a\ No newline at end of file%0a
+host:1282291326=80.219.10.249
+author:1268208339=
+diff:1268208339:1265360538:=2,3c2%0a%3c * http://www.ywesee.com/pmwiki.php/Main/AZW %0a%3c * http://www.ywesee.com/pmwiki.php/Ywesee/KindleOniPhone%0a\ No newline at end of file%0a---%0a> * http://www.ywesee.com/pmwiki.php/Main/AZW%0a\ No newline at end of file%0a
+host:1268208339=80.219.10.249
+author:1265360538=
+diff:1265360538:1265360289:=1,2c1%0a%3c * http://www.ywesee.com/pmwiki.php/Main/EPUB%0a%3c * http://www.ywesee.com/pmwiki.php/Main/AZW%0a\ No newline at end of file%0a---%0a> * http://www.ywesee.com/pmwiki.php/Main/EPUB%0a\ No newline at end of file%0a
+host:1265360538=80.219.10.249
+author:1265360289=
+diff:1265360289:1265360289:=1d0%0a%3c * http://www.ywesee.com/pmwiki.php/Main/EPUB%0a\ No newline at end of file%0a
+host:1265360289=80.219.10.249

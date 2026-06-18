@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 FireTorrent/2.0.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1287221717
+host=80.219.10.249
+name=ODDB.StammdatenbezugCHDE
+rev=2
+targets=
+text=Schweiz:%0ahttp://ch.oddb.org/de/gcc/download_export/ \\%0aDeutschland:%0ahttp://de.oddb.org/de/drugs/downloads/
+time=1287221728
+author:1287221728=zeno
+diff:1287221728:1287221717:=2c2%0a%3c http://ch.oddb.org/de/gcc/download_export/ \\%0a---%0a> http://ch.oddb.org/de/gcc/download_export/%0a
+host:1287221728=80.219.10.249
+author:1287221717=zeno
+diff:1287221717:1287221717:=1,4d0%0a%3c Schweiz:%0a%3c http://ch.oddb.org/de/gcc/download_export/%0a%3c Deutschland:%0a%3c http://de.oddb.org/de/drugs/downloads/%0a\ No newline at end of file%0a
+host:1287221717=80.219.10.249

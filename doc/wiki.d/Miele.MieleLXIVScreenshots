@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.40 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1554469823
+host=212.51.146.241
+name=Miele.MieleLXIVScreenshots
+rev=3
+targets=Miele.Index
+text=%25trail%25%3c%3c|[[Index]]|>>%0a!Miele-LXIV Screenshots%0aDownload from here: http://pillbox.oddb.org/miele-lxiv_screens.zip%0a
+time=1554470324
+author:1554470324=zeno
+diff:1554470324:1554470141:=1d0%0a%3c %25trail%25%3c%3c|[[Index]]|>>%0a
+host:1554470324=212.51.146.241
+author:1554470141=zeno
+diff:1554470141:1554469823:=2a3,11%0a> Attach:MieleLXIV_1.jpg%0a> Attach:MieleLXIV_2.jpg%0a> Attach:MieleLXIV_3.jpg%0a> Attach:MieleLXIV_4.jpg%0a> Attach:MieleLXIV_5.jpg%0a> Attach:MieleLXIV_6.jpg%0a> Attach:MieleLXIV_7.jpg%0a> Attach:MieleLXIV_8.jpg%0a> Attach:MieleLXIV_9.jpg%0a
+host:1554470141=212.51.146.241
+author:1554469823=zeno
+diff:1554469823:1554469823:=1,11d0%0a%3c !Miele-LXIV Screenshots%0a%3c Download from here: http://pillbox.oddb.org/miele-lxiv_screens.zip%0a%3c Attach:MieleLXIV_1.jpg%0a%3c Attach:MieleLXIV_2.jpg%0a%3c Attach:MieleLXIV_3.jpg%0a%3c Attach:MieleLXIV_4.jpg%0a%3c Attach:MieleLXIV_5.jpg%0a%3c Attach:MieleLXIV_6.jpg%0a%3c Attach:MieleLXIV_7.jpg%0a%3c Attach:MieleLXIV_8.jpg%0a%3c Attach:MieleLXIV_9.jpg%0a
+host:1554469823=212.51.146.241

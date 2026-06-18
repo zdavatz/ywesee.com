@@ -1,0 +1,45 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; rv:1.8) Gecko/20060120 Firefox/1.5
+author=
+host=84.73.186.135
+name=Ywesee.OpenStandards
+rev=12
+targets=Ywesee.OpenOffice
+text=! Offene Standards%0a(:table border=1 cellpadding=5 cellspacing=0:)%0a(:cell:) '''#'''%0a(:cell:) '''Initiator'''%0a(:cell:) '''Link'''%0a(:cellnr:) 1%0a(:cell:) Bruce Perens%0a(:cell:) http://perens.com/OpenStandards/Definition.html%0a(:cellnr:) 2%0a(:cell:) World Wide Web Consortium%0a(:cell:) http://www.w3.org/Consortium/%0a(:cellnr:) 3%0a(:cell:) Transition Guide, München%0a(:cell:) http://www.kbst.bund.de/doc,-304105/Federal-Government-Co-ordinati.htm#Migrationsleitfaden%0a(:cellnr:) 4%0a(:cell:) EU%0a(:cell:) http://europa.eu.int/idabc/en/document/3439%0a(:cellnr:) 5%0a(:cell:) OpenOffice, David A. Wheeler%0a(:cell:) http://www.dwheeler.com/essays/why-opendocument-won.html%0a(:tableend:)
+time=1138807057
+author:1138807057=
+diff:1138807057:1138806737:=21c21,23%0a%3c (:tableend:)%0a\ No newline at end of file%0a---%0a> (:tableend:)%0a> %0a> %25trail%25%3c%3c|[[Main/SideBar]]|>>%0a\ No newline at end of file%0a
+host:1138807057=84.73.186.135
+author:1138806737=
+diff:1138806737:1138806697:=21,22c21%0a%3c (:tableend:)%0a%3c %0a---%0a> %0a
+host:1138806737=84.73.186.135
+author:1138806697=
+diff:1138806697:1129276235:=20,22c20%0a%3c (:cell:) http://www.dwheeler.com/essays/why-opendocument-won.html%0a%3c %0a%3c %25trail%25%3c%3c|[[Main/SideBar]]|>>%0a\ No newline at end of file%0a---%0a> (:cell:) http://www.dwheeler.com/essays/why-opendocument-won.html%0a\ No newline at end of file%0a
+host:1138806697=84.73.186.135
+author:1129276235=
+diff:1129276235:1129276198:=19c19%0a%3c (:cell:) OpenOffice, David A. Wheeler%0a---%0a> (:cell:) OpenOffice%0a
+host:1129276235=84.73.187.0
+author:1129276198=
+diff:1129276198:1129276170:=15c15%0a%3c (:cellnr:) 4%0a---%0a> (:cellnr:) 3%0a18c18%0a%3c (:cellnr:) 5%0a---%0a> (:cellnr:) 3%0a
+host:1129276198=84.73.187.0
+author:1129276170=
+diff:1129276170:1129275886:=2,20c2,11%0a%3c (:table border=1 cellpadding=5 cellspacing=0:)%0a%3c (:cell:) '''#'''%0a%3c (:cell:) '''Initiator'''%0a%3c (:cell:) '''Link'''%0a%3c (:cellnr:) 1%0a%3c (:cell:) Bruce Perens%0a%3c (:cell:) http://perens.com/OpenStandards/Definition.html%0a%3c (:cellnr:) 2%0a%3c (:cell:) World Wide Web Consortium%0a%3c (:cell:) http://www.w3.org/Consortium/%0a%3c (:cellnr:) 3%0a%3c (:cell:) Transition Guide, München%0a%3c (:cell:) http://www.kbst.bund.de/doc,-304105/Federal-Government-Co-ordinati.htm#Migrationsleitfaden%0a%3c (:cellnr:) 3%0a%3c (:cell:) EU%0a%3c (:cell:) http://europa.eu.int/idabc/en/document/3439%0a%3c (:cellnr:) 3%0a%3c (:cell:) OpenOffice%0a%3c (:cell:) http://www.dwheeler.com/essays/why-opendocument-won.html%0a\ No newline at end of file%0a---%0a> Bruce Perens%0a> * http://perens.com/OpenStandards/Definition.html%0a> World Wide Web Consortium%0a> * http://www.w3.org/Consortium/%0a> Transition Guide, München:%0a> * http://www.kbst.bund.de/doc,-304105/Federal-Government-Co-ordinati.htm#Migrationsleitfaden%0a> EU%0a> * http://europa.eu.int/idabc/en/document/3439%0a> OpenOffice%0a> * http://www.dwheeler.com/essays/why-opendocument-won.html%0a\ No newline at end of file%0a
+host:1129276170=84.73.187.0
+author:1129275886=
+diff:1129275886:1129275740:=2d1%0a%3c Bruce Perens%0a4d2%0a%3c World Wide Web Consortium%0a6d3%0a%3c Transition Guide, München:%0a8d4%0a%3c EU%0a10d5%0a%3c OpenOffice%0a
+host:1129275886=84.73.187.0
+author:1129275740=
+diff:1129275740:1129216100:=5,6c5%0a%3c * http://europa.eu.int/idabc/en/document/3439%0a%3c * http://www.dwheeler.com/essays/why-opendocument-won.html%0a\ No newline at end of file%0a---%0a> * http://europa.eu.int/idabc/en/document/3439%0a\ No newline at end of file%0a
+host:1129275740=84.73.187.0
+author:1129216100=
+diff:1129216100:1129215960:=4,5c4%0a%3c * http://www.kbst.bund.de/doc,-304105/Federal-Government-Co-ordinati.htm#Migrationsleitfaden%0a%3c * http://europa.eu.int/idabc/en/document/3439%0a\ No newline at end of file%0a---%0a> * http://www.kbst.bund.de/doc,-304105/Federal-Government-Co-ordinati.htm#Migrationsleitfaden%0a\ No newline at end of file%0a
+host:1129216100=84.73.187.0
+author:1129215960=
+diff:1129215960:1129215942:=4c4%0a%3c * http://www.kbst.bund.de/doc,-304105/Federal-Government-Co-ordinati.htm#Migrationsleitfaden%0a\ No newline at end of file%0a---%0a> * http://www.kbst.bund.de/doc,-304105/Federal-Government-Co-ordinati.htm%0a\ No newline at end of file%0a
+host:1129215960=84.73.187.0
+author:1129215942=
+diff:1129215942:1125645336:=3,4c3%0a%3c * http://www.w3.org/Consortium/%0a%3c * http://www.kbst.bund.de/doc,-304105/Federal-Government-Co-ordinati.htm%0a\ No newline at end of file%0a---%0a> * http://www.w3.org/Consortium/%0a\ No newline at end of file%0a
+host:1129215942=84.73.187.0
+author:1125645336=
+diff:1125645336:1125645336:=1,3d0%0a%3c ! Offene Standards%0a%3c * http://perens.com/OpenStandards/Definition.html%0a%3c * http://www.w3.org/Consortium/ %0a\ No newline at end of file%0a
+host:1125645336=84.73.187.0

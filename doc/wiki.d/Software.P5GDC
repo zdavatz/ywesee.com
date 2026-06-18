@@ -1,0 +1,13 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1097762831
+text=[[http://www.asus.com/products/mb/socket775/p5gdc-d/overview.htm | Nice and new motherboard from Asus for our new 900GB Fileserver]]
+targets=
+author=
+author:1097762831=
+host:1097762831=80.219.133.159
+diff:1097762831:1097762831:=1d0²< [[http://www.asus.com/products/mb/socket775/p5gdc-d/overview.htm | Nice and new motherboard from Asus for our new 900GB Fileserver]]²\ No newline at end of file²
+name=Software.P5GDC
+host=80.219.133.159
+agent=Mozilla/5.0 (X11; U; Linux ppc; rv:1.7.3) Gecko/20041008 Firefox/0.10.1
+rev=1

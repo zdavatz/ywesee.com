@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1774723160
+host=212.51.146.241
+name=Eudamed2Firstbase.Privacy
+rev=1
+targets=
+text=! Eudamed2Firstbase Privacy%0a# Eudamed2Firstbase does not store any personal data.%0a# Eudamed2Firstbase does not collect any personal data.%0a# Eudamed2Firstbase does not track the user.%0a# Eudamed2Firstbase does not contain ads.
+time=1774723160
+author:1774723160=zeno
+diff:1774723160:1774723160:=1,5d0%0a%3c ! Eudamed2Firstbase Privacy%0a%3c # Eudamed2Firstbase does not store any personal data.%0a%3c # Eudamed2Firstbase does not collect any personal data.%0a%3c # Eudamed2Firstbase does not track the user.%0a%3c # Eudamed2Firstbase does not contain ads.%0a\ No newline at end of file%0a
+host:1774723160=212.51.146.241

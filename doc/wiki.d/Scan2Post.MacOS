@@ -1,0 +1,24 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+author=
+charset=ISO-8859-1
+csum=
+ctime=1536130622
+host=212.51.146.241
+name=Scan2Post.MacOS
+rev=4
+targets=
+text=! Scan2Post for macOS%0aCreate a HTTP-Post Request from the data read off a Swiss Health Insurance card. Supported cardreader is PX-8935-919 from Xystec.%0a%0aThis App is an Application that runs in the background of the User. It waits for the input of an USB Card Reader. If the User inserts a Swiss Health Insurance Card, then contents of the chip are sent to the API configured according to the settings of this App. If the User has his Browser Open, then the data of the card will show in the Web-App of the User.%0a%0a[[https://itunes.apple.com/us/app/scan2post/id1435130536?mt=12 | Download from macOS Store.]]
+time=1537082166
+author:1537082166=
+diff:1537082166:1537082153:=6c6%0a%3c [[https://itunes.apple.com/us/app/scan2post/id1435130536?mt=12 | Download from macOS Store.]]%0a\ No newline at end of file%0a---%0a> [[Download from macOS Store. | https://itunes.apple.com/us/app/scan2post/id1435130536?mt=12]]%0a\ No newline at end of file%0a
+host:1537082166=212.51.146.241
+author:1537082153=
+diff:1537082153:1537082097:=4,6c4%0a%3c This App is an Application that runs in the background of the User. It waits for the input of an USB Card Reader. If the User inserts a Swiss Health Insurance Card, then contents of the chip are sent to the API configured according to the settings of this App. If the User has his Browser Open, then the data of the card will show in the Web-App of the User.%0a%3c %0a%3c [[Download from macOS Store. | https://itunes.apple.com/us/app/scan2post/id1435130536?mt=12]]%0a\ No newline at end of file%0a---%0a> This App is an Application that runs in the background of the User. It waits for the input of an USB Card Reader. If the User inserts a Swiss Health Insurance Card, then contents of the chip are sent to the API configured according to the settings of this App. If the User has his Browser Open, then the data of the card will show in the Web-App of the User.%0a\ No newline at end of file%0a
+host:1537082153=212.51.146.241
+author:1537082097=
+diff:1537082097:1536130622:=2,4c2%0a%3c Create a HTTP-Post Request from the data read off a Swiss Health Insurance card. Supported cardreader is PX-8935-919 from Xystec.%0a%3c %0a%3c This App is an Application that runs in the background of the User. It waits for the input of an USB Card Reader. If the User inserts a Swiss Health Insurance Card, then contents of the chip are sent to the API configured according to the settings of this App. If the User has his Browser Open, then the data of the card will show in the Web-App of the User.%0a\ No newline at end of file%0a---%0a> This App is an Application that runs in the background of the User. It waits for the input of an USB Card Reader. If the User inserts a Swiss Health Insurance Card, then contents of the chips are sent to the API configured according to the settings of this App. If the User has his Browser Open, then the data of the card will show in the Web-App of the User.%0a\ No newline at end of file%0a
+host:1537082097=212.51.146.241
+author:1536130622=
+diff:1536130622:1536130622:=1,2d0%0a%3c ! Scan2Post for macOS%0a%3c This App is an Application that runs in the background of the User. It waits for the input of an USB Card Reader. If the User inserts a Swiss Health Insurance Card, then contents of the chips are sent to the API configured according to the settings of this App. If the User has his Browser Open, then the data of the card will show in the Web-App of the User.%0a\ No newline at end of file%0a
+host:1536130622=212.51.146.241

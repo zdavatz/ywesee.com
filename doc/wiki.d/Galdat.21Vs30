@@ -1,0 +1,165 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:2.0b7pre) Gecko/20100920 Firefox/4.0b7pre
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1285321048
+host=80.219.10.249
+name=Galdat.21Vs30
+rev=51
+targets=
+text=!!ProPharma Non-Drug Import%0a%0a(:table border=1 cellpadding=5 cellspacing=0:)%0a(:cell:) '''#'''%0a(:cell:) '''01=AC'''%0a(:cell:) '''03=ACNAM'''%0a(:cell:) '''06=ACBARCODE'''%0a(:cell:) '''07=ACPriceAlg'''%0a(:cell:) '''19=ACCOMP'''%0a(:cellnr:) 1%0a(:cell:) '''06''', GroupCode, A, 2, Article is member of one of the following product groups:, M1 = drugs of Swissmedic categories A-C, sera, vaccines and immunoglobulines (assortment code: 01, 02, 03, 07), M9 = all other drugs (assortment code: 04, 05, 06, 08, 09), P1 = home care, hygienic products, diets (assortment code: 19, 20, 21), P2 = ,cosmetics and perfumes (assortment code: 22), P9 = other parapharmaceutical products (assortment code: 30, 31, 32, 33)%0a(:cell:) '''07''', Name50, A, 50, Complete and unique name of an article: is built up by concatenating (and abbreviating, if necessary) columns 08 to 19%0a(:cell:) '''05''', Barcode, A, 20%0a(:cell:) '''06''', Price, N, 8, Price: these prices are indicative, “list prices”%0a(:cell:) '''04''', CompKey, N, 13, Related to table 12=COMP%0a(:cellnr:) 2%0a(:cell:) '''29''', VATCode, A, 1, Code for value added tax: 1 = full, 2 = reduced, 3 = excluded%0a(:cell:)%0a(:cell:)%0a(:cell:)%0a(:cell:)%0a(:tableend:)%0a%0a!!Galdat 2.1 vs Galdat 3.0%0a%0a(:table border=1 cellpadding=5 cellspacing=0:)%0a(:cell:) '''#'''%0a(:cell:) '''Galdat 2.1'''%0a(:cell:) '''Felder'''%0a(:cell:) '''Galdat 3.0'''%0a(:cell:) '''Felder'''%0a(:cellnr:) 1%0a(:cell:)AC 01%0a(:cell:) 60%0a(:cell:)AC 01%0a(:cell:) 56%0a(:cellnr:) 2%0a(:cell:)ACMED 03%0a(:cell:) 26%0a(:cell:)ACMED 03%0a(:cell:) 26%0a(:cellnr:) 3%0a(:cell:)ACWHS 04%0a(:cell:) 30%0a(:cell:)ACWHS 04%0a(:cell:) 27%0a(:tableend:)%0a%0a!!Galdat 3.0 neue Felder%0a(:table border=1 cellpadding=5 cellspacing=0:)%0a(:cell:) '''#'''%0a(:cell:) '''AC 01'''%0a(:cell:) '''ACMED 03'''%0a(:cell:) '''ACWHS 04'''%0a(:cellnr:) 1%0a(:cell:)16, ClinicalCode, A, 1, Y = clinical (big) package, which may be also delivered to pharmacies, doctors%0a(:cell:)10, CodeGalForm, A, 1, Y = galenic form is used explicitly%0a(:cell:)06, Platform, A, 3, PHA = pharmacies, DRO = drug stores, HOS = hospitals, MED = doctors, GRO = other wholesaler, RET = retailer (EPA, Migros,etc.), PUB = End-user, ALL = all platforms, These platforms are wholesaler dependent and are indicated in table 00=WHS.%0a(:cellnr:) 2%0a(:cell:) 17, ManArtNo1, A, 40, Article number of manufacturer (on package), '''(length was increased from 20 to 40 characters on 15.11.2008)'''%0a(:cell:) 23, SortDescr, A, 70, Description for sorting records%0a(:cell:) 10, ReplType, N, 1, Type of replacement: 1 = action, 2 = out of sale%0a(:cellnr:) 3%0a(:cell:) 18, ManArtNo2, A, 40, Second article number of manufacturer (on pricelist), '''(length was increased from 20 to 40 characters on 15.11.2008)'''%0a(:cell:) 24, Comment, A, 4000, Free text comments on article%0a(:cell:) 13, StockInfo, A, 8, Article availability: “in stock in wholesaler&#8223;s warehouse”, For Galexis: position 1 = Niederbipp , 3 = Lausanne e.g. “1 1” = article is in stock in Niederbipp and Lausanne%0a(:cellnr:) 4%0a(:cell:) 19, ManArtNo3, A, 40, Third article number of manufacturer, '''(length was increased from 20 to 40 characters on 15.11.2008)'''%0a(:cell:)%0a(:cell:)14, RetCode, A, 1, Mode for product return conditions: 0 = wholesaler, 1 = representative, 2 = supplier, 3 = to wholesaler, after signature of its sales representative 9 = no return possible%0a(:cellnr:) 5%0a(:cell:) 20, GenericCode, A, 1, G = drug is declared as generic product by BAG, O = drug is declared as original product by BAG, Empty = no information is available%0a(:cell:)%0a(:cell:) 15, RetDelay, A, 3, Return conditions: +MM: must be returned within MM months after the expiration date, -MM: must be returned within MM months before expiration date, N no return accepted%0a(:cellnr:) 6%0a(:cell:) 22, SWISSMEDIC-Date, N, 8, For drugs: Date of first Swissmedic registration (YYYYMMDD), (Filled 15.11.2008)%0aRegistration dates of the past years will be added%0a(:cell:)%0a(:cell:) 16, RetPercent, N, 5, Percentage of withdrawal on returns by supplier (e.g. 15.00 = 15%25) (can be empty)%0a(:cellnr:) 7%0a(:cell:) 23, SWISSMEDIC-CancelDate, N, 8, For drugs: Cancel Date of Swissmedic registration (YYYYMMDD) (Filled 15.11.2008) Cancel Dates since Swissmedic publications in July 2008 will be added%0a(:cell:)%0a(:cell:) 17, WhsPack, N, 8, Min. order quantity. Special charge for orders below this value.%0a(:cellnr:) 8%0a(:cell:) 24, BAGSLDate, N, 8, Date of intake in SL (YYYYMMDD)%0a(:cell:)%0a(:cell:) 24, Txt1, A, 4000, Additional free text information%0a(:cellnr:) 9%0a(:cell:) 25, BAGCancDate, N, 8, Date cancelling of SL-entry (YYYYMMDD)%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 10%0a(:cell:) 27, TypeOfArticle, N, 1, 0 = Commerce object, order-unit, 1 = Detail-sales-unit (related to an order unit in table 20=ACCHAIN), 2 = Price-code, 3 = MiGeL Price-Code%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 11%0a(:cell:) 34, OutOfSaleDate, N, 8, Date of out of sale (YYYYMMDD)%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 12%0a(:cell:) 35, TypeOutOfSale, N, 1, No longer in use%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 13%0a(:cell:) 36, ImgKey1, A, 80, Name of related image file (.jpg) including folder and file extension when image file is available. Example: 19/1901716o.jpg%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 14%0a(:cell:) 37, SLOplus (new as of 15.07.06, old Reserve3), N, 1, Higher co-payment (Selbstbehalt) for original product in the SL: 1 = higher co-payment for original product (versus generic product), empty = no higher co-payment for original product%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 15%0a(:cell:) 38, NOT, A, 1, Notification Y=Notifacted by Swissmedic blank=not notificated%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 16%0a(:cell:) 44, GGL, A, 1, Y = is listed on birth defect list “Geburtsgebrechenliste” (Y/N)%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 17%0a(:cell:) 48, CodeBG, A, 1, B = psychotropic drugs, C = narcotic drugs to sale in little quantity without restriction D = psychotropic drugs + narcotic drugs (=B + C) (should not exist)%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 18%0a(:cell:) 53, WWW, A, 255, URL of article (currently empty)%0a(:cell:)%0a(:cell:)%0a(:cellnr:) 19%0a(:cell:) 54, NumOfPce, N, 5, Total number of pieces in package%0a(:cell:)%0a(:cell:)%0a(:tableend:)
+time=1285575984
+author:1285575984=zeno
+diff:1285575984:1285575941:=18d17%0a%3c (:cell:)%0a
+host:1285575984=80.219.10.249
+author:1285575941=zeno
+diff:1285575941:1285575646:=7d6%0a%3c (:cell:) '''06=ACBARCODE'''%0a13d11%0a%3c (:cell:) '''05''', Barcode, A, 20%0a
+host:1285575941=80.219.10.249
+author:1285575646=zeno
+diff:1285575646:1285575607:=10,13c10,13%0a%3c (:cell:) '''06''', GroupCode, A, 2, Article is member of one of the following product groups:, M1 = drugs of Swissmedic categories A-C, sera, vaccines and immunoglobulines (assortment code: 01, 02, 03, 07), M9 = all other drugs (assortment code: 04, 05, 06, 08, 09), P1 = home care, hygienic products, diets (assortment code: 19, 20, 21), P2 = ,cosmetics and perfumes (assortment code: 22), P9 = other parapharmaceutical products (assortment code: 30, 31, 32, 33)%0a%3c (:cell:) '''07''', Name50, A, 50, Complete and unique name of an article: is built up by concatenating (and abbreviating, if necessary) columns 08 to 19%0a%3c (:cell:) '''06''', Price, N, 8, Price: these prices are indicative, “list prices”%0a%3c (:cell:) '''04''', CompKey, N, 13, Related to table 12=COMP%0a---%0a> (:cell:) 06, GroupCode, A, 2, Article is member of one of the following product groups:, M1 = drugs of Swissmedic categories A-C, sera, vaccines and immunoglobulines (assortment code: 01, 02, 03, 07), M9 = all other drugs (assortment code: 04, 05, 06, 08, 09), P1 = home care, hygienic products, diets (assortment code: 19, 20, 21), P2 = ,cosmetics and perfumes (assortment code: 22), P9 = other parapharmaceutical products (assortment code: 30, 31, 32, 33)%0a> (:cell:) 07, Name50, A, 50, Complete and unique name of an article: is built up by concatenating (and abbreviating, if necessary) columns 08 to 19%0a> (:cell:) 06, Price, N, 8, Price: these prices are indicative, “list prices”%0a> (:cell:) 04, CompKey, N, 13, Related to table 12=COMP%0a15c15%0a%3c (:cell:) '''29''', VATCode, A, 1, Code for value added tax: 1 = full, 2 = reduced, 3 = excluded%0a---%0a> (:cell:) 29, VATCode, A, 1, Code for value added tax: 1 = full, 2 = reduced, 3 = excluded%0a
+host:1285575646=80.219.10.249
+author:1285575607=zeno
+diff:1285575607:1285575584:=14c14%0a%3c (:cellnr:) 2%0a---%0a> (cellnr:) 2%0a
+host:1285575607=80.219.10.249
+author:1285575584=zeno
+diff:1285575584:1285575541:=
+host:1285575584=80.219.10.249
+author:1285575541=zeno
+diff:1285575541:1285575207:=10c10%0a%3c (:cell:) 06, GroupCode, A, 2, Article is member of one of the following product groups:, M1 = drugs of Swissmedic categories A-C, sera, vaccines and immunoglobulines (assortment code: 01, 02, 03, 07), M9 = all other drugs (assortment code: 04, 05, 06, 08, 09), P1 = home care, hygienic products, diets (assortment code: 19, 20, 21), P2 = ,cosmetics and perfumes (assortment code: 22), P9 = other parapharmaceutical products (assortment code: 30, 31, 32, 33)%0a---%0a> (:cell:) 29, VATCode, A, 1, Code for value added tax: 1 = full, 2 = reduced, 3 = excluded%0a14,18d13%0a%3c (cellnr:) 2%0a%3c (:cell:) 29, VATCode, A, 1, Code for value added tax: 1 = full, 2 = reduced, 3 = excluded%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cell:)%0a
+host:1285575541=80.219.10.249
+author:1285575207=zeno
+diff:1285575207:1285575181:=1c1%0a%3c !!ProPharma Non-Drug Import%0a---%0a> !!ProPharma must import%0a
+host:1285575207=80.219.10.249
+author:1285575181=zeno
+diff:1285575181:1285575157:=14d13%0a%3c (:tableend:)%0a
+host:1285575181=80.219.10.249
+author:1285575157=zeno
+diff:1285575157:1285330556:=1,14d0%0a%3c !!ProPharma must import%0a%3c %0a%3c (:table border=1 cellpadding=5 cellspacing=0:)%0a%3c (:cell:) '''#'''%0a%3c (:cell:) '''01=AC'''%0a%3c (:cell:) '''03=ACNAM'''%0a%3c (:cell:) '''07=ACPriceAlg'''%0a%3c (:cell:) '''19=ACCOMP'''%0a%3c (:cellnr:) 1%0a%3c (:cell:) 29, VATCode, A, 1, Code for value added tax: 1 = full, 2 = reduced, 3 = excluded%0a%3c (:cell:) 07, Name50, A, 50, Complete and unique name of an article: is built up by concatenating (and abbreviating, if necessary) columns 08 to 19%0a%3c (:cell:) 06, Price, N, 8, Price: these prices are indicative, “list prices”%0a%3c (:cell:) 04, CompKey, N, 13, Related to table 12=COMP%0a%3c %0a
+host:1285575157=80.219.10.249
+author:1285330556=zeno
+diff:1285330556:1285330522:=86c86,87%0a%3c (:cell:) 37, SLOplus (new as of 15.07.06, old Reserve3), N, 1, Higher co-payment (Selbstbehalt) for original product in the SL: 1 = higher co-payment for original product (versus generic product), empty = no higher co-payment for original product%0a---%0a> (:cell:) SLOplus (new as of 15.07.06, old Reserve3), N, 1, Higher co-payment (Selbstbehalt) for original product in the SL:%0a> 1 = higher co-payment for original product (versus generic product), empty = no higher co-payment for original product%0a
+host:1285330556=80.219.10.249
+author:1285330522=zeno
+diff:1285330522:1285330338:=86,87c86%0a%3c (:cell:) SLOplus (new as of 15.07.06, old Reserve3), N, 1, Higher co-payment (Selbstbehalt) for original product in the SL:%0a%3c 1 = higher co-payment for original product (versus generic product), empty = no higher co-payment for original product%0a---%0a> (:cell:) 37, ImgKey1, A, 80, Name of related image file (.jpg) including folder and file extension when image file is available. Example: 19/1901716o.jpg%0a
+host:1285330522=80.219.10.249
+author:1285330338=zeno
+diff:1285330338:1285330313:=45c45%0a%3c (:cell:) 19, ManArtNo3, A, 40, Third article number of manufacturer, '''(length was increased from 20 to 40 characters on 15.11.2008)'''%0a---%0a> (:cell:) 19, ManArtNo3, A, 40, Third article number of manufacturer, (length was increased from 20 to 40 characters on 15.11.2008)%0a
+host:1285330338=80.219.10.249
+author:1285330313=zeno
+diff:1285330313:1285328146:=37c37%0a%3c (:cell:) 17, ManArtNo1, A, 40, Article number of manufacturer (on package), '''(length was increased from 20 to 40 characters on 15.11.2008)'''%0a---%0a> (:cell:) 17, ManArtNo1, A, 40, Article number of manufacturer (on package), (length was increased from 20 to 40 characters on 15.11.2008)%0a41c41%0a%3c (:cell:) 18, ManArtNo2, A, 40, Second article number of manufacturer (on pricelist), '''(length was increased from 20 to 40 characters on 15.11.2008)'''%0a---%0a> (:cell:) 18, ManArtNo2, A, 40, Second article number of manufacturer (on pricelist), (length was increased from 20 to 40 characters on 15.11.2008)%0a
+host:1285330313=80.219.10.249
+author:1285328146=zeno
+diff:1285328146:1285328135:=13c13%0a%3c (:cell:) 56%0a---%0a> (:cell) 56%0a
+host:1285328146=80.219.10.249
+author:1285328135=zeno
+diff:1285328135:1285327798:=6d5%0a%3c (:cell:) '''Felder'''%0a8d6%0a%3c (:cell:) '''Felder'''%0a10,13c8,9%0a%3c (:cell:)AC 01%0a%3c (:cell:) 60%0a%3c (:cell:)AC 01%0a%3c (:cell) 56%0a---%0a> (:cell:)AC 01: 60 Felder%0a> (:cell:)AC 01: 56 Felder%0a15,18c11,12%0a%3c (:cell:)ACMED 03%0a%3c (:cell:) 26%0a%3c (:cell:)ACMED 03%0a%3c (:cell:) 26%0a---%0a> (:cell:)ACMED 03: 26 Felder%0a> (:cell:)ACMED 03: 26 Felder%0a20,23c14,15%0a%3c (:cell:)ACWHS 04%0a%3c (:cell:) 30%0a%3c (:cell:)ACWHS 04%0a%3c (:cell:) 27%0a---%0a> (:cell:)ACWHS 04: 30 Felder%0a> (:cell:)ACWHS 04: 27 Felder%0a
+host:1285328135=80.219.10.249
+author:1285327798=zeno
+diff:1285327798:1285327755:=95,98d94%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cellnr:) 19%0a%3c (:cell:) 54, NumOfPce, N, 5, Total number of pieces in package%0a
+host:1285327798=80.219.10.249
+author:1285327755=zeno
+diff:1285327755:1285327695:=91,94d90%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cellnr:) 18%0a%3c (:cell:) 53, WWW, A, 255, URL of article (currently empty)%0a
+host:1285327755=80.219.10.249
+author:1285327695=zeno
+diff:1285327695:1285327641:=87,90d86%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cellnr:) 17%0a%3c (:cell:) 48, CodeBG, A, 1, B = psychotropic drugs, C = narcotic drugs to sale in little quantity without restriction D = psychotropic drugs + narcotic drugs (=B + C) (should not exist)%0a
+host:1285327695=80.219.10.249
+author:1285327641=zeno
+diff:1285327641:1285327562:=83,86d82%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cellnr:) 16%0a%3c (:cell:) 44, GGL, A, 1, Y = is listed on birth defect list “Geburtsgebrechenliste” (Y/N)%0a
+host:1285327641=80.219.10.249
+author:1285327562=zeno
+diff:1285327562:1285327528:=77d76%0a%3c (:cellnr:) 14%0a81d79%0a%3c (:cellnr:) 15%0a
+host:1285327562=80.219.10.249
+author:1285327528=zeno
+diff:1285327528:1285327448:=75,80d74%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cell:) 37, ImgKey1, A, 80, Name of related image file (.jpg) including folder and file extension when image file is available. Example: 19/1901716o.jpg%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cell:) 38, NOT, A, 1, Notification Y=Notifacted by Swissmedic blank=not notificated%0a
+host:1285327528=80.219.10.249
+author:1285327448=zeno
+diff:1285327448:1285327374:=71,74d70%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cellnr:) 13%0a%3c (:cell:) 36, ImgKey1, A, 80, Name of related image file (.jpg) including folder and file extension when image file is available. Example: 19/1901716o.jpg%0a
+host:1285327448=80.219.10.249
+author:1285327374=zeno
+diff:1285327374:1285327371:=
+host:1285327374=80.219.10.249
+author:1285327371=zeno
+diff:1285327371:1285327315:=67,70d66%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cellnr:) 12%0a%3c (:cell:) 35, TypeOutOfSale, N, 1, No longer in use%0a
+host:1285327371=80.219.10.249
+author:1285327315=zeno
+diff:1285327315:1285327249:=63,66d62%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cellnr:) 11%0a%3c (:cell:) 34, OutOfSaleDate, N, 8, Date of out of sale (YYYYMMDD)%0a
+host:1285327315=80.219.10.249
+author:1285327249=zeno
+diff:1285327249:1285327246:=
+host:1285327249=80.219.10.249
+author:1285327246=zeno
+diff:1285327246:1285327228:=63,64d62%0a%3c (:cell:)%0a%3c (:cell:)%0a
+host:1285327246=80.219.10.249
+author:1285327228=zeno
+diff:1285327228:1285327171:=61,62d60%0a%3c (:cellnr:) 10%0a%3c (:cell:) 27, TypeOfArticle, N, 1, 0 = Commerce object, order-unit, 1 = Detail-sales-unit (related to an order unit in table 20=ACCHAIN), 2 = Price-code, 3 = MiGeL Price-Code%0a
+host:1285327228=80.219.10.249
+author:1285327171=zeno
+diff:1285327171:1285327061:=57,60d56%0a%3c (:cellnr:) 9%0a%3c (:cell:) 25, BAGCancDate, N, 8, Date cancelling of SL-entry (YYYYMMDD)%0a%3c (:cell:)%0a%3c (:cell:)%0a
+host:1285327171=80.219.10.249
+author:1285327061=zeno
+diff:1285327061:1285326926:=53,56d52%0a%3c (:cellnr:) 8%0a%3c (:cell:) 24, BAGSLDate, N, 8, Date of intake in SL (YYYYMMDD)%0a%3c (:cell:)%0a%3c (:cell:) 24, Txt1, A, 4000, Additional free text information%0a
+host:1285327061=80.219.10.249
+author:1285326926=zeno
+diff:1285326926:1285326806:=49,52d48%0a%3c (:cellnr:) 7%0a%3c (:cell:) 23, SWISSMEDIC-CancelDate, N, 8, For drugs: Cancel Date of Swissmedic registration (YYYYMMDD) (Filled 15.11.2008) Cancel Dates since Swissmedic publications in July 2008 will be added%0a%3c (:cell:)%0a%3c (:cell:) 17, WhsPack, N, 8, Min. order quantity. Special charge for orders below this value.%0a
+host:1285326926=80.219.10.249
+author:1285326806=zeno
+diff:1285326806:1285326684:=44,48d43%0a%3c (:cellnr:) 6%0a%3c (:cell:) 22, SWISSMEDIC-Date, N, 8, For drugs: Date of first Swissmedic registration (YYYYMMDD), (Filled 15.11.2008)%0a%3c Registration dates of the past years will be added%0a%3c (:cell:)%0a%3c (:cell:) 16, RetPercent, N, 5, Percentage of withdrawal on returns by supplier (e.g. 15.00 = 15%25) (can be empty)%0a
+host:1285326806=80.219.10.249
+author:1285326684=zeno
+diff:1285326684:1285323062:=40,43d39%0a%3c (:cellnr:) 5%0a%3c (:cell:) 20, GenericCode, A, 1, G = drug is declared as generic product by BAG, O = drug is declared as original product by BAG, Empty = no information is available%0a%3c (:cell:)%0a%3c (:cell:) 15, RetDelay, A, 3, Return conditions: +MM: must be returned within MM months after the expiration date, -MM: must be returned within MM months before expiration date, N no return accepted%0a
+host:1285326684=80.219.10.249
+author:1285323062=zeno
+diff:1285323062:1285322862:=36,39d35%0a%3c (:cellnr:) 4%0a%3c (:cell:) 19, ManArtNo3, A, 40, Third article number of manufacturer, (length was increased from 20 to 40 characters on 15.11.2008)%0a%3c (:cell:)%0a%3c (:cell:)14, RetCode, A, 1, Mode for product return conditions: 0 = wholesaler, 1 = representative, 2 = supplier, 3 = to wholesaler, after signature of its sales representative 9 = no return possible%0a
+host:1285323062=80.219.10.249
+author:1285322862=zeno
+diff:1285322862:1285322693:=34c34%0a%3c (:cell:) 24, Comment, A, 4000, Free text comments on article%0a---%0a> (:cell:) 23, SortDescr, A, 70, Description for sorting records%0a
+host:1285322862=80.219.10.249
+author:1285322693=zeno
+diff:1285322693:1285322662:=34,35c34,35%0a%3c (:cell:) 23, SortDescr, A, 70, Description for sorting records%0a%3c (:cell:) 13, StockInfo, A, 8, Article availability: “in stock in wholesaler&#8223;s warehouse”, For Galexis: position 1 = Niederbipp , 3 = Lausanne e.g. “1 1” = article is in stock in Niederbipp and Lausanne%0a---%0a> (cell:) 23, SortDescr, A, 70, Description for sorting records%0a> (cell:) 13, StockInfo, A, 8, Article availability: “in stock in wholesaler&#8223;s warehouse”, For Galexis: position 1 = Niederbipp , 3 = Lausanne e.g. “1 1” = article is in stock in Niederbipp and Lausanne%0a
+host:1285322693=80.219.10.249
+author:1285322662=zeno
+diff:1285322662:1285322612:=
+host:1285322662=80.219.10.249
+author:1285322612=zeno
+diff:1285322612:1285322581:=33c33,34%0a%3c (:cell:) 18, ManArtNo2, A, 40, Second article number of manufacturer (on pricelist), (length was increased from 20 to 40 characters on 15.11.2008)%0a---%0a> (:cell:)%0a> 18, ManArtNo2, A, 40, Second article number of manufacturer (on pricelist), (length was increased from 20 to 40 characters on 15.11.2008)%0a
+host:1285322612=80.219.10.249
+author:1285322581=zeno
+diff:1285322581:1285322333:=32,36d31%0a%3c (:cellnr:) 3%0a%3c (:cell:)%0a%3c 18, ManArtNo2, A, 40, Second article number of manufacturer (on pricelist), (length was increased from 20 to 40 characters on 15.11.2008)%0a%3c (cell:) 23, SortDescr, A, 70, Description for sorting records%0a%3c (cell:) 13, StockInfo, A, 8, Article availability: “in stock in wholesaler&#8223;s warehouse”, For Galexis: position 1 = Niederbipp , 3 = Lausanne e.g. “1 1” = article is in stock in Niederbipp and Lausanne%0a
+host:1285322581=80.219.10.249
+author:1285322333=zeno
+diff:1285322333:1285322292:=29,31c29,31%0a%3c (:cell:) 17, ManArtNo1, A, 40, Article number of manufacturer (on package), (length was increased from 20 to 40 characters on 15.11.2008)%0a%3c (:cell:) 23, SortDescr, A, 70, Description for sorting records%0a%3c (:cell:) 10, ReplType, N, 1, Type of replacement: 1 = action, 2 = out of sale%0a---%0a> (:cellnr:) 17, ManArtNo1, A, 40, Article number of manufacturer (on package), (length was increased from 20 to 40 characters on 15.11.2008)%0a> (:cellnr:) 23, SortDescr, A, 70, Description for sorting records%0a> (:cellnr:) 10, ReplType, N, 1, Type of replacement: 1 = action, 2 = out of sale%0a
+host:1285322333=80.219.10.249
+author:1285322292=zeno
+diff:1285322292:1285322249:=
+host:1285322292=80.219.10.249
+author:1285322249=zeno
+diff:1285322249:1285321868:=28,31d27%0a%3c (:cellnr:) 2%0a%3c (:cellnr:) 17, ManArtNo1, A, 40, Article number of manufacturer (on package), (length was increased from 20 to 40 characters on 15.11.2008)%0a%3c (:cellnr:) 23, SortDescr, A, 70, Description for sorting records%0a%3c (:cellnr:) 10, ReplType, N, 1, Type of replacement: 1 = action, 2 = out of sale%0a
+host:1285322249=80.219.10.249
+author:1285321868=zeno
+diff:1285321868:1285321725:=25,27c25,31%0a%3c (:cell:)16, ClinicalCode, A, 1, Y = clinical (big) package, which may be also delivered to pharmacies, doctors%0a%3c (:cell:)10, CodeGalForm, A, 1, Y = galenic form is used explicitly%0a%3c (:cell:)06, Platform, A, 3, PHA = pharmacies, DRO = drug stores, HOS = hospitals, MED = doctors, GRO = other wholesaler, RET = retailer (EPA, Migros,etc.), PUB = End-user, ALL = all platforms, These platforms are wholesaler dependent and are indicated in table 00=WHS.%0a---%0a> (:cell:)16%0a> ClinicalCode%0a> A%0a> 1%0a> Y = clinical (big) package, which may be also delivered to pharmacies, doctors%0a> (:cell:)%0a> (:cell:)%0a
+host:1285321868=80.219.10.249
+author:1285321725=zeno
+diff:1285321725:1285321654:=25,29c25%0a%3c (:cell:)16%0a%3c ClinicalCode%0a%3c A%0a%3c 1%0a%3c Y = clinical (big) package, which may be also delivered to pharmacies, doctors%0a---%0a> (:cell:)%0a
+host:1285321725=80.219.10.249
+author:1285321654=zeno
+diff:1285321654:1285321635:=24a25%0a> (:cell:)%0a
+host:1285321654=80.219.10.249
+author:1285321635=zeno
+diff:1285321635:1285321548:=1,2c1,2%0a%3c !!Galdat 2.1 vs Galdat 3.0%0a%3c %0a---%0a> Galdat 2.1 vs Galdat 3.0%0a> %0a25,28c25,26%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cell:)%0a%3c (:cell:)%0a---%0a> (:cell:)AC 01: 60 Felder%0a> (:cell:)AC 01: 56 Felder%0a
+host:1285321635=80.219.10.249
+author:1285321548=zeno
+diff:1285321548:1285321321:=15,26c15%0a%3c (:cell:)ACWHS 04: 27 Felder%0a%3c (:tableend:)%0a%3c %0a%3c !!Galdat 3.0 neue Felder%0a%3c (:table border=1 cellpadding=5 cellspacing=0:)%0a%3c (:cell:) '''#'''%0a%3c (:cell:) '''AC 01'''%0a%3c (:cell:) '''ACMED 03'''%0a%3c (:cell:) '''ACWHS 04'''%0a%3c (:cellnr:) 1%0a%3c (:cell:)AC 01: 60 Felder%0a%3c (:cell:)AC 01: 56 Felder%0a---%0a> (:cell:)ACMED 04: 27 Felder%0a
+host:1285321548=80.219.10.249
+author:1285321321=zeno
+diff:1285321321:1285321199:=10,15d9%0a%3c (:cellnr:) 2%0a%3c (:cell:)ACMED 03: 26 Felder%0a%3c (:cell:)ACMED 03: 26 Felder%0a%3c (:cellnr:) 3%0a%3c (:cell:)ACWHS 04: 30 Felder%0a%3c (:cell:)ACMED 04: 27 Felder%0a
+host:1285321321=80.219.10.249
+author:1285321199=zeno
+diff:1285321199:1285321111:=5,6c5,6%0a%3c (:cell:) '''Galdat 2.1'''%0a%3c (:cell:) '''Galdat 3.0'''%0a---%0a> (:cell:) '''Frage'''%0a> (:cell:) '''Antwort'''%0a8,9c8,9%0a%3c (:cell:)AC 01: 60 Felder%0a%3c (:cell:)AC 01: 56 Felder%0a---%0a> (:cell:)Was ist eigentlich der Unterschied zwischen Pharmacode und EAN-Code?%0a> (:cell:)Der Pharmacode hat zwischen 7 und 8 Stellen. Der EAN-13 hat 13 Stellen.%0a
+host:1285321199=80.219.10.249
+author:1285321111=zeno
+diff:1285321111:1285321048:=3,10d2%0a%3c (:table border=1 cellpadding=5 cellspacing=0:)%0a%3c (:cell:) '''#'''%0a%3c (:cell:) '''Frage'''%0a%3c (:cell:) '''Antwort'''%0a%3c (:cellnr:) 1%0a%3c (:cell:)Was ist eigentlich der Unterschied zwischen Pharmacode und EAN-Code?%0a%3c (:cell:)Der Pharmacode hat zwischen 7 und 8 Stellen. Der EAN-13 hat 13 Stellen.%0a%3c (:tableend:)%0a\ No newline at end of file%0a
+host:1285321111=80.219.10.249
+author:1285321048=zeno
+diff:1285321048:1285321048:=1,2d0%0a%3c Galdat 2.1 vs Galdat 3.0%0a%3c %0a
+host:1285321048=80.219.10.249

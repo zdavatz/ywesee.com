@@ -1,0 +1,81 @@
+From hannes.wyss_at_gmail.com Mon Oct 13 15:49:28 2008
+Date: Mon, 13 Oct 2008 15:49:28 +0200
+From: Hannes Wyss <hannes.wyss_at_gmail.com>
+To: ruby-talk@ruby-lang.org
+Cc: Zeno R.R. Davatz <zdavatz:at:ywesee.com>
+Subject: [ANN] spreadsheet 0.6.0 Released
+
+spreadsheet version 0.6.0 has been released!
+
+* <http://spreadsheet.rubyforge.org>
+
+The Spreadsheet Library is designed to read and write Spreadsheet
+Documents.  As of version 0.6.0, only Microsoft Excel compatible
+spreadsheets are supported. Spreadsheet is a combination/complete
+rewrite of the Spreadsheet::Excel Library by Daniel J. Berger and the
+ParseExcel Library by Hannes Wyss. Spreadsheet can read, write and
+modify Spreadsheet Documents.
+
+
+Changes:
+
+### 0.6.0 / 2008-10-13
+Initial upload of the shiny new Spreadsheet Gem after three weeks of
+grueling labor in the dark binary mines of Little-Endian Biff and long
+hours spent polishing the surfaces of documentation:
+
+* Significantly improved memory-efficiency when reading large Excel
+  Files
+* Limited Spreadsheet modification support
+* Improved handling of String Encodings
+* Runs on top of the ruby-ole Library
+
+
+Roadmap:
+
+0.7.0: Improved Format support/Styles
+0.7.1: Document Modification: Formats/Styles
+0.8.0: Formula Support
+0.8.1: Document Modification: Formulas
+0.9.0: Write-Support: BIFF5
+1.0.0: Ruby 1.9 Support;
+       Remove backward compatibility code
+
+
+Backward Compatibility:
+
+Spreadsheet is designed to be a drop-in replacement for both
+ParseExcel and Spreadsheet::Excel. It provides a number of
+require-paths for backward compatibility with its predecessors. If you
+have been working with ParseExcel, you have probably used one or more
+of the following:
+
+  require 'parseexcel'
+  require 'parseexcel/parseexcel'
+  require 'parseexcel/parser'
+
+Either of the above will define the ParseExcel.parse method as a
+facade to Spreadsheet.open. Additionally, this will alter Spreadsheets
+behavior to define the ParseExcel::Worksheet::Cell class and fill each
+parsed Row with instances thereof, which in turn provide ParseExcel's
+Cell#to_s(encoding) and Cell#date methods.
+You will have to manually uninstall the parseexcel library.
+
+If you are upgrading from Spreadsheet::Excel, you were probably using
+Workbook#add_worksheet and Worksheet#write, write_row or write_column.
+Use the following to load the code which provides them:
+
+  require 'spreadsheet/excel'
+
+Again, you will have to manually uninstall the spreadsheet-excel library.
+
+If you perform fancy formatting, you may run into trouble as the
+Format implementation has changed considerably. If that is the case,
+please drop me a line at hannes.wyss@gmail.com and I will try to help
+you. Don't forget to include the offending code-snippet!
+
+Enjoy!
+
+Cheers
+Hannes
+

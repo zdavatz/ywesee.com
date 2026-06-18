@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.46 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1562319227
+host=212.51.146.241
+name=AmiKo.KrankenkassenKartenleser
+rev=3
+targets=AmiKo.OSX,AmiKo.Windows
+text=!Krankenkassen Kartenleser für AmiKo/CoMed macOS oder Windows 7/10%0aDie folgenden Krankenkassen-Kartenleser werden für [[AmiKo/OSX | macOS]] und [[AmiKo/Windows | Windows]] unterstützt. Diese Liste ist nicht abschliessend.%0a* [[https://www.pearl.ch/ch-a-PX8935-1170.shtml;jsessionid=g67C72797121E28A106D92DBC1887B60F?vid=969 | Xystec]]%0a* [[https://www.amazon.de/Identive-Cloud-2700R-Chipkartenleser-BxHxT/dp/B07CV3B2PF | Identiv Cloud 2700 R]]%0a!! Übersicht der Apps%0a* [[https://www.ywesee.com/uploads/AmiKo/Flyer-mit-QR-Codes_SAPP_Info-Mail-Juni-2019.pdf | AmiKo Flyer Juni 2019]]%0a* [[https://www.ywesee.com/uploads/CoMed/ASPP-Info-Mail-mit-QR-Code-Juni-2019.pdf | CoMed Flyer Juni 2019]]
+time=1562570752
+author:1562570752=zeno
+diff:1562570752:1562319493:=2c2%0a%3c Die folgenden Krankenkassen-Kartenleser werden für [[AmiKo/OSX | macOS]] und [[AmiKo/Windows | Windows]] unterstützt. Diese Liste ist nicht abschliessend.%0a---%0a> Die folgenden Krankenkassen-Kartenleser werden für macOS und Windows unterstützt. Diese Liste ist nicht abschliessend.%0a
+host:1562570752=212.51.146.241
+author:1562319493=zeno
+diff:1562319493:1562319227:=4,7c4%0a%3c * [[https://www.amazon.de/Identive-Cloud-2700R-Chipkartenleser-BxHxT/dp/B07CV3B2PF | Identiv Cloud 2700 R]]%0a%3c !! Übersicht der Apps%0a%3c * [[https://www.ywesee.com/uploads/AmiKo/Flyer-mit-QR-Codes_SAPP_Info-Mail-Juni-2019.pdf | AmiKo Flyer Juni 2019]]%0a%3c * [[https://www.ywesee.com/uploads/CoMed/ASPP-Info-Mail-mit-QR-Code-Juni-2019.pdf | CoMed Flyer Juni 2019]]%0a\ No newline at end of file%0a---%0a> * [[https://www.amazon.de/Identive-Cloud-2700R-Chipkartenleser-BxHxT/dp/B07CV3B2PF | Identiv Cloud 2700 R]]%0a\ No newline at end of file%0a
+host:1562319493=212.51.146.241
+author:1562319227=zeno
+diff:1562319227:1562319227:=1,4d0%0a%3c !Krankenkassen Kartenleser für AmiKo/CoMed macOS oder Windows 7/10%0a%3c Die folgenden Krankenkassen-Kartenleser werden für macOS und Windows unterstützt. Diese Liste ist nicht abschliessend.%0a%3c * [[https://www.pearl.ch/ch-a-PX8935-1170.shtml;jsessionid=g67C72797121E28A106D92DBC1887B60F?vid=969 | Xystec]]%0a%3c * [[https://www.amazon.de/Identive-Cloud-2700R-Chipkartenleser-BxHxT/dp/B07CV3B2PF | Identiv Cloud 2700 R]]%0a\ No newline at end of file%0a
+host:1562319227=212.51.146.241

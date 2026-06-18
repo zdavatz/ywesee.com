@@ -1,0 +1,21 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+author=
+charset=ISO-8859-1
+csum=
+ctime=1326697941
+host=80.219.10.249
+name=BAG.SLfehlendeExFactoryPreise
+rev=3
+targets=
+text=!! Fehlende Ex-Factory-Preise in der SL Liste%0a!!! 16.1.2012%0a# LPPV Produkte haben keinen Ex-Factory Preis. Dort könnten wir eine Formel aufstellen wo wir "künstlich" einen Ex-Factory-Preis berechnen.%0a# Spitalpackungen haben auch keinen Ex-Factory-Preis.%0a# Wenn Du ein Produkte findest, die einen EFP haben sollten, aber keinen haben, lass es mich wissen. Ich habe bisher keine gefunden.
+time=1326698008
+author:1326698008=
+diff:1326698008:1326697974:=5c5%0a%3c # Wenn Du ein Produkte findest, die einen EFP haben sollten, aber keinen haben, lass es mich wissen. Ich habe bisher keine gefunden.%0a\ No newline at end of file%0a---%0a> # Wenn Du ein Produkte findest, dass einen EFP haben sollte, aber keinen hat, lass es mich wissen. Ich habe bisher keines gefunden.%0a\ No newline at end of file%0a
+host:1326698008=80.219.10.249
+author:1326697974=
+diff:1326697974:1326697941:=2,5c2%0a%3c !!! 16.1.2012%0a%3c # LPPV Produkte haben keinen Ex-Factory Preis. Dort könnten wir eine Formel aufstellen wo wir "künstlich" einen Ex-Factory-Preis berechnen.%0a%3c # Spitalpackungen haben auch keinen Ex-Factory-Preis.%0a%3c # Wenn Du ein Produkte findest, dass einen EFP haben sollte, aber keinen hat, lass es mich wissen. Ich habe bisher keines gefunden.%0a\ No newline at end of file%0a---%0a> %0a
+host:1326697974=80.219.10.249
+author:1326697941=
+diff:1326697941:1326697941:=1,2d0%0a%3c !! Fehlende Ex-Factory-Preise in der SL Liste%0a%3c %0a
+host:1326697941=80.219.10.249

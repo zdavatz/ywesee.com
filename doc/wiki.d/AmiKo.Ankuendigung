@@ -1,0 +1,27 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1363879877
+host=80.219.10.249
+name=AmiKo.Ankuendigung
+rev=5
+targets=
+text=!! Ankündigung Fachinfo App für Android-User%0a!!!21.03.2013%0a%0aSehr geehrte Damen und Herren%0a%0aSind Sie kein Freund vom iPhone und mögen lieber Android? [*]%0a%0aDann können Sie jetzt unser Android Fachinfo Beta-App "AmiKo"%0akostenlos testen! Die Anleitung zur Installation finden Sie hier:%0a%0ahttp://www.ywesee.com/Android/AmiKo [**]%0a%0aAmiKo basiert 100%25 auf den Public Domain Daten der Swissmedic (AIPS).%0aWir beabsichtigen 4tel-jährlich (oder häufiger) ein Update zu machen.%0aDabei muss einfach die App aktualisiert werden.%0a%0aEs besteht auch die Möglichkeit, die App tagesaktuell zur Verfügung zu stellen.%0a%0aFür Pharmafirmen wird es in der Zukunft folgende Möglichkeiten geben:%0a%0a# Sponsoring der App mit Logo im Suchresultat.%0a# Gebrandetes App mit allen FIs zur kostenlosen Weiterverwendung, ohne Werbung.%0a# Einbindung von Spitallisten, Preisen, etc.%0a%0aund weiteres.%0a%0aAmiKo funktioniert nach dem Download 100%25 Offline und benötigt%0akeinerlei Internetverbindung.%0a%0aFür weitere Fragen, Kommentare, etc stehen wir Ihnen gerne zur Verfügung.%0a%0aMfG%0aZeno Davatz%0a+41 43 540 05 50%0a%0a[*] Das neue Nexus 7 Tablet kostet in der Schweiz nur noch CHF 190.-!%0aVor kurzem waren das noch 290.- Somit kann das Nexus 7 auch problemlos%0akostenlos an den Arzt abgegeben werden (absolut HMG 33 konform ;).%0aNexus 7 hat ein sehr gutes Preis-Leistungs Verhältnis!\\%0a[**] Die Beta-App hat zur Zeit nur 1'700 FIs. Suchen Sie also nach%0aProdukten die am Anfang des Alphabets sind. Querstellen geht auch noch%0anicht.
+time=1363887613
+author:1363887613=zeno
+diff:1363887613:1363879947:=21,23c21,23%0a%3c # Sponsoring der App mit Logo im Suchresultat.%0a%3c # Gebrandetes App mit allen FIs zur kostenlosen Weiterverwendung, ohne Werbung.%0a%3c # Einbindung von Spitallisten, Preisen, etc.%0a---%0a> #. Sponsoring der App mit Logo im Suchresultat.%0a> #. Gebrandetes App mit allen FIs zur kostenlosen Weiterverwendung, ohne Werbung.%0a> #. Einbindung von Spitallisten, Preisen, etc.%0a
+host:1363887613=80.219.10.249
+author:1363879947=zeno
+diff:1363879947:1363879938:=39c39%0a%3c Nexus 7 hat ein sehr gutes Preis-Leistungs Verhältnis!\\%0a---%0a> Nexus 7 hat ein sehr gutes Preis-Leistungs Verhältnis!%0a
+host:1363879947=80.219.10.249
+author:1363879938=zeno
+diff:1363879938:1363879913:=21,23c21,23%0a%3c #. Sponsoring der App mit Logo im Suchresultat.%0a%3c #. Gebrandetes App mit allen FIs zur kostenlosen Weiterverwendung, ohne Werbung.%0a%3c #. Einbindung von Spitallisten, Preisen, etc.%0a---%0a> 1. Sponsoring der App mit Logo im Suchresultat.%0a> 2. Gebrandetes App mit allen FIs zur kostenlosen Weiterverwendung, ohne Werbung.%0a> 3. Einbindung von Spitallisten, Preisen, etc.%0a
+host:1363879938=80.219.10.249
+author:1363879913=zeno
+diff:1363879913:1363879877:=14c14%0a%3c Wir beabsichtigen 4tel-jährlich (oder häufiger) ein Update zu machen.%0a---%0a> Wir beabsichtigen 4-jährlich (oder häufiger) ein Update zu machen.%0a
+host:1363879913=80.219.10.249
+author:1363879877=zeno
+diff:1363879877:1363879877:=1,42d0%0a%3c !! Ankündigung Fachinfo App für Android-User%0a%3c !!!21.03.2013%0a%3c %0a%3c Sehr geehrte Damen und Herren%0a%3c %0a%3c Sind Sie kein Freund vom iPhone und mögen lieber Android? [*]%0a%3c %0a%3c Dann können Sie jetzt unser Android Fachinfo Beta-App "AmiKo"%0a%3c kostenlos testen! Die Anleitung zur Installation finden Sie hier:%0a%3c %0a%3c http://www.ywesee.com/Android/AmiKo [**]%0a%3c %0a%3c AmiKo basiert 100%25 auf den Public Domain Daten der Swissmedic (AIPS).%0a%3c Wir beabsichtigen 4-jährlich (oder häufiger) ein Update zu machen.%0a%3c Dabei muss einfach die App aktualisiert werden.%0a%3c %0a%3c Es besteht auch die Möglichkeit, die App tagesaktuell zur Verfügung zu stellen.%0a%3c %0a%3c Für Pharmafirmen wird es in der Zukunft folgende Möglichkeiten geben:%0a%3c %0a%3c 1. Sponsoring der App mit Logo im Suchresultat.%0a%3c 2. Gebrandetes App mit allen FIs zur kostenlosen Weiterverwendung, ohne Werbung.%0a%3c 3. Einbindung von Spitallisten, Preisen, etc.%0a%3c %0a%3c und weiteres.%0a%3c %0a%3c AmiKo funktioniert nach dem Download 100%25 Offline und benötigt%0a%3c keinerlei Internetverbindung.%0a%3c %0a%3c Für weitere Fragen, Kommentare, etc stehen wir Ihnen gerne zur Verfügung.%0a%3c %0a%3c MfG%0a%3c Zeno Davatz%0a%3c +41 43 540 05 50%0a%3c %0a%3c [*] Das neue Nexus 7 Tablet kostet in der Schweiz nur noch CHF 190.-!%0a%3c Vor kurzem waren das noch 290.- Somit kann das Nexus 7 auch problemlos%0a%3c kostenlos an den Arzt abgegeben werden (absolut HMG 33 konform ;).%0a%3c Nexus 7 hat ein sehr gutes Preis-Leistungs Verhältnis!%0a%3c [**] Die Beta-App hat zur Zeit nur 1'700 FIs. Suchen Sie also nach%0a%3c Produkten die am Anfang des Alphabets sind. Querstellen geht auch noch%0a%3c nicht.%0a\ No newline at end of file%0a
+host:1363879877=80.219.10.249

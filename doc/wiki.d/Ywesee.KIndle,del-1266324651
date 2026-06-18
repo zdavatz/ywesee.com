@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a2pre) Gecko/20100215 Minefield/3.7a2pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1266324521
+host=80.219.10.249
+name=Ywesee.KIndle
+rev=4
+targets=
+text=:delete
+time=1266324647
+author:1266324647=
+diff:1266324647:1266324619:=1c1,6%0a%3c :delete%0a\ No newline at end of file%0a---%0a> ! Das Compendium der Schweizer Arzneimittel auf dem Kindle%0a> # [[http://calibre-ebook.com/download | Calibre]] installieren.%0a> # compendium_ch.oddb.org.kindle.mobi [[http://ch.oddb.org/de/gcc/download_export/ | hier]] runterladen.%0a> # Buch zu Calibre via "Add Book" hinzufügen.%0a> # Buch mit "Send to Device" auf den Kindle laden.%0a> # Fertig.%0a\ No newline at end of file%0a
+host:1266324647=80.219.10.249
+author:1266324619=
+diff:1266324619:1266324572:=3,6c3,4%0a%3c # compendium_ch.oddb.org.kindle.mobi [[http://ch.oddb.org/de/gcc/download_export/ | hier]] runterladen.%0a%3c # Buch zu Calibre via "Add Book" hinzufügen.%0a%3c # Buch mit "Send to Device" auf den Kindle laden.%0a%3c # Fertig.%0a\ No newline at end of file%0a---%0a> # compendium_ch.oddb.org.kindle.mobi [[http://ch.oddb.org/de/gcc/download_export/ | hier]] runterladen%0a> #%0a\ No newline at end of file%0a
+host:1266324619=80.219.10.249
+author:1266324572=
+diff:1266324572:1266324521:=2,4c2%0a%3c # [[http://calibre-ebook.com/download | Calibre]] installieren.%0a%3c # compendium_ch.oddb.org.kindle.mobi [[http://ch.oddb.org/de/gcc/download_export/ | hier]] runterladen%0a%3c #%0a\ No newline at end of file%0a---%0a> # [[http://calibre-ebook.com/download | Calibre]] installieren.%0a\ No newline at end of file%0a
+host:1266324572=80.219.10.249
+author:1266324521=
+diff:1266324521:1266324521:=1,2d0%0a%3c ! Das Compendium der Schweizer Arzneimittel auf dem Kindle%0a%3c # [[http://calibre-ebook.com/download | Calibre]] installieren.%0a\ No newline at end of file%0a
+host:1266324521=80.219.10.249

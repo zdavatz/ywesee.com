@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.15 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1377611944
+host=80.219.10.25
+name=Apis2xml.Installation
+rev=1
+targets=
+text=!! aips2xml - perfektes XML via AIPS der Swissmedic erstellen%0a* https://github.com/zdavatz/aips2xml%0a* https://github.com/zdavatz/aips2xml/blob/master/README.md
+time=1377611944
+author:1377611944=zeno
+diff:1377611944:1377611944:=1,3d0%0a%3c !! aips2xml - perfektes XML via AIPS der Swissmedic erstellen%0a%3c * https://github.com/zdavatz/aips2xml%0a%3c * https://github.com/zdavatz/aips2xml/blob/master/README.md%0a\ No newline at end of file%0a
+host:1377611944=80.219.10.25

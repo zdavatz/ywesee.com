@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090422 Minefield/3.6a1pre
+author=
+host=84.74.178.180
+name=Ywesee.Spam
+rev=1
+targets=
+text=!Spam Trainer%0a# Das Mail per scp auf den server kopieren: zeno> scp /pfad/zum/mail ywesee@ip:/tmp/spam.mail%0a# Auf dem server: zeno> ssh ywesee@ip: /usr/local/bin/learn-spam /tmp/spam.mail%0a
+time=1240505714
+author:1240505714=
+diff:1240505714:1240505714:=1,3d0%0a%3c !Spam Trainer%0a%3c # Das Mail per scp auf den server kopieren: zeno> scp /pfad/zum/mail ywesee@ip:/tmp/spam.mail%0a%3c # Auf dem server: zeno> ssh ywesee@ip: /usr/local/bin/learn-spam /tmp/spam.mail%0a
+host:1240505714=84.74.178.180

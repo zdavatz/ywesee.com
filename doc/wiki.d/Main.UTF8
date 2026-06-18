@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090318 Minefield/3.6a1pre
+author=
+host=77.58.149.99
+name=Main.UTF8
+rev=1
+targets=
+text=http://en.wikipedia.org/wiki/UTF-8
+time=1237400857
+author:1237400857=
+diff:1237400857:1237400857:=1d0%0a%3c http://en.wikipedia.org/wiki/UTF-8%0a\ No newline at end of file%0a
+host:1237400857=77.58.149.99

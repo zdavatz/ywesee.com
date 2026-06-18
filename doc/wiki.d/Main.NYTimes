@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.4) Gecko/20070601 Firefox/2.0.0.4
+author=zrr
+host=77.57.1.173
+name=Main.NYTimes
+rev=1
+targets=
+text=http://www.nytimes.com/ - some times good some times crap.
+time=1181814810
+author:1181814810=zrr
+diff:1181814810:1181814810:=1d0%0a%3c http://www.nytimes.com/ - some times good some times crap.%0a\ No newline at end of file%0a
+host:1181814810=77.57.1.173

@@ -1,0 +1,65 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 20253 invoked by uid 210); 9 Sep 2005 16:34:45 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.2/1070. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.031126 secs); 09 Sep 2005 14:34:45 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 9 Sep 2005 16:34:45 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id E739315A4CE; Fri,  9 Sep 2005 16:26:30 +0200 (CEST)
+Date: Fri, 9 Sep 2005 16:26:30 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: ?iso-8859-1?Q?Bähler? Thomas <thomas.baehler@kellerhalslaw.ch>,
+	Zeltner Thomas <thomas.zeltner@bag.admin.ch>,
+	?iso-8859-1?Q?Kämpf? Reinhard <reinhard.kaempf@bag.admin.ch>,
+	todo@oddb.org
+Subject: weiteres Beispiel von fehlenden Swissmedic (EAN-Codes) im BAG Excel.
+Message-ID: <20050909142630.GA12357@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrter Herr Bähler
+
+Ein weiteres Beispiel aus der bestehenden, aktuellen SL-Liste vom
+1.9.2005 (zuunterst in der Liste):
+
+ZLB Behring AG		2320105	13200	XX500XXX		15.03.1980	Redimune Amp. 1 g 1 Amp. 1 g i.v.
+ZLB Behring AG		2320128	13200	XX500XXX		15.03.1979	Redimune Amp. 3 g 1 Amp. 3 g i.v.
+ZLB Behring AG		2320140	13200	XX500XXX		15.03.1980	Redimune Amp. 6 g 1 Amp. 6 g i.v.
+ZLB Behring AG		2320163	13200	XX500XXX		15.03.1994	Redimune Amp. 12 g 1 Amp. 12 g i.v.
+ZLB Behring AG		2900771	18023	XX678XXX		01.08.2004	Redimune NF Liquid Amp. 6 g 1 Amp. 6 g/50 ml
+ZLB Behring AG		2900794	18023	XX678XXX		01.08.2004	Redimune NF Liquid Amp. 12 g 1 Amp. 12 g/100 ml
+
+Der Pharmacode von der E-mediat ist korrekt, der Swissmedic-Code ist zu
+kurz. Es fehlt ein Teil der Registrationsnummer und die Packungsnummer
+(sehen Sie die grossen XX___XXX? das müssen Zahlen sein!).
+
+Interessant: In der Medwin-Datenbank sind die Daten korrekt.
+
+DCbrigens: Bei unserem Beweis sind interessanterweise die Mehrheit der 
+Pharmacodes im offiziellen SL-Export korrekt, nur die EAN-Codes sind nicht korrekt.
+
+Ich gehe davon aus, dass sie wissen, dass der Pharmacode Ihrer Mandantin
+ein proprietärer Standard ist und der EAN-Code ein offener, präziserer 
+und internationalerer Standard der nicht einer Firma gehört.
+
+Nun DIE Frage: Wieso sind immer nur die Pharmacodes korrekt aber nicht
+die Swissmedic-Codes?
+
+Alles was Ihre Mandatin tun muss, ist in der SL alle Swissmedic-Codes mit 
+anderen Quellen (z.B. Medwin, denn dass ist auch die Basis für die Swissmedic
+und für das Betäubungsmittelgesetz) überprüfen, damit endlich mal
+diese Swissmedic-(EAN-Codes) stimmen im offiziellen Export. Falls sie dies
+nicht kann mit Ihrer Software, dann machen wir dies (und noch viel mehr)
+gerne für CHF 15'000.-. Das sind dann 35'000.- gespart im Schweizerischen 
+Gesundheitswesen.
+
+Mit freundlichen Grüssen
+Zeno Davatz

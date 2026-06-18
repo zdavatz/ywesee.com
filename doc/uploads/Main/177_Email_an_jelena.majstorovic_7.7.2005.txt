@@ -1,0 +1,80 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 16377 invoked by uid 210); 7 Jul 2005 15:55:36 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/970. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.033822 secs); 07 Jul 2005 13:55:36 -0000
+Received: from unknown (HELO localhost) (zdavatz@ywesee.com@217.162.177.109)
+  by bbmb.ch with ESMTPA; 7 Jul 2005 15:55:36 +0200
+Date: Thu, 7 Jul 2005 15:53:49 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Jelena  Majstorovic <jelena.majstorovic@weko.admin.ch>
+Cc: Stefano Dozio <stefano.dozio@weko.admin.ch>, todo@oddb.org
+ <todo@oddb.org>
+Subject: Antrag auf Beteiligung am Verfahren
+Message-ID: <20050707155349.139c752f@localhost>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Frau Majstorovic
+
+Der Einfachheit halber sende ich Ihnen meinen Antrag _auch_ per Mail. Der Brief
+ging per A-Post schon raus - Email ist einfach das moderner Medium:
+
+Zürich, 7.7.2005
+
+
+Antrag auf Beteiligung am Verfahren (Parteistellung) 32-0178 (Documed AG) gemäss
+Artikel 43 Absatz 1 Buchstaben a-c KG. Antrag auf Übernahme der Akten, inkl.
+Emails.
+
+
+Sehr geehrte Frau Majstorovic
+
+Hiermit möchte ich offiziell den Antrag auf Beteiligung am Verfahren 32-0178
+(Documed AG) gemäss Artikel 43 Absatz 1 Buchstaben a-c KG und Antrag auf
+Übernahme der Akten, inkl. Emails stellen.
+
+Die Publikation der Untersuchung habe ich dem SHAB entnommen:
+https://www.shab.ch/DOWNLOADPART/N2908156/N2005.02918436.pdf#2918436
+
+Die Begründung für die Antragstellung lautet: Die ywesee GmbH ist der einzige
+Konkurrent zur E-mediat AG im Bereich der Artikelstammdaten (nur Medikamente!,
+Achtung Dienstleistungsbundling der E-mediat). Diese Konkurrenz beinhaltet auch
+die Publikation der Fach- und Patienteninformation auf dem Internet gemäss AMZV
+(Documed AG, Pharmavista.net) und die zur Verfügungstellung der Fach- und
+Patienteninformation als Rohdaten an Spitäler, Apotheken, Drogerien,
+Altersheime, Softwarehäuser etc. Die ywesee GmbH wurde wiederholt von der
+Documed AG und der E-mediat AG drauf hingewiesen, dass sie die "Komplexität der
+Materie" nicht verstehen. Mit ODDB.org und Generika.cc beweisen wir das
+Gegenteil. Gegenstand dieser Auseinandersetzung ist auch ein hängiges Verfahren
+am Bezirksgericht Basel-Stadt, welches von der Documed AG initiiert wurde.
+ywesee setzt sich ein für offene Standards im CH-Gesundheitswesen.
+
+Ich lege Ihnen hiermit eine erweiterte Begründung / ersten Entwurf meiner noch
+nicht finalen, einzureichenden Version bei. Ich werde die finale Version
+einreichen sobald ich ein Antwortschreiben von Ihnen erhalten habe.
+http://www.ywesee.com/uploads/Main/32-0178_Weko_Untersuchung_Documed_AG.pdf
+
+Für Fragen oder Bemerkungen stehe ich Ihnen gerne zur Verfügung. Für eine kurze
+Rückmeldung bei Erhalt dieses Schreibens bitte ich sie höflich.
+
+Mit freundlichen Grüssen aus Zürich
+Zeno Davatz
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

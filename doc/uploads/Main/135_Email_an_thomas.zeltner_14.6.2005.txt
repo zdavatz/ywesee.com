@@ -1,0 +1,69 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 24857 invoked by uid 74); 14 Jun 2005 10:36:42 -0000
+Received: from zdavatz@ywesee.com by debian by uid 71 with qmail-scanner-1.15 
+ (clamscan: 0.54.  Clear:. 
+ Processed in 1.320451 secs); 14 Jun 2005 10:36:42 -0000
+Received: from 217-162-177-109.dclient.hispeed.ch (HELO zrr.local) (217.162.177.109)
+  by 0 with SMTP; 14 Jun 2005 10:36:41 -0000
+Date: Tue, 14 Jun 2005 12:37:56 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Thomas Zeltner <thomas.zeltner@bag.admin.ch>
+Cc: clemes.roggen@bag.admin.ch, weko@weko.admin.ch,
+ rudolf.strahm@pue.admin.ch, todo@oddb.org <todo@oddb.org>
+Subject: Verwaltung der Daten der ?ISO-8859-1?Q?Spezialitätenliste?
+Message-ID: <20050614123756.77c37f53@zrr.local>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrter Herr Zeltner
+
+Besten Dank für Ihr Schreiben vom 13.6.2005
+http://www.ywesee.com/uploads/Main/von_Zeltner_13.6.2005.pdf
+
+Ich nehme dazu wie folgt Stellung:
+
+1.) Es freut mich, dass auch das BAG an der Senkung der Gesundheitskosten
+interessiert ist.
+
+2.) Es ist mir wichtig Sie darauf hinzuweisen, dass die Publikation der
+Spezialitätenliste auf einem offenen Standard basiert und nicht auf einem
+proprietären Standard der einer Firma gehört. Meiner Meinung nach wird der
+EAN-Code in der Publikation der SL-Liste auf http://www.galinfo.net
+vernachlässigt gegenüber dem Pharmacode. Der EAN-Code *muss* korrekt sein.
+Leider wird der EAN-Code nicht bei allen Produkten in der Spezialitätenliste
+publiziert. Ich erwarte einen *8-stelligen EAN-Code* bei jedem einzelnen
+Produkt! Dies ist zur Zeit nicht der Fall! Sie verhindern mit dem Weglassen von
+8-stelligen EAN-Codes einen Preisvergleich zwischen Original und Generikum auf
+ODDB.org, Generika.cc und jeder weiteren Preisvergleichsseite für Medikamente.
+
+3.) Nur weil das Bundesgesetz für das Öffentlichkeitsprinzip noch nicht in Kraft
+getreten ist, heisst dies nicht, dass man nicht darauf hinarbeiten soll. Dieses
+Gesetz macht Sinn. Ihre Argumentation erachte ich als Ausrede.
+
+4.) Mich interessiert nach wie vor die Höhe des Betrages für die Aufschaltung
+und den Betrieb der Dienstleistung und ich verstehe nicht, wieso Sie mir diesen
+nicht sagen wollen.
+
+5.) Ich muss ganz klar eine _Ungleichbehandlung_ der Wettbewerbsteilnehmer
+Ihrerseits feststellen. Sie bevorzugen einen kostenpflichtigen Anbieter
+gegenüber einem Nicht-kostenpflichtigen und verlinken von Ihrer Seite nur auf
+den kostenpflichtigen, der ohnehin schon auf der BAG Gehaltsliste steht! Das
+Mindeste was Sie tun können, ist unsere Seite auch verlinken. Alles andere
+erachte ich als "Unfair" und wettbewerbsverhindernd.
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

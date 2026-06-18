@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1124720833
+text=! DRb - Distributed Ruby²http://www.rubycentral.com/articles/drb.html
+targets=Ywesee.DRb
+author=
+author:1124720833=
+host:1124720833=217.162.177.109
+diff:1124720833:1124720833:=1,2d0²< ! DRb - Distributed Ruby²< http://www.rubycentral.com/articles/drb.html²\ No newline at end of file²
+name=Ywesee.DRb
+host=217.162.177.109
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050724 Firefox/1.0.6
+rev=1

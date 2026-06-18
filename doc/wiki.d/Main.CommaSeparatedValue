@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1125570547
+text=! Was ist ein CSV-File?²* http://en.wikipedia.org/wiki/Comma-separated_values
+targets=
+author=
+author:1125570547=
+host:1125570547=84.73.187.0
+diff:1125570547:1125570547:=1,2d0²< ! Was ist ein CSV-File?²< * http://en.wikipedia.org/wiki/Comma-separated_values²\ No newline at end of file²
+name=Main.CommaSeparatedValue
+host=84.73.187.0
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050824 Firefox/1.0.6
+rev=1

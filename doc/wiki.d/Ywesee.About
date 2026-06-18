@@ -1,0 +1,134 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+host=212.51.146.241
+name=Ywesee.About
+rev=41
+targets=Ywesee.Software
+text=! About ywesee GmbH%0a%0aywesee GmbH is an OpenSource Software company with a bias for OpenStandards and a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. Our projects are done in Ruby, Java and Objective C. For more details about our projects please see the left panel labeled [[Software]].%0a%0aIf you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].
+time=1486663980
+author:1486663980=zeno
+diff:1486663980:1412838548:=1,2c1,2%0a%3c ! About ywesee GmbH%0a%3c %0a---%0a> ! About ywesee GmbH - (:addThis username="myUsername" btn="sm-share":)%0a> %0a5c5,9%0a%3c If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a\ No newline at end of file%0a---%0a> If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a> %0a> (:html:)%0a> %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan profile_id="273461529221" stream="0" connections="0" logobar="0" width="300">%3c/fb:fan>%3cdiv style="font-size:8px; padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1486663980=212.51.146.241
+author:1412838548=zeno
+diff:1412838548:1412838519:=8a9,12%0a> (:htmlend:)%0a> %0a> (:html:)%0a> %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="743">%3c/iframe>%0a
+host:1412838548=46.140.30.26
+author:1412838519=zeno
+diff:1412838519:1394528659:=9,12d8%0a%3c (:htmlend:)%0a%3c %0a%3c (:html:)%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="743">%3c/iframe>%0a
+host:1412838519=46.140.30.26
+author:1394528659=zeno
+diff:1394528659:1264779657:=3c3%0a%3c ywesee GmbH is an OpenSource Software company with a bias for OpenStandards and a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. Our projects are done in Ruby, Java and Objective C. For more details about our projects please see the left panel labeled [[Software]].%0a---%0a> ywesee GmbH is an OpenSource Software company with a bias for OpenStandards and a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled [[Software]].%0a
+host:1394528659=46.140.30.26
+author:1264779657=
+diff:1264779657:1264779511:=7c7%0a%3c (:html:)%0a---%0a> (html)%0a
+host:1264779657=80.219.10.249
+author:1264779511=
+diff:1264779511:1264779474:=7,9c7%0a%3c (html)%0a%3c %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan profile_id="273461529221" stream="0" connections="0" logobar="0" width="300">%3c/fb:fan>%3cdiv style="font-size:8px; padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan profile_id="273461529221" stream="0" connections="0" logobar="0" width="300">%3c/fb:fan>%3cdiv style="font-size:8px; padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a\ No newline at end of file%0a
+host:1264779511=80.219.10.249
+author:1264779474=
+diff:1264779474:1264779139:=7d6%0a%3c %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan profile_id="273461529221" stream="0" connections="0" logobar="0" width="300">%3c/fb:fan>%3cdiv style="font-size:8px; padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a\ No newline at end of file%0a
+host:1264779474=80.219.10.249
+author:1264779139=
+diff:1264779139:1264759749:=1,2c1,2%0a%3c ! About ywesee GmbH - (:addThis username="myUsername" btn="sm-share":)%0a%3c %0a---%0a> ! About ywesee GmbH %0a> %0a6a7%0a> (:addThis username="myUsername" btn="sm-share":)%0a\ No newline at end of file%0a
+host:1264779139=80.219.10.249
+author:1264759749=
+diff:1264759749:1264759735:=1,2c1,2%0a%3c ! About ywesee GmbH %0a%3c %0a---%0a> ! About ywesee GmbH (:addThis username="myUsername" btn="sm-share":)%0a> %0a5,7c5%0a%3c If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a%3c %0a%3c (:addThis username="myUsername" btn="sm-share":)%0a\ No newline at end of file%0a---%0a> If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a\ No newline at end of file%0a
+host:1264759749=80.219.10.249
+author:1264759735=
+diff:1264759735:1264759486:=1,2c1,2%0a%3c ! About ywesee GmbH (:addThis username="myUsername" btn="sm-share":)%0a%3c %0a---%0a> ! About ywesee GmbH%0a> %0a5c5,7%0a%3c If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a\ No newline at end of file%0a---%0a> If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a> %0a> (:addThis username="myUsername" btn="sm-share":)%0a\ No newline at end of file%0a
+host:1264759735=80.219.10.249
+author:1264759486=
+diff:1264759486:1264759216:=7c7%0a%3c (:addThis username="myUsername" btn="sm-share":)%0a\ No newline at end of file%0a---%0a> %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:iframe profile_id="273461529221" stream="0" connections="0" logobar="0" width="300">%3c/fb:fan>%3cdiv style="font-size:8px; padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a\ No newline at end of file%0a
+host:1264759486=80.219.10.249
+author:1264759216=
+diff:1264759216:1264759072:=
+host:1264759216=80.219.10.249
+author:1264759072=
+diff:1264759072:1264758888:=7c7%0a%3c %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:iframe profile_id="273461529221" stream="0" connections="0" logobar="0" width="300">%3c/fb:fan>%3cdiv style="font-size:8px; padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a\ No newline at end of file%0a---%0a> %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan profile_id="273461529221" stream="0" connections="0" logobar="0" width="300">%3c/fb:fan>%3cdiv style="font-size:8px; padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a\ No newline at end of file%0a
+host:1264759072=80.219.10.249
+author:1264758888=
+diff:1264758888:1264604419:=5,7c5%0a%3c If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a%3c %0a%3c %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan profile_id="273461529221" stream="0" connections="0" logobar="0" width="300">%3c/fb:fan>%3cdiv style="font-size:8px; padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a\ No newline at end of file%0a---%0a> If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a\ No newline at end of file%0a
+host:1264758888=80.219.10.249
+author:1264604419=
+diff:1264604419:1264604410:=5c5,7%0a%3c If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a\ No newline at end of file%0a---%0a> If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a> %0a> %3ciframe src=http://wikimapia.org/s/#y=35659863&x=139729668&z=18&l=0&m=a&tag=roppongi&v=2 width=620 height=620 frameborder=0>%3c/iframe>%0a\ No newline at end of file%0a
+host:1264604419=80.219.10.249
+author:1264604410=
+diff:1264604410:1264603877:=6,7d5%0a%3c %0a%3c %3ciframe src=http://wikimapia.org/s/#y=35659863&x=139729668&z=18&l=0&m=a&tag=roppongi&v=2 width=620 height=620 frameborder=0>%3c/iframe>%0a\ No newline at end of file%0a
+host:1264604410=80.219.10.249
+author:1264603877=
+diff:1264603877:1264603279:=5a6,12%0a> %0a> You can also become a fan of Generika on Facebook:%0a> %0a> %0a> %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan%0a> profile_id="273461529221" stream="0" connections="10" logobar="1" width="300">%3c/fb:fan>%3cdiv style="font-size:8px;%0a> padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a
+host:1264603877=80.219.10.249
+author:1264603279=
+diff:1264603279:1264603221:=
+host:1264603279=80.219.10.249
+author:1264603221=
+diff:1264603221:1264603206:=9a10%0a> (:html:)%0a12a14%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1264603221=80.219.10.249
+author:1264603206=
+diff:1264603206:1264603056:=9d8%0a%3c %0a11c10%0a%3c %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan%0a---%0a> %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>(:htmlend:)%3cfb:fan%0a14d12%0a%3c (:htmlend:)%0a\ No newline at end of file%0a
+host:1264603206=80.219.10.249
+author:1264603056=
+diff:1264603056:1264603047:=12a13%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1264603056=80.219.10.249
+author:1264603047=
+diff:1264603047:1264602925:=10c10%0a%3c %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>(:htmlend:)%3cfb:fan%0a---%0a> %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan%0a
+host:1264603047=80.219.10.249
+author:1264602925=
+diff:1264602925:1264602636:=9d8%0a%3c (:html:)%0a12,13c11%0a%3c padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a\ No newline at end of file%0a
+host:1264602925=80.219.10.249
+author:1264602636=
+diff:1264602636:1264602345:=
+host:1264602636=80.219.10.249
+author:1264602345=
+diff:1264602345:1264602335:=9c9%0a%3c %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan%0a---%0a>  %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan%0a
+host:1264602345=80.219.10.249
+author:1264602335=
+diff:1264602335:1264602313:=9,11c9,16%0a%3c  %3cscript type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan%0a%3c profile_id="273461529221" stream="0" connections="10" logobar="1" width="300">%3c/fb:fan>%3cdiv style="font-size:8px;%0a%3c padding-left:10px">%3ca href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a> on Facebook%3c/div>%0a\ No newline at end of file%0a---%0a>  %3cscript type="text/javascript"%0a> src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript%0a> type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan%0a> profile_id="273461529221" stream="0" connections="10"%0a> logobar="1" width="300">%3c/fb:fan>%3cdiv style="font-size:8px;%0a> padding-left:10px">%3ca%0a> href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a>%0a> on Facebook%3c/div>%0a\ No newline at end of file%0a
+host:1264602335=80.219.10.249
+author:1264602313=
+diff:1264602313:1245220046:=5,16c5%0a%3c If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a%3c %0a%3c You can also become a fan of Generika on Facebook:%0a%3c %0a%3c  %3cscript type="text/javascript"%0a%3c src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US">%3c/script>%3cscript%0a%3c type="text/javascript">FB.init("3252fd8899d16ddc5b75a43ecfcf3e8b");%3c/script>%3cfb:fan%0a%3c profile_id="273461529221" stream="0" connections="10"%0a%3c logobar="1" width="300">%3c/fb:fan>%3cdiv style="font-size:8px;%0a%3c padding-left:10px">%3ca%0a%3c href="http://www.facebook.com/pages/Generika/273461529221">Generika%3c/a>%0a%3c on Facebook%3c/div>%0a\ No newline at end of file%0a---%0a> If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a\ No newline at end of file%0a
+host:1264602313=80.219.10.249
+author:1245220046=
+diff:1245220046:1245219957:=3,4c3,4%0a%3c ywesee GmbH is an OpenSource Software company with a bias for OpenStandards and a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled [[Software]].%0a%3c %0a---%0a> ywesee GmbH is an OpenSource Software company with a bias for OpenStandards and a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled "Software".%0a> %0a
+host:1245220046=84.74.177.14
+author:1245219957=
+diff:1245219957:1245219895:=3,4c3,4%0a%3c ywesee GmbH is an OpenSource Software company with a bias for OpenStandards and a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled "Software".%0a%3c %0a---%0a> ywesee GmbH is an OpenSource Software company focussing on OpenStandards with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled "Software".%0a> %0a
+host:1245219957=84.74.177.14
+author:1245219895=
+diff:1245219895:1245157076:=3,4c3,4%0a%3c ywesee GmbH is an OpenSource Software company focussing on OpenStandards with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled "Software".%0a%3c %0a---%0a> ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled "Software".%0a> %0a
+host:1245219895=84.74.177.14
+author:1245157076=
+diff:1245157076:1245157042:=5c5%0a%3c If you got any question, [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | call]] us or contact us via [[http://www.ywesee.com/pmwiki.php/Ywesee/Kontakt | Email]].%0a\ No newline at end of file%0a---%0a> If you got any question, call us or contact us via Email.%0a\ No newline at end of file%0a
+host:1245157076=84.74.177.14
+author:1245157042=
+diff:1245157042:1245156981:=3,5c3%0a%3c ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled "Software".%0a%3c %0a%3c If you got any question, call us or contact us via Email.%0a\ No newline at end of file%0a---%0a> ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled "Software".%0a\ No newline at end of file%0a
+host:1245157042=84.74.177.14
+author:1245156981=
+diff:1245156981:1245156968:=1,2c1,2%0a%3c ! About ywesee GmbH%0a%3c %0a---%0a> ! Executive Summary ywesee GmbH%0a> %0a
+host:1245156981=84.74.177.14
+author:1245156968=
+diff:1245156968:1245156947:=1,2c1,2%0a%3c ! Executive Summary ywesee GmbH%0a%3c %0a---%0a> ! Executive Summary About ywesee GmbH%0a> %0a
+host:1245156968=84.74.177.14
+author:1245156947=
+diff:1245156947:1245156927:=3c3%0a%3c ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details about our projects please see the left panel labeled "Software".%0a\ No newline at end of file%0a---%0a> ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details to our projects please see the left panel labeled "Software".%0a\ No newline at end of file%0a
+host:1245156947=84.74.177.14
+author:1245156927=
+diff:1245156927:1245156900:=3c3%0a%3c ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not directly related to the HealthCare industry. All our projects are done in Ruby. For more details to our projects please see the left panel labeled "Software".%0a\ No newline at end of file%0a---%0a> ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not in direct contact to the HealthCare industry. All our projects are done in Ruby. For more details to our projects please see the left panel labeled "Software".%0a\ No newline at end of file%0a
+host:1245156927=84.74.177.14
+author:1245156900=
+diff:1245156900:1245156841:=3c3%0a%3c ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare costs down and we try to communicate as open as possible. You will always find our latest news on ywesee.com. We also do Software that is not in direct contact to the HealthCare industry. All our projects are done in Ruby. For more details to our projects please see the left panel labeled "Software".%0a\ No newline at end of file%0a---%0a> ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare Costs down and we try to communicate as open as possible. We also do Software that is not in direct contact to the HealthCare industry. All our projects are done in Ruby. For more details to our projects please see the left panel labeled "Software".%0a\ No newline at end of file%0a
+host:1245156900=84.74.177.14
+author:1245156841=
+diff:1245156841:1245156622:=2,3d1%0a%3c %0a%3c ywesee GmbH is an OpenSource Software company with a dedicated focus on the HealthCare industry. We strive to bring HealthCare Costs down and we try to communicate as open as possible. We also do Software that is not in direct contact to the HealthCare industry. All our projects are done in Ruby. For more details to our projects please see the left panel labeled "Software".%0a\ No newline at end of file%0a
+host:1245156841=84.74.177.14
+author:1245156622=
+diff:1245156622:1245156615:=1c1%0a%3c ! Executive Summary About ywesee GmbH%0a---%0a> ! Executiv Summary About ywesee GmbH%0a
+host:1245156622=84.74.177.14
+author:1245156615=
+diff:1245156615:1245156490:=1c1%0a%3c ! Executiv Summary About ywesee GmbH%0a---%0a> About ywesee GmbH%0a\ No newline at end of file%0a
+host:1245156615=84.74.177.14
+author:1245156490=
+diff:1245156490:1245156490:=1d0%0a%3c About ywesee GmbH%0a\ No newline at end of file%0a
+host:1245156490=84.74.177.14

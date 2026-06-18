@@ -1,0 +1,245 @@
+ERROR 1: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Adcetris (62132)
+
+ERROR 2: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Adcirca® (62169)
+
+ERROR 3: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Aero-OM® (57248)
+
+ERROR 4: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Alendronat-Teva® 70 (58839)
+
+ERROR 5: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - ALK wässrig® SQ (60647, 60650, 60659, 60667, 60674, 60675, 60678, 60679, 60680, 60683, 60684)
+
+ERROR 6: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - ALK wässrig® SQ Insektengifte (60649, 60681)
+
+ERROR 7: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Alka-Seltzer® (8671)
+
+ERROR 8: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Amoxicillin-Teva (58353, 58352)
+
+ERROR 9: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Antistax® Kapseln (55450)
+
+ERROR 10: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Aqua ad iniectabilia ACS Dobfar Info (55179)
+
+ERROR 11: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Arilin® (45940)
+
+ERROR 12: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Arlevert® (59825)
+
+ERROR 13: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Asperivo 300/500/Paediatric (55146)
+
+ERROR 14: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Azzalure (62780)
+
+ERROR 15: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Betaserc® 8/16/24/Tropfen (36119, 52403)
+
+ERROR 16: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Bupivacain ACS Dobfar Info 0,25%/0,5% (55114)
+
+ERROR 17: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Cafergot® (42397)
+
+ERROR 18: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Cefurim® eco 250/500 (56966)
+
+ERROR 19: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Cefuroxim Fresenius i.v. (61338)
+
+ERROR 20: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Clarelux® Schaum (60393)
+
+ERROR 21: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Claritine® (48243, 52429)
+
+ERROR 22: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Clexane®/- multi (49456, 54297)
+
+ERROR 23: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Collazin® (46849)
+
+ERROR 24: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Co-Losartan Spirig® (58458)
+
+ERROR 25: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Colo-Sol® (54234)
+
+ERROR 26: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Comtan® (54522)
+
+ERROR 27: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Contraflux (59483)
+
+ERROR 28: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Cosmegen® (32148)
+
+ERROR 29: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Crimanex® Tinktur (45798)
+
+ERROR 30: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Curakne® 5 mg/10 mg/20 mg/40 mg (56885)
+
+ERROR 31: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Deaftol® Lutschtabletten (33159)
+
+ERROR 32: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Deaftol® Mundspray (33160)
+
+ERROR 33: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Decoderm® bivalent Creme (50912)
+
+ERROR 34: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Depakine® (50271, 40936, 34734)
+
+ERROR 35: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - DermaPlast® Desinfect (57642)
+
+ERROR 36: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Dexalocal®/- F (36227, 36231)
+
+ERROR 37: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Diane®-35 (47879)
+
+ERROR 38: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Diaphin® (55561, 57720, 57724)
+
+ERROR 39: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Dicloabak 0,1% Augentropfen (61484)
+
+ERROR 40: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - DoloCitran® C (55736)
+
+ERROR 41: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Dorlotil® (57167)
+
+ERROR 42: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Drossadinol® (58700)
+
+ERROR 43: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Ecomucyl® 300 (50652)
+
+ERROR 44: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Ecovent® (48317)
+
+ERROR 45: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Efemoline® (40453)
+
+ERROR 46: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Eloine® (60568)
+
+ERROR 47: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Eryaknen® 2/4 (45675)
+
+ERROR 48: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Flagyl® (26313, 26314)
+
+ERROR 49: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Fosicomp® (52568)
+
+ERROR 50: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Fruttasan Würfel mit Senna (57933)
+
+ERROR 51: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Gabitril® 5/10/15 Filmtabletten (53782)
+
+ERROR 52: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Glucosalin «ACS Dobfar Info» 1:1/2:1/4:1 (55304)
+
+ERROR 53: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Glucosalin «ACS Dobfar Info» 1:1/2:1/4:1 (55304)
+
+ERROR 54: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Glucose «ACS Dobfar Info» 5%/10%/33%, Injektionslösung (55508)
+
+ERROR 55: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Glucose-Lösungen ACS Dobfar Info 5% und 10%, Infusionslösung (54742)
+
+ERROR 56: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Glucose-Lösungen ACS Dobfar Info 5% und 10%, Infusionslösung (54742)
+
+ERROR 57: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Goserelin-CIMEX 3.6 (58306)
+
+ERROR 58: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Humaninsuline Monocomponent (HM) Novo Nordisk (44610, 45495, 46875, 49008, 55891)
+
+ERROR 59: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - HypoTears® (44816)
+
+ERROR 60: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - IRESSA® (56154)
+
+ERROR 61: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Isoniazid USP (62438)
+
+ERROR 62: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Isotonische Natriumchlorid- Lösung ACS Dobfar Info, Infusionslösung (54669)
+
+ERROR 63: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Isotonische Natriumchlorid- Lösung ACS Dobfar Info, Infusionslösung (54669)
+
+ERROR 64: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Isuprel® (56457)
+
+ERROR 65: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - KCl ACS Dobfar Info 2 mmol/ml (55844)
+
+ERROR 66: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - KCl-retard Hausmann® (36360)
+
+ERROR 67: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Kenacort® A Orabase® (35039)
+
+ERROR 68: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Lacrifluid® (57824)
+
+ERROR 69: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Latanoprost Spirig HC® (63104)
+
+ERROR 70: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - LiDCO Lithiumchlorid (57447)
+
+ERROR 71: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Lidocain ACS Dobfar Info 1%/2% (55461)
+
+ERROR 72: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Lioton® 1000 (50476)
+
+ERROR 73: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Lorado® Pollen Sandoz (57515)
+
+ERROR 74: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Luveris® PEN (61854)
+
+ERROR 75: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Mannitol 20% B. Braun (31754)
+
+ERROR 76: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Medikinet® MR (56847)
+
+ERROR 77: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Mephanol® (38918)
+
+ERROR 78: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Metopress® 100/- retard 200 (54653, 54580)
+
+ERROR 79: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Metronidazole Bioren (55280)
+
+ERROR 80: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Metronidazole Zentiva® (62275, 62276)
+
+ERROR 81: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Miflonide® (55130)
+
+ERROR 82: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Minerva® (56923)
+
+ERROR 83: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - M-M-RVAXPRO® (00703)
+
+ERROR 84: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Montelukast Spirig HC® Filmtabletten (62798)
+
+ERROR 85: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Montelukast Spirig HC® Kautabletten (62799)
+
+ERROR 86: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Movicol® Junior (58246)
+
+ERROR 87: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Mutaflor®/- mite (00684)
+
+ERROR 88: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Mydriaticum «Dispersa» (23855)
+
+ERROR 89: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Natrium bicarbonat ACS Dobfar Info 8,4% Ampullen (55494)
+
+ERROR 90: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Natrium-Bicarbonat B. Braun (3570903, 3370901)
+
+ERROR 91: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Natriumchlorid ACS Dobfar Info 0,9%, Injektionspräparat (55228)
+
+ERROR 92: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Natriumchlorid ACS Dobfar Info 0,9%, Injektionspräparat (55228)
+
+ERROR 93: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Nebilet® (54489)
+
+ERROR 94: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Nebilet® plus (59262)
+
+ERROR 95: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Nebivolol-Mepha 5 Tabletten (59887)
+
+ERROR 96: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Nifedipin-Mepha® 30/60 retard (52458)
+
+ERROR 97: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Norfloxacin-Teva® (55602)
+
+ERROR 98: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Nyolol® Gel (54974)
+
+ERROR 99: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Oestro-Gynaedron® (52195)
+
+ERROR 100: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Orelox®/- pédiatrique (51189, 52293)
+
+ERROR 101: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Otothricinol® (18871)
+
+ERROR 102: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Oxybuprocaine 0,4% SDU Faure (51523)
+
+ERROR 103: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Pantoprazol Helvepharm (59288)
+
+ERROR 104: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Pantozol® 20/40/- Granula/- i.v. (52710, 55551, 58661)
+
+ERROR 105: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Pantozol® Control (59558)
+
+ERROR 106: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Peritoneal-Dialyse-Lösungen I–XX «Bichsel» (33507)
+
+ERROR 107: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Protagent® (47598)
+
+ERROR 108: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Renacet (57591)
+
+ERROR 109: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Reniten® Plus (54487)
+
+ERROR 110: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Sanalum® 425/650 (58214, 58176)
+
+ERROR 111: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Slow-Trasitensin® (45534)
+
+ERROR 112: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Somnium® (46457)
+
+ERROR 113: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Sotalex® (42190)
+
+ERROR 114: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Symmetrel® (31841)
+
+ERROR 115: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Tambocor® (45710, 45711)
+
+ERROR 116: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Telebrix® Hystero (41266)
+
+ERROR 117: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Trasylol® (38837)
+
+ERROR 118: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Tredaptive® (58647)
+
+ERROR 119: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Trilafon® (23510)
+
+ERROR 120: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Valproate Chrono Zentiva® (53112)
+
+ERROR 121: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Vitamin A Streuli® (34209, 34210)
+
+ERROR 122: ATC-Code-Tag not found in AIPS.xml (Swissmedic) - Yal® (48839)
+
+ERROR 123: SwissmedicNo5 not found in Packungen.xls (Swissmedic) - Zostavax® (00709)

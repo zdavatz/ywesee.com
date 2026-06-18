@@ -1,0 +1,27 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.3) Gecko/20070322 Firefox/2.0.0.3
+author=zrr
+host=84.72.158.179
+name=Ywesee.KurzFachinfo
+rev=6
+targets=Ywesee.GmbH
+text=! Kurzfachinfo auf ODDB.org%0aywesee GmbH schaltet die Kurzfachinfo der Swissmedic in ODDB.org auf. Ein Beispiel:%0a[[http://ch.oddb.org/de/gcc/resolve/pointer/%253A%2521minifi%252C1211488 | Prialt]]%0a%0aDie Kurzfachinfos von Neuzulassungen werden monatlich im [[http://www.swissmedic.ch/de/fach/overall.asp?theme=0.00089.00001&theme_id=976 | Swissmedic Journal]] publiziert.
+time=1178889663
+author:1178889663=zrr
+diff:1178889663:1178889653:=3,5c3%0a%3c [[http://ch.oddb.org/de/gcc/resolve/pointer/%253A%2521minifi%252C1211488 | Prialt]]%0a%3c %0a%3c Die Kurzfachinfos von Neuzulassungen werden monatlich im [[http://www.swissmedic.ch/de/fach/overall.asp?theme=0.00089.00001&theme_id=976 | Swissmedic Journal]] publiziert.%0a\ No newline at end of file%0a---%0a> [[http://ch.oddb.org/de/gcc/resolve/pointer/%253A%2521minifi%252C1211488 | Prialt]] - Die Kurzfachinfos von Neuzulassungen werden monatlich im [[http://www.swissmedic.ch/de/fach/overall.asp?theme=0.00089.00001&theme_id=976 | Swissmedic Journal]] publiziert.%0a\ No newline at end of file%0a
+host:1178889663=84.72.158.179
+author:1178889653=zrr
+diff:1178889653:1178889632:=3c3,5%0a%3c [[http://ch.oddb.org/de/gcc/resolve/pointer/%253A%2521minifi%252C1211488 | Prialt]] - Die Kurzfachinfos von Neuzulassungen werden monatlich im [[http://www.swissmedic.ch/de/fach/overall.asp?theme=0.00089.00001&theme_id=976 | Swissmedic Journal]] publiziert.%0a\ No newline at end of file%0a---%0a> [[http://ch.oddb.org/de/gcc/resolve/pointer/%253A%2521minifi%252C1211488 | Prialt]]%0a> %0a> Die Kurzfachinfos von Neuzulassungen werden monatlich im [[http://www.swissmedic.ch/de/fach/overall.asp?theme=0.00089.00001&theme_id=976 | Swissmedic Journal]] publiziert.%0a\ No newline at end of file%0a
+host:1178889653=84.72.158.179
+author:1178889632=zrr
+diff:1178889632:1178889592:=5c5%0a%3c Die Kurzfachinfos von Neuzulassungen werden monatlich im [[http://www.swissmedic.ch/de/fach/overall.asp?theme=0.00089.00001&theme_id=976 | Swissmedic Journal]] publiziert.%0a\ No newline at end of file%0a---%0a> Die Kurzfachinfos von Neuzulassungen werden monatlich im Swissmedic Journal publiziert.%0a\ No newline at end of file%0a
+host:1178889632=84.72.158.179
+author:1178889592=zrr
+diff:1178889592:1178889356:=3,5c3%0a%3c [[http://ch.oddb.org/de/gcc/resolve/pointer/%253A%2521minifi%252C1211488 | Prialt]]%0a%3c %0a%3c Die Kurzfachinfos von Neuzulassungen werden monatlich im Swissmedic Journal publiziert.%0a\ No newline at end of file%0a---%0a> [[http://ch.oddb.org/de/gcc/resolve/pointer/%253A%2521minifi%252C1211488 | Prialt]]%0a\ No newline at end of file%0a
+host:1178889592=84.72.158.179
+author:1178889356=zrr
+diff:1178889356:1178889341:=1c1%0a%3c ! Kurzfachinfo auf ODDB.org%0a---%0a> ! Kurzfachinfo auf http://www.oddb.org%0a
+host:1178889356=84.72.158.179
+author:1178889341=zrr
+diff:1178889341:1178889341:=1,3d0%0a%3c ! Kurzfachinfo auf http://www.oddb.org%0a%3c ywesee GmbH schaltet die Kurzfachinfo der Swissmedic in ODDB.org auf. Ein Beispiel:%0a%3c [[http://ch.oddb.org/de/gcc/resolve/pointer/%253A%2521minifi%252C1211488 | Prialt]]%0a\ No newline at end of file%0a
+host:1178889341=84.72.158.179

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.81 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1523468981
+host=212.51.146.241
+name=Generikacc.Index
+rev=2
+targets=Generikacc.App,Generikacc.Android
+text=* [[Generikacc/App]]%0a* [[Generikacc/Android]]
+time=1523469220
+author:1523469220=zeno
+diff:1523469220:1523468981:=1,2c1,2%0a%3c * [[Generikacc/App]]%0a%3c * [[Generikacc/Android]]%0a\ No newline at end of file%0a---%0a> * [[Generika/App]]%0a> * [[Generika/Android]]%0a\ No newline at end of file%0a
+host:1523469220=212.51.146.241
+author:1523468981=zeno
+diff:1523468981:1523468981:=1,2d0%0a%3c * [[Generika/App]]%0a%3c * [[Generika/Android]]%0a\ No newline at end of file%0a
+host:1523468981=212.51.146.241

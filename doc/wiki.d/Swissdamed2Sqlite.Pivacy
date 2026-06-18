@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1776241028
+host=212.51.146.241
+name=Swissdamed2Sqlite.Pivacy
+rev=2
+targets=
+text=! Swissdamed2Sqlite Privacy%0a# Swissdamed2Sqlite does not collect any data%0a# Swissdamed2Sqlite does not collect any user data.%0a# Swissdamed2Sqlite does not track any users.%0a# Swissdamed2Sqlite does not implement any ads.
+time=1776241054
+author:1776241054=zeno
+diff:1776241054:1776241028:=4,5c4%0a%3c # Swissdamed2Sqlite does not track any users.%0a%3c # Swissdamed2Sqlite does not implement any ads.%0a\ No newline at end of file%0a---%0a> # Swissdamed2Sqlite does not track any users.%0a\ No newline at end of file%0a
+host:1776241054=212.51.146.241
+author:1776241028=zeno
+diff:1776241028:1776241028:=1,4d0%0a%3c ! Swissdamed2Sqlite Privacy%0a%3c # Swissdamed2Sqlite does not collect any data%0a%3c # Swissdamed2Sqlite does not collect any user data.%0a%3c # Swissdamed2Sqlite does not track any users.%0a\ No newline at end of file%0a
+host:1776241028=212.51.146.241

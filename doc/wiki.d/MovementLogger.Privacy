@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1778690285
+host=178.197.223.217
+name=MovementLogger.Privacy
+rev=1
+targets=
+text=! MovementLogger Privacy%0a# MovementLogger does not collect any personal information.%0a# MovementLogger does not track the user.%0a# MovementLogger has no ads.
+time=1778690285
+author:1778690285=zeno
+diff:1778690285:1778690285:=1,4d0%0a%3c ! MovementLogger Privacy%0a%3c # MovementLogger does not collect any personal information.%0a%3c # MovementLogger does not track the user.%0a%3c # MovementLogger has no ads.%0a\ No newline at end of file%0a
+host:1778690285=178.197.223.217

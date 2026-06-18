@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.8) Gecko/20071022 Firefox/2.0.0.8
+author=zrr
+host=77.57.16.157
+name=Main.OpenOffice
+rev=1
+targets=
+text=http://www.openoffice.org
+time=1193206303
+author:1193206303=zrr
+diff:1193206303:1193206303:=1d0%0a%3c http://www.openoffice.org%0a\ No newline at end of file%0a
+host:1193206303=77.57.16.157

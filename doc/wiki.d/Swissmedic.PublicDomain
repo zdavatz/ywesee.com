@@ -1,0 +1,21 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1382695142
+host=46.140.30.26
+name=Swissmedic.PublicDomain
+rev=3
+targets=
+text=Attach:public_domain_datenquellen_swissmedic_2.pdf
+time=1382712712
+author:1382712712=zeno
+diff:1382712712:1382712450:=1c1%0a%3c Attach:public_domain_datenquellen_swissmedic_2.pdf%0a\ No newline at end of file%0a---%0a> Attach:public_domain_datenquellen_swissmedic.pdf%0a\ No newline at end of file%0a
+host:1382712712=46.140.30.26
+author:1382712450=zeno
+diff:1382712450:1382695142:=1c1%0a%3c Attach:public_domain_datenquellen_swissmedic.pdf%0a\ No newline at end of file%0a---%0a> Attach:Public_Domain_Datenquellen_Swissmedic.pdf%0a\ No newline at end of file%0a
+host:1382712450=46.140.30.26
+author:1382695142=zeno
+diff:1382695142:1382695142:=1d0%0a%3c Attach:Public_Domain_Datenquellen_Swissmedic.pdf%0a\ No newline at end of file%0a
+host:1382695142=46.140.30.26

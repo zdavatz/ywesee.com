@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1) Gecko/20061123 BonEcho/2.0
+author=zrr
+host=84.72.152.159
+name=Main.HomePage
+rev=194
+targets=
+text=Please see: [[http://www.ywesee.com/pmwiki.php/Main/Home | Home]].
+time=1165338735
+author:1165338735=zrr
+diff:1165338735:1125534324:=1c1,8%0a%3c Please see: [[http://www.ywesee.com/pmwiki.php/Main/Home | Home]].%0a\ No newline at end of file%0a---%0a> Here are some useful default pages installed along with the PmWiki software:%0a> %0a> * PmWiki documentation is available at [[PmWiki.DocumentationIndex]].%0a> * What is the [[PmWiki/WikiWikiWeb]]?%0a> * [[PmWiki/Basic Editing]] describes how to create pages in PmWiki.%0a> * Practice editing pages in the [[WikiSandbox]].%0a> %0a> More information about [[PmWiki/PmWiki]] can be found at http://www.pmwiki.org/.%0a\ No newline at end of file%0a
+host:1165338735=84.72.152.159

@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1) Gecko/20061010 Firefox/2.0
+author=
+host=219.177.168.27
+name=Ywesee.CH870025125183002401Z
+rev=1
+targets=
+text=International Bank Account Number
+time=1164151706
+author:1164151706=
+diff:1164151706:1164151706:=1d0%0a%3c International Bank Account Number%0a\ No newline at end of file%0a
+host:1164151706=219.177.168.27

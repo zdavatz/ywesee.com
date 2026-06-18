@@ -1,0 +1,21 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1331559684
+host=80.219.10.249
+name=Epha.Flow
+rev=3
+targets=Oddb.OpenSourceSoftwareUndDatenImSchweizerGesundheitswesen
+text=!!Datenfluss Epha%0aAttach:Epha_flow.jpg%0a* Darüber sprechen wir an unserem Anlass vom 14. Juni 2012 im Hotel Mariott in Zürich um 09.00 Uhr.%0a* [[Oddb/OpenSourceSoftwareUndDatenImSchweizerGesundheitswesen]]
+time=1331632942
+author:1331632942=zeno
+diff:1331632942:1331559742:=2,4c2%0a%3c Attach:Epha_flow.jpg%0a%3c * Darüber sprechen wir an unserem Anlass vom 14. Juni 2012 im Hotel Mariott in Zürich um 09.00 Uhr.%0a%3c * [[Oddb/OpenSourceSoftwareUndDatenImSchweizerGesundheitswesen]]%0a\ No newline at end of file%0a---%0a> Attach:Epha_flow.jpg%0a\ No newline at end of file%0a
+host:1331632942=80.219.10.249
+author:1331559742=zeno
+diff:1331559742:1331559684:=1d0%0a%3c !!Datenfluss Epha%0a
+host:1331559742=80.219.10.249
+author:1331559684=zeno
+diff:1331559684:1331559684:=1d0%0a%3c Attach:Epha_flow.jpg%0a\ No newline at end of file%0a
+host:1331559684=80.219.10.249

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.30 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1435594984
+host=46.140.30.26
+name=Ywesee.Kindle
+rev=1
+targets=AmiKo.Index
+text=Siehe AmiKo [[AmiKo/Index]]
+time=1435594984
+author:1435594984=zeno
+diff:1435594984:1435594984:=1d0%0a%3c Siehe AmiKo [[AmiKo/Index]]%0a\ No newline at end of file%0a
+host:1435594984=46.140.30.26

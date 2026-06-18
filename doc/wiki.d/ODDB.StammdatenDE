@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1350566094
+host=80.219.10.249
+name=ODDB.StammdatenDE
+rev=1
+targets=
+text=! Stammdatenbezug für Deutschland - (:addThis username="myUsername" btn="sm-share":)%0a* Betreiben Sie ein Spital oder sind Sie ein Arzt oder verkaufen Sie eine Krankenkassen Software?%0a* Verkaufen Sie Apothekensoftware?%0a%0a!! Stammdaten%0a* http://de.obb.org%0a%0a!!Bemerkung%0a* Die runtergeladenen Daten dürfen ausdrücklich weiterverwendet und weiterverkauft werden.%0a%0a!!Weitere Fragen%0a* http://anser.oddb.org
+time=1350566094
+author:1350566094=zeno
+diff:1350566094:1350566094:=1,12d0%0a%3c ! Stammdatenbezug für Deutschland - (:addThis username="myUsername" btn="sm-share":)%0a%3c * Betreiben Sie ein Spital oder sind Sie ein Arzt oder verkaufen Sie eine Krankenkassen Software?%0a%3c * Verkaufen Sie Apothekensoftware?%0a%3c %0a%3c !! Stammdaten%0a%3c * http://de.obb.org%0a%3c %0a%3c !!Bemerkung%0a%3c * Die runtergeladenen Daten dürfen ausdrücklich weiterverwendet und weiterverkauft werden.%0a%3c %0a%3c !!Weitere Fragen%0a%3c * http://anser.oddb.org%0a\ No newline at end of file%0a
+host:1350566094=80.219.10.249

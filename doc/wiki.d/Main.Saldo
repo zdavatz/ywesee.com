@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.6) Gecko/20070802 Firefox/2.0.0.6
+author=zrr
+host=77.57.16.157
+name=Main.Saldo
+rev=1
+targets=
+text=http://www.saldo.ch/zeitschriften/saldo/index.php
+time=1190032843
+author:1190032843=zrr
+diff:1190032843:1190032843:=1d0%0a%3c http://www.saldo.ch/zeitschriften/saldo/index.php%0a\ No newline at end of file%0a
+host:1190032843=77.57.16.157

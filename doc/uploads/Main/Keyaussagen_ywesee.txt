@@ -1,0 +1,36 @@
+Sehr geehrte Damen und Herren
+
+Meine Key-Aussagen von Morgen sind wie folgt:
+
+* ywesee baut  Software zur Vergabe von EAN-Codes im Spital (Vertiefung durch
+Christian Hay).
+
+* Wie die Software genau funktioniert wissen wir noch nicht. Sie muss jedoch
+sicherstellen dass:
+	** keine doppelten EAN-Codes vergeben werden.
+	** Export und Import der EAN-Codes zur Verknüpfung mit anderen Spitälern (P2P).
+	** weitere Requirements von Medinorma und den Spitälern.
+
+* OSS ist Free in Terms of Freedom not in terms of cost.
+
+* Abgerechnet wird über die Dienstleistung und nicht über die Lizenz.
+
+* Keine Nutzungsbeschränkungen betreffend der Nutzung der Daten.
+
+* Fragen?
+
+* Es geht um die Digitalisierung vom CH-Gesundheitswesen basierend auf offenen
+Standards.
+
+-- 
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-24 
+Schl.-Fingerabdruck = 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

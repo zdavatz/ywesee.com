@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1775821138
+host=212.51.146.241
+name=Eudamed2Swissdamed.Eudamed2Swissdamed
+rev=3
+targets=
+text=!Eudamed2Swissdamed%0a# Download the [[https://apps.microsoft.com/detail/9nh43r1cmkfn?cid=DevShareMCLPCS&hl=de-DE&gl=CH | Eudamed2Swissdamed App]]%0a# Support%0a# zdavatz at ywesee dot com%0a# +41 43 540 05 50 %0aAttach:eudamed2swissdamed_1.png
+time=1775832155
+author:1775832155=zeno
+diff:1775832155:1775821340:=2d1%0a%3c # Download the [[https://apps.microsoft.com/detail/9nh43r1cmkfn?cid=DevShareMCLPCS&hl=de-DE&gl=CH | Eudamed2Swissdamed App]]%0a
+host:1775832155=212.51.146.241
+author:1775821340=zeno
+diff:1775821340:1775821138:=2,4d1%0a%3c # Support%0a%3c # zdavatz at ywesee dot com%0a%3c # +41 43 540 05 50 %0a
+host:1775821340=212.51.146.241
+author:1775821138=zeno
+diff:1775821138:1775821138:=1,2d0%0a%3c !Eudamed2Swissdamed%0a%3c Attach:eudamed2swissdamed_1.png%0a\ No newline at end of file%0a
+host:1775821138=212.51.146.241

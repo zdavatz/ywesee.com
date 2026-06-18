@@ -1,0 +1,21 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 FireTorrent/2.0.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1287055582
+host=80.219.10.249
+name=BAG.ZulassungSwissmedic
+rev=3
+targets=
+text=!!Frage für den Juristen%0aWas geschieht mit einem Produkt, dessen 5-er Packung noch auf der SL zugelassen ist, die Registration bei der Swissmedic in der Zwischenzeit jedoch zur 10er Packung mutiert hat und somit die 5er Packung bei der Swissmedic nicht mehr zugelassen ist, jedoch immer noch auf der SL erscheint?
+time=1287055786
+author:1287055786=zeno
+diff:1287055786:1287055594:=1c1%0a%3c !!Frage für den Juristen%0a---%0a> !!Frage:%0a
+host:1287055786=80.219.10.249
+author:1287055594=zeno
+diff:1287055594:1287055582:=1c1%0a%3c !!Frage:%0a---%0a> Frage:%0a
+host:1287055594=80.219.10.249
+author:1287055582=zeno
+diff:1287055582:1287055582:=1,2d0%0a%3c Frage:%0a%3c Was geschieht mit einem Produkt, dessen 5-er Packung noch auf der SL zugelassen ist, die Registration bei der Swissmedic in der Zwischenzeit jedoch zur 10er Packung mutiert hat und somit die 5er Packung bei der Swissmedic nicht mehr zugelassen ist, jedoch immer noch auf der SL erscheint?%0a\ No newline at end of file%0a
+host:1287055582=80.219.10.249

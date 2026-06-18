@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.71 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1515778671
+host=212.51.146.241
+name=Generikacc.GenerikaccApp
+rev=3
+targets=AmiKo.OSX
+text=! Generika.cc App%0a* [[https://itunes.apple.com/ch/app/generika/id520038123?mt=8 | iTunes Download]]%0a* [[https://www.srf.ch/sendungen/kassensturz-espresso/services/interaktiv/generika-schnell-selber-finden| Kassensturz Artikel]]%0a* Features: Barcodescanner, Fachinfo, Patienteninfo, Preisvergleich, Verfalldatum, Rezept importieren von [[AmiKo/OSX|AmiKo Desitin]], Interaktionen, Einnahme-Erinnerung
+time=1515778829
+author:1515778829=zeno
+diff:1515778829:1515778708:=3,4c3%0a%3c * [[https://www.srf.ch/sendungen/kassensturz-espresso/services/interaktiv/generika-schnell-selber-finden| Kassensturz Artikel]]%0a%3c * Features: Barcodescanner, Fachinfo, Patienteninfo, Preisvergleich, Verfalldatum, Rezept importieren von [[AmiKo/OSX|AmiKo Desitin]], Interaktionen, Einnahme-Erinnerung%0a\ No newline at end of file%0a---%0a> * [[https://www.srf.ch/sendungen/kassensturz-espresso/services/interaktiv/generika-schnell-selber-finden| Kassensturz Artikel]]%0a\ No newline at end of file%0a
+host:1515778829=212.51.146.241
+author:1515778708=zeno
+diff:1515778708:1515778671:=2,3c2,3%0a%3c * [[https://itunes.apple.com/ch/app/generika/id520038123?mt=8 | iTunes Download]]%0a%3c * [[https://www.srf.ch/sendungen/kassensturz-espresso/services/interaktiv/generika-schnell-selber-finden| Kassensturz Artikel]]%0a\ No newline at end of file%0a---%0a> * [[iTunes Download | https://itunes.apple.com/ch/app/generika/id520038123?mt=8]]%0a> * [[Kassensturz Artikel | https://www.srf.ch/sendungen/kassensturz-espresso/services/interaktiv/generika-schnell-selber-finden]]%0a\ No newline at end of file%0a
+host:1515778708=212.51.146.241
+author:1515778671=zeno
+diff:1515778671:1515778671:=1,3d0%0a%3c ! Generika.cc App%0a%3c * [[iTunes Download | https://itunes.apple.com/ch/app/generika/id520038123?mt=8]]%0a%3c * [[Kassensturz Artikel | https://www.srf.ch/sendungen/kassensturz-espresso/services/interaktiv/generika-schnell-selber-finden]]%0a\ No newline at end of file%0a
+host:1515778671=212.51.146.241

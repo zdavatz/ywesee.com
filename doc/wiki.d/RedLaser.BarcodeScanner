@@ -1,0 +1,51 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a1pre) Gecko/20091215 Minefield/3.7a1pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1260957365
+host=80.219.10.249
+name=RedLaser.BarcodeScanner
+rev=13
+targets=
+text=!Scan for Barcodes in ch.oddb.org%0a# Install the [[http://redlaser.com/ | RedLaser]] App on you iPhone.%0a# Go to this [[http://www.redlaser.com/CustomApp.aspx?name=ODDB.org&url=http%253a%252f%252fch.oddb.org%252fde%252fgcc%252fsearch%253fsearch_query%253d&param=search_query%253d&imageurl=http://generika.cc/resources/generika/favicon.ico | Link]] in Safari on your iPhone add the Bookmark to your Home-Screen.%0a# Tap the icon on your homescreen and start scanning.%0a# Results will shop up in ch.oddb.org
+time=1260977027
+author:1260977027=
+diff:1260977027:1260964305:=5d4%0a%3c # Results will shop up in ch.oddb.org%0a\ No newline at end of file%0a
+host:1260977027=80.219.10.249
+author:1260964305=
+diff:1260964305:1260963964:=4a5,8%0a> %0a> or%0a> %0a> [[%3ca href="pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare">callback%3c/a>]]%0a\ No newline at end of file%0a
+host:1260964305=80.219.10.249
+author:1260963964=
+diff:1260963964:1260963942:=8c8%0a%3c [[%3ca href="pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare">callback%3c/a>]]%0a\ No newline at end of file%0a---%0a> %3ca href="pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare">callback%3c/a>%0a\ No newline at end of file%0a
+host:1260963964=80.219.10.249
+author:1260963942=
+diff:1260963942:1260957591:=4,8c4%0a%3c # Tap the icon on your homescreen and start scanning.%0a%3c %0a%3c or%0a%3c %0a%3c %3ca href="pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare">callback%3c/a>%0a\ No newline at end of file%0a---%0a> # Tap the icon on your homescreen and start scanning.%0a\ No newline at end of file%0a
+host:1260963942=80.219.10.249
+author:1260957591=
+diff:1260957591:1260957536:=2c2%0a%3c # Install the [[http://redlaser.com/ | RedLaser]] App on you iPhone.%0a---%0a> # Install the [[itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312720263&mt=8&s=143441 | RedLaser]] App on you iPhone.%0a
+host:1260957591=80.219.10.249
+author:1260957536=
+diff:1260957536:1260957515:=
+host:1260957536=80.219.10.249
+author:1260957515=
+diff:1260957515:1260957494:=2c2%0a%3c # Install the [[itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312720263&mt=8&s=143441 | RedLaser]] App on you iPhone.%0a---%0a> # Install the [[itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312720263&mt=8&s=143441 | RedLaser App]] on you iPhone.%0a
+host:1260957515=80.219.10.249
+author:1260957494=
+diff:1260957494:1260957454:=2c2%0a%3c # Install the [[itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312720263&mt=8&s=143441 | RedLaser App]] on you iPhone.%0a---%0a> # Install the RedLaser App on you iPhone.%0a
+host:1260957494=80.219.10.249
+author:1260957454=
+diff:1260957454:1260957445:=4c4%0a%3c # Tap the icon on your homescreen and start scanning.%0a\ No newline at end of file%0a---%0a> # Tap the icon on your homescreen and voila.%0a\ No newline at end of file%0a
+host:1260957454=80.219.10.249
+author:1260957445=
+diff:1260957445:1260957393:=3c3%0a%3c # Go to this [[http://www.redlaser.com/CustomApp.aspx?name=ODDB.org&url=http%253a%252f%252fch.oddb.org%252fde%252fgcc%252fsearch%253fsearch_query%253d&param=search_query%253d&imageurl=http://generika.cc/resources/generika/favicon.ico | Link]] in Safari on your iPhone add the Bookmark to your Home-Screen.%0a---%0a> # Go to this [[http://www.redlaser.com/CustomApp.aspx?name=ODDB.org&url=http%253a%252f%252fch.oddb.org%252fde%252fgcc%252fsearch%253fsearch_query%253d&param=search_query%253d&imageurl=http://generika.cc/resources/generika/favicon.ico | Link]] and add the Bookmark to your Home-Screen.%0a
+host:1260957445=80.219.10.249
+author:1260957393=
+diff:1260957393:1260957372:=3,4c3%0a%3c # Go to this [[http://www.redlaser.com/CustomApp.aspx?name=ODDB.org&url=http%253a%252f%252fch.oddb.org%252fde%252fgcc%252fsearch%253fsearch_query%253d&param=search_query%253d&imageurl=http://generika.cc/resources/generika/favicon.ico | Link]] and add the Bookmark to your Home-Screen.%0a%3c # Tap the icon on your homescreen and voila.%0a\ No newline at end of file%0a---%0a> # Go to this [[http://www.redlaser.com/CustomApp.aspx?name=ODDB.org&url=http%253a%252f%252fch.oddb.org%252fde%252fgcc%252fsearch%253fsearch_query%253d&param=search_query%253d&imageurl=http://generika.cc/resources/generika/favicon.ico | Link]] and add the Bookmark to your Home-Screen.%0a\ No newline at end of file%0a
+host:1260957393=80.219.10.249
+author:1260957372=
+diff:1260957372:1260957365:=3c3%0a%3c # Go to this [[http://www.redlaser.com/CustomApp.aspx?name=ODDB.org&url=http%253a%252f%252fch.oddb.org%252fde%252fgcc%252fsearch%253fsearch_query%253d&param=search_query%253d&imageurl=http://generika.cc/resources/generika/favicon.ico | Link]] and add the Bookmark to your Home-Screen.%0a\ No newline at end of file%0a---%0a> # Go to this [[http://www.redlaser.com/CustomApp.aspx?name=ODDB.org&url=http%253a%252f%252fch.oddb.org%252fde%252fgcc%252fsearch%253fsearch_query%253d&param=search_query%253d&imageurl=http://generika.cc/resources/generika/favicon.ico Link]] and add the Bookmark to your Home-Screen.%0a\ No newline at end of file%0a
+host:1260957372=80.219.10.249
+author:1260957365=
+diff:1260957365:1260957365:=1,3d0%0a%3c !Scan for Barcodes in ch.oddb.org%0a%3c # Install the RedLaser App on you iPhone.%0a%3c # Go to this [[http://www.redlaser.com/CustomApp.aspx?name=ODDB.org&url=http%253a%252f%252fch.oddb.org%252fde%252fgcc%252fsearch%253fsearch_query%253d&param=search_query%253d&imageurl=http://generika.cc/resources/generika/favicon.ico Link]] and add the Bookmark to your Home-Screen.%0a\ No newline at end of file%0a
+host:1260957365=80.219.10.249

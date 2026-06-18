@@ -1,0 +1,27 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1360680888
+host=178.197.234.10
+name=Oddb2xml.Felder
+rev=5
+targets=Oddb2xml.Index
+text=%25trail%25%3c%3c|[[Index]]|>>%0a!! Felder von oddb2xml - Stand 12.2.2013%0a# Pharmacode%0a# Swissmedic Kategorie%0a# Verkaufs-Status%0a# Name DE %0a# Name FR%0a# Packungsrösse%0a# Impfstoff%0a# Blutprodukt%0a# Kühlprodukt%0a# Betäubungsmittel%0a# Limitationspunkte%0a# GLN (Hersteller-Code)%0a# GTIN (13 und 14 Stellen)%0a# Swissmedic Nummer%0a# Ex-Factory Preis%0a# Publikums Preis%0a# SL Preis gültig ab Datum%0a# Generikum%0a# Original%0a# Selbstbehalt 10 / 20 %25%0a# Wirkstoff Menge%0a# Wirkstoff Name%0a# ATC-Code%0a# Index Therapeuticus%0a# Limitations-Name BAG%0a# Limitations-Niveau%0a# Limitations Text DE%0a# Limitations Text FR%0a# Limitations Gültigkeits-Datum%0a# Limitations Punkte SwissmedicNo5%0a# Limitations Text IT Ebene%0a# Limitations Typ%0a# Fachinfo DE%0a# Fachinfo FR%0a# Interaktion Schweregrad%0a# Interaktion Text DE%0a# Interaktion Massnahmen%0a# Interaktion Mechanismus%0a# Interaktion Effekt%0a# Interaktion Relevanz%0a# Mwst-Code%0a# GLN Betrieb	%0a# Betriebsname 1%0a# Betriebsname 2	%0a# Strasse	%0a# Nummer	%0a# PLZ	%0a# Ort	%0a# Bewilligungskanton	%0a# Land	%0a# Betriebstyp	%0a# BTM Berechtigung%0a# GLN Person	%0a# Name	%0a# Vorname	%0a# PLZ	%0a# Ort	%0a# Bewilligungskanton	 %0a# Land	%0a# Bewilligung Selbstdispensation	%0a# Diplom	%0a# BTM Berechtigung%0a# Selling Units%0a# Compositions gemäss Swissmedic
+time=1424371718
+author:1424371718=zeno
+diff:1424371718:1360765149:=65,66c65%0a%3c # Selling Units%0a%3c # Compositions gemäss Swissmedic%0a\ No newline at end of file%0a---%0a> %0a
+host:1424371718=178.197.234.10
+author:1360765149=zeno
+diff:1360765149:1360764996:=43,65c43%0a%3c # Mwst-Code%0a%3c # GLN Betrieb	%0a%3c # Betriebsname 1%0a%3c # Betriebsname 2	%0a%3c # Strasse	%0a%3c # Nummer	%0a%3c # PLZ	%0a%3c # Ort	%0a%3c # Bewilligungskanton	%0a%3c # Land	%0a%3c # Betriebstyp	%0a%3c # BTM Berechtigung%0a%3c # GLN Person	%0a%3c # Name	%0a%3c # Vorname	%0a%3c # PLZ	%0a%3c # Ort	%0a%3c # Bewilligungskanton	 %0a%3c # Land	%0a%3c # Bewilligung Selbstdispensation	%0a%3c # Diplom	%0a%3c # BTM Berechtigung%0a%3c %0a---%0a> # Mwst-Code%0a\ No newline at end of file%0a
+host:1360765149=80.219.10.249
+author:1360764996=zeno
+diff:1360764996:1360681096:=1d0%0a%3c %25trail%25%3c%3c|[[Index]]|>>%0a
+host:1360764996=80.219.10.249
+author:1360681096=zeno
+diff:1360681096:1360680888:=1c1%0a%3c !! Felder von oddb2xml - Stand 12.2.2013%0a---%0a> !! Felder von oddb2xml%0a
+host:1360681096=80.219.10.249
+author:1360680888=zeno
+diff:1360680888:1360680888:=1,42d0%0a%3c !! Felder von oddb2xml%0a%3c # Pharmacode%0a%3c # Swissmedic Kategorie%0a%3c # Verkaufs-Status%0a%3c # Name DE %0a%3c # Name FR%0a%3c # Packungsrösse%0a%3c # Impfstoff%0a%3c # Blutprodukt%0a%3c # Kühlprodukt%0a%3c # Betäubungsmittel%0a%3c # Limitationspunkte%0a%3c # GLN (Hersteller-Code)%0a%3c # GTIN (13 und 14 Stellen)%0a%3c # Swissmedic Nummer%0a%3c # Ex-Factory Preis%0a%3c # Publikums Preis%0a%3c # SL Preis gültig ab Datum%0a%3c # Generikum%0a%3c # Original%0a%3c # Selbstbehalt 10 / 20 %25%0a%3c # Wirkstoff Menge%0a%3c # Wirkstoff Name%0a%3c # ATC-Code%0a%3c # Index Therapeuticus%0a%3c # Limitations-Name BAG%0a%3c # Limitations-Niveau%0a%3c # Limitations Text DE%0a%3c # Limitations Text FR%0a%3c # Limitations Gültigkeits-Datum%0a%3c # Limitations Punkte SwissmedicNo5%0a%3c # Limitations Text IT Ebene%0a%3c # Limitations Typ%0a%3c # Fachinfo DE%0a%3c # Fachinfo FR%0a%3c # Interaktion Schweregrad%0a%3c # Interaktion Text DE%0a%3c # Interaktion Massnahmen%0a%3c # Interaktion Mechanismus%0a%3c # Interaktion Effekt%0a%3c # Interaktion Relevanz%0a%3c # Mwst-Code%0a\ No newline at end of file%0a
+host:1360680888=80.219.10.249

@@ -1,0 +1,45 @@
+[Tue Jun 28 01:00:05 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Tue Jun 28 01:00:06 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Tue Jun 28 01:20:29 2022] [error] [client 66.249.76.91] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Tue Jun 28 02:02:21 2022] [error] [client 52.90.251.96] File does not exist: /var/www/ywesee.com/doc/ywesee
+[Tue Jun 28 04:26:52 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Tue Jun 28 04:26:56 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Tue Jun 28 05:50:43 2022] [error] [client 188.186.232.53] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Tue Jun 28 05:50:46 2022] [error] [client 188.186.232.53] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Tue Jun 28 05:50:46 2022] [error] [client 188.186.232.53] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Tue Jun 28 05:50:48 2022] [error] [client 188.186.232.53] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Tue Jun 28 05:50:48 2022] [error] [client 188.186.232.53] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Tue Jun 28 05:50:50 2022] [error] [client 188.186.232.53] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Tue Jun 28 05:50:50 2022] [error] [client 188.186.232.53] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Tue Jun 28 07:05:13 2022] [error] [client 66.249.76.227] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Tue Jun 28 09:05:01 2022] [error] [client 66.249.76.227] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Tue Jun 28 09:33:30 2022] [error] [client 66.249.76.89] File does not exist: /var/www/ywesee.com/doc/amiko
+[Tue Jun 28 09:50:40 2022] [error] [client 66.249.66.193] File does not exist: /var/www/ywesee.com/doc/amiko
+[Tue Jun 28 09:58:38 2022] [error] [client 66.249.76.87] File does not exist: /var/www/ywesee.com/doc/amiko
+[Tue Jun 28 10:06:17 2022] [error] [client 66.249.76.89] File does not exist: /var/www/ywesee.com/doc/amiko
+[Tue Jun 28 10:21:01 2022] [error] [client 94.176.60.90] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Tue Jun 28 10:27:40 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/wp-includes
+[Tue Jun 28 10:27:40 2022] [error] [client 185.81.157.148] script '/var/www/ywesee.com/doc/xmlrpc.php' not found or unable to stat
+[Tue Jun 28 10:27:40 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/blog
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/web
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/wordpress
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/website
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/wp
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/news
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/shop
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/wp1
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/test
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/media
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/wp2
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/site
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/cms
+[Tue Jun 28 10:27:41 2022] [error] [client 185.81.157.148] File does not exist: /var/www/ywesee.com/doc/sito
+[Tue Jun 28 11:11:05 2022] [error] [client 66.249.76.229] File does not exist: /var/www/ywesee.com/doc/amiko
+[Tue Jun 28 11:15:45 2022] [error] [client 66.249.76.89] File does not exist: /var/www/ywesee.com/doc/generikacc
+[Tue Jun 28 11:31:05 2022] [error] [client 185.223.56.119] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Tue Jun 28 14:34:33 2022] [error] [client 203.123.98.86] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Tue Jun 28 14:34:34 2022] [error] [client 203.123.98.86] File does not exist: /var/www/ywesee.com/doc/security.txt
+[Tue Jun 28 15:45:17 2022] [error] [client 18.204.196.247] File does not exist: /var/www/ywesee.com/doc/app-ads.txt, referer: https://www.google.com/
+[Tue Jun 28 17:08:10 2022] [error] [client 66.249.76.91] File does not exist: /var/www/ywesee.com/doc/de
+[Tue Jun 28 22:10:46 2022] [error] [client 34.90.90.50] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Tue Jun 28 22:28:03 2022] [error] [client 54.157.252.236] File does not exist: /var/www/ywesee.com/doc/app-ads.txt, referer: https://www.google.com/

@@ -1,0 +1,90 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 29636 invoked by uid 210); 30 Jun 2005 14:38:05 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/960. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.033838 secs); 30 Jun 2005 12:38:05 -0000
+Received: from unknown (HELO localhost) (zdavatz@ywesee.com@217.162.177.109)
+  by bbmb.ch with ESMTPA; 30 Jun 2005 14:38:04 +0200
+Date: Thu, 30 Jun 2005 14:37:14 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: generika.cc mailinglist <news@generika.cc>, svkh-offerte@oddb.org
+ <svkh-offerte@oddb.org>, oddb.org mailinglist <pharmafirma@oddb.org>,
+ swissmedic@oddb.org <swissmedic@oddb.org>, Simonetta Sommaruga
+ <simonetta.sommaruga@parl.ch>, weko@weko.admin.ch, Hunkeler
+ <Josef.Hunkeler@pue.admin.ch>, todo@oddb.org <todo@oddb.org>
+Subject: ?ISO-8859-1?Q?Lösungsvorschlag? zur Publikation der
+ Arzneimittelinformation
+Message-ID: <20050630143714.76ae2688@localhost>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4 (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Damen und Herren
+
+Mit folgenden Verordnungen des Schweizerischen Heilmittelinstituts,
+Swissmedic, im Anhörungsverfahren
+
+http://www.swissmedic.ch/de/industrie/overall.asp?theme3D0.00105.00002&the
+me_id3D518&news_id3D4568&page3D1
+
+möchte ich Ihnen meinen Lösungsvorschlag zum Task der Publikation der
+Arzneimittelinformation mitteilen:
+
+Grundsätzlich geht es um folgendes Gesetz/Artikel:
+http://www.admin.ch/ch/d/sr/812_212_21/a16a.html
+
+Es muss entschieden werden ob man mit a) Artikel 16a Absatz 1 und 2 fährt
+oder b) mit Artikel 16a Absatz 3 fahren will.
+
+Ich bin ganz klar für a), aus folgenden Gründen:
+
+1. Lasst _zuerst_ den Wettbewerb spielen.
+
+2. D6ffentlich geforderte Datensammlungen sind zu wichtig um sie einfach in die
+Hände von einer Firma oder einem Standard zu geben. Swissmedic muss vor allem
+eins: Sich entscheiden für den Standard in welchem die Daten eingereicht 
+werden sollen _an_ die Swissmedic und in welchem maschienlesbaren Format die Daten
+nach der Prüfung durch die Swissmedic wieder zur Verfügung gestellt werden sollen.
+Die Einreichung der Daten _könnte_zum_Beispiel_ über ein Webinterface erfolgen,
+der Export in einem W3C XML-Format.
+
+2. Do the simplest thing you could possibly do. Mit a) verbaut man sich nichts
+und kann das Ganze Schritt für Schritt angehen. Swissmedic kann sich in aller
+Ruhe mit den offenen Datenstandards auseinandersetzen. Für den Parallelimport /
+Parallelregistration ist die Swissmedic somit auch bestens gerüstet.
+
+3. Ein oder mehrere Bücher, das ist sekundär. Besteht einmal die saubere,
+elektronische Datengrundlage können danach X-Produkte entstehen. Sei es ein PDF
+das man einer Druckerei bringen kann sei es ein Flatfile dass man sich auf den
+Palm laden kann, sei es eine Datenbank im Internet, sei es die Homepage vom
+Hersteller, etc.
+
+4. Bestehende Referenzwerke gibt es genügend. Es gibt mindestens 3 Plattformen
+in der Schweiz, welche über die Mehrheit der elektronischen Arzneimitteldaten
+Verfügen. Die Informationsdienstleistung ist somit für die Übergangsphase
+gewährleistet.
+
+5. Man muss das Ganze als eine smarte, international standfeste Lösung an
+gehen. Offene Standards können nicht verordnet werden (auch wenn ich mir das Wünsche ;) 
+offene Standards entstehen (mit viel Hirnschmalz und Auseinandersetzung) und
+brauchen Zeit.
+
+Mit Gruss aus Zürich
+Zeno Davatz
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

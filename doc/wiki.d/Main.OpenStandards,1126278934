@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1126278904
+text=OpenStandards ist der Englische Begriff für OffeneStandards.
+targets=Main.OpenStandards,Main.OffeneStandards
+author=
+author:1126278893=
+host:1126278893=84.73.187.0
+diff:1126278893:1126278893:=1d0²< OpenStandards ist der Englische Begriff für offene Standards.²\ No newline at end of file²
+name=Main.OpenStandards
+host=84.73.187.0
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050824 Firefox/1.0.6
+rev=2
+author:1126278904=
+host:1126278904=84.73.187.0
+diff:1126278904:1126278893:=1c1²< OpenStandards ist der Englische Begriff für OffeneStandards.²\ No newline at end of file²---²> OpenStandards ist der Englische Begriff für offene Standards.²\ No newline at end of file²

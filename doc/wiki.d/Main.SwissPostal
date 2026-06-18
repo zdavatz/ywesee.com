@@ -1,0 +1,15 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090224 Minefield/3.2a1pre
+author=
+host=77.58.149.99
+name=Main.SwissPostal
+rev=2
+targets=
+text=Die Schweizerische Post%0a%0a* http://www.post.ch/de/index.htm
+time=1235580397
+author:1235580397=
+diff:1235580397:1235580380:=1,3c1%0a%3c Die Schweizerische Post%0a%3c %0a%3c * http://www.post.ch/de/index.htm%0a\ No newline at end of file%0a---%0a> http://www.post.ch/de/index.htm%0a\ No newline at end of file%0a
+host:1235580397=77.58.149.99
+author:1235580380=
+diff:1235580380:1235580380:=1d0%0a%3c http://www.post.ch/de/index.htm%0a\ No newline at end of file%0a
+host:1235580380=77.58.149.99

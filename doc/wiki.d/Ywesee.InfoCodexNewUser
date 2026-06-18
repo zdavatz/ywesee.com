@@ -1,0 +1,27 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.0.4) Gecko/20060508 Firefox/1.5.0.4
+author=
+host=84.72.155.224
+name=Ywesee.InfoCodexNewUser
+rev=6
+targets=
+text=
+time=1150404806
+author:1150404806=
+diff:1150404806:1150382270:=0a1,35%0a> !Anlegen eines neuen User%0a> %0a> !!Annahme%0a> Für die Roche soll ein User "roche" mit Passwort "rochepw" und eine eigene IC-Domäne angelegt werden.%0a> %0a> !!Voraussetzungen%0a> * Sie müssen als User "davatz" eingeloggt sein (privilegiert)%0a> * Es muss eine Kollektion im Datenpool (=Hauptdomäne) angeklickt sein.%0a> %0a> !!Vorgehen%0a> * --> Admin  --> 10 User-Daten  -->  N  Neueintrag --> in Maske eintragen:%0a> * Username: roche %0a> * User-Gruppen: 2 %0a> * Berechtigungen: nur die ersten 3 aktivieren  (Suchen + Dokumente kategorisieren + Synonyme/Taxonomie) Hit-Recording: aktivieren%0a>        %0a> * --> OK speichern  --> Passwort:  rochepw    wiederholen: rochepw   --> OK; Dann User-Fenster --> Abbrechen%0a> * --> 12 IC-Domänen einrichten --> N  Neueintrag%0a> * --> in Maske eintragen:%0a> * Domäne:   D:\infocodex\data\roche%0a> * Domänen-Adminstrator: Mit Abwärtspfeil den User "roche" wählen%0a> * User-Gruppen:  bleibt leer -->  OK speichern%0a>  %0a> * Hinweis: Die Domänennamen sollen auf dem Demo-Server immer mit  '''"D:\infocodex\data\"'''  beginnen.%0a>  %0a> * Falls Sie Zugriff auf die Aktivitäten des Test-Users "roche" haben wollen: Unter dem User "roche" einloggen%0a> * --> formell neue Kollektion anklicken (Wechsel in Sub-Domäne)%0a> * --> Admin --> 10 User-Daten  ---> N Neueintrag%0a> * --> User "davatz" wählen  -->  OK speichern%0a>  %0a> (ohne diese Freigabe hat auch der Systemadministrator keinen Einblick in die Subdomäne)%0a>  %0a> !!Begleitung der Test-User %0a> Die Test-User, die einen eigenen Usernamen und eine eigene Domäne erhalten, sollten mindestens eine telefonische Instruktion von Ihnen bekommen. Eine Begleitung des Aufsetzens von eigenen Kollektionen ist sehr wichtig und viel zur Vermeidung von Fehlschlüssen beitragen.%0a>  %0a> Es sollte auch darauf hingewiesen werden, dass beim Anlegen neuer Kollektion die  Generierung von Abstracts aktiviert  werden sollte. Das Sichten wird damit wesentlich erleichtert.%0a\ No newline at end of file%0a
+host:1150404806=84.72.155.224
+author:1150382270=
+diff:1150382270:1150382245:=5,6c5%0a%3c %0a%3c !!Voraussetzungen%0a---%0a> !!Voraussetzungen:%0a
+host:1150382270=84.72.155.224
+author:1150382245=
+diff:1150382245:1150382205:=3c3%0a%3c !!Annahme%0a---%0a> !!Annahme:%0a8,9c8%0a%3c %0a%3c !!Vorgehen%0a---%0a> !!Vorgehen:%0a
+host:1150382245=84.72.155.224
+author:1150382205=
+diff:1150382205:1150382173:=9c9%0a%3c * --> Admin  --> 10 User-Daten  -->  N  Neueintrag --> in Maske eintragen:%0a---%0a> *--> Admin  --> 10 User-Daten  -->  N  Neueintrag --> in Maske eintragen:%0a
+host:1150382205=84.72.155.224
+author:1150382173=
+diff:1150382173:1150382161:=1,2c1,2%0a%3c !Anlegen eines neuen User%0a%3c %0a---%0a> !Anlegen eines neuen User*%0a> %0a
+host:1150382173=84.72.155.224
+author:1150382161=
+diff:1150382161:1150382161:=1,33d0%0a%3c !Anlegen eines neuen User*%0a%3c %0a%3c !!Annahme:%0a%3c Für die Roche soll ein User "roche" mit Passwort "rochepw" und eine eigene IC-Domäne angelegt werden.%0a%3c !!Voraussetzungen:%0a%3c * Sie müssen als User "davatz" eingeloggt sein (privilegiert)%0a%3c * Es muss eine Kollektion im Datenpool (=Hauptdomäne) angeklickt sein.%0a%3c !!Vorgehen:%0a%3c *--> Admin  --> 10 User-Daten  -->  N  Neueintrag --> in Maske eintragen:%0a%3c * Username: roche %0a%3c * User-Gruppen: 2 %0a%3c * Berechtigungen: nur die ersten 3 aktivieren  (Suchen + Dokumente kategorisieren + Synonyme/Taxonomie) Hit-Recording: aktivieren%0a%3c        %0a%3c * --> OK speichern  --> Passwort:  rochepw    wiederholen: rochepw   --> OK; Dann User-Fenster --> Abbrechen%0a%3c * --> 12 IC-Domänen einrichten --> N  Neueintrag%0a%3c * --> in Maske eintragen:%0a%3c * Domäne:   D:\infocodex\data\roche%0a%3c * Domänen-Adminstrator: Mit Abwärtspfeil den User "roche" wählen%0a%3c * User-Gruppen:  bleibt leer -->  OK speichern%0a%3c  %0a%3c * Hinweis: Die Domänennamen sollen auf dem Demo-Server immer mit  '''"D:\infocodex\data\"'''  beginnen.%0a%3c  %0a%3c * Falls Sie Zugriff auf die Aktivitäten des Test-Users "roche" haben wollen: Unter dem User "roche" einloggen%0a%3c * --> formell neue Kollektion anklicken (Wechsel in Sub-Domäne)%0a%3c * --> Admin --> 10 User-Daten  ---> N Neueintrag%0a%3c * --> User "davatz" wählen  -->  OK speichern%0a%3c  %0a%3c (ohne diese Freigabe hat auch der Systemadministrator keinen Einblick in die Subdomäne)%0a%3c  %0a%3c !!Begleitung der Test-User %0a%3c Die Test-User, die einen eigenen Usernamen und eine eigene Domäne erhalten, sollten mindestens eine telefonische Instruktion von Ihnen bekommen. Eine Begleitung des Aufsetzens von eigenen Kollektionen ist sehr wichtig und viel zur Vermeidung von Fehlschlüssen beitragen.%0a%3c  %0a%3c Es sollte auch darauf hingewiesen werden, dass beim Anlegen neuer Kollektion die  Generierung von Abstracts aktiviert  werden sollte. Das Sichten wird damit wesentlich erleichtert.%0a\ No newline at end of file%0a
+host:1150382161=84.72.155.224

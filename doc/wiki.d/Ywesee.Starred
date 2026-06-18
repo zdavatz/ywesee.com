@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.3) Gecko/20070322 Firefox/2.0.0.3
+author=zrr
+host=84.72.158.179
+name=Ywesee.Starred
+rev=1
+targets=
+text=%3cscript type="text/javascript" src="http://www.google.com/reader/ui/publisher.js">%3c/script>%0a%3cscript type="text/javascript" src="http://www.google.com/reader/public/javascript/user/18128349282058774906/state/com.google/starred?n=10&callback=GRC_p(%257Bc%253A%2522green%2522%252Ct%253A%2522Zeno%2520starred%2520items%2522%252Cs%253A%2522true%2522%257D)%253Bnew%2520GRC">%3c/script>
+time=1178287324
+author:1178287324=zrr
+diff:1178287324:1178287324:=1,2d0%0a%3c %3cscript type="text/javascript" src="http://www.google.com/reader/ui/publisher.js">%3c/script>%0a%3c %3cscript type="text/javascript" src="http://www.google.com/reader/public/javascript/user/18128349282058774906/state/com.google/starred?n=10&callback=GRC_p(%257Bc%253A%2522green%2522%252Ct%253A%2522Zeno%2520starred%2520items%2522%252Cs%253A%2522true%2522%257D)%253Bnew%2520GRC">%3c/script>%0a\ No newline at end of file%0a
+host:1178287324=84.72.158.179

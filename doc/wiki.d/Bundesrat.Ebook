@@ -1,0 +1,33 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1332229833
+host=80.219.10.249
+name=Bundesrat.Ebook
+rev=7
+targets=
+text=!!Der Bundesrat empfiehlt das Ebook%0a'''15.2.2012'''%0a%0aDer Bundesrat hat den Zahn der Zeit erkannt und sieht selber auch%0akeine Zukunft mehr in der Publikation der Fachinformation in einem%0aBuch. Zitat aus der Interpellations-Antwort vom Bundesrat (Absatz 2):%0a%0aBeachtet man, dass ein Drittel der Arzneimittelinformationen übers%0aJahr vollständig oder partiell geändert wird, wird klar, dass die%0aBuchform bereits bei Erscheinen nicht mehr auf dem neuesten Stand ist.%0a%0aDie elektronischen Medien garantieren auch in diesem Bereich nicht nur%0aeine jederzeit aktuelle, sondern auch eine höchst kostengünstige%0aInformation. Die Verpflichtung zu einer Publikation in Buchform%0aerachtet der Bundesrat deshalb als nicht mehr zeitgemäss.%0a%0ahttp://www.parlament.ch/d/suche/seiten/geschaefte.aspx?gesch_id=20114180%0a%0aZudem empfiehlt der Bundesrat das Ebook zu verwenden, weil dieses viel%0akostengünstiger ist.%0a%0aDarüber und mehr sprechen wir an unserm Anlass vom 14.6.2012 in Hotel%0aMariott in Zürich um 09.00 Uhr.%0a%0ahttp://www.ywesee.com/Oddb/OpenSourceSoftwareUndDatenImSchweizerGesundheitswesen%0a%0a* Die Interpellation als PDF: http://goo.gl/y6KKX%0a* Artikel in der Schweizer Ärztezeitung: http://goo.gl/m3qc8
+time=1332231749
+author:1332231749=zeno
+diff:1332231749:1332231741:=27,28c27,28%0a%3c * Die Interpellation als PDF: http://goo.gl/y6KKX%0a%3c * Artikel in der Schweizer Ärztezeitung: http://goo.gl/m3qc8%0a\ No newline at end of file%0a---%0a> Die Interpellation als PDF: http://goo.gl/y6KKX%0a> Artikel in der Schweizer Ärztezeitung: http://goo.gl/m3qc8%0a\ No newline at end of file%0a
+host:1332231749=80.219.10.249
+author:1332231741=zeno
+diff:1332231741:1332231343:=27,28c27%0a%3c Die Interpellation als PDF: http://goo.gl/y6KKX%0a%3c Artikel in der Schweizer Ärztezeitung: http://goo.gl/m3qc8%0a\ No newline at end of file%0a---%0a> Die Interpellation als PDF: http://goo.gl/y6KKX%0a\ No newline at end of file%0a
+host:1332231741=80.219.10.249
+author:1332231343=zeno
+diff:1332231343:1332231336:=27c27%0a%3c Die Interpellation als PDF: http://goo.gl/y6KKX%0a\ No newline at end of file%0a---%0a> Die Interpellation als Ebook: http://goo.gl/y6KKX%0a\ No newline at end of file%0a
+host:1332231343=80.219.10.249
+author:1332231336=zeno
+diff:1332231336:1332229900:=25,27c25%0a%3c http://www.ywesee.com/Oddb/OpenSourceSoftwareUndDatenImSchweizerGesundheitswesen%0a%3c %0a%3c Die Interpellation als Ebook: http://goo.gl/y6KKX%0a\ No newline at end of file%0a---%0a> http://www.ywesee.com/Oddb/OpenSourceSoftwareUndDatenImSchweizerGesundheitswesen%0a\ No newline at end of file%0a
+host:1332231336=80.219.10.249
+author:1332229900=zeno
+diff:1332229900:1332229896:=3d2%0a%3c %0a
+host:1332229900=80.219.10.249
+author:1332229896=zeno
+diff:1332229896:1332229833:=2c2%0a%3c '''15.2.2012'''%0a---%0a> %0a
+host:1332229896=80.219.10.249
+author:1332229833=zeno
+diff:1332229833:1332229833:=1,24d0%0a%3c !!Der Bundesrat empfiehlt das Ebook%0a%3c %0a%3c Der Bundesrat hat den Zahn der Zeit erkannt und sieht selber auch%0a%3c keine Zukunft mehr in der Publikation der Fachinformation in einem%0a%3c Buch. Zitat aus der Interpellations-Antwort vom Bundesrat (Absatz 2):%0a%3c %0a%3c Beachtet man, dass ein Drittel der Arzneimittelinformationen übers%0a%3c Jahr vollständig oder partiell geändert wird, wird klar, dass die%0a%3c Buchform bereits bei Erscheinen nicht mehr auf dem neuesten Stand ist.%0a%3c %0a%3c Die elektronischen Medien garantieren auch in diesem Bereich nicht nur%0a%3c eine jederzeit aktuelle, sondern auch eine höchst kostengünstige%0a%3c Information. Die Verpflichtung zu einer Publikation in Buchform%0a%3c erachtet der Bundesrat deshalb als nicht mehr zeitgemäss.%0a%3c %0a%3c http://www.parlament.ch/d/suche/seiten/geschaefte.aspx?gesch_id=20114180%0a%3c %0a%3c Zudem empfiehlt der Bundesrat das Ebook zu verwenden, weil dieses viel%0a%3c kostengünstiger ist.%0a%3c %0a%3c Darüber und mehr sprechen wir an unserm Anlass vom 14.6.2012 in Hotel%0a%3c Mariott in Zürich um 09.00 Uhr.%0a%3c %0a%3c http://www.ywesee.com/Oddb/OpenSourceSoftwareUndDatenImSchweizerGesundheitswesen%0a\ No newline at end of file%0a
+host:1332229833=80.219.10.249

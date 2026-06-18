@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1412842589
+host=46.140.30.26
+name=SpitalSchweiz.Subventionen2012
+rev=4
+targets=SpitalSchweiz.Index
+text=%3c|[[Index]]|>>%0a%0a(:html:)%0a%3ciframe src="http://cf.datawrapper.de/0AIS4/4/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="1000">%3c/iframe>%0a(:htmlend:)
+time=1412842778
+author:1412842778=zeno
+diff:1412842778:1412842666:=4c4%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/4/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="1000">%3c/iframe>%0a---%0a> %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="900" height="1200">%3c/iframe>%0a
+host:1412842778=46.140.30.26
+author:1412842666=zeno
+diff:1412842666:1412842656:=2d1%0a%3c %0a
+host:1412842666=46.140.30.26
+author:1412842656=zeno
+diff:1412842656:1412842589:=1d0%0a%3c %3c|[[Index]]|>>%0a
+host:1412842656=46.140.30.26
+author:1412842589=zeno
+diff:1412842589:1412842589:=1,3d0%0a%3c (:html:)%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="900" height="1200">%3c/iframe>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a
+host:1412842589=46.140.30.26

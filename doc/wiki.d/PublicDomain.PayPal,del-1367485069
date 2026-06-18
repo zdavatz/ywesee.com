@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1367485057
+host=80.219.10.249
+name=PublicDomain.PayPal
+rev=1
+targets=
+text=%3cscript src="paypal-button.min.js?merchant=T8DR4UQDLE6SS"%0a    data-button="buynow"%0a    data-name="My product"%0a    data-amount="1.00"%0a>%3c/script>
+time=1367485057
+author:1367485057=zeno
+diff:1367485057:1367485057:=1,5d0%0a%3c %3cscript src="paypal-button.min.js?merchant=T8DR4UQDLE6SS"%0a%3c     data-button="buynow"%0a%3c     data-name="My product"%0a%3c     data-amount="1.00"%0a%3c >%3c/script>%0a\ No newline at end of file%0a
+host:1367485057=80.219.10.249

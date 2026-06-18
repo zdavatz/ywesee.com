@@ -1,0 +1,86 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 24430 invoked by uid 210); 13 Jul 2005 11:02:28 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/977. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.0339 secs); 13 Jul 2005 09:02:28 -0000
+Received: from unknown (HELO localhost) (zdavatz@ywesee.com@217.162.177.109)
+  by bbmb.ch with ESMTPA; 13 Jul 2005 11:02:28 +0200
+Date: Wed, 13 Jul 2005 10:59:56 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Jelena  Majstorovic <jelena.majstorovic@weko.admin.ch>, Stefano Dozio
+ <stefano.dozio@weko.admin.ch>
+Cc: olivier.schaller@weko.admin.ch <olivier.schaller@weko.admin.ch>,
+ ywesee.com mailinglist <softwarehaeuser@ywesee.com>, swissmedic@oddb.org
+ <swissmedic@oddb.org>, todo@oddb.org <todo@oddb.org>
+Subject: 32-0178 - ?ISO-8859-1?Q?Erklärung? von Unique Identifier's in
+ Datenbanken
+Message-ID: <20050713105956.5c3e7bc1@localhost>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.5 (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Frau Majstorovic
+
+Ich möchte Sie mit diesem Mail über die Verwendung und den Begriff vom 
+"Unique Identifier" in einer Datenbank informieren.
+
+Eine Datenbank (Oracle, MySQL, PostgreSQL, MsSQL, etc) besteht aus vielen
+unterschiedlichen Tabellen (je nachdem wie gross die Datenbank ist, hat es 
+mehr oder weniger Tabellen). Eine Tabelle ist ein File mit einer grossen Menge
+Zeilen. Jede Zeile hat ein Anfang und ein Ende, die einzelnen Felder der 
+Zeile sind jeweils durch ";" oder "|" oder "," o.ä. getrennt.
+
+Damit man nun eine Abfrage über die vielen Tabellen machen kann und somit
+die Informationen aus den unterschiedlichen Tabellen zusammenziehen kann, benötigt
+man einen 'UniqueIdentifier' eine Zahl oder auch "String" genannt, die in jeder
+Tabelle vorkommt. Somit kann der Programmierer eine "Abfrage" (oder auch "Query"
+genannt) schreiben. Die Abfrage wird meistens in SQL, der Datenbanksprache
+geschrieben. Das Resultat der Abfrage wird dann im Frontend (z.B. Browser)
+ausgelesen und für den Benutzer leserlich dargestellt.
+
+Im Fall, welcher ich Ihnen gestern geschildert habe, geht es nun genau um diesen
+Unique-Identifier im Galdat 3.0. Die Softwarehäuser, welche für Apotheken,
+Spitalapotheken, Drogerien und C4rzte Software machen, bauen alle Ihre Software
+um den Unique-Identifier vom Galdat 3.0 - den Pharmacode - auf. Das geht dann
+soweit, dass falls ein anderer Artikelstamm in die Software eingepflegt werden
+soll auf jeden Fall auch der Pharmacode vorhanden sein muss.
+
+Wie ist eine solche Situation entstanden? Meiner Meinung nach hatte der Galdat
+viel zu lange keine Konkurrenz und die Softwarehäuser haben sich einfach 
+gesagt: Naja, der Pharmacode ist allgegenwärtig und dann nehmen wir halt genau 
+diesen als Unique-Identifier. Es gibt ja keinen anderen Stamm. Do the simplest thing
+you can possibly do, ein gutes Motto! Jetzt gibt es aber Wettbewerb.
+
+Es gibt auch noch den EAN-Code, die Swissmedic vergibt diesen. Der EAN-Code ist
+ein offener Standard (obwohl sich auch hier die E-mediat versucht, sämtliche
+EAN-Codes in Ihren Besitz zu bringen siehe auch:
+
+  http://www.ywesee.com/uploads/Main/An_Bangerter_18.4.2005.txt ).
+
+Was von einem wettbewerbspolitischen Standpunkt am meisten Sinn macht ist, 
+wenn die Softwarehäuser einen eigenen, internen Unique-Identifier vergeben und
+über diesen dann den EAN-Code oder den Pharmacode oder einen Drittcode mappen.
+Dies ist ein wenig mehr Aufwand für das Softwarehaus, jedoch viel besser 
+für den Wettbewerb. Die Softwarehäuser werden dies auch automatisch tun, sobald 
+endlich eine (oder mehrere) Galdat-Konkurrenz auf den Schweizer Markt seinen Platz
+finden (und aufgehört wird mit der Versuchung/Unding amtlich geforderte
+Rohdaten urheberrechtlich zu schützen).
+
+Bei Fragen stehe ich Ihnen gerne zur Verfügung.
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

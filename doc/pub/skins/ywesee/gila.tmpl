@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="author" content="Thomas Weibel" />
+  <meta name="generator" content="GNU/Emacs" />
+  <meta http-equiv="content-type" 
+  content="application/xhtml+xml; charset=iso-8859-1" />
+
+  <!--HeaderText-->
+
+  <style type="text/css">
+    @import url($PubDirUrl/skins/ywesee/gila.css);
+  </style>
+
+  <!-- externalLinks(): to use rel='external' instead target='_blank' -->
+  <script type="text/javascript">
+    <!--
+    function externalLinks() {
+      if (!document.getElementsByTagName) return;
+      var anchors = document.getElementsByTagName("a");
+      for (var i=0; i<anchors.length; i++) {
+        var anchor = anchors[i];
+        if (anchor.getAttribute("href") &&
+          anchor.getAttribute("rel") == "external")
+            anchor.target = "_blank";
+      }
+    }
+    window.onload = externalLinks;
+    -->
+  </script>
+  <!-- /externalLinks() -->
+  
+  <title>$WikiTitle - $Title</title>
+</head>
+
+<body>
+
+  <!-- Wiki header -->
+  <div id="header">
+    <h1 class="headerTitle">$PageLogoFmt</h1>
+  </div>
+
+  <form id="headerSearch" action='$ScriptUrl/$[Main/SearchWiki]'>
+    <div>
+    <input type='hidden' name='pagename' value='$[Main/SearchWiki]' />
+    <input id='searchbox' type='text' name='q' value='' />
+    <input class='searchbutton' type='submit' value='&raquo;' />
+    </div>
+  </form>
+  <!-- /Wiki header -->
+  
+  <!-- Wiki navigation -->
+  <!--PageLeftFmt-->
+  <div class="wikileft">
+
+    <div id="sidebar">
+      <!--wiki:$Group.SideBar Main.SideBar-->
+    </div>
+  </div>
+  <!--/PageLeftFmt-->
+  <!-- /Wiki navigation -->
+  
+  
+  <!-- Wiki body -->
+  <div id="wikibody">
+    
+    <!--PageHeaderFmt-->
+    
+     <!-- Wiki commands -->
+    <div id="wikicmds">
+      <a href="$PageUrl">$[view]</a> &middot;
+      <a href="$PageUrl?action=edit">$[edit]</a> &middot;
+			<a href="$PageUrl?n=Main.SideBar?action=edit">$[sidebar]</a> &middot;
+      <a href="$PageUrl?action=upload">$[attach]</a> &middot;
+      <a href="$PageUrl?action=print" rel="external">$[print]</a> &middot;
+      <a href="$PageUrl?action=diff">$[history]</a>
+    </div>
+    <!-- /Wiki commands -->
+    
+    <!--PageTitleFmt-->
+    <div id="breadcrumbs">
+		</div>
+    <!--/PageTitleFmt-->
+
+    <div id="wikipage">
+      <!--PageText-->
+
+      <!--PageRightFmt-->
+    </div>
+
+  </div>
+  <!-- /Wiki body -->
+  
+  <!-- Wiki footer -->
+  <!--PageFooterFmt-->
+  <div id="wikifoot">
+
+    <div class="footnav">
+      <a href="$PageUrl">$[view]</a> &middot;
+      <a href="$PageUrl?action=edit" accesskey="e">$[edit]</a> &middot;
+			<a href="$ScriptUrl/Main/SideBar?action=edit" accesskey="s">$[sidebar]</a> &middot;
+      <a href="$PageUrl?action=upload" accesskey="a">$[attach]</a> &middot;
+      <a href="$PageUrl?action=print" rel="external">$[print]</a> &middot;
+      <a href="$PageUrl?action=diff"accesskey="h">$[history]</a>
+    </div>
+
+    <div class="lastmod">
+      $[Page last modified on $LastModified]
+    </div>
+
+    <div>
+      &nbsp;
+    </div>
+  </div>
+  <!--/PageFooterFmt-->
+  <!-- /Wiki footer -->
+
+</body>
+</html>

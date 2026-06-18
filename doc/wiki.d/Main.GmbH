@@ -1,0 +1,13 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1106844634
+text=* GmbH = Gesellschaft mit beschränkter Haftung. Liegt zur Zeit im Trend im Gegensatz zur AG.
+targets=Main.GmbH
+author=
+author:1106844634=
+host:1106844634=80.219.14.53
+diff:1106844634:1106844634:=1d0²< * GmbH = Gesellschaft mit beschränkter Haftung. Liegt zur Zeit im Trend im Gegensatz zur AG.²\ No newline at end of file²
+name=Main.GmbH
+host=80.219.14.53
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.5) Gecko/20041118 Firefox/1.0
+rev=1

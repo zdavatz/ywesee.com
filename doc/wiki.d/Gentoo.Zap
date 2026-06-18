@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9) Gecko/2008052912 Firefox/3.0
+author=
+host=77.57.16.157
+name=Gentoo.Zap
+rev=1
+targets=
+text=http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&chap=4#doc_chap4
+time=1213796844
+author:1213796844=
+diff:1213796844:1213796844:=1d0%0a%3c http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&chap=4#doc_chap4%0a\ No newline at end of file%0a
+host:1213796844=77.57.16.157

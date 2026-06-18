@@ -1,0 +1,79 @@
+Hi Zeno in Zurich,
+
+> > you wrote about problems with USB booting FreeDOS on
+> > bugzilla.freedos.org/show_bug.cgi?id=1970
+
+> 1. I collected all my trial an error steps here:
+> http://www.ywesee.com/pmwiki.php/Site/FlashingBiosOfALinuxServer
+
+Please do not link to www.fdos.org/bootdisks/autogen/FDOEM.144.gz
+as this page is EXTREMELY outdated. Plus the bootdisk contains only
+kernel / config / sys / autoexec / command but no himem or better
+himemx, so you only have little DOS RAM free. The fdos.org FDOEM
+image kernel is 2035b-cvs from July 2005, three years old now...
+
+Try one of the images or kernels at http://rugxulo.googlepages.com/
+... thank you :-)
+
+It is probably a typo that you write "if you follow this HowTo"
+in a way which makes "HowTo" a wiki link ;-).
+
+To use mount and makebootfat as described you will probably have
+to be root. Try using mtools instead to modify contents of USB
+and floppy images.
+
+dd count=8000 if=/dev/zero of=/tmp/floppy ; mkdosfs /tmp/floppy
+is probably ambiguous. Better use for example bs=1024 count=2880
+instead of using only count. If size is higher, better not call
+the file "floppy" to avoid confusing readers :-).
+
+> 2. By using the Bios Utility of HP I found out that the first cylinder
+> (of my first partition) of my USB Stick has to start at _1_ and end at
+> _214_. If it ends at 976 or even higher I get the '256 error'.
+
+This depends on the size of your USB stick. What you see
+in your fdisk screenshot (could you make that text instead
+of image? Thanks...) is that your stick is 2 GB, 246*255*63.
+For more, you would need FAT32, but your "if it is 976" can
+mean that (without the "-E 255" option??) your Linux tool
+had created a partitioning where the "head" count is not
+255 but for example 64. So the "256 error" might mean that
+geometry between "when BIOS boots" and "when you created
+the boot sector" mismatch and the kernel fails to get good
+access to the filesystem when you boot.
+
+Where do the fat12.bss fat16.bss and fat32lba.bss come from?
+
+The www.stilen.com/notes/usb_dos_boot.txt matches your bug
+description very well: The author writes that having geometry
+mismatches will make the kernel fail to load command.com :-)
+"WARNING: using suspect partition" from 0-0-63 to 976-8-8
+instead of 0-1-1 to 1023-30-62 (960 MB) is a tell-tale sign.
+
+> 3. I formatted my drive with "FAT32 (LBA)"
+> 4. I followed most of the steps in this HowTo:
+> http://www.stilen.com/notes/usb_dos_boot.txt
+
+> I also read a couple of other HowTo's where I found out how to use
+> "makebootfat" properly. But without doing above mentioned step 2, I
+> always received the '256 error' mentioned in my bug report. If you can
+> recommend an easier solution then mentioned in step 4, please let me
+> know.
+
+http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive
+has the links to syslinux, makebootfat (from advancemame.sf.net)
+and FreeDOS fdbasews, the latter to get the boot sector sources
+from the source code... Better use sourceforge.net/projects/freedos/
+if you want only kernel and sources :-). Newer SVN snapshots are
+available at rugxulo.googlepages.com. Instead of makebootfat you can
+also try www.auersoft.eu/soft/specials/ sys-freedos-linux, which does
+include the boot sectors already, but might be harder to use because
+it only creates a bootsector without doing the fdisk and format step.
+
+I hope the above helps to improve your new howto and helps to
+find out whether and which bug is actually present in FreeDOS.
+
+Thanks for your feedback again :-)
+
+Eric
+

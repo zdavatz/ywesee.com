@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.3) Gecko/20070322 Firefox/2.0.0.3
+author=zrr
+host=84.72.158.179
+name=Main.TagesAnzeiger
+rev=1
+targets=
+text=http://www.tagesanzeiger.ch
+time=1178631569
+author:1178631569=zrr
+diff:1178631569:1178631569:=1d0%0a%3c http://www.tagesanzeiger.ch%0a\ No newline at end of file%0a
+host:1178631569=84.72.158.179

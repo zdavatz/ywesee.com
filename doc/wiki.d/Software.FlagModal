@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1b2pre) Gecko/20081116 Minefield/3.1b2pre
+author=
+host=84.72.92.25
+name=Software.FlagModal
+rev=1
+targets=Software.FlagModal
+text=FlagModal = Y bezeichnet dioe Modal-Packung des Originals für die Berechnung des differenzierten Selbstbehaltes 
+time=1226934263
+author:1226934263=
+diff:1226934263:1226934263:=1d0%0a%3c FlagModal = Y bezeichnet dioe Modal-Packung des Originals für die Berechnung des differenzierten Selbstbehaltes %0a\ No newline at end of file%0a
+host:1226934263=84.72.92.25

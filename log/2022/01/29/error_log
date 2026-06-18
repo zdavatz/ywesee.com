@@ -1,0 +1,37 @@
+[Sat Jan 29 01:00:05 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Sat Jan 29 01:00:06 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Sat Jan 29 01:24:06 2022] [error] [client 34.91.47.23] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 03:14:03 2022] [error] [client 34.90.80.74] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 04:46:16 2022] [error] [client 34.147.45.16] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 04:55:51 2022] [error] [client 66.249.79.196] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Jan 29 06:36:00 2022] [error] [client 66.249.79.196] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 06:36:00 2022] [error] [client 66.249.79.196] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Sat Jan 29 08:14:06 2022] [error] [client 35.204.131.154] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 09:16:12 2022] [error] [client 66.249.79.119] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Jan 29 10:06:02 2022] [error] [client 66.249.79.121] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Sat Jan 29 10:12:05 2022] [error] [client 34.141.142.137] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 10:44:02 2022] [error] [client 207.46.13.15] File does not exist: /var/www/ywesee.com/doc/main
+[Sat Jan 29 11:01:10 2022] [error] [client 207.46.13.15] File does not exist: /var/www/ywesee.com/doc/main
+[Sat Jan 29 11:45:47 2022] [error] [client 66.249.79.200] File does not exist: /var/www/ywesee.com/doc/fr
+[Sat Jan 29 11:49:00 2022] [error] [client 154.38.101.72] File does not exist: /var/www/ywesee.com/doc/wp-content
+[Sat Jan 29 12:05:22 2022] [error] [client 34.91.233.13] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 12:28:48 2022] [error] Hostname ywesee.ch provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Jan 29 13:50:32 2022] [error] [client 193.35.32.8] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Sat Jan 29 13:50:32 2022] [error] [client 193.35.32.8] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Sat Jan 29 13:50:36 2022] [error] [client 84.244.36.152] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Sat Jan 29 13:50:38 2022] [error] [client 193.35.32.8] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Sat Jan 29 13:50:39 2022] [error] [client 84.244.36.152] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Sat Jan 29 13:50:41 2022] [error] [client 84.244.36.152] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Sat Jan 29 13:50:42 2022] [error] [client 193.35.32.8] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Sat Jan 29 15:15:47 2022] [error] [client 66.249.66.196] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Jan 29 15:34:02 2022] [error] [client 34.74.12.152] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 15:34:21 2022] [error] [client 34.74.12.152] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 15:34:23 2022] [error] [client 34.74.12.152] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 17:47:17 2022] [error] Hostname ywesee.net provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Jan 29 18:45:48 2022] [error] [client 66.249.66.6] File does not exist: /var/www/ywesee.com/doc/en
+[Sat Jan 29 19:13:42 2022] [error] [client 35.204.131.154] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 19:15:11 2022] [error] [client 34.141.230.87] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 19:15:40 2022] [error] [client 34.90.90.171] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 21:00:19 2022] [error] [client 152.39.241.232] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 21:25:51 2022] [error] [client 34.141.202.76] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Jan 29 23:11:40 2022] [error] [client 34.147.40.21] File does not exist: /var/www/ywesee.com/doc/app-ads.txt

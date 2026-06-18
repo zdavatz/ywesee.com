@@ -1,0 +1,194 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 16473 invoked by uid 210); 1 Jul 2005 19:28:13 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/961. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.088313 secs); 01 Jul 2005 17:28:13 -0000
+Received: from unknown (HELO localhost) (zdavatz@ywesee.com@217.162.177.109)
+  by bbmb.ch with ESMTPA; 1 Jul 2005 19:28:12 +0200
+Date: Fri, 1 Jul 2005 19:27:11 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: "Dieter Bloch" <d.bloch@antistress.ch>
+Cc: todo@oddb.org <todo@oddb.org>
+Subject: Re: Verlangen Sie von der Swissmedic und vom BAG offene Standards!
+Message-ID: <20050701192711.0db332be@localhost>
+In-Reply-To: <!~!UENERkVCMDkAAQACAAAAAAAAAAAAAAAAABgAAAAAAAAAiMENyXv71RG1YwACsx54lcKAAAAQAAAAXB5Z2/POdE2GqJngk6OuHAEAAAAA@antistress.ch>
+References: <20050628095757.694dd168@zrr.local>
+	<!~!UENERkVCMDkAAQACAAAAAAAAAAAAAAAAABgAAAAAAAAAiMENyXv71RG1YwACsx54lcKAAAAQAAAAXB5Z2/POdE2GqJngk6OuHAEAAAAA@antistress.ch>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4 (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrter Herr Bloch
+
+Besten Dank für Ihr Feedback. Ich nehme dazu wie folgt Stellung:
+
+On Fri, 1 Jul 2005 18:01:30 +0200
+"Dieter Bloch" <d.bloch@antistress.ch> wrote:
+
+> Ich werde in der letzten Zeit wieder häufiger mit Ihren mails "beflutet".
+> Dagegen habe ich nichts, absolut nichts, denn ich habe sie - soweit möglich
+> - gelesen und Ihre Auseinandersetzungen auf juristischer Ebene mitverfolgt.
+> Letzteres ist in der Tat sehr interessant, und - sofern ich diesbezüglich
+> auf dem Laufenden bin -, stehen die Karten für Documed nicht gerade "gut in
+> der Landschaft".
+Danke für Ihr Feedback.
+
+> Aber bitte Herr Davatz, überfluten Sie doch den Markt nicht mit Ihrem
+> EDV-Latein! - Der Markt, der Ihre mails liest bzw. lesen kann, ist
+> Regulatory Manager (wie ich) oder evtl. sogar ein Verantwortlicher einer
+> Firma oder einer Abteilung, welche sich um das Publizieren von
+> Arzneimittelinformationen einer Firma kümmern muss.
+
+> Meinen Sie, dass diese Leser Ihr "EDV-Latein" auf Anhieb verstehen?
+Nein der Leser muss nicht alles verstehen. Aber er darf sich gerne in die
+Materie vertiefen.
+
+> Für mich stellen sich z.B. folgende Fragen:
+> - Was ist ein "Vendor-Lock"
+Ein Vendor-Lock ist das was viele alteingessene EDV-Firmen zu tun versuchen:
+Einen proprietären Standard kreieren und versuchen alle Leute auf diesen
+Proprietären Standard zu zwingen. Wer den Standard nicht fährt ist draussen.
+Konnten Sie den Link vom Norwegischen Politiker öffnen? Der ist wirklich sehr
+interessant.
+
+> - Was sind "offene Standards"
+Offene Standards sind Standards die niemandem gehören sondern durch ein
+Konsortium von Firmen verifiziert wurden. Offene Standards sind wie eine
+Sprache. Deutsch, Französisch oder Spanisch kann man auch nicht urheberrechtlich schützen.
+
+> - Was sind "proprietäre Standards"
+Proprietäre Standards sind Standards die Firmen gehören und nicht durch ein
+Konsortium von Firmen akzeptiert wurden. Habe Sie diese zwei Links gelesen?
+
+* http://perens.com/OpenStandards/Definition.html
+* http://www.w3.org/Consortium/20
+
+> - Was heisst "Umbrechen" im untenstehenden mail? Was muss ich her besonders
+> tun? Heisst es ganz einfach, dass dieser Link zwei Zeilen in Anspruch nimmt?
+Der Link ist sehr lange und es kann vorkommen, dass Ihr Mailer den Link nach 72
+Zeichen umbricht. Dann führt der Link nicht zum Ziel. Es kann aber auch sein das
+Ihr Mailer den langen Link unterstützt.
+
+> (NB: Beim Anklicken Ihres angegebenen Links für "offene Standards" hat es
+> mir den PC blockiert, weil ich noch andere Fenster geöffnet hatte).
+Hmm, was für ein Betriebssystem haben Sie?
+
+> Mit einer derartigen Kommunikationspolitik wird es m. E. kaum erfolgreich
+> weitergehen können.
+Sie schliessen hier von sich auf alle anderen, bleiben wir mal bei Ihrem PC der
+das Problem hat.
+
+> Ferner zu Ihrem mail vom 30.6.05: Auch hier wieder unverständliches
+> EDV-Latein:
+> - Was heisst "kann über ein Webinterface erfolgen, der Export in einem W3C
+> XML-Format"???
+Es wäre meiner Meinung nach schön wenn die Swissmedic ein Webinterface auf die
+Beine stellen würde wo Sie direkt die Fi's reinschreiben können. Ein W3C XML
+Format finden Sie unter http://www.w3c.org
+
+> - Was ist ein Flatfile?
+Ein Flatfile ist ein File mit einfachen Strukturen zum Beispiel ein
+Comma-Separated-Value-File (CSV). Die Felder sind dann durch Tabulatoren oder |
+getrennt. Ein Excel kann man auch als CSV exportieren. Das CSV wäre dann ein
+offener Standard das Excel nicht. Beide Files enthalten aber die gleich Info.
+
+Mehr zum Thema Flatfile:
+http://en.wikipedia.org/wiki/Comma-separated_values
+
+> Kann man heute wirklich von uns Computer-Anwendern verlangen, dass wir -
+> schon heute - über derart vertiefte Computerkenntnisse verfügen? - Bitte
+> verstehen Sie, dass wir auch andere Dinge zu tun haben und uns die
+> Anwendungen und deren Folgen (letzteres prioritär) interessiert.
+Dann laufen Sie meiner Meinung nach zu blind durch diese Welt. Jeder Tag bringt
+neue Herausforderungen und neue Verantwortungen.
+
+> Ich bin neben meinem Doktorat in Naturwissenschaften auch lizenzierter
+> Jurist der Uni-Zürich (deshalb sind für mich Ihre Infos über den
+> juristischen Verlauf der Dinge recht interessant). In Ihrem mail vom 30.
+> Juni 05, 1337, verweisen Sie bei der Arzneimittelverordnung einfach -
+> kühnerweise - auf den Link, wo man das gesamte Gesetzeswerk (und nicht
+> gerade den Artikel 16) sieht. Wieso sprechen Sie nicht explizit von der
+> "Arzneimittelverordnung" oder ganz einfach "VAM"? - Dann wüsste man
+> wenigstens von Anfang an, wovon Sie sprechen wollen...
+Das freut mich, dass Sie das interessiert! Bei mir zeigt der Link direkt zum
+Gesetzesartikel: http://www.admin.ch/ch/d/sr/812_212_21/a16a.html
+
+Vielleicht liegt das an Ihrem Mailer.
+
+> Und zum Schluss noch folgendes:
+> Ich nehme an, dass Sie es mit Ihrem Vorhaben ernst meinen (Ihr "Kampf" auf
+> der juristischen Seite beurteile ich als durchaus erfolgversprechend, aber
+> er kostet Sie auch eine nicht unbeträchtliche Menge Geld). Somit wirkt es -
+> auf mich jedenfalls - etwas stossend, wenn Sie Ihre offiziellen mails mit
+> "singenden Grüssen aus Zürich" beenden (Ihr mail vom 30. Juni 2005 2040 h).
+;) Sie sind lustig. Ich singe gerne und singen kostet nichts. Zudem schwimme ich
+jeden Abend im Sommer im Zürichsee und ob ich unter Wasser oder oberhalb vom
+Wasser oder auf den Rollerblades singe kostet sie nichts ;)
+
+> Aus den nun dargelegten Gründen gelangte ich schon vor einiger Zeit mit der
+> Frage an Sie, ob Sie bei Ihrem Vorgehen und Ihren Informationen einen
+> "geeigneten Kommunikationspartner" hätten. Können Sie sich erinnern?
+Ja, ich kann mich erinnern. Gerne können Sie meine Anliegen in Ihrem Deutsch
+gegen aussen übersetzen, damit habe ich keine Probleme. Sie können von mir aus
+auch eine Website aufschalten z.B. www.der-davaz-meint-es-so.ch - mir ist der
+Schnabel in eine Richtung gewachsen Feedback und Ferfeinerungen sind immer
+willkommen.
+
+Ebenfalls mit besten Grüssen vom Büro
+Zeno Davatz
+
+> Mit freundlichen und ernst gemeinten Grüssen.
+
+> Dr. D.W. Bloch
+> Antistress AG
+> Gesellschaft für Gesundheitsschutz
+> Fluhstrasse 30
+> CH-8640  Rapperswil / SG (Switzerland)
+> Tel: 055 220 12 21
+> Phone int: ++41 55 220 12 21
+> Fax: ++41 55 220 12 13
+> [mailto: d.bloch@antistress.ch]
+> www.antistress.ch oder www.burgerstein.ch20
+
+> -----Ursprüngliche Nachricht-----
+> Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com]20
+> Gesendet: Dienstag, 28. Juni 2005 08:58
+> An: generika.cc mailinglist; oddb.org mailinglist; svkh-offerte@oddb.org
+> Cc: swissmedic@oddb.org; Thomas Zeltner; Hans Heinrich Brunner;
+> todo@oddb.org
+> Betreff: Verlangen Sie von der Swissmedic und vom BAG offene Standards!
+
+> Sehr geehrte Damen und Herren
+
+> Verlangen Sie bei der Einreichung _Ihrer_ Daten an die Swissmedic und an das
+> BAG nach offenen Standards. Fragen Sie bei den Bundesbehörden, bei denen Sie
+> Ihre Daten einreichen müssen ob Ihre Daten dann in einem offenen, nicht
+> proprietären Format publiziert werden. Von Vorteil für Sie ist auch ganz
+> klar wenn die Daten in einem maschinenlesbaren Format sind.
+
+> Offene Standards verhindern ein Vendor-Lock in.
+
+> Lesen Sie mehr über offene Standards:
+> * http://perens.com/OpenStandards/Definition.html
+> * http://www.w3.org/Consortium/20
+
+> Langfristig können Sie von offenen Standards nur profitieren, da diese den
+> wahren Wettbewerb fördern und für alle Anbieter einen gleich langen Spiess
+> machen. Ihre Optionen vergrössern sich, die Dienstleistungen werden besser.
+
+> Linux ist das beste Beispiel.
+
+> Norwegen macht es uns vor (Achtung Link ist lange und kann Umbrechen!):
+> http://www.andwest.com/blojsom/blog/tatle/agenda/2005/06/27/Norwegian_Min ist
+> er_Proprietary_Standards_No_Longer_Acceptable_in_Communication_with_Governme
+> nt.html
+
+> Mit freundlichen Grüssen aus dem südländischen Zürich (31=B0C)
+
+> PS: Geschlossene, proprietäre Standards sind Dinosaurier und vom Aussterben
+> bedroht! Bleiben Sie flexibel.

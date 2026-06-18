@@ -1,0 +1,162 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.71 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1496922095
+host=212.51.146.241
+name=Anlass.07092017
+rev=50
+targets=
+text=!Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für das Schweizer Gesundheitswesen%0aAnlass von ywesee zum Thema Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für das Schweizer Gesundheitswesen mit folgenden Referenten:%0a* Dr. André Dubied: Erkenntnissse aus der Fachinfo Voll-Text-Suche von AmiKo.%0a**Summarische Listen: Wo überall kommt ein bestimmter Begriff vor; und wenn ja in welchen Kapiteln einer AIPS-Monographie. Welche Konsistenzen oder Divergenzen lassen sich erkennen. Folgerungen für eine kohärente Strukturierung einer AIPS-Monographie.%0a**Kombinationen zweier summarischer Listen mit je einer Fragestellung aus dem Kapitel Nebenwirkungen: Welche möglichen Zusammenhänge lassen sich vermuten und wie können die vermuteten Zusammenhänge näher begründet werden (1 Beispiel; Herzrhythmus und Delirium).%0a** https://youtu.be/w1IaZLSdLco%0a** Attach:Voll-Text-Suche-Fachinfo_170907.pdf%0a* [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbajal | Dr. Juan Pablo Carbajal]] (presentation in english): Machine learning for normal people.%0a** https://www.youtube.com/watch?v=vH4Dprzp9wU%0a** Attach:Vectorisation_of_Drug_Information_Switzerland.pdf%0a* [[http://www.infocodex.com/de/ueber-uns | Paul Wälti, InfoCodex]]: Merck & Co. USA has conducted an experiment with our InfoCodex software to discover [[https://www.ncbi.nlm.nih.gov/pubmed/23402646 | novel biomarkes]] for specific dieseases from the analyses of masses of medical literature. The results were surprisingly positive.%0a** https://www.youtube.com/watch?v=HnhB38EseD0%0a** Attach:CARE-ME-Project.pdf%0a** Attach:InfoCodex-Technology.pdf%0a** Attach:Ph4_Biomarker-Berlin2013.pdf%0a* Zeno Davatz, ywesee intellectual capital connected: Machine Learning, Artificial Intelligence, from CPU to GPU to ASIC.%0a** https://www.youtube.com/watch?v=VE6RPlX6qlg%0a** Attach:ML_AI_Zeno_Davatz_7.9.2017.pdf%0a!!!Kosten%0aKosten: CHF 50.-/Person, bezahlen vor Ort oder via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRLTL5P4CUZGL | PayPal]]%0a!!!Ort%0aWann: Donnerstag: 7. September 2017\\%0aWo: [[https://goo.gl/maps/KjkQUfUJuRA2 | Zunftsaal Zur Linde Oberstrass]],  Universitätstrasse 91, 8006 Zürich\\%0aZeit: 09.15 Uhr bis 12.30 Uhr\\%0a%0a!!!Anmeldeformular%0a[[https://docs.google.com/forms/d/e/1FAIpQLSeUQXDlK6Uv03v4t06nQeElbVHiJyuxJQSSI6LTZmh43h1-VQ/viewform | Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie]]
+time=1504861849
+author:1504861849=zeno
+diff:1504861849:1504860695:=6c6%0a%3c ** https://youtu.be/w1IaZLSdLco%0a---%0a> ** https://www.youtube.com/watch?v=VE6RPlX6qlg%0a
+host:1504861849=212.51.146.241
+author:1504860695=zeno
+diff:1504860695:1504860675:=9d8%0a%3c ** https://www.youtube.com/watch?v=vH4Dprzp9wU%0a10a10%0a> ** https://www.youtube.com/watch?v=vH4Dprzp9wU%0a
+host:1504860695=212.51.146.241
+author:1504860675=zeno
+diff:1504860675:1504860625:=
+host:1504860675=212.51.146.241
+author:1504860625=zeno
+diff:1504860625:1504860585:=9c9%0a%3c ** Attach:Vectorisation_of_Drug_Information_Switzerland.pdf%0a---%0a> ** Attach:Vectorization_of_Fachinfo.pdf%0a
+host:1504860625=212.51.146.241
+author:1504860585=zeno
+diff:1504860585:1504801469:=9d8%0a%3c ** Attach:Vectorization_of_Fachinfo.pdf%0a
+host:1504860585=212.51.146.241
+author:1504801469=zeno
+diff:1504801469:1504801459:=2c2%0a%3c Anlass von ywesee zum Thema Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für das Schweizer Gesundheitswesen mit folgenden Referenten:%0a---%0a> Anlass von ywesee zum Thema Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für Schweizer Gesundheitswesen mit folgenden Referenten:%0a
+host:1504801469=212.51.146.241
+author:1504801459=zeno
+diff:1504801459:1504801437:=2c2%0a%3c Anlass von ywesee zum Thema Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für Schweizer Gesundheitswesen mit folgenden Referenten:%0a---%0a> Anlass von ywesee zum Thema Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie mit folgenden Referenten:%0a
+host:1504801459=212.51.146.241
+author:1504801437=zeno
+diff:1504801437:1504797670:=1c1%0a%3c !Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für das Schweizer Gesundheitswesen%0a---%0a> !Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie%0a
+host:1504801437=212.51.146.241
+author:1504797670=zeno
+diff:1504797670:1504797579:=7c7%0a%3c ** Attach:Voll-Text-Suche-Fachinfo_170907.pdf%0a---%0a> ** Attach:Voll-ext-Suche-Fachinfo_170907.pdf%0a
+host:1504797670=212.51.146.241
+author:1504797579=zeno
+diff:1504797579:1504797557:=7d6%0a%3c ** Attach:Voll-ext-Suche-Fachinfo_170907.pdf%0a9a9%0a> ** Attach:Voll-ext-Suche-Fachinfo_170907.pdf%0a
+host:1504797579=212.51.146.241
+author:1504797557=zeno
+diff:1504797557:1504797175:=9d8%0a%3c ** Attach:Voll-ext-Suche-Fachinfo_170907.pdf%0a
+host:1504797557=212.51.146.241
+author:1504797175=zeno
+diff:1504797175:1504797111:=14c14%0a%3c * Zeno Davatz, ywesee intellectual capital connected: Machine Learning, Artificial Intelligence, from CPU to GPU to ASIC.%0a---%0a> * Zeno Davatz, ywesee intellectual capital connected: Use Cases für die Pharmaindustrie im Bereich von künstlicher Intelligenz und Maschinellem Lernen.%0a
+host:1504797175=212.51.146.241
+author:1504797111=zeno
+diff:1504797111:1504796565:=16d15%0a%3c ** Attach:ML_AI_Zeno_Davatz_7.9.2017.pdf%0a
+host:1504797111=212.51.146.241
+author:1504796565=zeno
+diff:1504796565:1504796203:=11,13d10%0a%3c ** Attach:CARE-ME-Project.pdf%0a%3c ** Attach:InfoCodex-Technology.pdf%0a%3c ** Attach:Ph4_Biomarker-Berlin2013.pdf%0a
+host:1504796565=212.51.146.241
+author:1504796203=zeno
+diff:1504796203:1504796056:=6d5%0a%3c ** https://www.youtube.com/watch?v=VE6RPlX6qlg%0a
+host:1504796203=212.51.146.241
+author:1504796056=zeno
+diff:1504796056:1504795995:=11d10%0a%3c ** https://www.youtube.com/watch?v=VE6RPlX6qlg%0a
+host:1504796056=212.51.146.241
+author:1504795995=zeno
+diff:1504795995:1504795025:=7d6%0a%3c ** https://www.youtube.com/watch?v=vH4Dprzp9wU%0a
+host:1504795995=212.51.146.241
+author:1504795025=zeno
+diff:1504795025:1498742156:=8d7%0a%3c ** https://www.youtube.com/watch?v=HnhB38EseD0%0a
+host:1504795025=212.51.146.241
+author:1498742156=zeno
+diff:1498742156:1498721456:=7c7%0a%3c * [[http://www.infocodex.com/de/ueber-uns | Paul Wälti, InfoCodex]]: Merck & Co. USA has conducted an experiment with our InfoCodex software to discover [[https://www.ncbi.nlm.nih.gov/pubmed/23402646 | novel biomarkes]] for specific dieseases from the analyses of masses of medical literature. The results were surprisingly positive.%0a---%0a> * [[http://www.infocodex.com/de/ueber-uns | Paul Wälti, InfoCodex]]: Merck & Co. USA has conducted an experiment with our InfoCodex software to discover novel biomarkes for specific dieseases from the analyses of masses of medical literature. The results were surprisingly positive.%0a
+host:1498742156=212.51.146.241
+author:1498721456=zeno
+diff:1498721456:1497624820:=6,7c6%0a%3c * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbajal | Dr. Juan Pablo Carbajal]] (presentation in english): Machine learning for normal people.%0a%3c * [[http://www.infocodex.com/de/ueber-uns | Paul Wälti, InfoCodex]]: Merck & Co. USA has conducted an experiment with our InfoCodex software to discover novel biomarkes for specific dieseases from the analyses of masses of medical literature. The results were surprisingly positive.%0a---%0a> * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbajal | Dr. Juan Pablo Carbajal]] (presentation in english): Machine learning for normal people. %0a
+host:1498721456=212.51.146.241
+author:1497624820=zeno
+diff:1497624820:1497019998:=6c6%0a%3c * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbajal | Dr. Juan Pablo Carbajal]] (presentation in english): Machine learning for normal people. %0a---%0a> * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (presentation in englisch): Do's and Don'ts in Machine Learning and Artifical Intelligence. %0a
+host:1497624820=212.51.146.241
+author:1497019998=
+diff:1497019998:1497019983:=4c4,5%0a%3c **Summarische Listen: Wo überall kommt ein bestimmter Begriff vor; und wenn ja in welchen Kapiteln einer AIPS-Monographie. Welche Konsistenzen oder Divergenzen lassen sich erkennen. Folgerungen für eine kohärente Strukturierung einer AIPS-Monographie.%0a---%0a> **Summarische Listen: Wo überall kommt ein bestimmter Begriff vor; und wenn ja in welchen Kapiteln einer AIPS-Monographie.%0a> Welche Konsistenzen oder Divergenzen lassen sich erkennen. Folgerungen für eine kohärente Strukturierung einer AIPS-Monographie.%0a
+host:1497019998=78.92.96.101
+author:1497019983=
+diff:1497019983:1497019947:=4c4%0a%3c **Summarische Listen: Wo überall kommt ein bestimmter Begriff vor; und wenn ja in welchen Kapiteln einer AIPS-Monographie.%0a---%0a> #Summarische Listen: Wo überall kommt ein bestimmter Begriff vor; und wenn ja in welchen Kapiteln einer AIPS-Monographie.%0a6c6%0a%3c **Kombinationen zweier summarischer Listen mit je einer Fragestellung aus dem Kapitel Nebenwirkungen: Welche möglichen Zusammenhänge lassen sich vermuten und wie können die vermuteten Zusammenhänge näher begründet werden (1 Beispiel; Herzrhythmus und Delirium).%0a---%0a> #Kombinationen zweier summarischer Listen mit je einer Fragestellung aus dem Kapitel Nebenwirkungen: Welche möglichen Zusammenhänge lassen sich vermuten und wie können die vermuteten Zusammenhänge näher begründet werden (1 Beispiel; Herzrhythmus und Delirium).%0a
+host:1497019983=78.92.96.101
+author:1497019947=
+diff:1497019947:1496936123:=4,6d3%0a%3c #Summarische Listen: Wo überall kommt ein bestimmter Begriff vor; und wenn ja in welchen Kapiteln einer AIPS-Monographie.%0a%3c Welche Konsistenzen oder Divergenzen lassen sich erkennen. Folgerungen für eine kohärente Strukturierung einer AIPS-Monographie.%0a%3c #Kombinationen zweier summarischer Listen mit je einer Fragestellung aus dem Kapitel Nebenwirkungen: Welche möglichen Zusammenhänge lassen sich vermuten und wie können die vermuteten Zusammenhänge näher begründet werden (1 Beispiel; Herzrhythmus und Delirium).%0a
+host:1497019947=78.92.96.101
+author:1496936123=
+diff:1496936123:1496935993:=3c3%0a%3c * Dr. André Dubied: Erkenntnissse aus der Fachinfo Voll-Text-Suche von AmiKo.%0a---%0a> * Dr. André Dubied: Erkenntnissse aus der Voll-Text-Suche von AmiKo.%0a
+host:1496936123=5.38.165.190
+author:1496935993=
+diff:1496935993:1496935974:=3c3%0a%3c * Dr. André Dubied: Erkenntnissse aus der Voll-Text-Suche von AmiKo.%0a---%0a> * Dr. André Dubied: Erkenntnissse aus der Voll-Text-Suche von AmiKo%0a
+host:1496935993=5.38.165.190
+author:1496935974=
+diff:1496935974:1496935854:=4c4%0a%3c * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (presentation in englisch): Do's and Don'ts in Machine Learning and Artifical Intelligence. %0a---%0a> * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (presentation in englisch): Do's and Don'ts in Machine Learning. %0a
+host:1496935974=5.38.165.190
+author:1496935854=
+diff:1496935854:1496935248:=10c10%0a%3c Wo: [[https://goo.gl/maps/KjkQUfUJuRA2 | Zunftsaal Zur Linde Oberstrass]],  Universitätstrasse 91, 8006 Zürich\\%0a---%0a> Wo: Zunftsaal Zur Linde Oberstrass,  Universitätstrasse 91, 8006 Zürich\\%0a
+host:1496935854=5.38.165.190
+author:1496935248=
+diff:1496935248:1496935167:=4c4%0a%3c * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (presentation in englisch): Do's and Don'ts in Machine Learning. %0a---%0a> * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (presentation in englisch): Einblick in die Möglichkeiten von "Machine Learning". %0a
+host:1496935248=5.38.165.190
+author:1496935167=
+diff:1496935167:1496934978:=4c4%0a%3c * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (presentation in englisch): Einblick in die Möglichkeiten von "Machine Learning". %0a---%0a> * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (presentation in englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a
+host:1496935167=5.38.165.190
+author:1496934978=
+diff:1496934978:1496934963:=2c2%0a%3c Anlass von ywesee zum Thema Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie mit folgenden Referenten:%0a---%0a> Anlass von ywesee zum Thema Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie mit folgenden Referenten:%0a
+host:1496934978=5.38.165.190
+author:1496934963=
+diff:1496934963:1496933579:=1c1%0a%3c !Künstliche Intelligenz (KI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie%0a---%0a> !Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie%0a
+host:1496934963=5.38.165.190
+author:1496933579=
+diff:1496933579:1496933506:=4c4%0a%3c * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (presentation in englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a---%0a> * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (Presentation in Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a
+host:1496933579=5.38.165.190
+author:1496933506=
+diff:1496933506:1496933469:=4c4%0a%3c * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja | Dr. Juan Pablo Carbajal]] (Presentation in Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a---%0a> * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja l Dr. Juan Pablo Carbajal]] (Presentation in Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a
+host:1496933506=5.38.165.190
+author:1496933469=
+diff:1496933469:1496933444:=4c4%0a%3c * [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+Carbaja l Dr. Juan Pablo Carbajal]] (Presentation in Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a---%0a> * Dr. [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+CarbajalJuan Pablo Carbajal]] (Presentation in Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a
+host:1496933469=5.38.165.190
+author:1496933444=
+diff:1496933444:1496933347:=4c4%0a%3c * Dr. [[https://www.google.com/?gfe_rd=cr&ei=FWQ5Wb7oAomBX5_7sgg&gws_rd=cr#q=Juan+Pablo+CarbajalJuan Pablo Carbajal]] (Presentation in Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a---%0a> * Dr. Juan Pablo Carbajal (Presentation in Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a
+host:1496933444=5.38.165.190
+author:1496933347=
+diff:1496933347:1496922892:=4c4%0a%3c * Dr. Juan Pablo Carbajal (Presentation in Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a---%0a> * Dr. Juan Pablo Carbajal (Presentation auf Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a
+host:1496933347=5.38.165.190
+author:1496922892=
+diff:1496922892:1496922795:=6c6%0a%3c !!!Kosten%0a---%0a> !!Kosten%0a8c8%0a%3c !!!Ort%0a---%0a> !!Ort%0a13c13%0a%3c !!!Anmeldeformular%0a---%0a> !!Anmeldeformular%0a
+host:1496922892=5.38.165.190
+author:1496922795=
+diff:1496922795:1496922770:=2c2%0a%3c Anlass von ywesee zum Thema Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie mit folgenden Referenten:%0a---%0a> Anlass von ywesee zum Thema Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie%0a
+host:1496922795=5.38.165.190
+author:1496922770=
+diff:1496922770:1496922255:=2c2%0a%3c Anlass von ywesee zum Thema Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie%0a---%0a> Anlass von ywesee zu den folgenden Themen: %0a
+host:1496922770=5.38.165.190
+author:1496922255=
+diff:1496922255:1496922241:=14c14%0a%3c [[https://docs.google.com/forms/d/e/1FAIpQLSeUQXDlK6Uv03v4t06nQeElbVHiJyuxJQSSI6LTZmh43h1-VQ/viewform | Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie]]%0a\ No newline at end of file%0a---%0a> * [[https://docs.google.com/forms/d/e/1FAIpQLSeUQXDlK6Uv03v4t06nQeElbVHiJyuxJQSSI6LTZmh43h1-VQ/viewform | Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie]]%0a\ No newline at end of file%0a
+host:1496922255=5.38.165.190
+author:1496922241=
+diff:1496922241:1496922231:=7c7%0a%3c Kosten: CHF 50.-/Person, bezahlen vor Ort oder via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRLTL5P4CUZGL | PayPal]]%0a---%0a> * Kosten: CHF 50.-/Person, bezahlen vor Ort oder via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRLTL5P4CUZGL | PayPal]]%0a
+host:1496922241=5.38.165.190
+author:1496922231=
+diff:1496922231:1496922221:=5a6%0a> %0a7a9%0a> %0a
+host:1496922231=5.38.165.190
+author:1496922221=
+diff:1496922221:1496922198:=7d6%0a%3c !!Kosten%0a
+host:1496922221=5.38.165.190
+author:1496922198=
+diff:1496922198:1496922181:=9d8%0a%3c !!Ort%0a14c13%0a%3c !!Anmeldeformular%0a---%0a> Zum Anmeldeformular%0a
+host:1496922198=5.38.165.190
+author:1496922181=
+diff:1496922181:1496922161:=13c13%0a%3c Zum Anmeldeformular%0a---%0a> %0a
+host:1496922181=5.38.165.190
+author:1496922161=
+diff:1496922161:1496922153:=12d11%0a%3c %0a
+host:1496922161=5.38.165.190
+author:1496922153=
+diff:1496922153:1496922123:=9,11c9,11%0a%3c Wann: Donnerstag: 7. September 2017\\%0a%3c Wo: Zunftsaal Zur Linde Oberstrass,  Universitätstrasse 91, 8006 Zürich\\%0a%3c Zeit: 09.15 Uhr bis 12.30 Uhr\\%0a---%0a> Wann: Donnerstag: 7. September 2017%0a> Wo: Zunftsaal Zur Linde Oberstrass,  Universitätstrasse 91, 8006 Zürich%0a> Zeit: 09.15 Uhr bis 12.30 Uhr%0a
+host:1496922153=5.38.165.190
+author:1496922123=
+diff:1496922123:1496922095:=7c7,9%0a%3c * Kosten: CHF 50.-/Person, bezahlen vor Ort oder via [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRLTL5P4CUZGL | PayPal]]%0a---%0a> * Kosten: CHF 50.-/Person, bezahlen vor Ort oder via PayPal:%0a> %0a> https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRLTL5P4CUZGL%0a
+host:1496922123=5.38.165.190
+author:1496922095=
+diff:1496922095:1496922095:=1,15d0%0a%3c !Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie%0a%3c Anlass von ywesee zu den folgenden Themen: %0a%3c * Dr. André Dubied: Erkenntnissse aus der Voll-Text-Suche von AmiKo%0a%3c * Dr. Juan Pablo Carbajal (Presentation auf Englisch): Einblick in die Möglichkeiten von "Maschine Learning". %0a%3c * Zeno Davatz, ywesee intellectual capital connected: Use Cases für die Pharmaindustrie im Bereich von künstlicher Intelligenz und Maschinellem Lernen.%0a%3c %0a%3c * Kosten: CHF 50.-/Person, bezahlen vor Ort oder via PayPal:%0a%3c %0a%3c https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRLTL5P4CUZGL%0a%3c %0a%3c Wann: Donnerstag: 7. September 2017%0a%3c Wo: Zunftsaal Zur Linde Oberstrass,  Universitätstrasse 91, 8006 Zürich%0a%3c Zeit: 09.15 Uhr bis 12.30 Uhr%0a%3c %0a%3c * [[https://docs.google.com/forms/d/e/1FAIpQLSeUQXDlK6Uv03v4t06nQeElbVHiJyuxJQSSI6LTZmh43h1-VQ/viewform | Künstliche Intelligenz (AI) und Maschinelles Lernen (ML) für die Schweizer Pharmaindustrie]]%0a\ No newline at end of file%0a
+host:1496922095=5.38.165.190

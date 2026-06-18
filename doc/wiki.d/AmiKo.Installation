@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1365491662
+host=80.219.10.249
+name=AmiKo.Installation
+rev=4
+targets=
+text=!! Installation AmiKo%0a1. Apps aus unbekannter Herkunft zulassen (Einstellungen, Sicherheit).%0ahttp://www.ywesee.com/uploads/Android/Safety.jpg%0a2. App download von http://pillbox.oddb.org%0ahttp://www.ywesee.com/uploads/Android/Pillbox_Download.jpg%0a3. Download Abwarten%0ahttp://www.ywesee.com/uploads/Android/Download_AmiKo.jpg%0a4. Download Anklicken%0ahttp://www.ywesee.com/uploads/Android/Click_AmiKo.jpg%0a5. Installieren%0ahttp://www.ywesee.com/uploads/Android/Install_AmiKo.jpg%0a6. Installation abwarten%0ahttp://www.ywesee.com/uploads/Android/Intall_Finish.jpg%0a7. App starten%0ahttp://www.ywesee.com/uploads/Android/AmiKo_starten.jpg%0a8. Search a Drug (mindestens 2 Buchstaben)%0ahttp://www.ywesee.com/uploads/Android/AmiKo_DrugSearch.jpg%0aATC-Suche (min. 2 Buchstaben)%0ahttp://www.ywesee.com/uploads/Android/ATC.jpg%0aHersteller-Suche (min. 2 Buchstaben)%0ahttp://www.ywesee.com/uploads/Android/Hersteller.jpg%0a9. FI anschauen.%0ahttp://www.ywesee.com/uploads/Android/apydan.jpg
+time=1365491759
+author:1365491759=zeno
+diff:1365491759:1365491699:=5c5%0a%3c http://www.ywesee.com/uploads/Android/Pillbox_Download.jpg%0a---%0a> Attach:Pillbox_Download.jpg%0a7c7%0a%3c http://www.ywesee.com/uploads/Android/Download_AmiKo.jpg%0a---%0a> Attach:Download_AmiKo.jpg%0a9c9%0a%3c http://www.ywesee.com/uploads/Android/Click_AmiKo.jpg%0a---%0a> Attach:Click_AmiKo.jpg%0a11c11%0a%3c http://www.ywesee.com/uploads/Android/Install_AmiKo.jpg%0a---%0a> Attach:Install_AmiKo.jpg%0a13c13%0a%3c http://www.ywesee.com/uploads/Android/Intall_Finish.jpg%0a---%0a> Attach:Intall_Finish.jpg%0a15c15%0a%3c http://www.ywesee.com/uploads/Android/AmiKo_starten.jpg%0a---%0a> Attach:AmiKo_starten.jpg%0a17c17%0a%3c http://www.ywesee.com/uploads/Android/AmiKo_DrugSearch.jpg%0a---%0a> Attach:AmiKo_DrugSearch.jpg%0a19c19%0a%3c http://www.ywesee.com/uploads/Android/ATC.jpg%0a---%0a> Attach:ATC.jpg%0a21c21%0a%3c http://www.ywesee.com/uploads/Android/Hersteller.jpg%0a---%0a> Attach:Hersteller.jpg%0a23c23%0a%3c http://www.ywesee.com/uploads/Android/apydan.jpg%0a\ No newline at end of file%0a---%0a> Attach:apydan.jpg%0a\ No newline at end of file%0a
+host:1365491759=80.219.10.249
+author:1365491699=zeno
+diff:1365491699:1365491671:=3c3%0a%3c http://www.ywesee.com/uploads/Android/Safety.jpg%0a---%0a> Attach:[[Android/Safety.jpg]]%0a
+host:1365491699=80.219.10.249
+author:1365491671=zeno
+diff:1365491671:1365491662:=3c3%0a%3c Attach:[[Android/Safety.jpg]]%0a---%0a> Attach:Android/Safety.jpg%0a
+host:1365491671=80.219.10.249
+author:1365491662=zeno
+diff:1365491662:1365491662:=1,23d0%0a%3c !! Installation AmiKo%0a%3c 1. Apps aus unbekannter Herkunft zulassen (Einstellungen, Sicherheit).%0a%3c Attach:Android/Safety.jpg%0a%3c 2. App download von http://pillbox.oddb.org%0a%3c Attach:Pillbox_Download.jpg%0a%3c 3. Download Abwarten%0a%3c Attach:Download_AmiKo.jpg%0a%3c 4. Download Anklicken%0a%3c Attach:Click_AmiKo.jpg%0a%3c 5. Installieren%0a%3c Attach:Install_AmiKo.jpg%0a%3c 6. Installation abwarten%0a%3c Attach:Intall_Finish.jpg%0a%3c 7. App starten%0a%3c Attach:AmiKo_starten.jpg%0a%3c 8. Search a Drug (mindestens 2 Buchstaben)%0a%3c Attach:AmiKo_DrugSearch.jpg%0a%3c ATC-Suche (min. 2 Buchstaben)%0a%3c Attach:ATC.jpg%0a%3c Hersteller-Suche (min. 2 Buchstaben)%0a%3c Attach:Hersteller.jpg%0a%3c 9. FI anschauen.%0a%3c Attach:apydan.jpg%0a\ No newline at end of file%0a
+host:1365491662=80.219.10.249

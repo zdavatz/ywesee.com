@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+author=
+charset=ISO-8859-1
+csum=
+ctime=1668326667
+host=104.28.135.79
+name=CoMed.Privacy
+rev=3
+targets=
+text=! Privacy Policy CoMed Desitin%0a* CoMed Desitin '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a* CoMed Desitin '''does not''' collect any user data.%0a* CoMed Desitin '''does not''' store any user data in the cloud.
+time=1668326727
+author:1668326727=
+diff:1668326727:1668326704:=2,3c2,3%0a%3c * CoMed Desitin '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a%3c * CoMed Desitin '''does not''' collect any user data.%0a---%0a> * CoMe Desitin '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a> * CoMedDesitin '''does not''' collect any user data.%0a
+host:1668326727=104.28.135.79
+author:1668326704=
+diff:1668326704:1668326667:=2,4c2,4%0a%3c * CoMe Desitin '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a%3c * CoMedDesitin '''does not''' collect any user data.%0a%3c * CoMed Desitin '''does not''' store any user data in the cloud.%0a\ No newline at end of file%0a---%0a> * AmiKo Desitin '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a> * AmiKo Desitin '''does not''' collect any user data.%0a> * AmiKo Desitin '''does not''' store any user data in the cloud.%0a\ No newline at end of file%0a
+host:1668326704=104.28.135.79
+author:1668326667=
+diff:1668326667:1668326667:=1,4d0%0a%3c ! Privacy Policy CoMed Desitin%0a%3c * AmiKo Desitin '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a%3c * AmiKo Desitin '''does not''' collect any user data.%0a%3c * AmiKo Desitin '''does not''' store any user data in the cloud.%0a\ No newline at end of file%0a
+host:1668326667=104.28.135.79

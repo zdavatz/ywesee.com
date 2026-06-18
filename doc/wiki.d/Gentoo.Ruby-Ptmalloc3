@@ -1,0 +1,27 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9) Gecko/2008052912 Firefox/3.0
+author=
+host=77.57.16.157
+name=Gentoo.Ruby-Ptmalloc3
+rev=6
+targets=
+text=!Ruby and ptmalloc3%0a!!Security Risk %3c= Ruby-1.8.6-p229%0a* http://bugs.gentoo.org/show_bug.cgi?id=225465#c19%0a* http://www.matasano.com/log/1070/updates-on-drew-yaos-terrible-ruby-vulnerabilities/%0a!!Recompiling Ruby with ptmalloc3%0a# Dieses ebuild ohne Änderungen: http://bugs.gentoo.org/attachment.cgi?id=157467 (kopiert nach /usr/portage/dev-lang/ruby/)%0a# Diesen Patch: http://bugs.gentoo.org/attachment.cgi?id=156407 (kopiert nach /usr/portage/dev-lang/ruby/files)%0a# Beide Links von hier: http://bugs.gentoo.org/show_bug.cgi?id=225465%0a# ptmalloc3 wird so eingebunden: LDFLAGS='-lptmalloc3' ebuild /usr/portage/dev-lang/ruby/ruby-1.8.6_p114-r1.ebuild digest install qmerge%0a
+time=1214244873
+author:1214244873=
+diff:1214244873:1214244816:=2c2%0a%3c !!Security Risk %3c= Ruby-1.8.6-p229%0a---%0a> !!Security Risk%0a
+host:1214244873=77.57.16.157
+author:1214244816=
+diff:1214244816:1214244774:=2,4c2%0a%3c !!Security Risk%0a%3c * http://bugs.gentoo.org/show_bug.cgi?id=225465#c19%0a%3c * http://www.matasano.com/log/1070/updates-on-drew-yaos-terrible-ruby-vulnerabilities/%0a---%0a> * Security Risk: http://bugs.gentoo.org/show_bug.cgi?id=225465#c19%0a
+host:1214244816=77.57.16.157
+author:1214244774=
+diff:1214244774:1214244766:=6c6%0a%3c # Beide Links von hier: http://bugs.gentoo.org/show_bug.cgi?id=225465%0a---%0a> # Beides Links von hier: http://bugs.gentoo.org/show_bug.cgi?id=225465%0a
+host:1214244774=77.57.16.157
+author:1214244766=
+diff:1214244766:1214244750:=4c4%0a%3c # Dieses ebuild ohne Änderungen: http://bugs.gentoo.org/attachment.cgi?id=157467 (kopiert nach /usr/portage/dev-lang/ruby/)%0a---%0a> # Dieses ebuild ohne änderungen: http://bugs.gentoo.org/attachment.cgi?id=157467 (kopiert nach /usr/portage/dev-lang/ruby/)%0a
+host:1214244766=77.57.16.157
+author:1214244750=
+diff:1214244750:1214244734:=3c3%0a%3c !!Recompiling Ruby with ptmalloc3%0a---%0a> * Recompiling Ruby with ptmalloc3%0a
+host:1214244750=77.57.16.157
+author:1214244734=
+diff:1214244734:1214244734:=1,7d0%0a%3c !Ruby and ptmalloc3%0a%3c * Security Risk: http://bugs.gentoo.org/show_bug.cgi?id=225465#c19%0a%3c * Recompiling Ruby with ptmalloc3%0a%3c # Dieses ebuild ohne änderungen: http://bugs.gentoo.org/attachment.cgi?id=157467 (kopiert nach /usr/portage/dev-lang/ruby/)%0a%3c # Diesen Patch: http://bugs.gentoo.org/attachment.cgi?id=156407 (kopiert nach /usr/portage/dev-lang/ruby/files)%0a%3c # Beides Links von hier: http://bugs.gentoo.org/show_bug.cgi?id=225465%0a%3c # ptmalloc3 wird so eingebunden: LDFLAGS='-lptmalloc3' ebuild /usr/portage/dev-lang/ruby/ruby-1.8.6_p114-r1.ebuild digest install qmerge%0a
+host:1214244734=77.57.16.157

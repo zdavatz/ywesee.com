@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1115840624
+text=! Some Links to Serial ATA - ICH vs AHCI²In consideration of our Intel SE7520BD2 Serverboard.²* http://linux.yyz.us/sata/sata-status.html#ich5
+targets=Main.SE7520BD2
+author=
+author:1115840600=
+host:1115840600=217.162.177.109
+diff:1115840600:1115840600:=1,3d0²< ! Some Links to Serial ATA. ICH vs AHCI²< In consideration of our HotPower-Serverboard: Intel SE7520BD2²< * http://linux.yyz.us/sata/sata-status.html#ich5²\ No newline at end of file²
+name=Main.Sata
+host=217.162.177.109
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+rev=2
+author:1115840624=
+host:1115840624=217.162.177.109
+diff:1115840624:1115840600:=1,2c1,2²< ! Some Links to Serial ATA - ICH vs AHCI²< In consideration of our Intel SE7520BD2 Serverboard.²---²> ! Some Links to Serial ATA. ICH vs AHCI²> In consideration of our HotPower-Serverboard: Intel SE7520BD2²

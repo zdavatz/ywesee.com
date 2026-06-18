@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1b4pre) Gecko/20090306 Shiretoko/3.1b4pre
+author=
+host=77.58.149.99
+name=Ywesee.SmartMonTools
+rev=1
+targets=
+text=http://www.captain.at/howto-linux-smartmontools-smartctl.php
+time=1239260918
+author:1239260918=
+diff:1239260918:1239260918:=1d0%0a%3c http://www.captain.at/howto-linux-smartmontools-smartctl.php%0a\ No newline at end of file%0a
+host:1239260918=77.58.149.99

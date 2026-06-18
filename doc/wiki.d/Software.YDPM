@@ -1,0 +1,24 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de; rv:1.8) Gecko/20051111 Firefox/1.5
+author=
+host=84.73.186.135
+name=Software.YDPM
+rev=5
+targets=
+text=! ywesee Distributed Project Management%0a* See the complete funtion list in the Helplfile - Attach:HelpFile.txt%0a* Interacts with mutt%0a* Measures the time per User%0a* Interacts directly with the webinterface%0a* Creates SSH-Tunnel to the Server%0a* Fully distributed approach for project management%0a* Measures time when not Online and Syncs time when Online
+time=1138820491
+author:1138820491=
+diff:1138820491:1138820361:=5,8c5%0a%3c * Interacts directly with the webinterface%0a%3c * Creates SSH-Tunnel to the Server%0a%3c * Fully distributed approach for project management%0a%3c * Measures time when not Online and Syncs time when Online%0a\ No newline at end of file%0a---%0a> * Interacts directly with the webinterface%0a\ No newline at end of file%0a
+host:1138820491=84.73.186.135
+author:1138820361=
+diff:1138820361:1138806978:=2,5c2%0a%3c * See the complete funtion list in the Helplfile - Attach:HelpFile.txt%0a%3c * Interacts with mutt%0a%3c * Measures the time per User%0a%3c * Interacts directly with the webinterface%0a\ No newline at end of file%0a---%0a> * Attach:HelpFile.txt%0a\ No newline at end of file%0a
+host:1138820361=84.73.186.135
+author:1138806978=
+diff:1138806978:1138806915:=2c2,4%0a%3c * Attach:HelpFile.txt%0a\ No newline at end of file%0a---%0a> * Attach:HelpFile.txt%0a> %0a> %25trail%25%3c%3c|[[Main/SideBar]]|>>%0a\ No newline at end of file%0a
+host:1138806978=84.73.186.135
+author:1138806915=
+diff:1138806915:1135176678:=2,4c2%0a%3c * Attach:HelpFile.txt%0a%3c %0a%3c %25trail%25%3c%3c|[[Main/SideBar]]|>>%0a\ No newline at end of file%0a---%0a> * Attach:HelpFile.txt%0a\ No newline at end of file%0a
+host:1138806915=84.73.186.135
+author:1135176678=
+diff:1135176678:1135176678:=1,2d0%0a%3c ! ywesee Distributed Project Management%0a%3c * Attach:HelpFile.txt%0a\ No newline at end of file%0a
+host:1135176678=84.73.187.57

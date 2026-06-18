@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1367564849
+host=80.219.10.249
+name=Android.CoMed
+rev=4
+targets=
+text=!Compendium des Médicaments pour Android - basé sur AIPS Swissmedic XML.%0aLa version d'AmiKo en français est arrivée: v 1.1.4%0a%0a!! CoMed%0a%0aVous pouvez télécharger l'App pour Android à partir du lien suivant:%0a%0ahttp://pillbox.oddb.org/CoMed.apk%0a%0aCliquez sur le lien avec votre Browser Android.%0a%0aSi vous avez des questions je reste a votre disposition.%0a%0aL'App est basée sur les informations AIPS de Swissmedic.%0a%0aVous pouvez mettre à jour et télécharger le fichier XML par:\\%0ahttp://download.swissmedicinfo.ch/%0a%0aAvec mes meilleures salutations\\%0aZeno Davatz\\%0a+41 43 540 05 50\\%0a%0aPS: Si l'installation ne marche pas lisez:\\%0ahttp://www.ywesee.com/AmiKo/Installation
+time=1367564902
+author:1367564902=zeno
+diff:1367564902:1367564895:=4c4%0a%3c !! CoMed%0a---%0a> !! CoMed.%0a
+host:1367564902=80.219.10.249
+author:1367564895=zeno
+diff:1367564895:1367564872:=16c16%0a%3c Vous pouvez mettre à jour et télécharger le fichier XML par:\\%0a---%0a> Vous pouvez mettre à jour et télécharger le fichier XML par:%0a19,23c19,23%0a%3c Avec mes meilleures salutations\\%0a%3c Zeno Davatz\\%0a%3c +41 43 540 05 50\\%0a%3c %0a%3c PS: Si l'installation ne marche pas lisez:\\%0a---%0a> Avec mes meilleures salutations%0a> Zeno Davatz%0a> +41 43 540 05 50%0a> %0a> PS: Si l'installation ne marche pas lisez:%0a
+host:1367564895=80.219.10.249
+author:1367564872=zeno
+diff:1367564872:1367564849:=1,4c1,4%0a%3c !Compendium des Médicaments pour Android - basé sur AIPS Swissmedic XML.%0a%3c La version d'AmiKo en français est arrivée: v 1.1.4%0a%3c %0a%3c !! CoMed.%0a---%0a> !! Compendium des Médicaments pour Android - basé sur AIPS Swissmedic XML.%0a> La version d'AmiKo en français est arrivée:%0a> %0a> CoMed.%0a
+host:1367564872=80.219.10.249
+author:1367564849=zeno
+diff:1367564849:1367564849:=1,24d0%0a%3c !! Compendium des Médicaments pour Android - basé sur AIPS Swissmedic XML.%0a%3c La version d'AmiKo en français est arrivée:%0a%3c %0a%3c CoMed.%0a%3c %0a%3c Vous pouvez télécharger l'App pour Android à partir du lien suivant:%0a%3c %0a%3c http://pillbox.oddb.org/CoMed.apk%0a%3c %0a%3c Cliquez sur le lien avec votre Browser Android.%0a%3c %0a%3c Si vous avez des questions je reste a votre disposition.%0a%3c %0a%3c L'App est basée sur les informations AIPS de Swissmedic.%0a%3c %0a%3c Vous pouvez mettre à jour et télécharger le fichier XML par:%0a%3c http://download.swissmedicinfo.ch/%0a%3c %0a%3c Avec mes meilleures salutations%0a%3c Zeno Davatz%0a%3c +41 43 540 05 50%0a%3c %0a%3c PS: Si l'installation ne marche pas lisez:%0a%3c http://www.ywesee.com/AmiKo/Installation%0a\ No newline at end of file%0a
+host:1367564849=80.219.10.249

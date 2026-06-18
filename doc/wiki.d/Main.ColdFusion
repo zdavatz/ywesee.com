@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090527 Minefield/3.6a1pre
+author=
+host=84.74.177.14
+name=Main.ColdFusion
+rev=1
+targets=
+text=http://de.wikipedia.org/wiki/ColdFusion
+time=1243500480
+author:1243500480=
+diff:1243500480:1243500480:=1d0%0a%3c http://de.wikipedia.org/wiki/ColdFusion%0a\ No newline at end of file%0a
+host:1243500480=84.74.177.14

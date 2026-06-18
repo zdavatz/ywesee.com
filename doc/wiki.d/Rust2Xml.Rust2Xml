@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1777196573
+host=212.51.146.241
+name=Rust2Xml.Rust2Xml
+rev=3
+targets=
+text=! Rust2Xml%0a# Convert your Swiss Healthcare Data from the Public Domain to XML, SQlite, CSV, etc.%0a# For questions or problems contact: zdavatz at ywesee . com%0a# Phone: +41 43 540 05 50
+time=1778080793
+author:1778080793=zeno
+diff:1778080793:1778080684:=3,4c3,4%0a%3c # For questions or problems contact: zdavatz at ywesee . com%0a%3c # Phone: +41 43 540 05 50%0a\ No newline at end of file%0a---%0a> # For questions or problems contact zdavatz at ywesee . com%0a> # or call +41 43 540 05 50%0a\ No newline at end of file%0a
+host:1778080793=212.51.146.241
+author:1778080684=zeno
+diff:1778080684:1777196573:=2,4c2%0a%3c # Convert your Swiss Healthcare Data from the Public Domain to XML, SQlite, CSV, etc.%0a%3c # For questions or problems contact zdavatz at ywesee . com%0a%3c # or call +41 43 540 05 50%0a\ No newline at end of file%0a---%0a> Convert your Swiss Healthcare Data from the Public Domain to XML, SQlite, CSV, etc.%0a\ No newline at end of file%0a
+host:1778080684=212.51.146.241
+author:1777196573=zeno
+diff:1777196573:1777196573:=1,2d0%0a%3c ! Rust2Xml%0a%3c Convert your Swiss Healthcare Data from the Public Domain to XML, SQlite, CSV, etc.%0a\ No newline at end of file%0a
+host:1777196573=216.128.13.34

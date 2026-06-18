@@ -1,0 +1,124 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 22959 invoked by uid 210); 9 Sep 2005 17:04:21 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.2/1070. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.031196 secs); 09 Sep 2005 15:04:21 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 9 Sep 2005 17:04:21 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id 89F6A15A4CE; Fri,  9 Sep 2005 16:56:09 +0200 (CEST)
+Date: Fri, 9 Sep 2005 16:56:09 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: =?iso-8859-1?Q?Bähler?= Thomas <thomas.baehler@kellerhalslaw.ch>,
+	Zeltner Thomas <thomas.zeltner@bag.admin.ch>,
+	=?iso-8859-1?Q?Kämpf?= Reinhard <reinhard.kaempf@bag.admin.ch>,
+	todo@oddb.org
+Subject: Es ist ganz einfach, einfach Umsortieren im Excel!
+Message-ID: <20050909145609.GB12357@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrter Herr Bähler
+
+Ich weiss nicht ob Sie mit einem Excel umgehen können oder nicht, es ist
+allerdings nicht so schwierig (ich kann es Ihnen sonst auch gerne
+telefonisch erklären ;).
+
+Laden Sie das BSV-Excel runter und sortieren Sie mal das Excel-File um
+nach Swissmedic-Code. Dann erhalten Sie folgende 77 Positionen (1-77)
+zuoberst wo ganz einfach der Pharmacode korrekt ist und der Swissmedic-Code
+(EAN-Code) nicht weil er ganz einfach _zu_kurz_ist. Es fehlt ein Teil
+der Registrationsnummer und ein Teil der Packungsnummer (die oberste
+Zeile wieder als Beispiel).
+
+Bitte erkennen Sie das dies nicht _die_einzigen_Fehler sind! Bei vielen
+Produkten ist auch ganz einfach die Packungsnummer falsch (ein
+8-stelliger EAN-Code aber vorhanden). Mehr dazu auch hier:
+http://www.ywesee.com/pmwiki.php?n=3DMain.EANCode
+
+595039	16595	XXX268XX		15.03.1997	M-M-R-Vax II Amp. 0.5 ml 1 Amp. 0,5 ml
+
+1877047	16997	373		15.03.1998	Mutagrip Amp. 0.5 ml 1 Amp. 0,5 ml
+1982519	16021	392		15.03.1993	Intraglobin F Amp. 50 mg/ml 1 Amp. 20 ml 50 mg/ml
+1982531	16021	392		15.03.1993	Intraglobin F Amp. 50 mg/ml 1 Amp. 100 ml 50 mg/ml
+1982525	16021	392		15.03.1993	Intraglobin F Amp. 50 mg/ml 1 Amp. 50 ml 50 mg/ml
+1982502	16021	392		15.03.1993	Intraglobin F Amp. 50 mg/ml 1 Amp. 10 ml 50 mg/ml
+1982548	16021	392		15.03.1993	Intraglobin F Amp. 50 mg/ml 1 Amp. 200 ml 50 mg/ml
+723543	13613	417		15.03.1980	Vaccin Rabique Inactiv=E9 Amp. 1 Amp.  1 Dose
+908751	13661	437		15.03.1983	Solcotrichovac Amp. 7 Mia 1 Amp. 7 Mia
+856623	13661	437		15.03.1983	Solcotrichovac Amp. 7 Mia 3 Amp. 7 Mia
+2463537	18206	450	B	01.05.2005	FSME Immun CC Amp. 2.4 mcg 1 Amp. ad iniect. parat. 0,5 ml 2,4 mcg
+2713767	18207	450	B	01.05.2005	FSME Immun Junior Amp. 1.19 mcg 1 Amp. ad iniect. parat. 0,25 ml 1,19 mcg
+2477284	15548	464		15.03.1989	Endobulin S/D Amp. 10 g 1 Amp. 10 g
+2477278	15548	464		15.03.1989	Endobulin S/D Amp. 5 g 1 Amp. 5 g
+2477255	15548	464		15.03.1989	Endobulin S/D Amp. 2.5 g 1 Amp. 2,5 g
+941642	16593	485		15.03.1997	Influvac Amp. 0.5 ml 1 Amp. 0,5 ml
+1982583	16710	488		15.03.1997	Hepatect CP Amp. 500 IE 1 Amp. 500 I.E.
+2320140	13200	500		15.03.1980	Redimune Amp. 6 g 1 Amp. 6 g i.v.
+2320128	13200	500		15.03.1979	Redimune Amp. 3 g 1 Amp. 3 g i.v.
+2320163	13200	500		15.03.1994	Redimune Amp. 12 g 1 Amp. 12 g i.v.
+2320105	13200	500		15.03.1980	Redimune Amp. 1 g 1 Amp. 1 g i.v.
+0	16020	506		15.03.1997	Cytotect Amp. 100 mg/ml 1 Amp. 10 ml 100 mg/ml
+2822195	16020	506		15.03.1997	Cytotect Amp. 100 mg/ml 1 Amp. 20 ml 100 mg/ml
+2822203	16020	506		15.03.1997	Cytotect Amp. 100 mg/ml 1 Amp. 50 ml 100 mg/ml
+0	16020	506		15.03.1997	Cytotect Amp. 100 mg/ml 1 Amp. 5 ml 100 mg/ml
+1017379	16598	509		15.03.1997	Pneumovax-23 Amp. 0.5 ml 1 Amp. 0,5 ml
+1982560	16712	510		15.03.1997	Varitect Amp. 100 mg/ml 1 Amp. 20 ml 100 mg/ml
+1982577	16712	510		15.03.1997	Varitect Amp. 100 mg/ml 1 Amp. 50 ml 100 mg/ml
+1982554	16712	510		15.03.1997	Varitect Amp. 100 mg/ml 1 Amp. 5 ml 100 mg/ml
+1946972	16589	528		15.03.1997	Gen H-B Vax Amp. 10 mcg 1 Amp. pro adult. 10 mcg
+1946966	16589	528		15.03.1997	Gen H-B Vax Amp. 5 mcg 1 Amp. pro infant. 5 mcg
+2506726	16586	534		15.03.1997	Engerix-B 20 Amp. 1 Amp. ad iniect. parat.
+1982790	16709	541		15.03.1997	Gammagard S/D Amp. 10 g 1 Amp. 10 g
+1982778	16709	541		15.03.1997	Gammagard S/D Amp. 2.5 g 1 Amp. 2,5 g
+1982784	16709	541		15.03.1997	Gammagard S/D Amp. 5 g 1 Amp. 5 g
+1406218	16487	544		01.10.2004	Heprecomb Berna Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+1379912	16590	545		15.03.1997	Gen H-B Vax Dialyse Amp. 40 mcg 1 Amp. 40 mcg
+2515978	16587	551		15.03.1997	Engerix-B 10 Amp. 1 Amp. ad iniect. parat. pro infant.
+1648418	16592	580		15.03.1997	Infanrix DTPa Amp. 1 Amp. ad iniect. parat. pro infant.
+1615436	16588	583		15.03.1997	Fluarix Amp. 1 Amp.
+1720512	16711	584		15.03.1997	Octagam Amp. 2.5 g 1 Amp. 2,5 g
+1919900	16711	584		15.03.1997	Octagam Amp. 1 g 1 Amp. 1 g
+1720535	16711	584		15.03.1997	Octagam Amp. 10 g 1 Amp. 10 g
+1720529	16711	584		15.03.1997	Octagam Amp. 5 g 1 Amp. 5 g
+1770177	18076	585	B	01.01.2005	Varilrix Amp. 0.5 ml 1 Amp. 0,5 ml
+1931887	17093	603	B	15.03.1998	Hiberix Amp. 0.5 ml 1 Amp. 0,5 ml
+0	17094	604	A	15.03.1998	Infanrix DTPa-HepB Amp. 0.5 ml 1 Amp. 0,5 ml
+2198934	17427	612	B	15.04.2000	Tetravac Amp. 0.5 ml 1 Amp. 0,5 ml
+2198911	17426	613	B	15.04.2000	Pentavac Amp. 0.5 ml 1 Amp. 0.5 ml
+1924172	17095	614		01.02.2001	Inflexal Berna V Amp. 0.5 ml 1 Amp. 0,5 ml
+2114156	17289	615		15.03.1999	Priorix Amp. 0.5 ml 1 Amp. 0,5 ml
+2065280	17237	619		15.03.1999	Infanrix DTPa-IPV+Hib Amp. 0.5 ml 1 Amp. 0,5 ml
+2471465	17906	627	B	01.05.2005	Encepur N/Encepur N Kinder Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+2471519	17906	628	B	01.05.2005	Encepur N/Encepur N Kinder Amp. 0.25 ml 1 Amp. ad iniect. parat. 0,25 ml
+2319326	17606	637		01.04.2001	Boostrix Amp. 0.5 ml 1 Amp. 0,5 ml 
+2183565	17425	638		15.04.2000	Infanrix DTPA-IPV Amp. 0.5 ml 1 Amp. 0.5 ml
+2302981	17615	640		01.04.2001	Infanrix Hexa Amp. 0.5 ml 1 Amp. 0,5 ml
+2103520	17789	641		01.10.2002	Tuberkulin PPD RT23 SSI Amp. 1.5 ml 1 Amp. 1,5 ml
+2273417	17607	643		01.08.2001	Prevenar Amp. 0.5 ml 1 Amp. 0,5 ml
+2343773	17650	644	B	01.05.2001	Hexavac Amp. 0.5 ml 1 Amp. 0,5 ml
+2343804	17608	646		01.04.2001	Revaxis Amp. 0.5 ml 1 Amp. 0,5 ml
+2344011	17770	654		01.07.2002	Meningitec Amp. 0.5 ml 1 Amp. 0,5 ml
+2321889	17788	655		01.10.2002	BCG-Impfstoff M=E9rieux Amp. 1 Amp. 1 ml
+2514826	17845	656		01.03.2003	Neisvac-C Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml 
+2594096	17844	657		01.03.2003	Menjugate Amp. 0.5 ml 1 Amp. 0,5 ml
+2840520	18074	660		01.09.2004	Influvac Plus Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+2847189	17958	662	B	01.02.2004	HB Vax Pro 5 Amp. 5 mcg 1 Amp. pro infant. 5 mcg
+2723688	17959	663	B	01.02.2004	HB Vax Pro 10 Amp. 10 mcg 1 Amp. pro adult. 10 mcg
+2822901	17952	669	B	01.12.2003	Poliorix Amp. 0.5 ml 1 Amp. 0,5 ml
+2900794	18023	678		01.08.2004	Redimune NF Liquid Amp. 12 g 1 Amp. 12 g/100 ml
+2900771	18023	678		01.08.2004	Redimune NF Liquid Amp. 6 g 1 Amp. 6 g/50 ml
+2819951	18073	681		01.09.2004	Boostrix Polio Amp. 0.5 ml 1 Amp. 0,5 ml
+
+Ich hoffe Sie erkennen, wieviel Zeit es kostet um Ihnen dies zu
+erklären.
+
+Mit freundlichen Grüssen
+Zeno Davatz

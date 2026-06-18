@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1a1pre) Gecko/2008070502 Minefield/3.1a1pre
+author=
+host=77.57.16.157
+name=Ywesee.Ezmlm
+rev=1
+targets=
+text=ezmlm-sub dir %3c list
+time=1215415543
+author:1215415543=
+diff:1215415543:1215415543:=1d0%0a%3c ezmlm-sub dir %3c list%0a\ No newline at end of file%0a
+host:1215415543=77.57.16.157

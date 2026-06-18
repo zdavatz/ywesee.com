@@ -1,0 +1,54 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.71 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1515777877
+host=212.51.146.241
+name=Ywesee.BitcoinBlockchain
+rev=14
+targets=
+text=! Bitcoin and Blockchain%0aSome useful Links, Articles, Books%0a%0a* [[https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692 | Gizmodo Article on Craig Wright and Dave Kleiman the inventors of Bitcoin, 02.05.2016]]%0a* [[https://www.youtube.com/watch?v=URajERvVFf4 | Craig Wright Presentation in Zürich Switzerland, 24.10.2017]]%0a* [[https://www.youtube.com/watch?v=-6wQ0BBdAkI&feature | Interview with Craig Wright, 07.01.2017]]%0a* [[https://www.amazon.de/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3 | Book by Elli Androulaki and Ghassan O. Karame, 2016]]%0a* Andrew O'Hagan, Satoshi Affair: Attach:Andrew_O_Hagan_The_Satoshi_Affair_LRB_30_June_2016.pdf%0a* [[https://twitter.com/ProfFaustus/with_replies | Craig Wright on Twitter]]%0a* [[https://www.youtube.com/watch?v=mjPOBlTsIwY&t=2065s | Presentation of Elli Androulaki at Blockchain and Healthcare, 15.11.2017]]
+time=1515778542
+author:1515778542=zeno
+diff:1515778542:1515778507:=10c10%0a%3c * [[https://www.youtube.com/watch?v=mjPOBlTsIwY&t=2065s | Presentation of Elli Androulaki at Blockchain and Healthcare, 15.11.2017]]%0a\ No newline at end of file%0a---%0a> * [[https://www.youtube.com/watch?v=mjPOBlTsIwY&t=2065s | Presentation of Elli Androulaki at Blockchain and Healthcare]]%0a\ No newline at end of file%0a
+host:1515778542=212.51.146.241
+author:1515778507=zeno
+diff:1515778507:1515778342:=9,10c9%0a%3c * [[https://twitter.com/ProfFaustus/with_replies | Craig Wright on Twitter]]%0a%3c * [[https://www.youtube.com/watch?v=mjPOBlTsIwY&t=2065s | Presentation of Elli Androulaki at Blockchain and Healthcare]]%0a\ No newline at end of file%0a---%0a> * [[https://twitter.com/ProfFaustus/with_replies | Craig Wright on Twitter]]%0a\ No newline at end of file%0a
+host:1515778507=212.51.146.241
+author:1515778342=zeno
+diff:1515778342:1515778336:=9c9%0a%3c * [[https://twitter.com/ProfFaustus/with_replies | Craig Wright on Twitter]]%0a\ No newline at end of file%0a---%0a> * [[https://twitter.com/ProfFaustus/with_replies | Craig Wright on Twitter]].%0a\ No newline at end of file%0a
+host:1515778342=212.51.146.241
+author:1515778336=zeno
+diff:1515778336:1515778279:=8,9c8%0a%3c * Andrew O'Hagan, Satoshi Affair: Attach:Andrew_O_Hagan_The_Satoshi_Affair_LRB_30_June_2016.pdf%0a%3c * [[https://twitter.com/ProfFaustus/with_replies | Craig Wright on Twitter]].%0a\ No newline at end of file%0a---%0a> * Andrew O'Hagan, Satoshi Affair: Attach:Andrew_O_Hagan_The_Satoshi_Affair_LRB_30_June_2016.pdf%0a\ No newline at end of file%0a
+host:1515778336=212.51.146.241
+author:1515778279=zeno
+diff:1515778279:1515778238:=7c7%0a%3c * [[https://www.amazon.de/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3 | Book by Elli Androulaki and Ghassan O. Karame, 2016]]%0a---%0a> * [[https://www.amazon.de/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3 | Book by Elli Androulaki and , 2016]]%0a
+host:1515778279=212.51.146.241
+author:1515778238=zeno
+diff:1515778238:1515778187:=7c7%0a%3c * [[https://www.amazon.de/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3 | Book by Elli Androulaki and , 2016]]%0a---%0a> * [[https://www.amazon.de/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3 | Book by Elli Androulaki]]%0a
+host:1515778238=212.51.146.241
+author:1515778187=zeno
+diff:1515778187:1515778160:=6c6%0a%3c * [[https://www.youtube.com/watch?v=-6wQ0BBdAkI&feature | Interview with Craig Wright, 07.01.2017]]%0a---%0a> * [[https://www.youtube.com/watch?v=-6wQ0BBdAkI&feature | Interview with Craig Wright]]%0a
+host:1515778187=212.51.146.241
+author:1515778160=zeno
+diff:1515778160:1515778123:=4c4%0a%3c * [[https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692 | Gizmodo Article on Craig Wright and Dave Kleiman the inventors of Bitcoin, 02.05.2016]]%0a---%0a> * [[https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692 | Gizmodo Article on Craig Wright and Dave Kleiman the inventors of Bitcoin]]%0a
+host:1515778160=212.51.146.241
+author:1515778123=zeno
+diff:1515778123:1515778090:=5c5%0a%3c * [[https://www.youtube.com/watch?v=URajERvVFf4 | Craig Wright Presentation in Zürich Switzerland, 24.10.2017]]%0a---%0a> * [[https://www.youtube.com/watch?v=URajERvVFf4 | Craig Wright Presentation in Zürich Switzerland]]%0a
+host:1515778123=212.51.146.241
+author:1515778090=zeno
+diff:1515778090:1515778009:=5d4%0a%3c * [[https://www.youtube.com/watch?v=URajERvVFf4 | Craig Wright Presentation in Zürich Switzerland]]%0a
+host:1515778090=212.51.146.241
+author:1515778009=zeno
+diff:1515778009:1515777963:=4c4%0a%3c * [[https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692 | Gizmodo Article on Craig Wright and Dave Kleiman the inventors of Bitcoin]]%0a---%0a> * [[https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692 | Gizmodo Article on Craig Wright and ]]%0a
+host:1515778009=212.51.146.241
+author:1515777963=zeno
+diff:1515777963:1515777887:=4,6c4,6%0a%3c * [[https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692 | Gizmodo Article on Craig Wright and ]]%0a%3c * [[https://www.youtube.com/watch?v=-6wQ0BBdAkI&feature | Interview with Craig Wright]]%0a%3c * [[https://www.amazon.de/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3 | Book by Elli Androulaki]]%0a---%0a> * https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692%0a> * https://www.youtube.com/watch?v=-6wQ0BBdAkI&feature%0a> * https://www.amazon.de/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3%0a
+host:1515777963=212.51.146.241
+author:1515777887=zeno
+diff:1515777887:1515777877:=7c7%0a%3c * Andrew O'Hagan, Satoshi Affair: Attach:Andrew_O_Hagan_The_Satoshi_Affair_LRB_30_June_2016.pdf%0a\ No newline at end of file%0a---%0a> * Andrew O'Hagan, Satoshi Affair: Attach:Andrew_O'Hagan_The_Satoshi_Affair_LRB_30_June_2016.pdf%0a\ No newline at end of file%0a
+host:1515777887=212.51.146.241
+author:1515777877=zeno
+diff:1515777877:1515777877:=1,7d0%0a%3c ! Bitcoin and Blockchain%0a%3c Some useful Links, Articles, Books%0a%3c %0a%3c * https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692%0a%3c * https://www.youtube.com/watch?v=-6wQ0BBdAkI&feature%0a%3c * https://www.amazon.de/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3%0a%3c * Andrew O'Hagan, Satoshi Affair: Attach:Andrew_O'Hagan_The_Satoshi_Affair_LRB_30_June_2016.pdf%0a\ No newline at end of file%0a
+host:1515777877=212.51.146.241

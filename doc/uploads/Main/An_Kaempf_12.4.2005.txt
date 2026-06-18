@@ -1,0 +1,67 @@
+Sehr geehrter Herr Kämpf
+
+bei Omeprazol Sandoz stimmen die Pharmacodes im Bulletin und im
+Datenstamm (Excel) nicht überein (http://www.galinfo.net).
+
+Ausserdem fehlt für Impfstoffe im Excel grundsätzlich die Packungsnummer
+(d.h. die 'Swissmedic-Nummer' wird nur mit 3 Stellen angegeben)
+
+ich beziehe mich auf das BSV-Bulletin per 1.4.2005:
+http://www.galinfo.net/PR050401.txt
+bzw. auf den entsprechenden Excel-Datenstamm per 1.4.2005:
+http://www.galinfo.net/BSV_per_2005.04.01.xls
+
+#####################################
+Omeprazol Sandoz  Sandoz AG  04.99.00
+Pharmacode im Bulletin und Datenstamm stimmen nicht überein.
+
+Bulletin:
+  14 Caps. 10 mg     2672235  17916   29.90    14.96  
+Pharmacode im Excel: 2943504
+  Omeprazol Sandoz Caps. 10 mg 14 Caps. 10 mg
+
+Bulletin:
+  28 Caps. 10 mg     2672241  17916   46.30    25.40  
+Pharmacode im Excel: 2943510
+  Omeprazol Sandoz Caps. 10 mg 28 Caps. 10 mg
+
+Bulletin:
+  56 Caps. 10 mg     2672258  17916   82.40    56.06  
+Pharmacode im Excel: 2943527
+  Omeprazol Sandoz Caps. 10 mg 56 Caps. 10 mg
+
+Bulletin:
+   7 Caps. 20 mg     2672270  17916   25.30    11.05  
+Pharmacode im Excel: 2943556
+  Omeprazol Sandoz Caps. 20 mg 7 Caps. 20 mg
+
+Bulletin:
+  14 Caps. 20 mg     2672287  17916   34.05    15.00  
+Pharmacode im Excel: 2943562
+  Omeprazol Sandoz Caps. 20 mg 14 Caps. 20 mg
+
+Bulletin:
+  28 Caps. 20 mg     2672293  17916   56.70    34.23  
+Pharmacode im Excel: 2943579
+  Omeprazol Sandoz Caps. 20 mg 28 Caps. 20 mg
+
+Bulletin:
+  56 Caps. 20 mg     2672301  17916  109.00    78.65  
+Pharmacode im Excel: 2943585
+  Omeprazol Sandoz Caps. 20 mg 56 Caps. 20 mg
+
+Mit freundlichen Grüssen
+Zeno Davatz
+
+-- 
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-24 
+Schl.-Fingerabdruck = 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

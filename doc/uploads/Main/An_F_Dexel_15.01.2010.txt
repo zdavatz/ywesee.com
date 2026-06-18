@@ -1,0 +1,110 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 2870 invoked from network); 15 Jan 2010 13:46:49 -0000
+Received: from [80.219.10.249] (HELO zenogentoo.localdomain) (80.219.10.249)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.82) with (AES256-SHA encrypted) ESMTPSA; Fri, 15 Jan 2010 14:46:49 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by zenogentoo.localdomain (Postfix) with ESMTP id C556215A848;
+	Fri, 15 Jan 2010 14:46:17 +0100 (CET)
+Date: Fri, 15 Jan 2010 14:46:17 +0100 (CET)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: f.dexel@bfarm.de
+cc: "todo at ODDB.org" <todo@oddb.org>
+Subject: Bfarm: Ihr Schreiben vom 15.1.2010
+Message-ID: <alpine.LNX.2.01.1001151421070.3187@localhost>
+User-Agent: Alpine 2.01 (LNX 1266 2009-07-14)
+Organisation: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="8323328-1498352872-1263563177=:3187"
+X-Virus-Checked: Checked by ClamAV on mail.ywesee.com
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-1498352872-1263563177=:3187
+Content-Type: TEXT/PLAIN; format=flowed; charset=UTF-8
+Content-Transfer-Encoding: 8BIT
+
+Sehr geehrter Herr Dexel
+
+Frohes neues Jahr!
+
+Vielen Dank für Ihr Schreiben vom 15.1.2010.
+
+An dieser Stelle wollte ich Sie fragen wie denn die Zusammenarbeit 
+zwischen dem DIMDI und der ABDATA in Deutschland genau funktioniert. Die 
+ABDATA vertreibt ja die Fachinformation in Deutschland an alle 
+Softwarehäuser und hat - wenn es mir Recht ist - ein "Monopol" in diesem 
+Segment. Alle Softwarehäuser sind gezwungen die Fachinfo von der ABDATA zu 
+kaufen.
+
+Wissen Sie was das Deutsche Kartellamt dazu sagt? Ich werde dort auch mal 
+nachfragen.
+
+pharmnet.bund.de ist meiner Meinung nach sehr zu begrüssen. Ich hatte 
+diesbezüglich auch schon mit Dr. Oliver Onusseit (BMG) Kontakt. Dabei 
+hatte ich Herr Onusseit darauf aufmerksam gemacht, dass es sehr zu 
+begrüssen wäre wenn die Bfarm auch noch die Packungsgrössen der 
+Medikamente publizieren würde, aus folgendem, einfachen Grund. An Herr Dr. 
+Onusseit hatte ich am 22.8.2008 geschrieben:
+
+ 	Diese Informationen sind der Bfarm und dem Dimdi bekannt, werden
+ 	aber aus unerklärlichen Gründen nicht _kostenlos_ publiziert,
+ 	obwohl das sehr einfach wäre über http://www.pharment.bund.de.
+
+ 	Das sind genau die wichtigen Informationen für den Konsumenten,
+ 	der wissen will "Was für Packungsgrössen sind den für dieses
+ 	Medikament auf dem Markt".
+
+ 	Diese Information gibt dem Konsumenten Sicherheit weil er dann
+ 	beim Kauf eines Arzneimittels über das Internet sicherstellen
+ 	kann, dass es sich auch wirklich um eine offiziell registrierte
+ 	Packung handelt.
+
+In Deutschland ist der Versandhandel über das Internet ja erlaubt! Das ist 
+meiner Meinung nach sehr gut für den Wettbewerb und sehr gut für die 
+tiefen Medikamentenpreise. 2/3 der Medikamente sind in Deutschland 
+günstiger als in der Schweiz. Dazu haben wir ein Excel erstellt. Siehe 
+auch http://chde.oddb.org
+
+Es erscheint mir aber auch sehr wichtig darauf hinzuweisen, dass amtlich 
+geforderte Rohdaten, welche per Gesetz bei der Bfarm eingereicht werden 
+müssen, nicht von bestehenden Anbietern zur Festigung ihrer Marktposition 
+missbraucht werden können. Wir sind ein kleiner Player und kämpfen mit den 
+ganz Grossen.
+
+In der Schweiz wollen wir die Fachinformation schon bald auf dem Kindle 
+zur Verfügung stellen. Mit dem Urteil des Bundesgerichts der Schweiz ist 
+der Weg frei für eine Konkurrenz von viele unterschiedlichen Ebooks zur 
+Fachinfo.
+
+Mit dem Sparzwang im Gesundheitswesen wird die elektronische 
+Arzneimittelverschreibung wohl schnell voranschreiten. Die Zugänglichkeit 
+von Wechselwirkungsinformationen, Preisen, ATC-Code, Wirkstoff, Generikum, 
+etc ist dabei von grosser Bedeutung für alle Softwarehäuser. Genau diese 
+Informationen sind in der amtlich bewilligten Fachinformation vorhanden.
+
+Mit pharment.bund.de legen Sie eine gerechte Ausgangsbasis für alle 
+beteiligten Parteien.
+
+Noch zur Information. Im Bereich der Fachinformation hinkt die Swissmedic 
+hinter der Bfarm her. Im Bereich der zugelassenen Packungen ist die 
+Swissmedic jedoch dem Bfarm voraus. Siehe auch:
+
+ 	http://www.swissmedic.ch/daten/00080/00251/index.html?lang=de&download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1acy4Zn4Z2qZpnO2Yuq2Z6gpJCDdH56fWym162epYbg2c_JjKbNoKSn6A--
+
+Dieses Excel wird von der Swissmedic jeden Monat publiziert und dient
+den Softwarehäusern zu Überprüfung Ihrer Stammdaten.
+
+Ein solches Excel-File sollte die Bfarm auch publizieren. Dies schafft für 
+den Konsumenten Transparenz und somit noch mehr Arzneimittelsicherheit.
+
+Für weitere Fragen stehe ich Ihnen gerne zur Verfügung.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50
+--8323328-1498352872-1263563177=:3187--

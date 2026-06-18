@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a1pre) Gecko/20100130 Minefield/3.7a1pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1265022492
+host=80.219.10.249
+name=Main.Shin
+rev=2
+targets=
+text=* http://www.ywesee.com/uploads/Software/WhitePaperSHIN_6.8.2001.pdf
+time=1265022530
+author:1265022530=
+diff:1265022530:1265022492:=
+host:1265022530=80.219.10.249
+author:1265022492=
+diff:1265022492:1265022492:=1d0%0a%3c * http://www.ywesee.com/uploads/Software/WhitePaperSHIN_6.8.2001.pdf%0a\ No newline at end of file%0a
+host:1265022492=80.219.10.249

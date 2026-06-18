@@ -1,0 +1,315 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1
+author=
+charset=ISO-8859-1
+csum=FreeDos HighMem
+host=80.219.10.249
+name=Site.FlashingBiosOfALinuxServer
+rev=101
+targets=
+text=!!HowTo for Flashing your Bios on a Server running Linux%0a%0aNew Eric Auer Link: http://www.auersoft.eu/soft/by-others/%0a%0a!!!5 Steps to your bootable USB-Drive so you can flash your Bios%0a# Download [[http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz | Makebootfat with the Eric Auer Patch]], [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Command.com]] (in the download Link it is called FreeCOM), [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Kernel.sys]], [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.32).%0a# Create a directory in /tmp where you have to place, a) all your BIOS Upgrade files b) himemx.exe, c) command.com d) kernel.sys%0a# Change to the directory where you untared makebootfat with Eric Auers Patch. You will have FreeDOS and mbr.bin in that directory.%0a# Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 [[http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.0/pkgs/kernels.zip | freedos-fat32lba.bin]] -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ | mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a# If you get a strange command \P not found grab the config.sys and autoexec.bat from [[http://sourceforge.net/projects/freedos/files/ | here]]%0a# If you get a "E:256" error it is possible that you Bios does not support highmem. Switch off Highmem and command.com should work. Also see [[http://fd-doc.sourceforge.net/faq/cgi-bin/viewfaq.cgi?faq=Installing_FreeDOS/269 | this thread]].%0a# Boot from USB.%0a%0a!!!Links%0a* http://www.linuxinsight.com/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html (did not work for me)%0a* http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive (worked for me with some extra steps)%0a* http://www.stilen.com/notes/usb_dos_boot.txt (if you follow this HowTo then make sure to make the first cylinder - of the first partition - from 1-214 and nothing else).%0a%0a!!!Software%0a* http://rugxulo.googlepages.com/ (FreeDOS)%0a* http://www.fdos.org/bootdisks/autogen/FDOEM.144.gz (old)%0a* http://freedos.svn.sourceforge.net/viewvc/freedos/kernel/trunk/boot/ (this file is included in the Patch of Eric Auer).%0a%0a!!!Finding out your Bios-Version without doing a reboot%0a* dmidecode -s bios-version%0a%0a!!!HP Drive Key Boot Utility%0a* By using this [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | HP utility]] I found out that my FileSystem has to be FAT16 (LBA)! Also the first cylinder has to start at 1 and end somewhere at 214. Everything else did not work for my [[http://www.victorinox.ch/index.cfm?site=victorinox.ch&page=157&lang=D | 2GB Victorinox USB-Stick]].%0a* Fdisk partition table looked like this afterwards:%0aAttach:fdisk_bios_usb_flash_partition_table.jpg\\%0a* Make sure you have FAT on that USB-stick and _not_ a FAT32.%0a%0a!!!Input by Eric Auer%0a* Use mtools to modify contents of USB and floppy images.%0a* dd count=8000 if=/dev/zero of=/tmp/floppy ; mkdosfs /tmp/floppy is probably ambiguous. Better use for example bs=1024 count=2880 instead of using only count. If size is higher, better not call the file "floppy" to avoid confusing readers :-).%0a* Attach:von_eric_auer_6.6.2008.txt%0a* Attach:von_eric_auer_9.6.2008.txt%0a%0a!!!Eric Auer's way[[#AuersWay]]%0a# sudo ~/sys-freedos.pl --lba --drive=255 --disk=/dev/sdb1 http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip - new link of Eric Auer: http://www.auersoft.eu/soft/by-others/%0a# sudo mcopy btc-boot/*.* c: http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a# If you want Himem: http://www.japheth.de/Jemm.html
+time=1259940354
+author:1259940354=
+csum:1259940354=FreeDos HighMem
+diff:1259940354:1259940306:=11c11%0a%3c # If you get a "E:256" error it is possible that you Bios does not support highmem. Switch off Highmem and command.com should work. Also see [[http://fd-doc.sourceforge.net/faq/cgi-bin/viewfaq.cgi?faq=Installing_FreeDOS/269 | this thread]].%0a---%0a> # If you get a "E:256" error it is possible that you Bios does not support highmem. Switch off Highmem and command.com should work.%0a
+host:1259940354=80.219.10.249
+author:1259940306=
+diff:1259940306:1259934763:=10,11c10%0a%3c # If you get a strange command \P not found grab the config.sys and autoexec.bat from [[http://sourceforge.net/projects/freedos/files/ | here]]%0a%3c # If you get a "E:256" error it is possible that you Bios does not support highmem. Switch off Highmem and command.com should work.%0a---%0a> # If you get a strange command \P not found grab the config.sys and autoexec.bat from [[http://sourceforge.net/projects/freedos/files/ | here]].%0a
+host:1259940306=80.219.10.249
+author:1259934763=
+diff:1259934763:1259934730:=10c10%0a%3c # If you get a strange command \P not found grab the config.sys and autoexec.bat from [[http://sourceforge.net/projects/freedos/files/ | here]].%0a---%0a> # If you get a strange command \P or E256 Error grab the config.sys and autoexec.bat from [[http://sourceforge.net/projects/freedos/files/ | here]].%0a
+host:1259934763=80.219.10.249
+author:1259934730=
+diff:1259934730:1259933419:=10c10%0a%3c # If you get a strange command \P or E256 Error grab the config.sys and autoexec.bat from [[http://sourceforge.net/projects/freedos/files/ | here]].%0a---%0a> # If you get a strange command \P or E256 Error grab the config.sys and autoexec.bat from [[http://sourceforge.net/projects/freedos/files/ | here]]%0a
+host:1259934730=80.219.10.249
+author:1259933419=
+diff:1259933419:1259933404:=10a11%0a> %0a
+host:1259933419=80.219.10.249
+author:1259933404=
+diff:1259933404:1259926722:=10,11d9%0a%3c # If you get a strange command \P or E256 Error grab the config.sys and autoexec.bat from [[http://sourceforge.net/projects/freedos/files/ | here]]%0a%3c %0a
+host:1259933404=80.219.10.249
+author:1259926722=
+diff:1259926722:1259926693:=9c9%0a%3c # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 [[http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.0/pkgs/kernels.zip | freedos-fat32lba.bin]] -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ | mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a---%0a> # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 [[www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.0/pkgs/kernels.zip | freedos-fat32lba.bin]] -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ | mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a
+host:1259926722=80.219.10.249
+author:1259926693=
+diff:1259926693:1259926665:=9c9,10%0a%3c # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 [[www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.0/pkgs/kernels.zip | freedos-fat32lba.bin]] -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ | mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a---%0a> # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 [[www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.0/pkgs/kernels.zip |%0a> freedos-fat32lba.bin]] -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ | mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a
+host:1259926693=80.219.10.249
+author:1259926665=
+diff:1259926665:1259926551:=9,10c9%0a%3c # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 [[www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.0/pkgs/kernels.zip |%0a%3c freedos-fat32lba.bin]] -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ | mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a---%0a> # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ | mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a
+host:1259926665=80.219.10.249
+author:1259926551=
+diff:1259926551:1259926534:=9c9%0a%3c # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ | mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a---%0a> # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a
+host:1259926551=80.219.10.249
+author:1259926534=
+diff:1259926534:1259926494:=
+host:1259926534=80.219.10.249
+author:1259926494=
+diff:1259926494:1242808614:=9c9%0a%3c # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m [[http://www.kernel.org/pub/linux/utils/boot/syslinux/ mbrfat.bin]] -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a---%0a> # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a
+host:1259926494=80.219.10.249
+author:1242808614=
+diff:1242808614:1242807994:=3,4d2%0a%3c New Eric Auer Link: http://www.auersoft.eu/soft/by-others/%0a%3c %0a
+host:1242808614=121.2.132.21
+author:1242807994=
+diff:1242807994:1213779709:=36c36%0a%3c # sudo ~/sys-freedos.pl --lba --drive=255 --disk=/dev/sdb1 http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip - new link of Eric Auer: http://www.auersoft.eu/soft/by-others/%0a---%0a> # sudo ~/sys-freedos.pl --lba --drive=255 --disk=/dev/sdb1 http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip%0a
+host:1242807994=121.2.132.21
+author:1213779709=
+diff:1213779709:1213634835:=36c36%0a%3c # sudo ~/sys-freedos.pl --lba --drive=255 --disk=/dev/sdb1 http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip%0a---%0a> # sudo ~/sys-freedos.pl --drive=255 --disk=/dev/sdb1 http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip%0a
+host:1213779709=77.57.16.157
+author:1213634835=
+diff:1213634835:1213634738:=7c7%0a%3c # Run this command a)  "sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one". b) if the Stick is totally new and has _not_ been toyed around with, try this: "sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one".%0a---%0a> # Run this command a)  '''sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one'''. b) if the Stick is totally new and has _not_ been toyed around with, try this: '''sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one'''.%0a
+host:1213634835=77.57.16.157
+author:1213634738=
+diff:1213634738:1213634674:=7c7%0a%3c # Run this command a)  '''sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one'''. b) if the Stick is totally new and has _not_ been toyed around with, try this: '''sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one'''.%0a---%0a> # Run this command a)  sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one. b) if the Stick is totally new and has _not_ been toyed around with, try this: sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb1 /tmp/directory_you_created_with_all_the_files_from_step_one.%0a
+host:1213634738=77.57.16.157
+author:1213634674=
+diff:1213634674:1213634663:=7c7,8%0a%3c # Run this command a)  sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one. b) if the Stick is totally new and has _not_ been toyed around with, try this: sudo makebootfat -v -l -P -2 freedos-fat16.bin -3 freedos-fat32lba.bin -E 255 -o /dev/sdb1 /tmp/directory_you_created_with_all_the_files_from_step_one.%0a---%0a> # Run this command a)  sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one. b) if the Stick is totally new and has _not_ been toyed around with, try this: sudo makebootfat -v -l -P -2 freedos-fat16.bin -3%0a> freedos-fat32lba.bin -E 255 -o /dev/sdb1 /tmp/directory_you_created_with_all_the_files_from_step_one.%0a
+host:1213634674=77.57.16.157
+author:1213634663=
+diff:1213634663:1213634572:=7,8c7,10%0a%3c # Run this command a)  sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one. b) if the Stick is totally new and has _not_ been toyed around with, try this: sudo makebootfat -v -l -P -2 freedos-fat16.bin -3%0a%3c freedos-fat32lba.bin -E 255 -o /dev/sdb1 /tmp/directory_you_created_with_all_the_files_from_step_one.%0a---%0a> # Run this command:%0a> * a)  sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one%0a> * b) if the Stick is totally new and has not been toyed around with, try this: sudo makebootfat -v -l -P -2 freedos-fat16.bin -3%0a> freedos-fat32lba.bin -E 255 -o /dev/sdb1 /tmp/hotpower/%0a
+host:1213634663=77.57.16.157
+author:1213634572=
+diff:1213634572:1213634529:=7,8c7,8%0a%3c # Run this command:%0a%3c * a)  sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one%0a---%0a> # %0a> * a) Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one%0a
+host:1213634572=77.57.16.157
+author:1213634529=
+diff:1213634529:1213634513:=7,8c7%0a%3c # %0a%3c * a) Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one%0a---%0a> # * a) Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one%0a
+host:1213634529=77.57.16.157
+author:1213634513=
+diff:1213634513:1213623906:=7,9c7%0a%3c # * a) Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one%0a%3c * b) if the Stick is totally new and has not been toyed around with, try this: sudo makebootfat -v -l -P -2 freedos-fat16.bin -3%0a%3c freedos-fat32lba.bin -E 255 -o /dev/sdb1 /tmp/hotpower/%0a---%0a> # Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one%0a
+host:1213634513=77.57.16.157
+author:1213623906=
+diff:1213623906:1213623769:=4c4%0a%3c # Download [[http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz | Makebootfat with the Eric Auer Patch]], [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Command.com]] (in the download Link it is called FreeCOM), [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Kernel.sys]], [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.32).%0a---%0a> # Download [[http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz | Makebootfat with the Eric Auer Patch]], [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Command.com]] (in the download Link it is called FreeCOM), [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Kernel.sys]], [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.30).%0a
+host:1213623906=77.57.16.157
+author:1213623769=
+diff:1213623769:1213623723:=13,14c13,14%0a%3c * http://www.stilen.com/notes/usb_dos_boot.txt (if you follow this HowTo then make sure to make the first cylinder - of the first partition - from 1-214 and nothing else).%0a%3c %0a---%0a> * http://www.stilen.com/notes/usb_dos_boot.txt (if you follow this HowTo then make sure to make the first cylinder (of the first partition) from 1-214 and nothing else.%0a> %0a
+host:1213623769=77.57.16.157
+author:1213623723=
+diff:1213623723:1213623653:=14c14,15%0a%3c %0a---%0a> * http://freedos.svn.sourceforge.net/viewvc/freedos/kernel/trunk/boot/%0a> %0a18,19c19%0a%3c * http://freedos.svn.sourceforge.net/viewvc/freedos/kernel/trunk/boot/ (this file is included in the Patch of Eric Auer).%0a%3c %0a---%0a> %0a
+host:1213623723=77.57.16.157
+author:1213623653=
+diff:1213623653:1213620234:=18,19c18,19%0a%3c * http://www.fdos.org/bootdisks/autogen/FDOEM.144.gz (old)%0a%3c %0a---%0a> * wget http://www.fdos.org/bootdisks/autogen/FDOEM.144.gz (old)%0a> %0a
+host:1213623653=77.57.16.157
+author:1213620234=
+diff:1213620234:1213620179:=3c3%0a%3c !!!5 Steps to your bootable USB-Drive so you can flash your Bios%0a---%0a> !!! Steps to your bootable USB-Drive so you can flash your Bios%0a
+host:1213620234=77.57.16.157
+author:1213620179=
+diff:1213620179:1213620106:=5c5%0a%3c # Create a directory in /tmp where you have to place, a) all your BIOS Upgrade files b) himemx.exe, c) command.com d) kernel.sys%0a---%0a> # Create a directory in /tmp/ where you have to place, a) all your BIOS Upgrade files b) himemx.exe, c) command.com d) kernel.sys%0a
+host:1213620179=77.57.16.157
+author:1213620106=
+diff:1213620106:1213620074:=4c4%0a%3c # Download [[http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz | Makebootfat with the Eric Auer Patch]], [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Command.com]] (in the download Link it is called FreeCOM), [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Kernel.sys]], [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.30).%0a---%0a> # Download [[http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz | Makebootfat with the Eric Auer Patch]], [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Command.com]], [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Kernel.sys]], [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.30).%0a
+host:1213620106=77.57.16.157
+author:1213620074=
+diff:1213620074:1213619605:=4c4%0a%3c # Download [[http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz | Makebootfat with the Eric Auer Patch]], [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Command.com]], [[http://sourceforge.net/project/showfiles.php?group_id=5109 | Kernel.sys]], [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.30).%0a---%0a> # Download [[http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz | Makebootfat with the Eric Auer Patch]], Command.com, Kernel.sys, [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.30).%0a
+host:1213620074=77.57.16.157
+author:1213619605=
+diff:1213619605:1213619586:=8,9c8%0a%3c # Boot from USB.%0a%3c %0a---%0a> %0a
+host:1213619605=77.57.16.157
+author:1213619586=
+diff:1213619586:1213619566:=7,8c7,8%0a%3c # Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created_with_all_the_files_from_step_one%0a%3c %0a---%0a> # Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created%0a> %0a
+host:1213619586=77.57.16.157
+author:1213619566=
+diff:1213619566:1213619544:=7,8c7,8%0a%3c # Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/directory_you_created%0a%3c %0a---%0a> # Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/hotpower/%0a> %0a
+host:1213619566=77.57.16.157
+author:1213619544=
+diff:1213619544:1213619407:=6,8c6,7%0a%3c # Change to the directory where you untared makebootfat with Eric Auers Patch. You will have FreeDOS and mbr.bin in that directory.%0a%3c # Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/hotpower/%0a%3c %0a---%0a> # Run this command from the directory where you untared makebootfat with Eric Auers Patch, otherwise you will not have FreeDOS and mbr.bin installed on your USB stick: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/hotpower/%0a> %0a
+host:1213619544=77.57.16.157
+author:1213619407=
+diff:1213619407:1213619312:=6,7c6,7%0a%3c # Run this command from the directory where you untared makebootfat with Eric Auers Patch, otherwise you will not have FreeDOS and mbr.bin installed on your USB stick: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/hotpower/%0a%3c %0a---%0a> # Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/hotpower/%0a> %0a
+host:1213619407=77.57.16.157
+author:1213619312=
+diff:1213619312:1213619277:=4c4%0a%3c # Download [[http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz | Makebootfat with the Eric Auer Patch]], Command.com, Kernel.sys, [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.30).%0a---%0a> # Download http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz, Command.com, Kernel.sys, [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.30).%0a
+host:1213619312=77.57.16.157
+author:1213619277=
+diff:1213619277:1213617799:=4c4%0a%3c # Download http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz, Command.com, Kernel.sys, [[http://www.japheth.de/Download/Himem330.ZIP | Himemx.exe]] (Version 3.30).%0a---%0a> # Download http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz, Command.com, Kernel.sys, Himemx.exe (Version 3.30).%0a
+host:1213619277=77.57.16.157
+author:1213617799=
+diff:1213617799:1213617752:=4c4%0a%3c # Download http://www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz, Command.com, Kernel.sys, Himemx.exe (Version 3.30).%0a---%0a> # Download www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz, Command.com, Kernel.sys, Himemx.exe (Version 3.30).%0a
+host:1213617799=77.57.16.157
+author:1213617752=
+diff:1213617752:1213616466:=2,7c2,6%0a%3c %0a%3c !!! Steps to your bootable USB-Drive so you can flash your Bios%0a%3c # Download www.coli.uni-saarland.de/~eric/makebootfat-1.5.tgz, Command.com, Kernel.sys, Himemx.exe (Version 3.30).%0a%3c # Create a directory in /tmp/ where you have to place, a) all your BIOS Upgrade files b) himemx.exe, c) command.com d) kernel.sys%0a%3c # Run this command: sudo makebootfat -v -H 64 -l -D -3 freedos-fat32lba.bin -E 255 -m mbrfat.bin -o /dev/sdb /tmp/hotpower/%0a%3c %0a---%0a> !!! Four steps to your bootable USB-Drive so you can flash your Bios%0a> # sudo makebootfat -o /dev/sdb -E 255 -3 ~/usboot/fat32lba.bss -m mbr.bin -D ~/usboot/root%0a> # fdisk -S 63 -H 32 /dev/sdb (First Cylinder should start at 1 and end at 214)%0a> # sudo makebootfat -o /dev/sdb1 -3 ~/usboot/fat32lba.bss -P ~/usboot/root%0a> # Boot from USB.%0a
+host:1213617752=77.57.16.157
+author:1213616466=
+diff:1213616466:1213359909:=34,35c34%0a%3c # sudo mcopy btc-boot/*.* c: http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a%3c # If you want Himem: http://www.japheth.de/Jemm.html%0a\ No newline at end of file%0a---%0a> # sudo mcopy btc-boot/*.* c: http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a\ No newline at end of file%0a
+host:1213616466=77.57.16.157
+author:1213359909=
+diff:1213359909:1213359868:=4c4%0a%3c # fdisk -S 63 -H 32 /dev/sdb (First Cylinder should start at 1 and end at 214)%0a---%0a> # fdisk -S 63 -H 32 /dev/sdb%0a
+host:1213359909=77.57.16.157
+author:1213359868=
+diff:1213359868:1213359824:=12a13,15%0a> !!!USB-Stick Solution%0a> * dd if=FDOEM.144 of=/dev/sdb1%0a> %0a14c17%0a%3c * http://rugxulo.googlepages.com/ (FreeDOS)%0a---%0a> * http://rugxulo.googlepages.com/ (new)%0a19a23,25%0a> !!![[Main/OpenSource]] Bios%0a> * http://www.coreboot.org/Welcome_to_coreboot%0a> %0a
+host:1213359868=77.57.16.157
+author:1213359824=
+diff:1213359824:1213359786:=22a23,29%0a> !!!In case your run out of space%0a> * dd count=8000 if=/dev/zero of=/tmp/floppy%0a> * mkdosfs /tmp/floppy%0a> * mount -o loop /tmp/floppy /mnt/cdrom/%0a> * mount -o loop /home/hwyss/sandbox/FDOEM.144 /mnt/floppy%0a> * cp /mnt/floppy/* /mnt/cdrom/%0a> %0a
+host:1213359824=77.57.16.157
+author:1213359786=
+diff:1213359786:1213359740:=3c3%0a%3c # sudo makebootfat -o /dev/sdb -E 255 -3 ~/usboot/fat32lba.bss -m mbr.bin -D ~/usboot/root%0a---%0a> # sudo makebootfat -o usb -E 255 -3 fat32lba.bss -m mbr.bin root"%0a
+host:1213359786=77.57.16.157
+author:1213359740=
+diff:1213359740:1213359722:=3c3%0a%3c # sudo makebootfat -o usb -E 255 -3 fat32lba.bss -m mbr.bin root"%0a---%0a> # Run this command "sudo makebootfat -o usb -E 255 -3 fat32lba.bss -m mbr.bin root"%0a
+host:1213359740=77.57.16.157
+author:1213359722=
+diff:1213359722:1213359683:=4c4%0a%3c # fdisk -S 63 -H 32 /dev/sdb%0a---%0a> # fdisk -S 63 -H 32  $DISK%0a
+host:1213359722=77.57.16.157
+author:1213359683=
+diff:1213359683:1213359655:=4c4%0a%3c # fdisk -S 63 -H 32  $DISK%0a---%0a> #%0a
+host:1213359683=77.57.16.157
+author:1213359655=
+diff:1213359655:1213359067:=3,5c3,5%0a%3c # Run this command "sudo makebootfat -o usb -E 255 -3 fat32lba.bss -m mbr.bin root"%0a%3c #%0a%3c # sudo makebootfat -o /dev/sdb1 -3 ~/usboot/fat32lba.bss -P ~/usboot/root%0a---%0a> # Follow this [[http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive | HowTo]] (Instructions for the FreeDOS direct boot method)%0a> # Run this command "sudo makebootfat -o usb -E 255 -1 fat12.bss -2 fat16.bss -3 fat32lba.bss -m mbr.bin root"%0a> # Fire up "fdisk" change your file-system to "e" (FAT16 - LBA) - makebootfat will do you a FAT32 and some Bios'es can not read that.%0a
+host:1213359655=77.57.16.157
+author:1213359067=
+diff:1213359067:1213359014:=47c47%0a%3c # sudo mcopy btc-boot/*.* c: http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a\ No newline at end of file%0a---%0a> # sudo mcopy btc-boot/*.* u: http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a\ No newline at end of file%0a
+host:1213359067=77.57.16.157
+author:1213359014=
+diff:1213359014:1213358986:=46,47c46,47%0a%3c # sudo ~/sys-freedos.pl --drive=255 --disk=/dev/sdb1 http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip%0a%3c # sudo mcopy btc-boot/*.* u: http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a\ No newline at end of file%0a---%0a> # sudo ~/sys-freedos.pl --drive=255 --disk=/dev/sdb1 (http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip)%0a> # sudo mcopy btc-boot/*.* u: (http://www.coli.uni-saarland.de/~eric/btc-boot.zip)%0a\ No newline at end of file%0a
+host:1213359014=77.57.16.157
+author:1213358986=
+diff:1213358986:1213358940:=46,47c46,49%0a%3c # sudo ~/sys-freedos.pl --drive=255 --disk=/dev/sdb1 (http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip)%0a%3c # sudo mcopy btc-boot/*.* u: (http://www.coli.uni-saarland.de/~eric/btc-boot.zip)%0a\ No newline at end of file%0a---%0a> # sudo ~/sys-freedos.pl --drive=255 --disk=/dev/sdb1%0a> # sudo mcopy btc-boot/*.* u:%0a> # http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a> # http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip%0a\ No newline at end of file%0a
+host:1213358986=77.57.16.157
+author:1213358940=
+diff:1213358940:1213357718:=48,49c48%0a%3c # http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a%3c # http://www.coli.uni-saarland.de/~eric/stuff/soft/specials/sys-freedos-linux.zip%0a\ No newline at end of file%0a---%0a> # http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a\ No newline at end of file%0a
+host:1213358940=77.57.16.157
+author:1213357718=
+diff:1213357718:1213357707:=45c45%0a%3c !!!Eric Auer's way[[#AuersWay]]%0a---%0a> !!!Eric Auer's way[[AuersWay]]%0a
+host:1213357718=77.57.16.157
+author:1213357707=
+diff:1213357707:1213357677:=45c45%0a%3c !!!Eric Auer's way[[AuersWay]]%0a---%0a> !!!Eric Auer's way%0a
+host:1213357707=77.57.16.157
+author:1213357677=
+diff:1213357677:1213357642:=44,48c44,46%0a%3c %0a%3c !!!Eric Auer's way%0a%3c # sudo ~/sys-freedos.pl --drive=255 --disk=/dev/sdb1%0a%3c # sudo mcopy btc-boot/*.* u:%0a%3c # http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a\ No newline at end of file%0a---%0a> * sudo ~/sys-freedos.pl --drive=255 --disk=/dev/sdb1%0a> * sudo mcopy btc-boot/*.* u:%0a> * http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a\ No newline at end of file%0a
+host:1213357677=77.57.16.157
+author:1213357642=
+diff:1213357642:1213024679:=43,46c43%0a%3c * Attach:von_eric_auer_9.6.2008.txt%0a%3c * sudo ~/sys-freedos.pl --drive=255 --disk=/dev/sdb1%0a%3c * sudo mcopy btc-boot/*.* u:%0a%3c * http://www.coli.uni-saarland.de/~eric/btc-boot.zip%0a\ No newline at end of file%0a---%0a> * Attach:von_eric_auer_9.6.2008.txt%0a\ No newline at end of file%0a
+host:1213357642=77.57.16.157
+author:1213024679=
+diff:1213024679:1213024162:=34c34%0a%3c * By using this [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | HP utility]] I found out that my FileSystem has to be FAT16 (LBA)! Also the first cylinder has to start at 1 and end somewhere at 214. Everything else did not work for my [[http://www.victorinox.ch/index.cfm?site=victorinox.ch&page=157&lang=D | 2GB Victorinox USB-Stick]].%0a---%0a> * By using this [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | HP utility]] I found out that my FileSystem has to be FAT16 (LBA)!%0a
+host:1213024679=77.57.16.157
+author:1213024162=
+diff:1213024162:1213021795:=42,43c42%0a%3c * Attach:von_eric_auer_6.6.2008.txt%0a%3c * Attach:von_eric_auer_9.6.2008.txt%0a\ No newline at end of file%0a---%0a> * Attach:von_eric_auer_6.6.2008.txt%0a\ No newline at end of file%0a
+host:1213024162=77.57.16.157
+author:1213021795=
+diff:1213021795:1212763694:=11,12c11%0a%3c * http://freedos.svn.sourceforge.net/viewvc/freedos/kernel/trunk/boot/%0a%3c %0a---%0a> %0a
+host:1213021795=77.57.16.157
+author:1212763694=
+diff:1212763694:1212763556:=41c41%0a%3c * Attach:von_eric_auer_6.6.2008.txt%0a\ No newline at end of file%0a---%0a> * Attach:von_eric_auer.txt%0a\ No newline at end of file%0a
+host:1212763694=77.57.16.157
+author:1212763556=
+diff:1212763556:1212756614:=40,41c40%0a%3c * dd count=8000 if=/dev/zero of=/tmp/floppy ; mkdosfs /tmp/floppy is probably ambiguous. Better use for example bs=1024 count=2880 instead of using only count. If size is higher, better not call the file "floppy" to avoid confusing readers :-).%0a%3c * Attach:von_eric_auer.txt%0a\ No newline at end of file%0a---%0a> * dd count=8000 if=/dev/zero of=/tmp/floppy ; mkdosfs /tmp/floppy is probably ambiguous. Better use for example bs=1024 count=2880 instead of using only count. If size is higher, better not call the file "floppy" to avoid confusing readers :-).%0a\ No newline at end of file%0a
+host:1212763556=77.57.16.157
+author:1212756614=
+diff:1212756614:1212756582:=39,40c39%0a%3c * Use mtools to modify contents of USB and floppy images.%0a%3c * dd count=8000 if=/dev/zero of=/tmp/floppy ; mkdosfs /tmp/floppy is probably ambiguous. Better use for example bs=1024 count=2880 instead of using only count. If size is higher, better not call the file "floppy" to avoid confusing readers :-).%0a\ No newline at end of file%0a---%0a> * Use mtools to modify contents of USB and floppy images.%0a\ No newline at end of file%0a
+host:1212756614=77.57.16.157
+author:1212756582=
+diff:1212756582:1212756487:=36,39c36%0a%3c * Make sure you have FAT on that USB-stick and _not_ a FAT32.%0a%3c %0a%3c !!!Input by Eric Auer%0a%3c * Use mtools to modify contents of USB and floppy images.%0a\ No newline at end of file%0a---%0a> * Make sure you have FAT on that USB-stick and _not_ a FAT32.%0a\ No newline at end of file%0a
+host:1212756582=77.57.16.157
+author:1212756487=
+diff:1212756487:1212733461:=16,18c16,17%0a%3c * http://rugxulo.googlepages.com/ (new)%0a%3c * wget http://www.fdos.org/bootdisks/autogen/FDOEM.144.gz (old)%0a%3c %0a---%0a> * wget http://www.fdos.org/bootdisks/autogen/FDOEM.144.gz%0a> %0a
+host:1212756487=77.57.16.157
+author:1212733461=
+diff:1212733461:1212583773:=10,11c10,11%0a%3c * http://www.stilen.com/notes/usb_dos_boot.txt (if you follow this HowTo then make sure to make the first cylinder (of the first partition) from 1-214 and nothing else.%0a%3c %0a---%0a> * http://www.stilen.com/notes/usb_dos_boot.txt (if you follow this HowTo then make sure to make the first sector from 1-214 and nothing else.%0a> %0a
+host:1212733461=77.57.16.157
+author:1212583773=
+diff:1212583773:1212502757:=10,11c10,11%0a%3c * http://www.stilen.com/notes/usb_dos_boot.txt (if you follow this HowTo then make sure to make the first sector from 1-214 and nothing else.%0a%3c %0a---%0a> * http://www.stilen.com/notes/usb_dos_boot.txt%0a> %0a
+host:1212583773=77.57.16.157
+author:1212502757=
+diff:1212502757:1212496215:=10,11c10%0a%3c * http://www.stilen.com/notes/usb_dos_boot.txt%0a%3c %0a---%0a> %0a
+host:1212502757=77.57.16.157
+author:1212496215=
+diff:1212496215:1212496141:=8,10c8,10%0a%3c * http://www.linuxinsight.com/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html (did not work for me)%0a%3c * http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive (worked for me with some extra steps)%0a%3c %0a---%0a> * http://www.linuxinsight.com/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html%0a> * http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive%0a> %0a
+host:1212496215=77.57.16.157
+author:1212496141=
+diff:1212496141:1212496114:=31c31%0a%3c * By using this [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | HP utility]] I found out that my FileSystem has to be FAT16 (LBA)!%0a---%0a> * By using this [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | | HP utility]] I found out that my FileSystem has to be FAT16 (LBA)!%0a
+host:1212496141=77.57.16.157
+author:1212496114=
+diff:1212496114:1212496106:=6c6%0a%3c # Boot from USB.%0a---%0a> # But from USB.%0a
+host:1212496114=77.57.16.157
+author:1212496106=
+diff:1212496106:1212496058:=5c5%0a%3c # Fire up "fdisk" change your file-system to "e" (FAT16 - LBA) - makebootfat will do you a FAT32 and some Bios'es can not read that.%0a---%0a> # Fire up "fdisk" change your file-system to "e" (FAT16 -LBA) - makebootfat will do you a FAT32 and some Bios'es can not read that.%0a
+host:1212496106=77.57.16.157
+author:1212496058=
+diff:1212496058:1212496019:=3c3%0a%3c # Follow this [[http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive | HowTo]] (Instructions for the FreeDOS direct boot method)%0a---%0a> # Follow this [[http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive | HowTo]]%0a
+host:1212496058=77.57.16.157
+author:1212496019=
+diff:1212496019:1212495970:=5c5%0a%3c # Fire up "fdisk" change your file-system to "e" (FAT16 -LBA) - makebootfat will do you a FAT32 and some Bios'es can not read that.%0a---%0a> # Fire up "fdisk" and flag and change your file-system to "e" (FAT16 -LBA).%0a
+host:1212496019=77.57.16.157
+author:1212495970=
+diff:1212495970:1212495947:=2c2%0a%3c !!! Four steps to your bootable USB-Drive so you can flash your Bios%0a---%0a> !!! 4 steps to your bootable USB-Drive%0a
+host:1212495970=77.57.16.157
+author:1212495947=
+diff:1212495947:1212495871:=2,6d1%0a%3c !!! 4 steps to your bootable USB-Drive%0a%3c # Follow this [[http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive | HowTo]]%0a%3c # Run this command "sudo makebootfat -o usb -E 255 -1 fat12.bss -2 fat16.bss -3 fat32lba.bss -m mbr.bin root"%0a%3c # Fire up "fdisk" and flag and change your file-system to "e" (FAT16 -LBA).%0a%3c # But from USB.%0a34c29,34%0a%3c * Make sure you have FAT on that USB-stick and _not_ a FAT32.%0a\ No newline at end of file%0a---%0a> * Make sure you have FAT on that USB-stick and _not_ a FAT32.%0a> !!! Solution that worked for me%0a> # Follow this [[http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive | HowTo]]%0a> # Run this command "sudo makebootfat -o usb -E 255 -1 fat12.bss -2 fat16.bss -3 fat32lba.bss -m mbr.bin root"%0a> # Fire up "fdisk" and flag and change your file-system to "e" (FAT16 -LBA).%0a> # But from USB.%0a\ No newline at end of file%0a
+host:1212495947=77.57.16.157
+author:1212495871=
+diff:1212495871:1212495854:=31c31,32%0a%3c # Follow this [[http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive | HowTo]]%0a---%0a> # Follow this [[http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive%0a>  | HowTo]]%0a
+host:1212495871=77.57.16.157
+author:1212495854=
+diff:1212495854:1212270089:=26c26%0a%3c * By using this [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | | HP utility]] I found out that my FileSystem has to be FAT16 (LBA)!%0a---%0a> * Ok, this is a bit sad but after spending days trying to boot from my USB-Flash-Drive this was the [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | easiest]] solution!%0a29,35c29%0a%3c * Make sure you have FAT on that USB-stick and _not_ a FAT32.%0a%3c !!! Solution that worked for me%0a%3c # Follow this [[http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive%0a%3c  | HowTo]]%0a%3c # Run this command "sudo makebootfat -o usb -E 255 -1 fat12.bss -2 fat16.bss -3 fat32lba.bss -m mbr.bin root"%0a%3c # Fire up "fdisk" and flag and change your file-system to "e" (FAT16 -LBA).%0a%3c # But from USB.%0a\ No newline at end of file%0a---%0a> * Make sure you have FAT on that USB-stick and _not_ a FAT32.%0a\ No newline at end of file%0a
+host:1212495854=77.57.16.157
+author:1212270089=
+diff:1212270089:1212269501:=29c29%0a%3c * Make sure you have FAT on that USB-stick and _not_ a FAT32.%0a\ No newline at end of file%0a---%0a> * Make your you have FAT on that USB-stick and _not_ a FAT32.%0a\ No newline at end of file%0a
+host:1212270089=77.57.16.157
+author:1212269501=
+diff:1212269501:1212269449:=29c29%0a%3c * Make your you have FAT on that USB-stick and _not_ a FAT32.%0a\ No newline at end of file%0a---%0a> *Make your you have FAT on that USB-stick and _not_ a FAT32.%0a\ No newline at end of file%0a
+host:1212269501=77.57.16.157
+author:1212269449=
+diff:1212269449:1212269388:=28,29c28%0a%3c Attach:fdisk_bios_usb_flash_partition_table.jpg\\%0a%3c *Make your you have FAT on that USB-stick and _not_ a FAT32.%0a\ No newline at end of file%0a---%0a> Attach:fdisk_bios_usb_flash_partition_table.jpg%0a\ No newline at end of file%0a
+host:1212269449=77.57.16.157
+author:1212269388=
+diff:1212269388:1212243223:=26c26%0a%3c * Ok, this is a bit sad but after spending days trying to boot from my USB-Flash-Drive this was the [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | easiest]] solution!%0a---%0a> * Ok, this is a bit sad but after spending days to boot from my USB-Flash-Drive this was the [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | easiset]] solution!%0a
+host:1212269388=77.57.16.157
+author:1212243223=
+diff:1212243223:1212243181:=1c1%0a%3c !!HowTo for Flashing your Bios on a Server running Linux%0a---%0a> !!Howto for Flashing your Bios on a Server running Linux%0a
+host:1212243223=77.57.16.157
+author:1212243181=
+diff:1212243181:1212243044:=28c28,40%0a%3c Attach:fdisk_bios_usb_flash_partition_table.jpg%0a\ No newline at end of file%0a---%0a> ~> sudo /sbin/fdisk /dev/sdb%0a> %0a> Command (m for help): p%0a> %0a> Disk /dev/sdb: 2029 MB, 2029518848 bytes%0a> 255 heads, 63 sectors/track, 246 cylinders%0a> Units = cylinders of 16065 * 512 = 8225280 bytes%0a> Disk identifier: 0x0007a81f%0a> %0a>    Device Boot      Start         End      Blocks   Id  System%0a> /dev/sdb1   *           1         247     1981920+   e  W95 FAT16 (LBA)%0a> Partition 1 has different physical/logical endings:%0a>      phys=(245, 254, 63) logical=(246, 189, 7)%0a
+host:1212243181=77.57.16.157
+author:1212243044=
+diff:1212243044:1212242992:=26,40c26%0a%3c * Ok, this is a bit sad but after spending days to boot from my USB-Flash-Drive this was the [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | easiset]] solution!%0a%3c * Fdisk partition table looked like this afterwards:%0a%3c ~> sudo /sbin/fdisk /dev/sdb%0a%3c %0a%3c Command (m for help): p%0a%3c %0a%3c Disk /dev/sdb: 2029 MB, 2029518848 bytes%0a%3c 255 heads, 63 sectors/track, 246 cylinders%0a%3c Units = cylinders of 16065 * 512 = 8225280 bytes%0a%3c Disk identifier: 0x0007a81f%0a%3c %0a%3c    Device Boot      Start         End      Blocks   Id  System%0a%3c /dev/sdb1   *           1         247     1981920+   e  W95 FAT16 (LBA)%0a%3c Partition 1 has different physical/logical endings:%0a%3c      phys=(245, 254, 63) logical=(246, 189, 7)%0a---%0a> * Ok, this is a bit sad but after spending days to boot from my USB-Flash-Drive this was the [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | easiset]] solution%0a\ No newline at end of file%0a
+host:1212243044=77.57.16.157
+author:1212242992=
+diff:1212242992:1212242853:=26c26%0a%3c * Ok, this is a bit sad but after spending days to boot from my USB-Flash-Drive this was the [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# | easiset]] solution%0a\ No newline at end of file%0a---%0a> * Ok, this is a bit sad but after spending days to boot from my USB-Flash-Drive this was the [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# ¦ easiset]] solution%0a\ No newline at end of file%0a
+host:1212242992=77.57.16.157
+author:1212242853=
+diff:1212242853:1212133388:=23,26c23%0a%3c * http://www.coreboot.org/Welcome_to_coreboot%0a%3c %0a%3c !!!HP Drive Key Boot Utility%0a%3c * Ok, this is a bit sad but after spending days to boot from my USB-Flash-Drive this was the [[http://h20000.www2.hp.com/bizsupport/TechSupport/SoftwareDescription.jsp?lang=en&cc=US&swItem=MTX-UNITY-I23839# ¦ easiset]] solution %0a\ No newline at end of file%0a---%0a> * http://www.coreboot.org/Welcome_to_coreboot%0a\ No newline at end of file%0a
+host:1212242853=77.57.16.157
+author:1212133388=
+diff:1212133388:1212062371:=3,5c3,4%0a%3c * http://www.linuxinsight.com/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html%0a%3c * http://ben.franske.com/blogs/2007/08/21/booting_dos_from_a_usb_flash_drive%0a%3c %0a---%0a> http://www.linuxinsight.com/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html%0a> %0a
+host:1212133388=77.57.16.157
+author:1212062371=
+diff:1212062371:1212057526:=21c21%0a%3c !!![[Main/OpenSource]] Bios%0a---%0a> !!!For an [[Main/OpenSource]] Bios%0a
+host:1212062371=77.57.16.157
+author:1212057526=
+diff:1212057526:1212056887:=21c21%0a%3c !!!For an [[Main/OpenSource]] Bios%0a---%0a> !!!For an OpenSource Bios%0a
+host:1212057526=77.57.16.157
+author:1212056887=
+diff:1212056887:1212053304:=20,22d19%0a%3c %0a%3c !!!For an OpenSource Bios%0a%3c * http://www.coreboot.org/Welcome_to_coreboot%0a\ No newline at end of file%0a
+host:1212056887=77.57.16.157
+author:1212053304=
+diff:1212053304:1212053282:=14d13%0a%3c !!!In case your run out of space%0a
+host:1212053304=77.57.16.157
+author:1212053282=
+diff:1212053282:1212053203:=14,18c14,22%0a%3c * dd count=8000 if=/dev/zero of=/tmp/floppy%0a%3c * mkdosfs /tmp/floppy%0a%3c * mount -o loop /tmp/floppy /mnt/cdrom/%0a%3c * mount -o loop /home/hwyss/sandbox/FDOEM.144 /mnt/floppy%0a%3c * cp /mnt/floppy/* /mnt/cdrom/%0a---%0a> > work tmp # dd count=8000 if=/dev/zero of=/tmp/floppy%0a> > 8000+0 records in%0a> > 8000+0 records out%0a> > 4096000 bytes (4.1 MB) copied, 0.0242906 s, 169 MB/s%0a> > work tmp # mkdosfs /tmp/floppy%0a> > mkdosfs 2.11 (12 Mar 2005)%0a> > work tmp # mount -o loop /tmp/floppy /mnt/cdrom/%0a> > work tmp # mount -o loop /home/hwyss/sandbox/FDOEM.144 /mnt/floppy%0a> > work tmp # cp /mnt/floppy/* /mnt/cdrom/%0a
+host:1212053282=77.57.16.157
+author:1212053203=
+diff:1212053203:1212047533:=12,22c12%0a%3c * dmidecode -s bios-version%0a%3c %0a%3c > work tmp # dd count=8000 if=/dev/zero of=/tmp/floppy%0a%3c > 8000+0 records in%0a%3c > 8000+0 records out%0a%3c > 4096000 bytes (4.1 MB) copied, 0.0242906 s, 169 MB/s%0a%3c > work tmp # mkdosfs /tmp/floppy%0a%3c > mkdosfs 2.11 (12 Mar 2005)%0a%3c > work tmp # mount -o loop /tmp/floppy /mnt/cdrom/%0a%3c > work tmp # mount -o loop /home/hwyss/sandbox/FDOEM.144 /mnt/floppy%0a%3c > work tmp # cp /mnt/floppy/* /mnt/cdrom/%0a---%0a> * dmidecode -s bios-version%0a\ No newline at end of file%0a
+host:1212053203=77.57.16.157
+author:1212047533=
+diff:1212047533:1212043809:=6,7c6,7%0a%3c * dd if=FDOEM.144 of=/dev/sdb1%0a%3c %0a---%0a> * dd if=FDOEM.144 of=/dev/sdb%0a> %0a
+host:1212047533=77.57.16.157
+author:1212043809=
+diff:1212043809:1212042278:=9,12c9%0a%3c * wget http://www.fdos.org/bootdisks/autogen/FDOEM.144.gz%0a%3c %0a%3c !!!Finding out your Bios-Version without doing a reboot%0a%3c * dmidecode -s bios-version%0a\ No newline at end of file%0a---%0a> * wget http://www.fdos.org/bootdisks/autogen/FDOEM.144.gz%0a\ No newline at end of file%0a
+host:1212043809=77.57.16.157
+author:1212042278=
+diff:1212042278:1212042249:=6,9c6%0a%3c * dd if=FDOEM.144 of=/dev/sdb%0a%3c %0a%3c !!!Software%0a%3c * wget http://www.fdos.org/bootdisks/autogen/FDOEM.144.gz%0a\ No newline at end of file%0a---%0a> * dd if=FDOEM.144 of=/dev/sdb%0a\ No newline at end of file%0a
+host:1212042278=77.57.16.157
+author:1212042249=
+diff:1212042249:1212042237:=2d1%0a%3c !!!Links%0a
+host:1212042249=77.57.16.157
+author:1212042237=
+diff:1212042237:1212042221:=5c5%0a%3c * dd if=FDOEM.144 of=/dev/sdb%0a\ No newline at end of file%0a---%0a> * dd if=FDOEM.144 of=/dev/MyUsbDevice%0a\ No newline at end of file%0a
+host:1212042237=77.57.16.157
+author:1212042221=
+diff:1212042221:1212042163:=2,5c2%0a%3c http://www.linuxinsight.com/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html%0a%3c %0a%3c !!!USB-Stick Solution%0a%3c * dd if=FDOEM.144 of=/dev/MyUsbDevice%0a\ No newline at end of file%0a---%0a> http://www.linuxinsight.com/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html%0a\ No newline at end of file%0a
+host:1212042221=77.57.16.157
+author:1212042163=
+diff:1212042163:1212042145:=1,2c1%0a%3c !!Howto for Flashing your Bios on a Server running Linux%0a%3c http://www.linuxinsight.com/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html%0a\ No newline at end of file%0a---%0a> !!Howto for Flashing your Bios on a Server running Linux%0a\ No newline at end of file%0a
+host:1212042163=77.57.16.157
+author:1212042145=
+diff:1212042145:1212042145:=1d0%0a%3c !!Howto for Flashing your Bios on a Server running Linux%0a\ No newline at end of file%0a
+host:1212042145=77.57.16.157

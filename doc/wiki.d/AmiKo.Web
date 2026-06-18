@@ -1,0 +1,39 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.56 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1489068787
+host=212.51.146.241
+name=AmiKo.Web
+rev=9
+targets=AmiKo.Index
+text=%3c%3c|[[Index]]|>>%0a!AmiKo-Web%0a!! Voll-Text-Fachinfo-Suche%0aNeu finden Sie auf https://amiko.oddb.org/ auch die Möglichkeit einer%0aVoll-Text-Suche. Was heisst das genau? Wir erstellen täglich eine%0aaktuelle Datenbank der wichtigsten Worte (ca. 160'000) aus allen%0aFachinfos der Schweiz. Wir weisen die Worte den Kapiteln zu und zählen%0adie Anzahl Treffer des Suchbegriffs im Kapitel.%0a%0aEntsprechend kann man jetzt z.B. rausfinden ob der "Husten" zur%0aIndikation des Medikamentes oder zur "Nebenwirkung" des Medikaments%0agehört.%0a%0aGleichzeitig wird der Benutzer direkt zum markierten Suchbegriff im%0aFachinfo-Text geführt.%0a%0a''Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten | Husten]]''%0a%0aBei Fragen stehe ich Ihnen gerne zur Verfügung.%0a%0aMit freundlichen Grüssen\\%0aZeno Davatz\\%0a+41 43 540 05 50
+time=1551948182
+author:1551948182=zeno
+diff:1551948182:1516270294:=1d0%0a%3c %3c%3c|[[Index]]|>>%0a
+host:1551948182=212.51.146.241
+author:1516270294=zeno
+diff:1516270294:1489743651:=1d0%0a%3c !AmiKo-Web%0a
+host:1516270294=212.51.146.241
+author:1489743651=zeno
+diff:1489743651:1489069756:=19,20c19,20%0a%3c Mit freundlichen Grüssen\\%0a%3c Zeno Davatz\\%0a---%0a> Mit freundlichen Grüssen%0a> Zeno Davatz%0a
+host:1489743651=212.51.146.241
+author:1489069756=zeno
+diff:1489069756:1489069062:=15c15%0a%3c ''Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten | Husten]]''%0a---%0a> ''Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059) | Husten]]''%0a
+host:1489069756=212.51.146.241
+author:1489069062=zeno
+diff:1489069062:1489069043:=15c15%0a%3c ''Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059) | Husten]]''%0a---%0a> '''Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059) | Husten]]'''%0a
+host:1489069062=212.51.146.241
+author:1489069043=zeno
+diff:1489069043:1489069031:=15,16c15,16%0a%3c '''Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059) | Husten]]'''%0a%3c %0a---%0a> '''Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059) | Husten]]%0a> '''%0a
+host:1489069043=212.51.146.241
+author:1489069031=zeno
+diff:1489069031:1489068840:=15,16c15,16%0a%3c '''Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059) | Husten]]%0a%3c '''%0a---%0a> Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059) | Husten]]%0a> %0a
+host:1489069031=212.51.146.241
+author:1489068840=zeno
+diff:1489068840:1489068787:=15c15,16%0a%3c Beispiel einer Voll-Text-Suche nach [[https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059) | Husten]]%0a---%0a> Beispiel:%0a> https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059)%0a
+host:1489068840=212.51.146.241
+author:1489068787=zeno
+diff:1489068787:1489068787:=1,22d0%0a%3c !! Voll-Text-Fachinfo-Suche%0a%3c Neu finden Sie auf https://amiko.oddb.org/ auch die Möglichkeit einer%0a%3c Voll-Text-Suche. Was heisst das genau? Wir erstellen täglich eine%0a%3c aktuelle Datenbank der wichtigsten Worte (ca. 160'000) aus allen%0a%3c Fachinfos der Schweiz. Wir weisen die Worte den Kapiteln zu und zählen%0a%3c die Anzahl Treffer des Suchbegriffs im Kapitel.%0a%3c %0a%3c Entsprechend kann man jetzt z.B. rausfinden ob der "Husten" zur%0a%3c Indikation des Medikamentes oder zur "Nebenwirkung" des Medikaments%0a%3c gehört.%0a%3c %0a%3c Gleichzeitig wird der Benutzer direkt zum markierten Suchbegriff im%0a%3c Fachinfo-Text geführt.%0a%3c %0a%3c Beispiel:%0a%3c https://amiko.oddb.org/showfulltext?id=ab8f5332fe&key=Husten%2520(1059)%0a%3c %0a%3c Bei Fragen stehe ich Ihnen gerne zur Verfügung.%0a%3c %0a%3c Mit freundlichen Grüssen%0a%3c Zeno Davatz%0a%3c +41 43 540 05 50%0a\ No newline at end of file%0a
+host:1489068787=212.51.146.241

@@ -1,0 +1,138 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1367487961
+host=80.219.10.249
+name=HotelMarriott.27062013
+rev=42
+targets=AmiKo.Desktop
+text=!Public-Domain Stammdaten - Wo findet man was?%0a'''ywesee GmbH veranstaltet einen weiteren Anlass zum Thema "Public Domain-Stammdaten".\\%0aWo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern? Was sind die Zusammenhänge zwischen Refdata, BAG und AIPS Swissmedic?'''%0a%0a'''Datum: Donnerstag: 27.6.2013'''\\%0a'''Ort: [[http://goo.gl/maps/rGhLM | Hotel Marriott in Zürich]]'''\\%0a'''Zeit: 09.00 Uhr bis 12.00 Uhr'''\\%0a\\%0aIn den Referaten werden folgende Themen behandelt:%0a%0a1. Wichtige Neuerungen AIPS Swissmedic per 1.7.2013 (für User und Pharmafirma).%0a%0a2. Immer mehr Softwarehäuser verwenden die Stammdaten aus dem Public Domain. Für die Pharmafirma ist es wichtig zu verstehen, wie der Public Domain Stammdatenfluss funktioniert und wie man gefundene Fehler meldet.%0a%0a3. Der Pharmacode wird per 1.1.2014 gelöscht. Was für Auswirkungen hat das auf die Abrechnungen der Spitäler, Arztpraxen, Krankenkassen, Apotheken. Wir informieren Sie, wie Sie sich juristisch auf die sichere Seite bewegen können.%0a%0a4. Wir präsentieren eine Liste von dutzenden von Firmen, welche seit dem 1.1.2013 Ihre Fachinformationen nur noch via AIPS der Swissmedic publizieren.%0a%0a5. Wir präsentieren eine Liste von Softwarefirmen, welche nur AIPS-XML Fachinformationen importieren.%0a%0a6. Wir präsentieren das neue AmiKo Android-App auf [[http://pillbox.oddb.org/AMiKo.apk | Deutsch]] und [[http://pillbox.oddb.org/CoMed.apk | Französisch]].%0a%0a7. Wir präsentieren die neue AmiKo [[AmiKo/Desktop]] Applikation für Windows.%0a%0a! Zur Teilnahme anmelden:%0a(:AddToCart name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a%0a!! Fragen oder Bemerkungen:%0a* Herr Zeno Davatz%0a* zdavatz at ywesee dot com%0a* 043 540 05 50%0a%0a!! Unterlagen zum mitnehmen:%0a* [[https://docs.google.com/file/d/0B6L2nkBA29E6aEU5ZkI5ajU5T00/edit?usp=sharing | Fachinfo-Markt im Umbruch]]%0a* [[https://docs.google.com/file/d/0B6L2nkBA29E6VUYzc3lrLUJraEk/edit?usp=sharing | EAN-Code, Pharmacode]]%0a* [[https://docs.google.com/file/d/0B6L2nkBA29E6MnZ0WVpMT3NVelE/edit?usp=sharing | Status Quo Public Domain]]%0a* [[https://docs.google.com/file/d/0B6L2nkBA29E6TkJDdWNQQmVmS0U/edit?usp=sharing | Fragen Pharmaindustrie]]%0a%0a!! Youtube Videos%0a* Teil 1: http://www.youtube.com/watch?v=v0lJOPPJbTc%0a* Teil 2: http://www.youtube.com/watch?v=SWFiH9yZh2A%0a%0a!! Software zum mitnehmen%0a* [[http://pillbox.oddb.org/amikodesk_setup_32bit.exe | AmiKo Desktop App]] DE%0a* [[http://pillbox.oddb.org/comeddesk_setup_32bit.exe | AmiKo Desktop App]] FR
+time=1372347049
+author:1372347049=zeno
+diff:1372347049:1372344750:=41c41%0a%3c * Teil 2: http://www.youtube.com/watch?v=SWFiH9yZh2A%0a---%0a> * Teil 2: %0a
+host:1372347049=80.219.10.249
+author:1372344750=zeno
+diff:1372344750:1372337058:=38,41d37%0a%3c %0a%3c !! Youtube Videos%0a%3c * Teil 1: http://www.youtube.com/watch?v=v0lJOPPJbTc%0a%3c * Teil 2: %0a
+host:1372344750=80.219.10.249
+author:1372337058=zeno
+diff:1372337058:1371548497:=34d33%0a%3c * [[https://docs.google.com/file/d/0B6L2nkBA29E6aEU5ZkI5ajU5T00/edit?usp=sharing | Fachinfo-Markt im Umbruch]]%0a
+host:1372337058=80.219.10.249
+author:1371548497=zeno
+diff:1371548497:1370595217:=39,40c39%0a%3c * [[http://pillbox.oddb.org/amikodesk_setup_32bit.exe | AmiKo Desktop App]] DE%0a%3c * [[http://pillbox.oddb.org/comeddesk_setup_32bit.exe | AmiKo Desktop App]] FR%0a\ No newline at end of file%0a---%0a> * [[http://pillbox.oddb.org/amikodesk.zip | AmiKo Desktop App]]%0a\ No newline at end of file%0a
+host:1371548497=180.42.30.173
+author:1370595217=zeno
+diff:1370595217:1369697135:=22,23d21%0a%3c %0a%3c 7. Wir präsentieren die neue AmiKo [[AmiKo/Desktop]] Applikation für Windows.%0a
+host:1370595217=202.221.177.154
+author:1369697135=zeno
+diff:1369697135:1369697065:=34,37c34%0a%3c * [[https://docs.google.com/file/d/0B6L2nkBA29E6TkJDdWNQQmVmS0U/edit?usp=sharing | Fragen Pharmaindustrie]]%0a%3c %0a%3c !! Software zum mitnehmen%0a%3c * [[http://pillbox.oddb.org/amikodesk.zip | AmiKo Desktop App]]%0a\ No newline at end of file%0a---%0a> * [[https://docs.google.com/file/d/0B6L2nkBA29E6TkJDdWNQQmVmS0U/edit?usp=sharing | Fragen Pharmaindustrie]]%0a\ No newline at end of file%0a
+host:1369697135=202.221.177.154
+author:1369697065=zeno
+diff:1369697065:1369348554:=33,34c33%0a%3c * [[https://docs.google.com/file/d/0B6L2nkBA29E6MnZ0WVpMT3NVelE/edit?usp=sharing | Status Quo Public Domain]]%0a%3c * [[https://docs.google.com/file/d/0B6L2nkBA29E6TkJDdWNQQmVmS0U/edit?usp=sharing | Fragen Pharmaindustrie]]%0a\ No newline at end of file%0a---%0a> * [[https://docs.google.com/file/d/0B6L2nkBA29E6MnZ0WVpMT3NVelE/edit?usp=sharing | Status Quo Public Domain]]%0a\ No newline at end of file%0a
+host:1369697065=202.221.177.154
+author:1369348554=zeno
+diff:1369348554:1369348466:=32,33c32,33%0a%3c * [[https://docs.google.com/file/d/0B6L2nkBA29E6VUYzc3lrLUJraEk/edit?usp=sharing | EAN-Code, Pharmacode]]%0a%3c * [[https://docs.google.com/file/d/0B6L2nkBA29E6MnZ0WVpMT3NVelE/edit?usp=sharing | Status Quo Public Domain]]%0a\ No newline at end of file%0a---%0a> * https://docs.google.com/file/d/0B6L2nkBA29E6VUYzc3lrLUJraEk/edit?usp=sharing%0a> * https://docs.google.com/file/d/0B6L2nkBA29E6MnZ0WVpMT3NVelE/edit?usp=sharing%0a\ No newline at end of file%0a
+host:1369348554=202.221.177.154
+author:1369348466=zeno
+diff:1369348466:1367937380:=29,33c29%0a%3c * 043 540 05 50%0a%3c %0a%3c !! Unterlagen zum mitnehmen:%0a%3c * https://docs.google.com/file/d/0B6L2nkBA29E6VUYzc3lrLUJraEk/edit?usp=sharing%0a%3c * https://docs.google.com/file/d/0B6L2nkBA29E6MnZ0WVpMT3NVelE/edit?usp=sharing%0a\ No newline at end of file%0a---%0a> * 043 540 05 50%0a\ No newline at end of file%0a
+host:1369348466=202.221.177.154
+author:1367937380=zeno
+diff:1367937380:1367561812:=11,21c11,19%0a%3c 1. Wichtige Neuerungen AIPS Swissmedic per 1.7.2013 (für User und Pharmafirma).%0a%3c %0a%3c 2. Immer mehr Softwarehäuser verwenden die Stammdaten aus dem Public Domain. Für die Pharmafirma ist es wichtig zu verstehen, wie der Public Domain Stammdatenfluss funktioniert und wie man gefundene Fehler meldet.%0a%3c %0a%3c 3. Der Pharmacode wird per 1.1.2014 gelöscht. Was für Auswirkungen hat das auf die Abrechnungen der Spitäler, Arztpraxen, Krankenkassen, Apotheken. Wir informieren Sie, wie Sie sich juristisch auf die sichere Seite bewegen können.%0a%3c %0a%3c 4. Wir präsentieren eine Liste von dutzenden von Firmen, welche seit dem 1.1.2013 Ihre Fachinformationen nur noch via AIPS der Swissmedic publizieren.%0a%3c %0a%3c 5. Wir präsentieren eine Liste von Softwarefirmen, welche nur AIPS-XML Fachinformationen importieren.%0a%3c %0a%3c 6. Wir präsentieren das neue AmiKo Android-App auf [[http://pillbox.oddb.org/AMiKo.apk | Deutsch]] und [[http://pillbox.oddb.org/CoMed.apk | Französisch]].%0a---%0a> 1. Immer mehr Softwarehäuser verwenden die Stammdaten aus dem Public Domain. Für die Pharmafirma ist es wichtig zu verstehen, wie der Public Domain Stammdatenfluss funktioniert und wie man gefundene Fehler meldet.%0a> %0a> 2. Der Pharmacode wird per 1.1.2014 gelöscht. Was für Auswirkungen hat das auf die Abrechnungen der Spitäler, Arztpraxen, Krankenkassen, Apotheken. Wir informieren Sie, wie Sie sich juristisch auf die sichere Seite bewegen können.%0a> %0a> 3. Wir präsentieren eine Liste von dutzenden von Firmen, welche seit dem 1.1.2013 Ihre Fachinformationen nur noch via AIPS der Swissmedic publizieren.%0a> %0a> 4. Wir präsentieren eine Liste von Softwarefirmen, welche nur AIPS-XML Fachinformationen importieren.%0a> %0a> 5. Wir präsentieren das neue AmiKo Android-App auf [[http://pillbox.oddb.org/AMiKo.apk | Deutsch]] und [[http://pillbox.oddb.org/CoMed.apk | Französisch]].%0a
+host:1367937380=80.219.10.249
+author:1367561812=zeno
+diff:1367561812:1367561771:=22c22%0a%3c (:AddToCart name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a---%0a> (:Anmelden name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a
+host:1367561812=80.219.10.249
+author:1367561771=zeno
+diff:1367561771:1367561673:=22c22%0a%3c (:Anmelden name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a---%0a> (:Addtocart name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a
+host:1367561771=80.219.10.249
+author:1367561673=zeno
+diff:1367561673:1367561648:=22c22%0a%3c (:Addtocart name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a---%0a> (:Teilnahme name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a
+host:1367561673=80.219.10.249
+author:1367561648=zeno
+diff:1367561648:1367561586:=22c22%0a%3c (:Teilnahme name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a---%0a> (:AddToCart name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a
+host:1367561648=80.219.10.249
+author:1367561586=zeno
+diff:1367561586:1367518952:=15c15%0a%3c 3. Wir präsentieren eine Liste von dutzenden von Firmen, welche seit dem 1.1.2013 Ihre Fachinformationen nur noch via AIPS der Swissmedic publizieren.%0a---%0a> 3. Wir präsentieren eine Liste von Firmen, welche seit dem 1.1.2013 Ihre Fachinformationen nur noch via AIPS der Swissmedic publizieren.%0a
+host:1367561586=80.219.10.249
+author:1367518952=zeno
+diff:1367518952:1367518951:=
+host:1367518952=80.219.10.249
+author:1367518951=zeno
+diff:1367518951:1367518910:=9,10d8%0a%3c In den Referaten werden folgende Themen behandelt:%0a%3c %0a
+host:1367518951=80.219.10.249
+author:1367518910=zeno
+diff:1367518910:1367489118:=2c2%0a%3c '''ywesee GmbH veranstaltet einen weiteren Anlass zum Thema "Public Domain-Stammdaten".\\%0a---%0a> '''ywesee GmbH veranstaltet einen weiteren Anlass zum Thema Public Domain-Stammdaten.\\%0a
+host:1367518910=80.219.10.249
+author:1367489118=zeno
+diff:1367489118:1367489109:=3c3%0a%3c Wo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern? Was sind die Zusammenhänge zwischen Refdata, BAG und AIPS Swissmedic?'''%0a---%0a> Wo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern? Was sind die Zusammenhänge zwischen Refdata, BAG und AIPS Swissmedic.'''%0a
+host:1367489118=80.219.10.249
+author:1367489109=zeno
+diff:1367489109:1367489064:=3c3%0a%3c Wo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern? Was sind die Zusammenhänge zwischen Refdata, BAG und AIPS Swissmedic.'''%0a---%0a> Wo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern?'''%0a
+host:1367489109=80.219.10.249
+author:1367489064=zeno
+diff:1367489064:1367488879:=23d22%0a%3c * Herr Zeno Davatz%0a
+host:1367489064=80.219.10.249
+author:1367488879=zeno
+diff:1367488879:1367488837:=17c17%0a%3c 5. Wir präsentieren das neue AmiKo Android-App auf [[http://pillbox.oddb.org/AMiKo.apk | Deutsch]] und [[http://pillbox.oddb.org/CoMed.apk | Französisch]].%0a---%0a> 5. Wir präsentieren das neue AmiKo Android-App auf Deutsch und Französisch.%0a
+host:1367488879=80.219.10.249
+author:1367488837=zeno
+diff:1367488837:1367488790:=16,17d15%0a%3c %0a%3c 5. Wir präsentieren das neue AmiKo Android-App auf Deutsch und Französisch.%0a
+host:1367488837=80.219.10.249
+author:1367488790=zeno
+diff:1367488790:1367488694:=9c9%0a%3c 1. Immer mehr Softwarehäuser verwenden die Stammdaten aus dem Public Domain. Für die Pharmafirma ist es wichtig zu verstehen, wie der Public Domain Stammdatenfluss funktioniert und wie man gefundene Fehler meldet.%0a---%0a> 1. Immer mehr Softwarehäuser verwenden die Stammdaten aus dem Public Domain. Für die Pharmafirma ist es wichtig zu verstehen, wie der Public Domain Stammdatenfluss funktioniert und wo man gefundene Fehler meldet.%0a
+host:1367488790=80.219.10.249
+author:1367488694=zeno
+diff:1367488694:1367488671:=18,22c18%0a%3c (:AddToCart name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a%3c %0a%3c !! Fragen oder Bemerkungen:%0a%3c * zdavatz at ywesee dot com%0a%3c * 043 540 05 50%0a\ No newline at end of file%0a---%0a> (:AddToCart name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a\ No newline at end of file%0a
+host:1367488694=80.219.10.249
+author:1367488671=zeno
+diff:1367488671:1367488654:=5c5%0a%3c '''Datum: Donnerstag: 27.6.2013'''\\%0a---%0a> '''Datum: 27.6.2013'''\\%0a
+host:1367488671=80.219.10.249
+author:1367488654=zeno
+diff:1367488654:1367488525:=6c6%0a%3c '''Ort: [[http://goo.gl/maps/rGhLM | Hotel Marriott in Zürich]]'''\\%0a---%0a> '''Ort: Hotel Marriott in Zürich'''\\%0a
+host:1367488654=80.219.10.249
+author:1367488525=zeno
+diff:1367488525:1367488517:=8c8%0a%3c \\%0a---%0a> %0a
+host:1367488525=80.219.10.249
+author:1367488517=zeno
+diff:1367488517:1367488471:=5,7c5%0a%3c '''Datum: 27.6.2013'''\\%0a%3c '''Ort: Hotel Marriott in Zürich'''\\%0a%3c '''Zeit: 09.00 Uhr bis 12.00 Uhr'''\\%0a---%0a> !! Datum: 27.6.2013 - Ort: Hotel Marriott in Zürich - Zeit: 09.00 Uhr bis 12.00 Uhr%0a
+host:1367488517=80.219.10.249
+author:1367488471=zeno
+diff:1367488471:1367488454:=5c5%0a%3c !! Datum: 27.6.2013 - Ort: Hotel Marriott in Zürich - Zeit: 09.00 Uhr bis 12.00 Uhr%0a---%0a> !!! Datum: 27.6.2013 - Ort: Hotel Marriott in Zürich - Zeit: 09.00 Uhr bis 12.00 Uhr%0a
+host:1367488471=80.219.10.249
+author:1367488454=zeno
+diff:1367488454:1367488441:=2,3c2%0a%3c '''ywesee GmbH veranstaltet einen weiteren Anlass zum Thema Public Domain-Stammdaten.\\%0a%3c Wo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern?'''%0a---%0a> '''ywesee GmbH veranstaltet einen weiteren Anlass zum Thema Public Domain-Stammdaten - Wo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern?'''%0a
+host:1367488454=80.219.10.249
+author:1367488441=zeno
+diff:1367488441:1367488434:=2c2%0a%3c '''ywesee GmbH veranstaltet einen weiteren Anlass zum Thema Public Domain-Stammdaten - Wo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern?'''%0a---%0a> '''ywesee GmbH veranstaltet einen weiteren Anlass zum Thema Public Domain-Stammdaten - Wo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern?''%0a
+host:1367488441=80.219.10.249
+author:1367488434=zeno
+diff:1367488434:1367488408:=2c2%0a%3c '''ywesee GmbH veranstaltet einen weiteren Anlass zum Thema Public Domain-Stammdaten - Wo findet man was? Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern?''%0a---%0a> ywesee GmbH veranstaltet einen weiteren Anlass zum Thema Public Domain-Stammdaten, wo findet man was. Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern.%0a
+host:1367488434=80.219.10.249
+author:1367488408=zeno
+diff:1367488408:1367488334:=2,3d1%0a%3c ywesee GmbH veranstaltet einen weiteren Anlass zum Thema Public Domain-Stammdaten, wo findet man was. Wie kann man mit Public Domain Stammdaten Kosten sparen und die Qualität steigern.%0a%3c %0a
+host:1367488408=80.219.10.249
+author:1367488334=zeno
+diff:1367488334:1367488194:=7,10d6%0a%3c %0a%3c 3. Wir präsentieren eine Liste von Firmen, welche seit dem 1.1.2013 Ihre Fachinformationen nur noch via AIPS der Swissmedic publizieren.%0a%3c %0a%3c 4. Wir präsentieren eine Liste von Softwarefirmen, welche nur AIPS-XML Fachinformationen importieren.%0a
+host:1367488334=80.219.10.249
+author:1367488194=zeno
+diff:1367488194:1367488142:=9c9%0a%3c (:AddToCart name="Teilname Hotel Marriott 27.6.2013 09.00-12.00 Uhr - Public Domain Stammdaten - Wo findet man was? Wie kann ich Kosten sparen?" id="Teilnahme pro Person" amount="50.00":)%0a\ No newline at end of file%0a---%0a> (:AddToCart name="Teilname Hotel Marriott 27.6.2013 - Public Domain Stammdaten, wo findet man was?" id="Teilnahme pro Person" amount="50.00":)%0a\ No newline at end of file%0a
+host:1367488194=80.219.10.249
+author:1367488142=zeno
+diff:1367488142:1367488092:=9c9%0a%3c (:AddToCart name="Teilname Hotel Marriott 27.6.2013 - Public Domain Stammdaten, wo findet man was?" id="Teilnahme pro Person" amount="50.00":)%0a\ No newline at end of file%0a---%0a> (:AddToCart name="Teilname Hotel Marriott 27.6.2013" id="Teilnahme pro Person" amount="50.00":)%0a\ No newline at end of file%0a
+host:1367488142=80.219.10.249
+author:1367488092=zeno
+diff:1367488092:1367488047:=8d7%0a%3c ! Zur Teilnahme anmelden:%0a
+host:1367488092=80.219.10.249
+author:1367488047=zeno
+diff:1367488047:1367488033:=2c2,4%0a%3c !!! Datum: 27.6.2013 - Ort: Hotel Marriott in Zürich - Zeit: 09.00 Uhr bis 12.00 Uhr%0a---%0a> !!! Datum: 27.6.2013%0a> !!! Ort: Hotel Marriott in Zürich %0a> !!! Zeit: 09.00 Uhr bis 12.00 Uhr%0a
+host:1367488047=80.219.10.249
+author:1367488033=zeno
+diff:1367488033:1367487987:=0a1,2%0a> Am 27.6.2013 veranstalten wir im Hotel Marriott in Zürich von 08.00 Uhr bis 12.00 Uhr einen weiteren Anlass zum Thema:%0a> %0a2,4d3%0a%3c !!! Datum: 27.6.2013%0a%3c !!! Ort: Hotel Marriott in Zürich %0a%3c !!! Zeit: 09.00 Uhr bis 12.00 Uhr%0a
+host:1367488033=80.219.10.249
+author:1367487987=zeno
+diff:1367487987:1367487961:=0a1,2%0a> Sehr geehrte Damen und Herren%0a> %0a3c5%0a%3c !Public-Domain Stammdaten - Wo findet man was?%0a---%0a> Public-Domain Stammdaten - Wo findet man was?%0a
+host:1367487987=80.219.10.249
+author:1367487961=zeno
+diff:1367487961:1367487961:=1,11d0%0a%3c Sehr geehrte Damen und Herren%0a%3c %0a%3c Am 27.6.2013 veranstalten wir im Hotel Marriott in Zürich von 08.00 Uhr bis 12.00 Uhr einen weiteren Anlass zum Thema:%0a%3c %0a%3c Public-Domain Stammdaten - Wo findet man was?%0a%3c %0a%3c 1. Immer mehr Softwarehäuser verwenden die Stammdaten aus dem Public Domain. Für die Pharmafirma ist es wichtig zu verstehen, wie der Public Domain Stammdatenfluss funktioniert und wo man gefundene Fehler meldet.%0a%3c %0a%3c 2. Der Pharmacode wird per 1.1.2014 gelöscht. Was für Auswirkungen hat das auf die Abrechnungen der Spitäler, Arztpraxen, Krankenkassen, Apotheken. Wir informieren Sie, wie Sie sich juristisch auf die sichere Seite bewegen können.%0a%3c %0a%3c (:AddToCart name="Teilname Hotel Marriott 27.6.2013" id="Teilnahme pro Person" amount="50.00":)%0a\ No newline at end of file%0a
+host:1367487961=80.219.10.249

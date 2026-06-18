@@ -1,0 +1,13 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; de; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+author=ZRR
+host=77.57.16.157
+name=Main.CashDaily
+rev=1
+targets=
+text=http://www.cash.ch/daily/
+time=1187363293
+author:1187363293=ZRR
+csum:1187363293=CashDaily Link
+diff:1187363293:1187363293:=1d0%0a%3c http://www.cash.ch/daily/%0a\ No newline at end of file%0a
+host:1187363293=77.57.16.157

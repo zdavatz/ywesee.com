@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.3) Gecko/20070322 Firefox/2.0.0.3
+author=zrr
+host=77.57.1.173
+name=Main.PubMed
+rev=1
+targets=
+text=http://www.pubmedcentral.nih.gov/
+time=1180536235
+author:1180536235=zrr
+diff:1180536235:1180536235:=1d0%0a%3c http://www.pubmedcentral.nih.gov/%0a\ No newline at end of file%0a
+host:1180536235=77.57.1.173

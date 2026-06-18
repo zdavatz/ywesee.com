@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:2.0b7pre) Gecko/20100920 Firefox/4.0b7pre
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1285326509
+host=80.219.10.249
+name=Galdat.Galdat
+rev=1
+targets=
+text=http://www.e-mediat.net
+time=1285326509
+author:1285326509=zeno
+diff:1285326509:1285326509:=1d0%0a%3c http://www.e-mediat.net%0a\ No newline at end of file%0a
+host:1285326509=80.219.10.249

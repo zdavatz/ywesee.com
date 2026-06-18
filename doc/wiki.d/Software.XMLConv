@@ -1,0 +1,39 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; rv:1.8) Gecko/20060120 Firefox/1.5
+author=
+host=84.73.186.135
+name=Software.XMLConv
+rev=10
+targets=Software.XMLConv
+text=! XMLConv%0aProfessionelle Datenkonvertierungen.%0a!!! Dienstleistung%0a* Elektronische Bestell-, Bestätigungs- und Fakturierungsabläufe%0a* Konvertierung von Flatfiles in XML%0a* Konvertierung von XML in Flatfiles%0a* Logging von allen Transaktionen%0a%0a!!! Zielgruppe%0a* Industrie generell
+time=1138806942
+author:1138806942=
+diff:1138806942:1138806928:=10c10,12%0a%3c * Industrie generell%0a\ No newline at end of file%0a---%0a> * Industrie generell%0a> %0a> %25trail%25%3c%3c|[[Main/SideBar]]|>>%0a\ No newline at end of file%0a
+host:1138806942=84.73.186.135
+author:1138806928=
+diff:1138806928:1129208841:=10,12c10%0a%3c * Industrie generell%0a%3c %0a%3c %25trail%25%3c%3c|[[Main/SideBar]]|>>%0a\ No newline at end of file%0a---%0a> * Industrie generell%0a\ No newline at end of file%0a
+host:1138806928=84.73.186.135
+author:1129208841=
+diff:1129208841:1129208828:=8c8%0a%3c %0a---%0a> ====%0a
+host:1129208841=84.73.187.0
+author:1129208828=
+diff:1129208828:1097769465:=8c8%0a%3c ====%0a---%0a> %0a
+host:1129208828=84.73.187.0
+author:1097769465=
+diff:1097769465:1097769422:=2c2%0a%3c Professionelle Datenkonvertierungen.%0a---%0a> %0a
+host:1097769465=80.219.133.159
+author:1097769422=
+diff:1097769422:1097769403:=4c4%0a%3c * Elektronische Bestell-, Bestätigungs- und Fakturierungsabläufe%0a---%0a> * Elektronische Bestell, Bestätigungs und Fakturierungsabläufe%0a
+host:1097769422=80.219.133.159
+author:1097769403=
+diff:1097769403:1097769286:=7c7%0a%3c * Logging von allen Transaktionen%0a---%0a> * Loggin von allen Transaktionen%0a
+host:1097769403=80.219.133.159
+author:1097769286=
+diff:1097769286:1097762665:=2,10c2%0a%3c %0a%3c !!! Dienstleistung%0a%3c * Elektronische Bestell, Bestätigungs und Fakturierungsabläufe%0a%3c * Konvertierung von Flatfiles in XML%0a%3c * Konvertierung von XML in Flatfiles%0a%3c * Loggin von allen Transaktionen%0a%3c %0a%3c !!! Zielgruppe%0a%3c * Industrie generell%0a\ No newline at end of file%0a---%0a> Der XMLConv konvertiert XML-Files in normale Textfiles und zurück oder umgekehrt.%0a\ No newline at end of file%0a
+host:1097769286=80.219.133.159
+author:1097762665=
+diff:1097762665:1097761549:=2c2%0a%3c Der XMLConv konvertiert XML-Files in normale Textfiles und zurück oder umgekehrt.%0a\ No newline at end of file%0a---%0a> Der XMLConv von ywesee konvertiert XML-Files in normale Textfiles und zurück oder umgekehrt.%0a\ No newline at end of file%0a
+host:1097762665=80.219.133.159
+author:1097761549=
+diff:1097761549:1097761549:=1,2d0%0a%3c ! XMLConv%0a%3c Der XMLConv von ywesee konvertiert XML-Files in normale Textfiles und zurück oder umgekehrt.%0a\ No newline at end of file%0a
+host:1097761549=80.219.133.159

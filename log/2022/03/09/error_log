@@ -1,0 +1,33 @@
+[Wed Mar 09 01:00:05 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Wed Mar 09 01:00:06 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Wed Mar 09 06:47:51 2022] [error] [client 178.35.18.210] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Mar 09 06:47:52 2022] [error] [client 178.35.18.210] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Mar 09 06:47:55 2022] [error] [client 178.35.18.210] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Mar 09 06:54:29 2022] [error] [client 34.139.249.138] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Mar 09 06:54:58 2022] [error] [client 34.139.249.138] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Mar 09 06:55:02 2022] [error] [client 34.139.249.138] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Mar 09 09:22:09 2022] [error] [client 159.146.68.112] script '/var/www/ywesee.com/doc/wp-comments-post.php' not found or unable to stat, referer: https://www.ywesee.com/wp-comments-post.php
+[Wed Mar 09 09:22:33 2022] [error] [client 159.146.68.112] script '/var/www/ywesee.com/doc/wp-comments-post.php' not found or unable to stat, referer: https://www.ywesee.com/wp-comments-post.php
+[Wed Mar 09 09:26:22 2022] [error] [client 159.146.68.112] script '/var/www/ywesee.com/doc/wp-comments-post.php' not found or unable to stat, referer: https://www.ywesee.com/wp-comments-post.php
+[Wed Mar 09 09:29:09 2022] [error] [client 159.146.68.112] script '/var/www/ywesee.com/doc/wp-comments-post.php' not found or unable to stat, referer: https://www.ywesee.com/wp-comments-post.php
+[Wed Mar 09 11:41:33 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/wp-includes
+[Wed Mar 09 11:41:33 2022] [error] [client 167.71.209.172] script '/var/www/ywesee.com/doc/xmlrpc.php' not found or unable to stat
+[Wed Mar 09 11:41:34 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/blog
+[Wed Mar 09 11:41:34 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/web
+[Wed Mar 09 11:41:34 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/wordpress
+[Wed Mar 09 11:41:34 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/website
+[Wed Mar 09 11:41:34 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/wp
+[Wed Mar 09 11:41:35 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/news
+[Wed Mar 09 11:41:35 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/shop
+[Wed Mar 09 11:41:35 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/wp1
+[Wed Mar 09 11:41:35 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/test
+[Wed Mar 09 11:41:36 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/wp2
+[Wed Mar 09 11:41:36 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/site
+[Wed Mar 09 11:41:36 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/cms
+[Wed Mar 09 11:41:36 2022] [error] [client 167.71.209.172] File does not exist: /var/www/ywesee.com/doc/sito
+[Wed Mar 09 14:07:10 2022] [error] [client 66.249.64.166] File does not exist: /var/www/ywesee.com/doc/fr
+[Wed Mar 09 17:57:47 2022] [error] [client 208.100.26.244] File does not exist: /var/www/ywesee.com/doc/core
+[Wed Mar 09 17:57:47 2022] [error] [client 208.100.26.244] File does not exist: /var/www/ywesee.com/doc/misc
+[Wed Mar 09 18:55:12 2022] [error] [client 66.249.64.168] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Wed Mar 09 19:25:10 2022] [error] [client 66.249.64.168] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Mar 09 22:55:12 2022] [error] [client 66.249.64.143] File does not exist: /var/www/ywesee.com/doc/ads.txt

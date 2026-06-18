@@ -1,0 +1,342 @@
+unreferenced object 0xf722c780 (size 256):
+  comm "swapper", pid 1, jiffies 4294892422 (age 63987.956s)
+  hex dump (first 32 bytes):
+    00 00 80 7f ff ff ff ff 00 06 82 f6 00 02 00 00  ................
+    c7 38 0f c1 02 53 0f c1 00 00 00 00 03 fd 1e c1  .8...S..........
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad74f>] __kmalloc+0xea/0x106
+    [<c1425651>] pci_acpi_scan_root+0x151/0x1e0
+    [<c141ff5e>] acpi_pci_root_add+0x151/0x233
+    [<c1205e28>] acpi_device_probe+0x44/0xfa
+    [<c1298115>] driver_probe_device+0x5b/0x146
+    [<c129826d>] __driver_attach+0x6d/0x6f
+    [<c1297b03>] bus_for_each_dev+0x4e/0x6c
+    [<c1297ffb>] driver_attach+0x19/0x1b
+    [<c129745c>] bus_add_driver+0xbc/0x256
+    [<c129849a>] driver_register+0x75/0x143
+    [<c120717c>] acpi_bus_register_driver+0x3a/0x3e
+    [<c15f2851>] acpi_pci_root_init+0x1b/0x2a
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+unreferenced object 0xf6820600 (size 32):
+  comm "swapper", pid 1, jiffies 4294892422 (age 63987.956s)
+  hex dump (first 32 bytes):
+    50 43 49 20 42 75 73 20 30 30 30 30 3a 30 30 00  PCI Bus 0000:00.
+    50 04 0d f7 14 eb 12 f7 00 03 00 00 00 00 00 00  P...............
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad087>] kmem_cache_alloc+0xa9/0xcf
+    [<c1425667>] pci_acpi_scan_root+0x167/0x1e0
+    [<c141ff5e>] acpi_pci_root_add+0x151/0x233
+    [<c1205e28>] acpi_device_probe+0x44/0xfa
+    [<c1298115>] driver_probe_device+0x5b/0x146
+    [<c129826d>] __driver_attach+0x6d/0x6f
+    [<c1297b03>] bus_for_each_dev+0x4e/0x6c
+    [<c1297ffb>] driver_attach+0x19/0x1b
+    [<c129745c>] bus_add_driver+0xbc/0x256
+    [<c129849a>] driver_register+0x75/0x143
+    [<c120717c>] acpi_bus_register_driver+0x3a/0x3e
+    [<c15f2851>] acpi_pci_root_init+0x1b/0x2a
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+unreferenced object 0xf73ebca0 (size 32):
+  comm "swapper", pid 1, jiffies 4294892477 (age 63987.736s)
+  hex dump (first 32 bytes):
+    70 6e 70 20 30 30 3a 30 31 00 3e f7 a8 bc 3e f7  pnp 00:01.>...>.
+    f8 99 2c f7 80 59 28 f7 9f 59 28 f7 68 bd 3e f7  ..,..Y(..Y(.h.>.
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad087>] kmem_cache_alloc+0xa9/0xcf
+    [<c123173e>] reserve_range+0x2e/0xed
+    [<c1231869>] system_pnp_probe+0x6c/0x92
+    [<c122cc63>] pnp_device_probe+0x77/0xce
+    [<c1298115>] driver_probe_device+0x5b/0x146
+    [<c129826d>] __driver_attach+0x6d/0x6f
+    [<c1297b03>] bus_for_each_dev+0x4e/0x6c
+    [<c1297ffb>] driver_attach+0x19/0x1b
+    [<c129745c>] bus_add_driver+0xbc/0x256
+    [<c129849a>] driver_register+0x75/0x143
+    [<c122ca8f>] pnp_register_driver+0x17/0x19
+    [<c15f3dca>] pnp_system_init+0xd/0x13
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+unreferenced object 0xf73ebc80 (size 32):
+  comm "swapper", pid 1, jiffies 4294892477 (age 63987.736s)
+  hex dump (first 32 bytes):
+    00 30 d1 fe ff 9f d1 fe a0 bc 3e f7 00 00 00 00  .0........>.....
+    44 d6 59 c1 80 ba 3e f7 00 00 00 00 00 00 00 00  D.Y...>.........
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad087>] kmem_cache_alloc+0xa9/0xcf
+    [<c10574a2>] __request_region+0x23/0xd3
+    [<c12317ed>] reserve_range+0xdd/0xed
+    [<c1231869>] system_pnp_probe+0x6c/0x92
+    [<c122cc63>] pnp_device_probe+0x77/0xce
+    [<c1298115>] driver_probe_device+0x5b/0x146
+    [<c129826d>] __driver_attach+0x6d/0x6f
+    [<c1297b03>] bus_for_each_dev+0x4e/0x6c
+    [<c1297ffb>] driver_attach+0x19/0x1b
+    [<c129745c>] bus_add_driver+0xbc/0x256
+    [<c129849a>] driver_register+0x75/0x143
+    [<c122ca8f>] pnp_register_driver+0x17/0x19
+    [<c15f3dca>] pnp_system_init+0xd/0x13
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+unreferenced object 0xf73eba80 (size 32):
+  comm "swapper", pid 1, jiffies 4294892477 (age 63987.736s)
+  hex dump (first 32 bytes):
+    00 c0 d1 fe ff ff d1 fe a0 ba 3e f7 00 00 00 00  ..........>.....
+    44 d6 59 c1 40 ba 3e f7 00 00 00 00 00 00 00 00  D.Y.@.>.........
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad087>] kmem_cache_alloc+0xa9/0xcf
+    [<c10574a2>] __request_region+0x23/0xd3
+    [<c12317ed>] reserve_range+0xdd/0xed
+    [<c1231869>] system_pnp_probe+0x6c/0x92
+    [<c122cc63>] pnp_device_probe+0x77/0xce
+    [<c1298115>] driver_probe_device+0x5b/0x146
+    [<c129826d>] __driver_attach+0x6d/0x6f
+    [<c1297b03>] bus_for_each_dev+0x4e/0x6c
+    [<c1297ffb>] driver_attach+0x19/0x1b
+    [<c129745c>] bus_add_driver+0xbc/0x256
+    [<c129849a>] driver_register+0x75/0x143
+    [<c122ca8f>] pnp_register_driver+0x17/0x19
+    [<c15f3dca>] pnp_system_init+0xd/0x13
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+unreferenced object 0xf73eba60 (size 32):
+  comm "swapper", pid 1, jiffies 4294892477 (age 63987.736s)
+  hex dump (first 32 bytes):
+    70 6e 70 20 30 30 3a 30 39 00 00 c1 64 63 5d c1  pnp 00:09...dc].
+    10 00 00 00 62 db fe ff 01 00 00 00 73 77 61 70  ....b.......swap
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad087>] kmem_cache_alloc+0xa9/0xcf
+    [<c123173e>] reserve_range+0x2e/0xed
+    [<c1231869>] system_pnp_probe+0x6c/0x92
+    [<c122cc63>] pnp_device_probe+0x77/0xce
+    [<c1298115>] driver_probe_device+0x5b/0x146
+    [<c129826d>] __driver_attach+0x6d/0x6f
+    [<c1297b03>] bus_for_each_dev+0x4e/0x6c
+    [<c1297ffb>] driver_attach+0x19/0x1b
+    [<c129745c>] bus_add_driver+0xbc/0x256
+    [<c129849a>] driver_register+0x75/0x143
+    [<c122ca8f>] pnp_register_driver+0x17/0x19
+    [<c15f3dca>] pnp_system_init+0xd/0x13
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+unreferenced object 0xf73eba40 (size 32):
+  comm "swapper", pid 1, jiffies 4294892477 (age 63987.736s)
+  hex dump (first 32 bytes):
+    00 00 d2 fe ff ff d8 fe 60 ba 3e f7 00 00 00 00  ........`.>.....
+    44 d6 59 c1 8c c9 59 c1 00 00 00 00 00 00 00 00  D.Y...Y.........
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad087>] kmem_cache_alloc+0xa9/0xcf
+    [<c10574a2>] __request_region+0x23/0xd3
+    [<c12317ed>] reserve_range+0xdd/0xed
+    [<c1231869>] system_pnp_probe+0x6c/0x92
+    [<c122cc63>] pnp_device_probe+0x77/0xce
+    [<c1298115>] driver_probe_device+0x5b/0x146
+    [<c129826d>] __driver_attach+0x6d/0x6f
+    [<c1297b03>] bus_for_each_dev+0x4e/0x6c
+    [<c1297ffb>] driver_attach+0x19/0x1b
+    [<c129745c>] bus_add_driver+0xbc/0x256
+    [<c129849a>] driver_register+0x75/0x143
+    [<c122ca8f>] pnp_register_driver+0x17/0x19
+    [<c15f3dca>] pnp_system_init+0xd/0x13
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+unreferenced object 0xf73eb9e0 (size 32):
+  comm "swapper", pid 1, jiffies 4294892477 (age 63987.736s)
+  hex dump (first 32 bytes):
+    70 6e 70 20 30 30 3a 30 62 00 5a c1 00 02 20 00  pnp 00:0b.Z... .
+    f0 b9 3e f7 f0 b9 3e f7 a4 6a 07 f7 f8 b9 3e f7  ..>...>..j....>.
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad087>] kmem_cache_alloc+0xa9/0xcf
+    [<c123173e>] reserve_range+0x2e/0xed
+    [<c1231869>] system_pnp_probe+0x6c/0x92
+    [<c122cc63>] pnp_device_probe+0x77/0xce
+    [<c1298115>] driver_probe_device+0x5b/0x146
+    [<c129826d>] __driver_attach+0x6d/0x6f
+    [<c1297b03>] bus_for_each_dev+0x4e/0x6c
+    [<c1297ffb>] driver_attach+0x19/0x1b
+    [<c129745c>] bus_add_driver+0xbc/0x256
+    [<c129849a>] driver_register+0x75/0x143
+    [<c122ca8f>] pnp_register_driver+0x17/0x19
+    [<c15f3dca>] pnp_system_init+0xd/0x13
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+unreferenced object 0xf73eb9c0 (size 32):
+  comm "swapper", pid 1, jiffies 4294892477 (age 63987.736s)
+  hex dump (first 32 bytes):
+    00 00 c0 ff ff ff f7 ff e0 b9 3e f7 00 00 00 00  ..........>.....
+    44 99 6a c1 00 00 00 00 00 00 00 00 00 00 00 00  D.j.............
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad087>] kmem_cache_alloc+0xa9/0xcf
+    [<c10574a2>] __request_region+0x23/0xd3
+    [<c12317ed>] reserve_range+0xdd/0xed
+    [<c1231869>] system_pnp_probe+0x6c/0x92
+    [<c122cc63>] pnp_device_probe+0x77/0xce
+    [<c1298115>] driver_probe_device+0x5b/0x146
+    [<c129826d>] __driver_attach+0x6d/0x6f
+    [<c1297b03>] bus_for_each_dev+0x4e/0x6c
+    [<c1297ffb>] driver_attach+0x19/0x1b
+    [<c129745c>] bus_add_driver+0xbc/0x256
+    [<c129849a>] driver_register+0x75/0x143
+    [<c122ca8f>] pnp_register_driver+0x17/0x19
+    [<c15f3dca>] pnp_system_init+0xd/0x13
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+unreferenced object 0xf64dd800 (size 1024):
+  comm "swapper", pid 1, jiffies 4294894454 (age 63979.832s)
+  hex dump (first 32 bytes):
+    ec 8a ff ff c4 ff ff ff c4 ff ff ff c4 ff ff ff  ................
+    fc ff ff ff fc ff ff ff fc ff ff ff fc ff ff ff  ................
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad74f>] __kmalloc+0xea/0x106
+    [<c10ae4f8>] pcpu_mem_alloc+0x18/0x3a
+    [<c10aefd4>] pcpu_extend_area_map+0x1b/0xb3
+    [<c10af342>] pcpu_alloc+0x2d6/0x80d
+    [<c10af892>] __alloc_percpu+0xa/0x18
+    [<c1061094>] __create_workqueue_key+0x38/0x18e
+    [<c15fb9bc>] hid_init+0x32/0xb6
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+    [<ffffffff>] 0xffffffff
+unreferenced object 0xf6a30520 (size 32):
+  comm "swapper", pid 1, jiffies 4294894459 (age 63979.812s)
+  hex dump (first 32 bytes):
+    30 00 72 00 00 00 00 00 00 00 00 00 01 01 00 00  0.r.............
+    00 00 00 00 38 09 5a c1 00 02 20 00 3c 05 a3 f6  ....8.Z... .<...
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad74f>] __kmalloc+0xea/0x106
+    [<c11e56ce>] kvasprintf+0x2a/0x47
+    [<c11ddd96>] kobject_set_name_vargs+0x21/0x55
+    [<c11ddde5>] kobject_add_varg+0x1b/0x45
+    [<c11dde68>] kobject_add+0x2c/0x54
+    [<c1348b34>] add_sysfs_fw_map_entry+0x47/0x80
+    [<c15fb363>] memmap_init+0x13/0x2d
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+    [<ffffffff>] 0xffffffff
+unreferenced object 0xf6a304e0 (size 32):
+  comm "swapper", pid 1, jiffies 4294894459 (age 63979.812s)
+  hex dump (first 32 bytes):
+    31 00 21 c1 b5 06 22 c1 bd 2e 22 c1 df a4 21 c1  1.!..."..."...!.
+    fc 97 22 c1 7f ae 21 c1 50 92 21 c1 0d 33 5f c1  .."...!.P.!..3_.
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad74f>] __kmalloc+0xea/0x106
+    [<c11e56ce>] kvasprintf+0x2a/0x47
+    [<c11ddd96>] kobject_set_name_vargs+0x21/0x55
+    [<c11ddde5>] kobject_add_varg+0x1b/0x45
+    [<c11dde68>] kobject_add+0x2c/0x54
+    [<c1348b34>] add_sysfs_fw_map_entry+0x47/0x80
+    [<c15fb363>] memmap_init+0x13/0x2d
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+    [<ffffffff>] 0xffffffff
+unreferenced object 0xf6a304a0 (size 32):
+  comm "swapper", pid 1, jiffies 4294894459 (age 63979.816s)
+  hex dump (first 32 bytes):
+    32 00 a3 f6 80 3e 8c f6 9f 3e 8c f6 54 03 a3 f6  2....>...>..T...
+    da fc 0a c1 00 00 00 00 80 3e 8c f6 20 00 00 00  .........>.. ...
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad74f>] __kmalloc+0xea/0x106
+    [<c11e56ce>] kvasprintf+0x2a/0x47
+    [<c11ddd96>] kobject_set_name_vargs+0x21/0x55
+    [<c11ddde5>] kobject_add_varg+0x1b/0x45
+    [<c11dde68>] kobject_add+0x2c/0x54
+    [<c1348b34>] add_sysfs_fw_map_entry+0x47/0x80
+    [<c15fb363>] memmap_init+0x13/0x2d
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+    [<ffffffff>] 0xffffffff
+unreferenced object 0xf6a30460 (size 32):
+  comm "swapper", pid 1, jiffies 4294894459 (age 63979.816s)
+  hex dump (first 32 bytes):
+    33 00 ff ff 10 00 00 00 d5 db fe ff 01 00 00 00  3...............
+    73 77 61 70 70 65 72 00 00 00 00 00 00 00 00 00  swapper.........
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad74f>] __kmalloc+0xea/0x106
+    [<c11e56ce>] kvasprintf+0x2a/0x47
+    [<c11ddd96>] kobject_set_name_vargs+0x21/0x55
+    [<c11ddde5>] kobject_add_varg+0x1b/0x45
+    [<c11dde68>] kobject_add+0x2c/0x54
+    [<c1348b34>] add_sysfs_fw_map_entry+0x47/0x80
+    [<c15fb363>] memmap_init+0x13/0x2d
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+    [<ffffffff>] 0xffffffff
+unreferenced object 0xf6a30420 (size 32):
+  comm "swapper", pid 1, jiffies 4294894459 (age 63979.816s)
+  hex dump (first 32 bytes):
+    34 00 00 00 fc c8 41 c1 4f d7 0a c1 c0 9b 21 c1  4.....A.O.....!.
+    10 b7 21 c1 ec 98 21 c1 b5 06 22 c1 bd 2e 22 c1  ..!...!..."...".
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad74f>] __kmalloc+0xea/0x106
+    [<c11e56ce>] kvasprintf+0x2a/0x47
+    [<c11ddd96>] kobject_set_name_vargs+0x21/0x55
+    [<c11ddde5>] kobject_add_varg+0x1b/0x45
+    [<c11dde68>] kobject_add+0x2c/0x54
+    [<c1348b34>] add_sysfs_fw_map_entry+0x47/0x80
+    [<c15fb363>] memmap_init+0x13/0x2d
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+    [<ffffffff>] 0xffffffff
+unreferenced object 0xf6a303e0 (size 32):
+  comm "swapper", pid 1, jiffies 4294894459 (age 63979.816s)
+  hex dump (first 32 bytes):
+    35 00 20 00 e4 03 a3 f6 e4 03 a3 f6 ec 03 a3 f6  5. .............
+    ec 03 a3 f6 44 05 a3 f6 80 3e 8c f6 9f 3e 8c f6  ....D....>...>..
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad74f>] __kmalloc+0xea/0x106
+    [<c11e56ce>] kvasprintf+0x2a/0x47
+    [<c11ddd96>] kobject_set_name_vargs+0x21/0x55
+    [<c11ddde5>] kobject_add_varg+0x1b/0x45
+    [<c11dde68>] kobject_add+0x2c/0x54
+    [<c1348b34>] add_sysfs_fw_map_entry+0x47/0x80
+    [<c15fb363>] memmap_init+0x13/0x2d
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+    [<ffffffff>] 0xffffffff
+unreferenced object 0xf6a303a0 (size 32):
+  comm "swapper", pid 1, jiffies 4294894459 (age 63979.816s)
+  hex dump (first 32 bytes):
+    36 00 5f c1 10 11 00 c1 64 63 5d c1 b6 50 02 c1  6._.....dc]..P..
+    ff ff ff ff d3 3f 5f c1 0f 00 00 00 d5 db fe ff  .....?_.........
+  backtrace:
+    [<c141c8fc>] kmemleak_alloc+0x3a/0x50
+    [<c10ad74f>] __kmalloc+0xea/0x106
+    [<c11e56ce>] kvasprintf+0x2a/0x47
+    [<c11ddd96>] kobject_set_name_vargs+0x21/0x55
+    [<c11ddde5>] kobject_add_varg+0x1b/0x45
+    [<c11dde68>] kobject_add+0x2c/0x54
+    [<c1348b34>] add_sysfs_fw_map_entry+0x47/0x80
+    [<c15fb363>] memmap_init+0x13/0x2d
+    [<c1001110>] do_one_initcall+0x23/0x169
+    [<c15d6364>] kernel_init+0x133/0x1d5
+    [<c10250b6>] kernel_thread_helper+0x6/0x10
+    [<ffffffff>] 0xffffffff

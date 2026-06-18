@@ -1,0 +1,15 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090224 Minefield/3.2a1pre
+author=
+host=77.58.149.99
+name=Main.YellowBill
+rev=2
+targets=Main.YellowBill
+text=!! About YellowBill:%0a%0a* http://www.yellowworld.ch/Referenzen/eBilling/Postfinance-%25281%2529.aspx
+time=1235580410
+author:1235580410=
+diff:1235580410:1235580323:=1,2c1,2%0a%3c !! About YellowBill:%0a%3c %0a---%0a> !! About YellwoBill:%0a> %0a
+host:1235580410=77.58.149.99
+author:1235580323=
+diff:1235580323:1235580323:=1,3d0%0a%3c !! About YellwoBill:%0a%3c %0a%3c * http://www.yellowworld.ch/Referenzen/eBilling/Postfinance-%25281%2529.aspx%0a\ No newline at end of file%0a
+host:1235580323=77.58.149.99

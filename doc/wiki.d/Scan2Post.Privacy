@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.72 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1536043775
+host=212.51.146.241
+name=Scan2Post.Privacy
+rev=1
+targets=
+text=! Scan2Post Privacy Policy%0aScan2Post saves all data only on the local computer where the software is installed.
+time=1536043775
+author:1536043775=zeno
+diff:1536043775:1536043775:=1,2d0%0a%3c ! Scan2Post Privacy Policy%0a%3c Scan2Post saves all data only on the local computer where the software is installed.%0a\ No newline at end of file%0a
+host:1536043775=212.51.146.241

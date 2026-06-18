@@ -1,0 +1,42 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a3pre) Gecko/20100307 Minefield/3.7a3pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1268039872
+host=80.219.10.249
+name=Ywesee.KindleOniPhone
+rev=10
+targets=Ywesee.Stanza
+text=!Compendium der Schweizer Arzneimittel auf dem iPhone und iPod Touch 2G und 3G als MOBI%0a%0aDas 2G und 3G iPhone hat einen langsameren Prozessor als das 3GS iPhone. Die Mobi Datei für den Kindle ist kleiner als die Epub Datei, darum müssen alle 2G und 3G iPhone User die [[http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301 | Kindle-App-for-iPhone]] installieren und das Compendium der Schweizer Arzneimittel im Amazon Store kaufen.%0a%0a# [[http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301 | Amazon Kindle App installieren]]%0a# [[https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%253Daps&field-keywords=zeno+Davatz&x=0&y=0 | Compendium der Schweizer Arzneimittel]] kaufen.%0a# Warten bis das Buch runtergeladen wurde.%0a# Fertig.%0a# Im Gegensatz zur [[ywesee/Stanza]] Version hat die Mobi-Version auch Direktlinks zu den Kapiteln. Es ist jedoch schwieriger die Datei zu teilen mit den Kollegen.%0a%0ahttp://farm5.static.flickr.com/4072/4415970801_7ba5aa34b4_o.jpg http://farm3.static.flickr.com/2735/4416733194_09d8f27c3e_o.jpg http://farm3.static.flickr.com/2749/4416768542_f22910fd66_o.jpg%0ahttp://farm5.static.flickr.com/4045/4416002607_d81e7e82a8_o.jpg http://farm3.static.flickr.com/2723/4416767952_2ac324a533_o.jpg http://farm5.static.flickr.com/4028/4415994467_0c93ba3fae_o.jpg http://farm3.static.flickr.com/2683/4416760366_3a20e7694b_o.jpg
+time=1268045548
+author:1268045548=
+diff:1268045548:1268042666:=3c3%0a%3c Das 2G und 3G iPhone hat einen langsameren Prozessor als das 3GS iPhone. Die Mobi Datei für den Kindle ist kleiner als die Epub Datei, darum müssen alle 2G und 3G iPhone User die [[http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301 | Kindle-App-for-iPhone]] installieren und das Compendium der Schweizer Arzneimittel im Amazon Store kaufen.%0a---%0a> Das 2G und 3G iPhone hat einen langsameren Prozessor als das 3GS iPhone. Die Mobi Datei für den Kindle ist kleiner als die Ebub Datei, darum müssen alle 2G und 3G iPhone User die [[http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301 | Kindle-App-for-iPhone]] installieren und das Compendium der Schweizer Arzneimittel im Amazon Store kaufen.%0a
+host:1268045548=80.219.10.249
+author:1268042666=
+diff:1268042666:1268042654:=9c9%0a%3c # Im Gegensatz zur [[ywesee/Stanza]] Version hat die Mobi-Version auch Direktlinks zu den Kapiteln. Es ist jedoch schwieriger die Datei zu teilen mit den Kollegen.%0a---%0a> # Im Gegensatz zur [[ywesee/Stanza]] Version hat die Mobi-Version auch Direktlinks zu den Kapiteln. Es ist jedoch schwieriger die Datei zu teilen.%0a
+host:1268042666=80.219.10.249
+author:1268042654=
+diff:1268042654:1268042586:=9c9%0a%3c # Im Gegensatz zur [[ywesee/Stanza]] Version hat die Mobi-Version auch Direktlinks zu den Kapiteln. Es ist jedoch schwieriger die Datei zu teilen.%0a---%0a> # Im Gegensatz zur [[ywesee/Stanza]] Version hat die Mobi-Version auch Direktlinks zu den Kapiteln.%0a
+host:1268042654=80.219.10.249
+author:1268042586=
+diff:1268042586:1268042264:=9d8%0a%3c # Im Gegensatz zur [[ywesee/Stanza]] Version hat die Mobi-Version auch Direktlinks zu den Kapiteln.%0a
+host:1268042586=80.219.10.249
+author:1268042264=
+diff:1268042264:1268042250:=11c11,12%0a%3c http://farm5.static.flickr.com/4045/4416002607_d81e7e82a8_o.jpg http://farm3.static.flickr.com/2723/4416767952_2ac324a533_o.jpg http://farm5.static.flickr.com/4028/4415994467_0c93ba3fae_o.jpg http://farm3.static.flickr.com/2683/4416760366_3a20e7694b_o.jpg%0a\ No newline at end of file%0a---%0a> http://farm5.static.flickr.com/4045/4416002607_d81e7e82a8_o.jpg http://farm3.static.flickr.com/2723/4416767952_2ac324a533_o.jpg http://farm5.static.flickr.com/4028/4415994467_0c93ba3fae_o.jpg %0a> http://farm3.static.flickr.com/2683/4416760366_3a20e7694b_o.jpg%0a\ No newline at end of file%0a
+host:1268042264=80.219.10.249
+author:1268042250=
+diff:1268042250:1268042232:=10,11c10,15%0a%3c http://farm5.static.flickr.com/4072/4415970801_7ba5aa34b4_o.jpg http://farm3.static.flickr.com/2735/4416733194_09d8f27c3e_o.jpg http://farm3.static.flickr.com/2749/4416768542_f22910fd66_o.jpg%0a%3c http://farm5.static.flickr.com/4045/4416002607_d81e7e82a8_o.jpg http://farm3.static.flickr.com/2723/4416767952_2ac324a533_o.jpg http://farm5.static.flickr.com/4028/4415994467_0c93ba3fae_o.jpg %0a---%0a> http://farm5.static.flickr.com/4072/4415970801_7ba5aa34b4_o.jpg %0a> http://farm3.static.flickr.com/2735/4416733194_09d8f27c3e_o.jpg %0a> http://farm3.static.flickr.com/2749/4416768542_f22910fd66_o.jpg%0a> http://farm5.static.flickr.com/4045/4416002607_d81e7e82a8_o.jpg%0a> http://farm3.static.flickr.com/2723/4416767952_2ac324a533_o.jpg%0a> http://farm5.static.flickr.com/4028/4415994467_0c93ba3fae_o.jpg %0a
+host:1268042250=80.219.10.249
+author:1268042232=
+diff:1268042232:1268041675:=10,16c10%0a%3c http://farm5.static.flickr.com/4072/4415970801_7ba5aa34b4_o.jpg %0a%3c http://farm3.static.flickr.com/2735/4416733194_09d8f27c3e_o.jpg %0a%3c http://farm3.static.flickr.com/2749/4416768542_f22910fd66_o.jpg%0a%3c http://farm5.static.flickr.com/4045/4416002607_d81e7e82a8_o.jpg%0a%3c http://farm3.static.flickr.com/2723/4416767952_2ac324a533_o.jpg%0a%3c http://farm5.static.flickr.com/4028/4415994467_0c93ba3fae_o.jpg %0a%3c http://farm3.static.flickr.com/2683/4416760366_3a20e7694b_o.jpg%0a\ No newline at end of file%0a---%0a> http://farm5.static.flickr.com/4072/4415970801_7ba5aa34b4_o.jpg http://farm3.static.flickr.com/2735/4416733194_09d8f27c3e_o.jpg http://farm5.static.flickr.com/4028/4415994467_0c93ba3fae_o.jpg http://farm3.static.flickr.com/2683/4416760366_3a20e7694b_o.jpg%0a\ No newline at end of file%0a
+host:1268042232=80.219.10.249
+author:1268041675=
+diff:1268041675:1268040628:=10c10%0a%3c http://farm5.static.flickr.com/4072/4415970801_7ba5aa34b4_o.jpg http://farm3.static.flickr.com/2735/4416733194_09d8f27c3e_o.jpg http://farm5.static.flickr.com/4028/4415994467_0c93ba3fae_o.jpg http://farm3.static.flickr.com/2683/4416760366_3a20e7694b_o.jpg%0a\ No newline at end of file%0a---%0a> http://farm5.static.flickr.com/4072/4415970801_7ba5aa34b4_o.jpg http://farm3.static.flickr.com/2735/4416733194_09d8f27c3e_o.jpg http://farm3.static.flickr.com/2723/4416732868_9a1372d33f_o.jpg http://farm3.static.flickr.com/2785/4415966245_e8cc46dff8_o.jpg%0a\ No newline at end of file%0a
+host:1268041675=80.219.10.249
+author:1268040628=
+diff:1268040628:1268039872:=9,10d8%0a%3c %0a%3c http://farm5.static.flickr.com/4072/4415970801_7ba5aa34b4_o.jpg http://farm3.static.flickr.com/2735/4416733194_09d8f27c3e_o.jpg http://farm3.static.flickr.com/2723/4416732868_9a1372d33f_o.jpg http://farm3.static.flickr.com/2785/4415966245_e8cc46dff8_o.jpg%0a\ No newline at end of file%0a
+host:1268040628=80.219.10.249
+author:1268039872=
+diff:1268039872:1268039872:=1,8d0%0a%3c !Compendium der Schweizer Arzneimittel auf dem iPhone und iPod Touch 2G und 3G als MOBI%0a%3c %0a%3c Das 2G und 3G iPhone hat einen langsameren Prozessor als das 3GS iPhone. Die Mobi Datei für den Kindle ist kleiner als die Ebub Datei, darum müssen alle 2G und 3G iPhone User die [[http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301 | Kindle-App-for-iPhone]] installieren und das Compendium der Schweizer Arzneimittel im Amazon Store kaufen.%0a%3c %0a%3c # [[http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301 | Amazon Kindle App installieren]]%0a%3c # [[https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%253Daps&field-keywords=zeno+Davatz&x=0&y=0 | Compendium der Schweizer Arzneimittel]] kaufen.%0a%3c # Warten bis das Buch runtergeladen wurde.%0a%3c # Fertig.%0a
+host:1268039872=80.219.10.249

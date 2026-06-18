@@ -1,0 +1,27 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1258018920
+host=212.51.146.241
+name=ODDB.IndividuelleMediliste
+rev=5
+targets=
+text=! Individuelle Mediliste%0a* Sind Sie ein Spital oder eine Pharmafirma und möchten jederzeit Ihre auf Ihre eigene Medikamenteliste zugreifen können via dem Internet? %0a* Wünschen Sie Tageskosten-Vergleichsgrafiken mit einem Balkendiagram wo auch die Konkurrenzprodukte enthalten sind (Pharmafirma)?%0a* Wollen Sie eine Sortierfunktion nach internen und auf dem Markt erhältlichen Medikamenten (Spital)? Wollen Sie die zu unterscheidenden Produkte einfach via Excel File hochladen und regelmässig aktualisieren können?%0a!!Beispiel%0a* http://desitin.ch.oddb.org
+time=1516714047
+author:1516714047=zeno
+diff:1516714047:1264779164:=1c1%0a%3c ! Individuelle Mediliste%0a---%0a> ! Individuelle Mediliste - (:addThis username="myUsername" btn="sm-share":)%0a
+host:1516714047=212.51.146.241
+author:1264779164=
+diff:1264779164:1258018984:=1c1%0a%3c ! Individuelle Mediliste - (:addThis username="myUsername" btn="sm-share":)%0a---%0a> ! Individuelle Mediliste%0a
+host:1264779164=80.219.10.249
+author:1258018984=
+diff:1258018984:1258018960:=4c4%0a%3c * Wollen Sie eine Sortierfunktion nach internen und auf dem Markt erhältlichen Medikamenten (Spital)? Wollen Sie die zu unterscheidenden Produkte einfach via Excel File hochladen und regelmässig aktualisieren können?%0a---%0a> * Wollen Sie eine Sortierfunktion nach internen und auf dem Markt erhältlichen Medikamenten (Spital)? Wollen Sie die zu unterscheidenden Produkte einfach via Excel File hochladen können?%0a
+host:1258018984=80.219.154.254
+author:1258018960=
+diff:1258018960:1258018920:=4c4%0a%3c * Wollen Sie eine Sortierfunktion nach internen und auf dem Markt erhältlichen Medikamenten (Spital)? Wollen Sie die zu unterscheidenden Produkte einfach via Excel File hochladen können?%0a---%0a> * Wollen Sie eine Sortierfunktion nach internen und auf dem Markt erhältlichen Medikamenten (Spital)?%0a
+host:1258018960=80.219.154.254
+author:1258018920=
+diff:1258018920:1258018920:=1,6d0%0a%3c ! Individuelle Mediliste%0a%3c * Sind Sie ein Spital oder eine Pharmafirma und möchten jederzeit Ihre auf Ihre eigene Medikamenteliste zugreifen können via dem Internet? %0a%3c * Wünschen Sie Tageskosten-Vergleichsgrafiken mit einem Balkendiagram wo auch die Konkurrenzprodukte enthalten sind (Pharmafirma)?%0a%3c * Wollen Sie eine Sortierfunktion nach internen und auf dem Markt erhältlichen Medikamenten (Spital)?%0a%3c !!Beispiel%0a%3c * http://desitin.ch.oddb.org%0a\ No newline at end of file%0a
+host:1258018920=80.219.154.254

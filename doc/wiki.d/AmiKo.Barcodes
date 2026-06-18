@@ -1,0 +1,30 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.76 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1395647913
+host=46.140.30.26
+name=AmiKo.Barcodes
+rev=6
+targets=AmiKo.Index
+text=%3c%3c|[[Index]]|>>%0a!! Barcodes im AmiKo%0aNeu sind die Barcodes auf allen AmiKo Plattformen direkt im Kapitel "Packungen" hinterlegt. Attach:Barcode.jpg%0a!! Anleitung Video%0a(:html:)%3ciframe width="853" height="480" src="//www.youtube.com/embed/cluqcRkuSrQ" frameborder="0" allowfullscreen>%3c/iframe>(:htmlend:)
+time=1395857167
+author:1395857167=zeno
+diff:1395857167:1395857135:=5c5%0a%3c (:html:)%3ciframe width="853" height="480" src="//www.youtube.com/embed/cluqcRkuSrQ" frameborder="0" allowfullscreen>%3c/iframe>(:htmlend:)%0a\ No newline at end of file%0a---%0a> (:html:)%3ciframe width="560" height="315" src="//www.youtube.com/embed/cluqcRkuSrQ" frameborder="0" allowfullscreen>%3c/iframe>(:htmlend:)%0a\ No newline at end of file%0a
+host:1395857167=46.140.30.26
+author:1395857135=zeno
+diff:1395857135:1395857117:=4d3%0a%3c !! Anleitung Video%0a
+host:1395857135=46.140.30.26
+author:1395857117=zeno
+diff:1395857117:1395857074:=4c4%0a%3c (:html:)%3ciframe width="560" height="315" src="//www.youtube.com/embed/cluqcRkuSrQ" frameborder="0" allowfullscreen>%3c/iframe>(:htmlend:)%0a\ No newline at end of file%0a---%0a> %3ciframe width="560" height="315" src="//www.youtube.com/embed/cluqcRkuSrQ" frameborder="0" allowfullscreen>%3c/iframe>%0a\ No newline at end of file%0a
+host:1395857117=46.140.30.26
+author:1395857074=zeno
+diff:1395857074:1395647989:=3,4c3%0a%3c Neu sind die Barcodes auf allen AmiKo Plattformen direkt im Kapitel "Packungen" hinterlegt. Attach:Barcode.jpg%0a%3c %3ciframe width="560" height="315" src="//www.youtube.com/embed/cluqcRkuSrQ" frameborder="0" allowfullscreen>%3c/iframe>%0a\ No newline at end of file%0a---%0a> Neu sind die Barcodes auf allen AmiKo Plattformen direkt im Kapitel "Packungen" hinterlegt. Attach:Barcode.jpg%0a\ No newline at end of file%0a
+host:1395857074=46.140.30.26
+author:1395647989=zeno
+diff:1395647989:1395647913:=1d0%0a%3c %3c%3c|[[Index]]|>>%0a
+host:1395647989=46.140.30.26
+author:1395647913=zeno
+diff:1395647913:1395647913:=1,2d0%0a%3c !! Barcodes im AmiKo%0a%3c Neu sind die Barcodes auf allen AmiKo Plattformen direkt im Kapitel "Packungen" hinterlegt. Attach:Barcode.jpg%0a\ No newline at end of file%0a
+host:1395647913=46.140.30.26

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1774000973
+host=212.51.146.241
+name=Parados.Support
+rev=3
+targets=
+text=! Parados Support%0a# [[https://apps.apple.com/us/app/parados/id6760842713 | iOS]]%0a# [[https://play.google.com/store/apps/details?id=com.ywesee.parados&pli=1 | Android]]%0a# +41 43 540 05 50%0a# zdavatz at ywesee dot com
+time=1774871584
+author:1774871584=zeno
+diff:1774871584:1774871544:=3d2%0a%3c # [[https://play.google.com/store/apps/details?id=com.ywesee.parados&pli=1 | Android]]%0a
+host:1774871584=212.51.146.241
+author:1774871544=zeno
+diff:1774871544:1774000973:=2d1%0a%3c # [[https://apps.apple.com/us/app/parados/id6760842713 | iOS]]%0a
+host:1774871544=212.51.146.241
+author:1774000973=zeno
+diff:1774000973:1774000973:=1,3d0%0a%3c ! Parados Support%0a%3c # +41 43 540 05 50%0a%3c # zdavatz at ywesee dot com%0a\ No newline at end of file%0a
+host:1774000973=212.51.146.241

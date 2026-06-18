@@ -1,0 +1,24 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9b3pre) Gecko/2008012404 Minefield/3.0b3pre
+author=
+host=77.57.16.157
+name=Main.Phostal
+rev=5
+targets=
+text=!01 Phostal, Injektionssuspension%0a%0a* TRIMEDAL Distribution AG, Eichenweg 3, 8126 Zumikon%0aZul.-Nr.: 49263 Abgabekategorie: A Index: 07.13.3. 01.01.2004%0aZusammensetzung: 01%0a%0aAnwendung: Hyposensibilisierung%0aPackungen:\\%0a01 Fortsetzungsbehandlung 1 Einzelallergen%0a066 1 x 5 mL A\\%0a01 Fortsetzungsbehandlung Allergenmischung%0a074 1 x 5 mL A\\%0a01 Anfangsbehandlung 1 Einzelallergen%0a082 4 x 5 mL A\\%0a01 Anfangsbehandlung Allergenmischung%0a090 4 x 5 mL A\\%0a* Bemerkungen: Ersetzt die Zulassungsbescheinigung vom 08.01.2003 (Änderung Zulassungsinhaberin)%0aGültig bis: 31. Dezember 2006
+time=1201508672
+author:1201508672=
+diff:1201508672:1201508654:=8c8%0a%3c Packungen:\\%0a---%0a> Packungen:\\ %0a
+host:1201508672=77.57.16.157
+author:1201508654=
+diff:1201508654:1201508643:=8c8%0a%3c Packungen:\\ %0a---%0a> Packungen: %0a
+host:1201508654=77.57.16.157
+author:1201508643=
+diff:1201508643:1201508617:=10c10%0a%3c 066 1 x 5 mL A\\%0a---%0a> 066 1 x 5 mL A%0a12c12%0a%3c 074 1 x 5 mL A\\%0a---%0a> 074 1 x 5 mL A%0a14c14%0a%3c 082 4 x 5 mL A\\%0a---%0a> 082 4 x 5 mL A%0a16c16%0a%3c 090 4 x 5 mL A\\%0a---%0a> 090 4 x 5 mL A%0a
+host:1201508643=77.57.16.157
+author:1201508617=
+diff:1201508617:1201508551:=1,2c1%0a%3c !01 Phostal, Injektionssuspension%0a%3c %0a---%0a> 01 Phostal, Injektionssuspension%0a6c5,13%0a%3c %0a---%0a> A): ALLERGENORUM EXTRACTUM VARIUM 0.01 I.R. aut 0.01 I.C., CALCIUM, CALCII PHOSPHAS,%0a> GLYCEROLUM, NATRII CHLORIDUM, MANNITOLUM, CONSERV.: PHENOLUM 4 mg, AQUA q.s.%0a> ad SUSPENSIONEM pro 1 mL, B): ALLERGENORUM EXTRACTUM VARIUM 0.1 I.R. aut 0.1 I.C.,%0a> CALCIUM, CALCII PHOSPHAS, GLYCEROLUM, NATRII CHLORIDUM, MANNITOLUM, CONSERV.:%0a> PHENOLUM 4 mg, AQUA q.s. ad SUSPENSIONEM pro 1 mL, C): ALLERGENORUM EXTRACTUM%0a> VARIUM 1 I.R. aut 1 I.C., CALCIUM, CALCII PHOSPHAS, GLYCEROLUM, NATRII CHLORIDUM,%0a> MANNITOLUM, CONSERV.: PHENOLUM 4 mg, AQUA q.s. ad SUSPENSIONEM pro 1 mL, D):%0a> ALLERGENORUM EXTRACTUM VARIUM 10 I.R. aut 10 I.C., CALCIUM, CALCII PHOSPHAS, GLYCEROLUM, NATRII CHLORIDUM, MANNITOLUM, CONSERV.: PHENOLUM 4 mg, AQUA q.s. ad%0a> SUSPENSIONEM pro 1 mL.%0a8,9c15%0a%3c Packungen: %0a%3c 01 Fortsetzungsbehandlung 1 Einzelallergen%0a---%0a> Packungen: 01 Fortsetzungsbehandlung 1 Einzelallergen%0a
+host:1201508617=77.57.16.157
+author:1201508551=
+diff:1201508551:1201508551:=1,24d0%0a%3c 01 Phostal, Injektionssuspension%0a%3c * TRIMEDAL Distribution AG, Eichenweg 3, 8126 Zumikon%0a%3c Zul.-Nr.: 49263 Abgabekategorie: A Index: 07.13.3. 01.01.2004%0a%3c Zusammensetzung: 01%0a%3c A): ALLERGENORUM EXTRACTUM VARIUM 0.01 I.R. aut 0.01 I.C., CALCIUM, CALCII PHOSPHAS,%0a%3c GLYCEROLUM, NATRII CHLORIDUM, MANNITOLUM, CONSERV.: PHENOLUM 4 mg, AQUA q.s.%0a%3c ad SUSPENSIONEM pro 1 mL, B): ALLERGENORUM EXTRACTUM VARIUM 0.1 I.R. aut 0.1 I.C.,%0a%3c CALCIUM, CALCII PHOSPHAS, GLYCEROLUM, NATRII CHLORIDUM, MANNITOLUM, CONSERV.:%0a%3c PHENOLUM 4 mg, AQUA q.s. ad SUSPENSIONEM pro 1 mL, C): ALLERGENORUM EXTRACTUM%0a%3c VARIUM 1 I.R. aut 1 I.C., CALCIUM, CALCII PHOSPHAS, GLYCEROLUM, NATRII CHLORIDUM,%0a%3c MANNITOLUM, CONSERV.: PHENOLUM 4 mg, AQUA q.s. ad SUSPENSIONEM pro 1 mL, D):%0a%3c ALLERGENORUM EXTRACTUM VARIUM 10 I.R. aut 10 I.C., CALCIUM, CALCII PHOSPHAS, GLYCEROLUM, NATRII CHLORIDUM, MANNITOLUM, CONSERV.: PHENOLUM 4 mg, AQUA q.s. ad%0a%3c SUSPENSIONEM pro 1 mL.%0a%3c Anwendung: Hyposensibilisierung%0a%3c Packungen: 01 Fortsetzungsbehandlung 1 Einzelallergen%0a%3c 066 1 x 5 mL A%0a%3c 01 Fortsetzungsbehandlung Allergenmischung%0a%3c 074 1 x 5 mL A%0a%3c 01 Anfangsbehandlung 1 Einzelallergen%0a%3c 082 4 x 5 mL A%0a%3c 01 Anfangsbehandlung Allergenmischung%0a%3c 090 4 x 5 mL A%0a%3c * Bemerkungen: Ersetzt die Zulassungsbescheinigung vom 08.01.2003 (Änderung Zulassungsinhaberin)%0a%3c Gültig bis: 31. Dezember 2006%0a\ No newline at end of file%0a
+host:1201508551=77.57.16.157

@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9pre) Gecko/2008060204 Minefield/3.0pre
+author=
+host=77.57.16.157
+name=Site.FAT16
+rev=1
+targets=
+text=http://de.wikipedia.org/wiki/File_Allocation_Table
+time=1212495901
+author:1212495901=
+diff:1212495901:1212495901:=1d0%0a%3c http://de.wikipedia.org/wiki/File_Allocation_Table%0a\ No newline at end of file%0a
+host:1212495901=77.57.16.157

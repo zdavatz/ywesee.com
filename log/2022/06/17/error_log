@@ -1,0 +1,18 @@
+[Fri Jun 17 01:00:05 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Fri Jun 17 01:00:06 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Fri Jun 17 05:07:27 2022] [error] [client 66.249.66.23] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Fri Jun 17 09:28:30 2022] [error] [client 66.249.66.218] File does not exist: /var/www/ywesee.com/doc/amiko
+[Fri Jun 17 09:30:23 2022] [error] [client 66.249.76.91] File does not exist: /var/www/ywesee.com/doc/generikacc
+[Fri Jun 17 09:44:55 2022] [error] [client 66.249.76.87] File does not exist: /var/www/ywesee.com/doc/amiko
+[Fri Jun 17 10:21:37 2022] [error] [client 104.194.8.39] File does not exist: /var/www/ywesee.com/doc/.git
+[Fri Jun 17 10:37:26 2022] [error] [client 66.249.76.227] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Jun 17 12:37:21 2022] [error] [client 66.249.76.231] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Fri Jun 17 15:04:21 2022] [error] [client 34.139.51.200] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Jun 17 15:04:37 2022] [error] [client 34.139.51.200] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Jun 17 15:04:40 2022] [error] [client 34.139.51.200] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Jun 17 21:30:43 2022] [error] [client 154.16.105.13] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat
+[Fri Jun 17 22:26:40 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Jun 17 22:26:45 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Jun 17 22:26:46 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Jun 17 22:26:48 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Jun 17 23:09:09 2022] [error] [client 66.249.76.231] File does not exist: /var/www/ywesee.com/doc/de

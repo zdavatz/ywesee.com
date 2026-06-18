@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a5pre) Gecko/20100428 Minefield/3.7a5pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1272554003
+host=80.219.10.249
+name=Main.MayoClinic
+rev=1
+targets=
+text=!Mayo Clinic%0ahttp://www.mayoclinic.com/
+time=1272554003
+author:1272554003=
+diff:1272554003:1272554003:=1,2d0%0a%3c !Mayo Clinic%0a%3c http://www.mayoclinic.com/%0a\ No newline at end of file%0a
+host:1272554003=80.219.10.249

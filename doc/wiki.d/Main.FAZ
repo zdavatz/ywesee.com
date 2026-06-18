@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.6) Gecko/20070802 Firefox/2.0.0.6
+author=zrr
+host=77.57.16.157
+name=Main.FAZ
+rev=1
+targets=
+text=http://www.faz.de
+time=1187781022
+author:1187781022=zrr
+diff:1187781022:1187781022:=1d0%0a%3c http://www.faz.de%0a\ No newline at end of file%0a
+host:1187781022=77.57.16.157

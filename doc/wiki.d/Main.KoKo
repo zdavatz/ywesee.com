@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1120728523
+text=Koko steht für Kompendiumskommission.
+targets=
+author=
+author:1120728523=
+host:1120728523=217.162.177.109
+diff:1120728523:1120728523:=1d0²< Koko steht für Kompendiumskommission.²\ No newline at end of file²
+name=Main.KoKo
+host=217.162.177.109
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.8) Gecko/20050620 Firefox/1.0.4
+rev=1

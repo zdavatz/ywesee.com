@@ -1,0 +1,185 @@
+Sehr geehrter Herr Kämpf
+
+Besten Dank für Ihr Mail.
+
+1. Besten Dank auch für Ihren Hinweis zu den Produkten NORVASC (50044025,
+50044041), wir haben die Angaben auf ODDB.org korrigiert.
+
+In unseren (und von Ihnen zitierten) Schreiben vom 11.02.05, 21.02.05 und
+07.03.05 geht es nicht bloss um ein Produkt sondern um eine ganze
+Liste von Produkten bei denen unserer Meinung nach Ihre publizierten
+Swissmedic-Nummern keinen Sinn machen. Auf unser ursprüngliches Schreiben vom
+2.12.2003 haben wir bis heute keine Antwort erhalten:
+http://www.ywesee.com/uploads/Main/an_Kaempf_2.12.2003.pdf
+
+Die aktuelle Liste haben ich Ihnen Attached (To_Proof_SL_8.4.2005).
+
+Ein weiteres *Beispiel*, das es zu überprüfen gilt sind folgende Codes,
+kommuniziert am 11.10.2004 an Herr Kämpf:
+(Isotretinoin-Mepha )
+
+55972003
+55972001
+55972007
+55972005
+
+Diese müssten sein:
+55972009	
+55972011	
+55972013	 	 
+55972015
+
+Die Medwin Datenbank gibt uns in diesem Fall Recht. Warum sind diese Codes
+anders in der Medwin Datenbank im Vergleich zu Ihrem Excel-Export?
+
+Wir haben nie behauptet, dass man aus dem Swissmedic-Code auf ein
+Generikum/Original schliessen kann. Wenn Sie aber unkorrekte Swissmedic-Nummern
+in Ihrem Excel exportieren, dann verunmöglichen Sie einen automatischen
+Preisabgleich und somit einen Generikapreisvergleich. Wie die Software aussehen
+muss um einen Generikavergleich zu ermöglichen ist uns selbstverständlich klar.
+Es scheint uns wichtig an dieser Stelle hinzuweisen, dass die Zukunft dem
+EAN-Code gehört und nicht dem Pharmacode oder sonst einem proprietären Standard.
+
+2. Können Sie mir das Auftragsvolumen und die jährlich
+wiederkehrenden Kosten schriftlich belegen? Ich denke Sie kennen das
+Öffentlichkeitsprinzip:
+http://www.ofj.admin.ch/themen/oeffprinzip/intro-d.htm
+
+Zu Ziffer 4 kann ich Bemerken, dass der HR-Auszug belegt, dass Herr Brunner
+Mitglied im Verwaltungsrat der E-mediat war.
+
+Besten Dank für Ihre Rückmeldung.
+
+Mit freundlichen Grüssen aus Zürich
+Zeno Davatz
+
+
+On Thu, 7 Apr 2005 18:53:39 +0200 
+reinhard.kaempf@bag.admin.ch wrote:
+
+> Sehr geehrter Herr Davatz
+> 
+> Zu Ihren Anschuldigungen in den e-Mails vom 11.02.05, 21.02.05, und 07.03.05
+> nehmen wir wie folgt Stellung:
+> 
+> 1. Ihre Angaben zu NORVASC sind falsch. Die von Ihnen angegebenen
+> Swissmedic-Nummern 50044 076 und 50044 068 verweisen auf die Packungsgrössen
+> 5 x 100, die beide weder in der SL noch im GALDAT der e-mediat zu finden
+> sind. 
+> Aus der Excel-Datei ist ersichtlich, dass nicht alle Packungen der SL einen
+> Pharmacode aufweisen. Daraus dürfte wohl jedermann schliessen können, dass
+> die SL keinesfalls auf dem proprietären Pharmacode, sondern auf einem
+> eigenen internen Schlüssel (Präparat- und Packungsnummer) aufbaut. 
+> Ihre Aussage, wonach ein Generika-Abgleich über die Swissmedic-Nummer
+> gemacht werden muss, entbehrt jeglicher Grundlage: Die Swissmedic-Nummer
+> beinhaltete keine Verbindungsmöglichkeit zwischen Original und Generika,
+> sondern kann nur über das Kennzeichen Original/Generika in Verbindung mit
+> dem ATC oder allenfalls IT gemacht werden. 
+> 
+> 2. Ihre Informationsquelle hat sie bezüglich Auftragsvolumen offensichtlich
+> falsch informiert. Der Schwellenwert von Fr. 248'950 (Art. 6 Abs. 1 lit.b
+> Bundesgesetz über das öffentliche Beschaffungswesen, BoeB) wird bei weitem
+> nicht erreicht: Das Auftragsvolumen liegt unter Fr. 50'000. Der Auftrag kann
+> entsprechend direkt und ohne Ausschreibung im sog. freihändigen Verfahren
+> vergeben werden (Art. 34 Abs. 2 lit.c Verordnung über das öffentliche
+> Beschaffungswesen, VoeB).
+> 
+> Zur rechtsrelevanten Unterstellung in Ziff. 4 äussern wir uns nicht, zeigt
+> sie doch deutlich, auf welcher indiskutablen Ebene Sie argumentieren. 
+> 
+> 
+> Freundliche Grüsse
+> 
+> Bundesamt für Gesundheit
+> Kranken- und Unfallversicherung
+> Abteilung Leistungen
+> Sektion Medikamente
+> Daniela Nemeth
+> lic.iur.
+> CH-3003 Bern
+> Büro: Effingerstrasse 20, 3003 Bern
+> Telefon +41 (0)31 322 91 67, Fax +41 (0)31 322 78 80
+> E-Mail: daniela.nemeth@bag.admin.ch
+> Internet: www.bag.admin.ch
+> 
+> 
+> 
+> -----Ursprüngliche Nachricht-----
+> Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com] 
+> Gesendet: Montag, 7. März 2005 11:53
+> An: Thomas Bähler
+> Cc: generika.cc mailinglist; Hans Heinrich Brunner; Reinhard Kämpf; Pascal
+> Couchepin
+> Betreff: Geschäftspraktiken im CH-Gesundheitswesen.
+> 
+> 
+> Sehr geehrter Herr Bähler
+> 
+> Danke für Ihr Schreiben vom 4. März 2005.
+> 
+> Nachdem ich Sie telefonisch nicht erreicht habe, wende ich mich schriftlich
+> an Sie.
+> 
+> 1. Die EAN-Codes der Spezialitätenliste, welche die E-mediat für das KUV
+> pflegt, sind gemäss unserem Schreiben an Herr Reinhard Kämpf vom 2.12.2003
+> nur zum Teil richtig. Es hat noch über 500 Produkte wo der EAN Code
+> (absichtlich oder nicht, das weiss ich nicht) nicht korrekt publiziert wird.
+> Wir haben bis heute keine schriftliche Antwort erhalten, weder von Herr
+> Brunner noch von Herr Kämpf. Gerne treffe ich alle beteiligten Parteien zu
+> einer entsprechenden Sitzung. Das gerade die EAN-Codes so nachlässig
+> gepflegt werden und nicht die Pharmacodes erstaunt mich in keiner Art und
+> Weise. Ist doch der Pharmacode ein proprietärer Standard der E-mediat. Der
+> EAN-Code hingegen ist ein  OpenSource Code und somit ein offener Standard.
+> Ich stelle hier die Frage: Sind das bewusste Verhinderungstaktiken um ein
+> öffnen vom CH-Gesundheitswesen zu verhindern?
+> 
+> 2. Gemäss meinen Informationsquellen handelt es sich bei dem Auftrag an die
+> E-mediat um ein Volumen das den Betrag von CHF 250'000 sprengt. Dieser
+> Auftrag muss also gemäss dem Gesetz vom öffentlichen Beschaffungswesen
+> ausgeschrieben werden! Wenn diese Aussage nicht stimmt seien Sie doch bitte
+> nach 2 Jahre so transparent und teilen Sie die Grösse vom Auftragsvolumen
+> mit. Oder haben Sie etwas zu verheimlichen?
+> 
+> 3. Herr Bähler, bitte geben Sie mir einen schriftlichen Gegenvorschlag was
+> ich den schreiben soll zur "Legal News" vom 16.2.2005. Sie können mir gerne
+> eine Email senden. Das ist etwas moderner und einfacher als ein
+> eingeschriebener Brief. Ich werde Ihr Mail auf jeden Fall lesen und auch
+> beantworten.
+> 
+> 4. Gemäss unseren Angaben war Herr Brunner (Direktor vom KUV) sogar im
+> Verwaltungsrat der E-mediat. Gibt es da noch versteckte Zusammenhänge?
+> 
+> 5. Herr Bähler, wir sind Ihnen sehr dankbar für eine transparente
+> Kommunikation.
+> 
+> Siehe auch:
+> * 7.3.2005, Geschäftspraktiken im CH-Gesundheitwesen 
+> * http://www.ywesee.com/pmwiki.php/Main/Home
+> 
+> -- 
+> Mit freundlichen Grüssen / best regards
+> 
+> Zeno Davatz
+> Verkauf & Akquisition
+> 
+> +41 43 540 05 50
+> 
+> www.ywesee.com > intellectual capital connected > www.oddb.org
+> 
+> pub  1024D/D77B920F 2003-06-24 
+> Schl.-Fingerabdruck = 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F
+> 
+
+
+-- 
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-24 
+Schl.-Fingerabdruck = 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

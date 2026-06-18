@@ -1,0 +1,1869 @@
+von A bis D hats in der SL gemäss
+http://www.galinfo.net/BSV_per_2005.09.01.xls
+111 Falsche Packungen, verteilt auf 59 Registrationen.
+
+ACHTUNG: Pro Registration kann es mehrere Packungen geben. 
+Die Registrations-Nummern stimmen bis jetzt immer.
+**********************************************************
+
+Legende:
+- SMJ = Swissmedic-Journal
+- BAG = Monatliches SL-Bulletin des BAG
+- XLS = SL-Datenstamm per 1.9.2005 im Excel-Format
+
+### Registration: 53663 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+10 mg/ml 240 ml       036   *   028
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER unter der Rubrik 
+B) Preiserhöhungen / Augmentations de prix
+
+--- Swissmedic-Journal 05/2002 -----------------------------------------
+02   3TC, Lösung oral
+* GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 53663                    Verkaufsart: A                        Index: 08.03.0.                                      01.05.2002
+Zusammensetzung:   02LAMIVUDINUM 150mg, SACCHARUM 3g, VANILLINUM, AROMATICA, CONSERV.: E216,
+E 218, EXCIPIENS ad SOLUTIONEM pro 15 mL. 
+Anwendung:                   HIV-Infektionen
+Packung:                    02 036                       240  mL                                           A
+Bemerkungen:               Ersetzt die Registrierungsurkunde vom 30.10.2000 (Änderung Firmennamen
+und Domizil)
+Gültig bis:                          31. Dezember 2005
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		2050172	16578	53663028	A	03/15/1996	3TC Sol. 10 mg/ml 240 ml Sol. int. 10 mg/ml	89.31	121.55		0	80300	Lamivudinum	12443
+
+--- http://www.galinfo.net/PR041001.txt --------------------------------
+3TC   GLAXOSMITHKLINE AG 08.03.00
+  60 Filmtabs 150 mg  1699947 16577 415.80  416.25  339.16  339.56
+  240 ml Sol. int. 10 mg/ml 2050172 16578 121.35  121.55  89.15 89.31
+
+
+### Registration: 50121 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+100mg 30 Sachets      046   -   011
+200mg 30 Sachets      054   -   038
+
+--- Swissmedic-Journal 07/2002 -----------------------------------------
+* 03 Acemucol 100 mg, Pulver 
+04 Acemucol 200 mg, Pulver 
+G. Streuli & Co. AG, Bahnhofstrasse 7, 8730 Uznach 
+Zul.-Nr.: 50121 Verkaufsart: D Index: 03.02.0. 05.07.2002
+Zusammensetzung: 
+03 ACETYLCYSTEINUM 100 mg, SORBITOLUM, CYCLAMAS, AROMATICA, EXCIPIENS ad PULVEREM pro CHARTA 1 g.
+04 ACETYLCYSTEINUM 200 mg, SORBITOLUM, CYCLAMAS, AROMATICA, EXCIPIENS ad PULVEREM pro CHARTA 1 g.
+Anwendung: Mukolytikum
+Packungen: 
+03 046 30 Beutel D 
+04 054 30 Beutel D
+Bemerkungen: 
+Ersetzt die Registrierungsurkunde vom 31.07.2000 
+früher: Acemucol 100mg/200mg, Granulat (Seq. 01 und 02) 
+Gültig bis: 31. Dezember 2005
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+G. STREULI & Co. AG	G	2555239	15938	50121011	D	03/15/1992	Acemucol Sach. 100 mg 30 Sach. 100 mg		9.1		0	30200	Acetylcystein.	45
+G. STREULI & Co. AG	G	1372850	15938	50121038	D	03/15/1992	Acemucol Sach. 200 mg 30 Sach. 200 mg		14.9		0	30200	Acetylcystein.	46
+
+
+### Registration: 42405 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+18 g Emulsion         027   -   019
+
+--- Swissmedic-Journal 12/2004 -----------------------------------------
+02 Acne-Med Wolff simplex, Emulsion
+Medika AG, Industriestrasse 111, 4147 Aesch
+Zul.-Nr.: 42405 Verkaufskategorie: D Index: 10.02.0. 14.12.2004
+Zusammensetzung: 02 HEXACHLOROPHENUM 5 mg, AROMATICA, VANILLINUM, COLOR.: E 172, CONSERV.: PHENOXYETHANOLUM, EXCIPIENS ad EMULSIONEM pro 1 g.
+Anwendung: Nachbehandlung der Akne
+Packung: 02 027 18 g D
+* Gültig bis: 13. Dezember 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Medika AG		876057	13791	42405019	D	03/15/1981	Acne-Med Wolff simplex Emulsio 0.5 % 18 g Emulsio (0,5+0,45+0,02%)		6.45		0	100200	Hexachlorophen.|Acid. linolic.|Tocopheroli acetas	91
+
+
+### Registration: 34730 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+3g 30 Sachets         024   -   016
+
+--- Swissmedic-Journal 10/2004 -----------------------------------------
+02 Actapulgite, poudre
+F.Uhlmann-Eyraud SA, 28, chemin du Grand-Puits, 1217 Meyrin
+N°d'AMM: 34730 Catégorie de remise: C Index: 04.10.0. 14.10.2004
+* Composition: 02
+ALUMINII MAGNESII SILICAS (ATTAPULGIT) 3 g, GLUCOSUM MONOHYDRICUM 200 mg, SACCHARINUM, ad PULVEREM pro CHARTA.
+Indication: Troubles intestinaux
+Conditionnement: 02 024 30 sachets C
+Remarque: Modification de la composition (excipients)
+* Valable jusqu'au: 13 octobre 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+F. UHLMANN-EYRAUD SA		256521	11358	34730016	C	03/15/1971	Actapulgite Pulv. 3 g 30 Sach. Pulv. (3+2,7 g)		17.7		0	40100	Al/Mg silicas|Glucos. monohydric.	102
+
+
+### Registration: 55073 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+15mg/ml Lösung 240 ml 002   *   000
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER unter der Rubrik 
+C) Überwälzung der Erhöhung des Swissmedic-Zulassungsvermerks / Comme conséquence de l'augmentation de l'estampille de Swissmedic
+
+--- Swissmedic-Journal 09/2004 -----------------------------------------
+01 Agenerase 15 mg/ml, Lösung zum Einnehmen
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 55073 Abgabekategorie: A Index: 08.03.0. 23.09.2004
+Zusammensetzung: 01
+AMPRENAVIRUM 15 mg, SACCHARINUM, AROMATICA, EXCIPIENS ad SOLUTIONEM pro 1 mL.
+Anwendung: HIV-Infektionen
+Packung: 01 002 240 mL A
+* Gültig bis: 22. September 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		2111583	17620	55073000	A	03/15/1999	Agenerase Sol. 15 mg/1ml 240 ml Sol. 15 mg/ml	50.41	75.75		0	80300	Amprenavir.	213
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Agenerase	GLAXOSMITHKLINE AG	08.03.00
+	480 Caps. 50 mg	2111560	17340	281.25	281.75	224.94	225.34	
+	240 Caps. 150 mg	2111577	17340	412.65	413.10	336.50	336.90	
+	240 ml Sol. 15 mg/ml	2111583	17620	75.60	75.75	50.27	50.41	
+
+
+### Registration: 44616 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+Pulver 400g           033   -   025
+
+--- Swissmedic-Journal 09/2003 -----------------------------------------
+02 Alfaré, poudre 
+Nestlé Suisse SA, Entre-Deux-Villes, 1800 Vevey 
+N° AMM: 44616 Catégorie de remise: C Index: 07.01.4. 08.09.2003
+* Composition: 
+02 MATERIA CRASSA 24 g, CARBOHYDRATA 52 g, PROTEINUM ANIMALE HYDROLYSATUM 18.2 g, 
+VITAMINA: RETINOLI PALMITAS 1'700 U.I., CHOLECALCIFEROLUM 290 U.I., 
+alfa-TOCOPHEROLUM 3.9 mg ut alfa-TOCOPHEROLI ACETAS, 
+PHYTOMENADIONUM 39 ug, THIAMINI HYDROCHLORIDUM 0.3 mg, 
+RIBOFLAVINI NATRII PHOSPHAS 0.7 mg, PYRIDOXINI HYDROCHLORIDUM 0.4 mg, 
+CYANOCOBALAMINUM 1.4 ug, NICOTINAMIDUM 4.8 mg, ACIDUM FOLICUM 43 ug, 
+ACIDUM D-PANTOTHENICUM 2.2 mg ut CALCII PANTOTHENAS, BIOTINUM 11 ug, 
+ACIDUM ASCORBICUM 48 mg ut NATRII ASCORBAS, ALIA: CHOLINI HYDROGENOTARTRAS 48 mg, 
+INOSITOLUM 24 mg, LEVOCARNITINUM 7.7 mg, TAURINUM 39 mg, 
+MINERALIA: NATRIUM 265 mg, KALIUM 600 mg, CALCIUM 400 mg, MAGNESIUM 60 mg, 
+FERRUM 5.8 mg, CUPRUM 0.3 mg, ZINCUM 3.6 mg, MANGANUM 24 ug, IODIDUM 72 ug, 
+CHLORIDUM 500 mg, PHOSPHORUS 235 mg, SELENIUM 7.5 ug, 
+EXCIPIENS ad PULVEREM pro 100 g corresp. 2'010 kJ.
+Indication: Aliment pour enfants et adultes en cas de troubles digestifs 
+Conditionnement: 02 033 400 g C
+Remarques: Cette attestation d'enregistrement annule celle du 27.11.2001 (Changements dans la composition) 
+Valable jusqu'au: 31 décembre 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Nestlé Suisse SA		933217	14384	44616025	C	03/15/1984	Alfaré Pulv. 400 g Pulv.		32.75	Y	0	70140	Materia crassa 24%|proteinica 18,2%|Carbohydrata 51,7%|Vitamina diversa	346
+
+
+### Registration: 30897 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+2mg 25 Comprimés      048   -   013
+
+--- Swissmedic-Journal 10/2002 -----------------------------------------
+03 Alkeran 2 mg, Filmtabletten 
+GlaxoSmithKline AG, Talstrasse 3­5, 3053 Münchenbuchsee 
+Zul.-Nr.: 30897 Abgabekategorie: A Index: 07.16.1. 03.10.2002
+Zusammensetzung: 03 MELPHALANUM 2 mg, EXCIPIENS pro COMPRESSO OBDUCTO. 
+Anwendung: Cytostaticum 
+Packung: 03 048 25 Filmtabletten A 
+* Gültig bis: 02. Oktober 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		2488282	10234	30897013	A	03/15/1965	Alkeran Compr. 2 mg 25 Compr. 2 mg	16.36	35.65		0	71610	Melphalan.	368
+
+
+### Registration: 51257 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+0.14 mg Spray 10 ml   022   -   014
+
+--- Swissmedic-Journal 02/2004 -----------------------------------------
+02 Allergodil Nasenspray, Lösung
+Viatris GmbH, Hegnaustrasse 60, 8602 Wangen
+Zul.-Nr.: 51257 Abgabekategorie: B Index: 12.02.7. 26.02.2004
+Zusammensetzung: 02
+AZELASTINI HYDROCHLORIDUM 0.14 mg pro DOSI, EXCIPIENS ad SOLUTIONEM.
+Anwendung: Allergische Rhinitis
+Packung: 02 022 10 mL B
+* Gültig bis: 25. Februar 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+VIATRIS GmbH		1592089	16300	51257014	B	03/15/1995	Allergodil Spray 0.14 mg/Dosis 10 ml Spray (71 Dosen 0,14 mg pro dosi)	14.27	31.15		0	120270	Azelastini HCl	381
+
+
+### Registration: 36355 ################################################
+
+4 Packungen*:         SMJ  BAG  XLS
+375 mg 130 ml Minz    107   -   018?
+375 mg 500 ml Minz    115   -   026?
+375 mg 130 ml Frucht  123   -   018?
+375 mg 500 ml Frucht  131   -   026?
+
+* ev. gehören nur 2 Packungen in die SL
+
+--- Swissmedic-Journal 01/2005 -----------------------------------------
+03 Alucol Pfefferminzaroma, Gel
+04 Alucol Fruchtaroma, Gel
+Melisana AG, Ankerstrasse 53, 8026 Zürich
+Zul.-Nr.: 36355 Abgabekategorie: D Index: 04.01.0. 14.01.2005
+* Zusammensetzung:03 ALUMINII OXIDUM HYDRICUM 375mg, MAGNESII HYDROXIDUM 175mg, SACCHARINUM,
+AROMATICA, CONSERV.: E 216, E 218, EXCIPIENS ad SUSPENSIONEM pro 5 mL corresp. ETHANOLUM 5% V/V.
+04 ALUMINII OXIDUM HYDRICUM 375mg, MAGNESII HYDROXIDUM 175mg, SACCHARINUM,
+AROMATICA, BERGAMOTTAE AETHEROLEUM, CONSERV.: E216, E218, EXCIPIENS ad SUSPENSIONEM pro 5 mL corresp. ETHANOLUM 5% V/V.
+Anwendung: Antacidum
+Packungen: 03 107 1 x 130 mL D
+115 1 x 500 mL D
+04 123 1 x 130 mL D
+131 1 x 500 mL D
+Bemerkungen: Änderung der Zusammensetzung
+Ersetzt die Registrierungsurkunde vom 17.04.2001
+Gültig bis: 31. Dezember 2005
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Melisana AG		515690	11518	36355018	D	03/15/1972	Alucol Gel 375 mg/5ml 130 ml Gel (375+175 mg/5 ml)		9.15		0	40100	Al oxid. hydric.|Mg hydroxid.	431
+Melisana AG		606145	11518	36355026	D	03/15/1972	Alucol Gel 375 mg/5ml 500 ml Gel (375+175 mg/5 ml)		28.2		0	40100	Al oxid. hydric.|Mg hydroxid.	432
+
+
+### Registration: 37683 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+16.75 g 250 ml        027   -   019
+
+--- Swissmedic-Export 2002 ---------------------------------------------
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;LYSINUM MONOHYDRICUM;10.82;g;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;LEUCINUM;11.38;g;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;METHIONINUM;6.59;g;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;PHENYLALANINUM;7.76;g;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;HISTIDINUM;4.90;g;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;VALINUM;9.53;g;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;THREONINUM;6.78;g;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;TRYPTOPHANUM;2.91;g;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;ISOLEUCINUM;7.52;g;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;AMINOACIDA;67;g ut;B05BA01;01.03.1977
+37683;027;01;Aminosteril KE Nephro, Infusionslösung;H-Synthetika;Hauptregistrierung;;Kombi;B;10;Fresenius Kabi (Schweiz) AG;10 x 250;mL;;B;Infusionslösung;L-MALAS;48.7;mmol;B05BA01;01.03.1977
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+FRESENIUS Kabi (Schweiz) AG		1874089	14204	37683019	B	03/15/1986	Aminosteril KE Nephro Infus. 16.75 g 250 ml (16,75g+ 48,7 mmol)	19.15	38.95	Y	0	70120	Aminoacida|Acid. L-malic.	479
+
+
+### Registration: 53114 ################################################
+
+3 Packungen:          SMJ  BAG  XLS
+100 mg 60 Comprimés   059  024* 024
+200 mg 20 Comprimés   067  032* 032
+200 mg 60 Comprimés   075  040* 040
+
+* Zum Zeitpunkt des Bulletins möglicherweise korrekt.
+
+--- Swissmedic-Journal 07/2005 -----------------------------------------
+01 Amiodarone Winthrop mite 100 mg, comprimés
+02 Amiodarone Winthrop 200 mg, comprimés
+* Winthrop Pharma (Suisse) SA, 11, rue Alphonse-Large, 1217 Meyrin
+N°d'AMM: 53114 Catégorie de remise: B Index: 02.02.0. 15.07.2005
+Composition: 01 AMIODARONI HYDROCHLORIDUM 100 mg, EXCIPIENS pro COMPRESSO.
+02 AMIODARONI HYDROCHLORIDUM 200 mg, EXCIPIENS pro COMPRESSO.
+Indication: Antiarythmique
+Conditionnements: 01 059 60 comprimés B
+02 067 20 comprimés B
+075 60 comprimés B
+Remarques: Cette attestation d'autorisation annule celle du 28.10.2004 (Changement de
+raison sociale)
+Valable jusqu'au: 31 décembre 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Winthrop Pharmaceuticals	G		18089	53114024	B	12/01/2004	Amiodarone Winthrop Obd. 100 mg 60 Obd. mite 100 mg	13.78	28.5			20200	Amiodaron. HCl	14463
+Winthrop Pharmaceuticals	G	2912308	18089	53114032	B	12/01/2004	Amiodarone Winthrop Obd. 200 mg 20 Obd. 200 mg	9.65	19.55			20200	Amiodaron. HCl	14464
+Winthrop Pharmaceuticals	G	2912314	18089	53114040	B	12/01/2004	Amiodarone Winthrop Obd. 200 mg 60 Obd. 200 mg	19.85	39.75			20200	Amiodaron. HCl	14465
+
+--- http://www.galinfo.net/PR041201.txt --------------------------------
+Kapitel:02.02.00
+
+(G)		Amiodarone Winthrop 		WINTHROP PHARMACEUTICALS
+		(Amiodaron. HCl)
+		18089		60 Obd. mite 100 mg Fr. 28.50 {13.78}		[53114024]		01.12.2004, B
+ 
+(G)		Amiodarone Winthrop 		WINTHROP PHARMACEUTICALS
+		(Amiodaron. HCl)
+		18089		20 Obd. 200 mg Fr. 19.55 {9.65}			[53114032]		01.12.2004, B
+		18089		60 Obd. 200 mg Fr. 39.75 {19.85}		[53114040]		01.12.2004, B
+ 
+
+### Registration: 42028 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+40 mg 60 Kapseln      029   -   010
+
+--- Swissmedic-Journal 10/2004 -----------------------------------------
+02 Andriol Testocaps, Kapseln
+* Organon AG, Churerstrasse 158, 8808 Pfäffikon
+Zul.-Nr.: 42028 Verkaufskategorie: B Index: 07.08.4. 22.10.2004
+Zusammensetzung: 02
+TESTOSTERONI UNDECYLAS 40 mg, COLOR.: E 110, EXCIPIENS pro CAPSULA.
+Anwendung: Androgenmangel (Hypogonadismus) beim Mann
+Packung: 02 029 60 Kapseln B
+Bemerkungen: Ersetzt die Zulassungsbescheinigung vom 03.03.2004 (Änderung Domizil)
+Gültig bis: 02. März 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+ORGANON AG		2787582	13737	42028010	B	03/15/1981	Andriol Testocaps Testocaps 40 mg 60 Testocaps 40 mg	38.26	61.45	Y		70840	Testosteron. undecanoas	579
+
+
+### Registration: 54834 ################################################
+
+4 Übereinstimmungen:  SMJ  BAG  XLS
+ 10 mg  30 Filmtabl.  012   *   012
+ 20 mg  30 Filmtabl.  039   *   039
+ 20 mg 100 Filmtabl.  047   *   047
+100 mg   3 Filmtabl.  055   *   055
+
+1 Abweichung:         SMJ  BAG  XLS
+ 10 mg 100 Filmtabl.  020   *   029
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER unter der Rubrik 
+C) Überwälzung der Erhöhung des Swissmedic-Zulassungsvermerks / Comme conséquence de l'augmentation de l'estampille de Swissmedic
+
+--- Swissmedic-Journal 02/2004 -----------------------------------------
+01 Arava 10 mg, Tabletten
+02 Arava 20 mg, Tabletten
+03 Arava 100 mg, Tabletten
+Aventis Pharma AG, Herostrasse 7, 8048 Zürich
+Zul.-Nr.: 54834 Abgabekategorie: A Index: 07.10.6. 20.02.2004
+Zusammensetzung: 01
+LEFLUNOMIDUM 10 mg, EXCIPIENS pro COMPRESSO OBDUCTO.
+02 LEFLUNOMIDUM 20 mg, EXCIPIENS pro COMPRESSO OBDUCTO.
+03 LEFLUNOMIDUM 100 mg, EXCIPIENS pro COMPRESSO OBDUCTO.
+Anwendung: aktive rheumatoide Arthritis
+Packungen: 01 012 30 Filmtabletten A
+020 100 Filmtabletten A
+02 039 30 Filmtabletten A
+047 100 Filmtabletten A
+03 055 3 Filmtabletten A
+* Gültig bis: 19. Februar 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Aventis Pharma AG		2076651	17279	54834029	A	03/15/1999	Arava Filmtabs 10 mg 100 Filmtabs 10 mg	309.26	380.55		0	71060	Leflunomid.	720
+Aventis Pharma AG		2076645	17279	54834012	A	03/15/1999	Arava Filmtabs 10 mg 30 Filmtabs 10 mg	92.05	124.8		0	71060	Leflunomid.	719
+Aventis Pharma AG		2076674	17279	54834047	A	03/15/1999	Arava Filmtabs 20 mg 100 Filmtabs 20 mg	566.1	683		0	71060	Leflunomid.	722
+Aventis Pharma AG		2076668	17279	54834039	A	03/15/1999	Arava Filmtabs 20 mg 30 Filmtabs 20 mg	161.42	206.45		0	71060	Leflunomid.	721
+Aventis Pharma AG		2076680	17279	54834055	A	03/15/1999	Arava Filmtabs 100 mg 3 Filmtabs 100 mg	92.05	124.8		0	71060	Leflunomid.	723
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Arava	Aventis Pharma AG	07.10.60
+	30 Filmtabs 10 mg	2076645	17279	124.55	124.80	91.85	92.05	
+	100 Filmtabs 10 mg	2076651	17279	380.10	380.55	308.86	309.26	
+	30 Filmtabs 20 mg	2076668	17279	206.15	206.45	161.14	161.42	
+	100 Filmtabs 20 mg	2076674	17279	681.15	683.00	564.50	566.10	
+	3 Filmtabs 100 mg	2076680	17279	124.55	124.80	91.85	92.05	
+
+
+### Registration: 54262 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+200 mg  30 Retardtabl 043   -   019
+200 mg 100 Retardtabl 051   -   035
+
+--- Swissmedic-Export 2002 ---------------------------------------------
+54262;043;02;Asasantin 200 mg / 25 mg retard, Kapseln;H-Synthetika;Hauptregistrierung;;Kombi;B;02;Boehringer Ingelheim (Schweiz);30;Retardtabletten;;B;Retard-Kapseln;ACIDUM ACETYLSALICYLICUM;25;mg;B01AC07;20.10.2000
+54262;043;02;Asasantin 200 mg / 25 mg retard, Kapseln;H-Synthetika;Hauptregistrierung;;Kombi;B;02;Boehringer Ingelheim (Schweiz);30;Retardtabletten;;B;Retard-Kapseln;DIPYRIDAMOLUM;200;mg;B01AC07;20.10.2000
+54262;051;02;Asasantin 200 mg / 25 mg retard, Kapseln;H-Synthetika;Hauptregistrierung;;Kombi;B;02;Boehringer Ingelheim (Schweiz);100;Retardtabletten;;B;Retard-Kapseln;ACIDUM ACETYLSALICYLICUM;25;mg;B01AC07;20.10.2000
+54262;051;02;Asasantin 200 mg / 25 mg retard, Kapseln;H-Synthetika;Hauptregistrierung;;Kombi;B;02;Boehringer Ingelheim (Schweiz);100;Retardtabletten;;B;Retard-Kapseln;DIPYRIDAMOLUM;200;mg;B01AC07;20.10.2000
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+BOEHRINGER INGELHEIM (SCHWEIZ)		1982838	16949	54262035	B	03/15/1998	Asasantin Caps. 200 mg 100 Caps. retard (200+25 mg)	28.45	49.9		0	60320	Dipyridamol.|Acid. acetylosalicylic.	798
+BOEHRINGER INGELHEIM (SCHWEIZ)		1982821	16949	54262019	B	03/15/1998	Asasantin Caps. 200 mg 30 Caps. retard (200+25 mg)	9.42	19.3		0	60320	Dipyridamol.|Acid. acetylosalicylic.	797
+
+
+### Registration: 50651 ################################################
+
+6 Packungen:          SMJ  BAG  XLS
+ 50 mg  14 Filmtabl.  088   -   010
+ 50 mg  30 Filmtabl.  096   -   029
+ 50 mg 100 Filmtabl.  118   *   037
+100 mg  14 Filmtabl.  126   -   045
+100 mg  30 Filmtabl.  134   -   053
+100 mg 100 Filmtabl.  142   *   061
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER unter der Rubrik 
+IIIb. Preissenkungen nach 15 Jahren SL / Réductions de prix après 15 ans
+
+--- Swissmedic-Journal 03/2005 -----------------------------------------
+01   Atenolol Sandoz 50, Filmtabletten
+02   Atenolol Sandoz 100, Filmtabletten
+* Sandoz Pharmaceuticals AG, Schachenstrasse 24, 5012 Schönenwerd
+Zul.-Nr.: 50651                    Abgabekategorie: B             Index: 02.03.0.                                      21.03.2005
+Zusammensetzung:   01 ATENOLOLUM 50 mg, EXCIPIENS pro COMPRESSO OBDUCTO.
+02 ATENOLOLUM 100 mg, EXCIPIENS pro COMPRESSO OBDUCTO.
+Anwendung:                   Hypertonie
+Packungen:                01 088                         14  Filmtabletten                          B
+096                         30  Filmtabletten                          B
+118                       100  Filmtabletten                          B
+02 126                         14  Filmtabletten                          B
+134                         30  Filmtabletten                          B
+142                       100  Filmtabletten                          B
+* Bemerkungen:      Ersetzt die Zulassungsbescheinigung vom 16.03.2005 (Änderung Firmen-
+name)
+Gültig bis:                          06. Oktober 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Sandoz Pharmaceuticals AG	G	2943444	16114	50651037	B	09/01/2005	Atenolol Sandoz Filmtabs 50 mg 100 Filmtabs 50 mg	20.98	41.1		0	20300	Atenolol.	869
+Sandoz Pharmaceuticals AG	G	2943421	16114	50651010	B	03/15/1994	Atenolol Sandoz Filmtabs 50 mg 14 Filmtabs 50 mg	3.81	8.4		0	20300	Atenolol.	867
+Sandoz Pharmaceuticals AG	G	2943438	16114	50651029	B	03/15/1994	Atenolol Sandoz Filmtabs 50 mg 30 Filmtabs 50 mg	7.02	14.25		0	20300	Atenolol.	868
+Sandoz Pharmaceuticals AG	G	2943473	16114	50651061	B	09/01/2005	Atenolol Sandoz Filmtabs 100 mg 100 Filmtabs 100 mg	38.01	61.15		0	20300	Atenolol.	872
+Sandoz Pharmaceuticals AG	G	2943450	16114	50651045	B	03/15/1994	Atenolol Sandoz Filmtabs 100 mg 14 Filmtabs 100 mg	6.06	13.3		0	20300	Atenolol.	870
+Sandoz Pharmaceuticals AG	G	2943467	16114	50651053	B	03/15/1994	Atenolol Sandoz Filmtabs 100 mg 30 Filmtabs 100 mg	11.5	25.85		0	20300	Atenolol.	871
+
+--- http://www.galinfo.net/PR050901.txt --------------------------------
+Atenolol Sandoz		Sandoz Pharmaceuticals AG	02.03.00
+	100 Filmtabs 50 mg 2943444	16114	41.10		20.98
+	100 Filmtabs 100 mg 2943473	16114	61.15		38.01	
+
+
+### Registration: 53974 ################################################
+
+3 Packungen:          SMJ  BAG  XLS
+80 mg/ml  70 ml Susp. 058   -   015 
+80 mg/ml 140 ml Susp. 066   -   023 
+80 mg/ml  35 ml Susp. 074   -   031 
+
+--- Swissmedic-Journal 03/2004 -----------------------------------------
+02   Augmentin Duo 457 mg (400/57), Pulver zur Herstellung einer Suspension
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 53974                    Abgabekategorie: A             Index: 08.01.93                                     15.03.2004
+Zusammensetzung:   02 AMOXICILLINUM ANHYDRICUM 400mg ut AMOXICILLINUM TRIHYDRICUM, ACIDUM CLA-
+VULANICUM 57 mg ut KALII CLAVULANAS, ASPARTAMUM, AROMATICA, ETHYLVANILLINUM,
+CONSERV.: E 211, EXCIPIENS ad PULVEREM corresp. SUSPENSIO RECONSTITUTA 5 mL. 
+Anwendung:                   Infektionskrankheiten
+Packungen:                  02 mit Dosierbecher
+058                         70  mL                                           A
+066                       140  mL                                           A
+02 mit Dosierpipette
+074                         35  mL                                           A
+* Gültig bis:                       14. März 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		2059115	17080	53974023	A	03/15/1999	Augmentin Duo Susp. 80 mg/ml 140 ml Susp. (80+11 mg/ml)	36.87	59.8		0	80194	Amoxicillin. anhydric.|Acid. clavulanic.	963
+GLAXOSMITHKLINE AG		2059090	17080	53974031	A	03/15/1999	Augmentin Duo Susp. 80 mg/ml 35 ml Susp. (80+11 mg/ml)	12.52	27.05		0	80194	Amoxicillin. anhydric.|Acid. clavulanic.	961
+GLAXOSMITHKLINE AG		2059109	17080	53974015	A	03/15/1999	Augmentin Duo Susp. 80 mg/ml 70 ml Susp. (80+11 mg/ml)	21.73	41.95		0	80194	Amoxicillin. anhydric.|Acid. clavulanic.	962
+
+
+### Registration: 46207 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+62.5 mg 20 ml susp.   033   *   025 
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER unter der Rubrik 
+C) Überwälzung der Erhöhung des Swissmedic-Zulassungsvermerks / Comme conséquence de l'augmentation de l'estampille de Swissmedic
+
+--- Swissmedic-Journal 11/2004 -----------------------------------------
+02   Augmentin Trio 62,5 mg (50/12,5),Pulver zur Herstellung einer Tropf suspension
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 46207                    Verkaufskategorie: A           Index: 08.01.93                                     15.11.2004
+* Zusammensetzung:02 AMOXICILLINUM ANHYDRICUM 50mg ut AMOXICILLINUM TRIHYDRICUM, ACIDUM CLA-
+VULANICUM 12.5 mg ut KALII CLAVULANAS, ASPARTAMUM, VANILLINUM, AROMATICA, EX-
+CIPIENS ad PULVEREM corresp. SUSPENSIO RECONSTITUTA 1 mL. 
+Anwendung:                   Infektionskrankheiten
+Packung:                    02 033                         20  mL                                           A
+Bemerkung:                      Ersetzt die Zulassungsbescheinigung vom 15.03.2004
+Gültig bis:                          14. März 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		2189579	14607	46207025	A	03/15/1985	Augmentin Trio Guttae 50 mg/ml 20 ml Guttae pro infant. (50+12,5 mg/ml)	5.38	14.55		0	80194	Amoxicillin. anhydric.|Acid. clavulanic.	967
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Augmentin Trio	GLAXOSMITHKLINE AG	08.01.94
+	100 ml Susp. pro infant. forte (50+12,5 mg/ml)	2119018	14517	42.55	42.65	22.24	22.31	
+	20 Sach. (250+62,5 mg)	2368098	14516	46.25	46.35	25.37	25.44	
+	20 ml Guttae pro infant. (50+12,5 mg/ml)	2189579	14607	12.45	14.55	5.36	5.38	
+
+
+### Registration: 45673 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+156.25 mg 100 ml      030   *   014   ** 100 ml Susp. pro infant. (25+6,25 mg/ml)
+312.5  mg 100 ml      049   *   022   ** 100 ml Susp. pro infant. forte (50+12,5 mg/ml)
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER unter der Rubrik 
+C) Überwälzung der Erhöhung des Swissmedic-Zulassungsvermerks / Comme conséquence de l'augmentation de l'estampille de Swissmedic
+
+** Die in XLS aufgeführten Dosierungen sind laut www.medwin.ch nicht
+	 unter 45673 registriert, sondern unter 46207 033  (022: 62.5 mg)
+   bzw. gar nicht erhältlich (014: 31.25 mg)
+   http://www.medwin.ch/content/index.htm - Suche nach 'Augmentin Trio'
+
+--- Swissmedic-Journal 03/2004 -----------------------------------------
+01   Augmentin Trio 156,25 mg (125/31,25), Pulver zur Herstellung einer Suspension
+02   Augmentin Trio forte 312,5 mg (250/62,5), Pulver zur Herstellung einer Suspension 
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 45673                    Abgabekategorie: A             Index: 08.01.93                                     15.03.2004
+Zusammensetzung:   01 AMOXICILLINUM ANHYDRICUM 125mg ut AMOXICILLINUM TRIHYDRICUM, ACIDUM CLA-
+VULANICUM 31.25mg ut KALII CLAVULANAS, ASPARTAMUM, AROMATICA, EXCIPIENS ad
+PULVEREM corresp. SUSPENSIO RECONSTITUTA 5 mL. 
+02 AMOXICILLINUM ANHYDRICUM 250mg ut AMOXICILLINUM TRIHYDRICUM, ACIDUM CLA-
+VULANICUM 62.5 mg ut KALII CLAVULANAS, ASPARTAMUM, AROMATICA, EXCIPIENS ad PUL-
+VEREM corresp. SUSPENSIO RECONSTITUTA 5 mL. 
+Anwendung:                   Infektionskrankheiten
+Packungen:                01 030                       100  mL                                           A
+02 049                       100  mL                                           A
+* Gültig bis:                       14. März 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		2080256	14517	45673014	A	03/15/1984	Augmentin Trio Susp. 25 mg/ml 100 ml Susp. pro infant. (25+6,25 mg/ml)	14.84	29.75		0	80194	Amoxicillin. anhydric.|Acid. clavulanic.	964
+GLAXOSMITHKLINE AG		2119018	14517	45673022	A	03/15/1985	Augmentin Trio Susp. 50 mg/ml 100 ml Susp. pro infant. forte (50+12,5 mg/ml)	22.31	42.65		0	80194	Amoxicillin. anhydric.|Acid. clavulanic.	965
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Augmentin Trio	GLAXOSMITHKLINE AG	08.01.94
+	100 ml Susp. pro infant. forte (50+12,5 mg/ml)	2119018	14517	42.55	42.65	22.24	22.31	
+	20 Sach. (250+62,5 mg)	2368098	14516	46.25	46.35	25.37	25.44	
+	20 ml Guttae pro infant. (50+12,5 mg/ml)	2189579	14607	12.45	14.55	5.36	5.38	
+ 
+ 
+### Registration: 52225 ################################################
+
+3 Übereinstimmungen:  SMJ  BAG  XLS
+Disk 0.1 mg           019   *   019 
+Disk 0.5 mg           035   *   035 
+Disk 0.25 mg          027   *   027
+
+1 Abweichung:         SMJ  BAG  XLS
+Nebulisator            -    *   043
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER unter der Rubrik 
+C) Überwälzung der Erhöhung des Swissmedic-Zulassungsvermerks / Comme conséquence de l'augmentation de l'estampille de Swissmedic
+
+--- Swissmedic-Journal 11/2002 -----------------------------------------
+01 Axotide 0,1 mg, Disk 
+02 Axotide 0,50 mg, Disk 
+03 Axotide 0,25 mg, Disk 
+GlaxoSmithKline AG, Talstrasse 3­5, 3053 Münchenbuchsee 
+Zul.-Nr.: 52225 Abgabekategorie: B Index: 03.04.4. 26.11.2002
+Zusammensetzung: 
+01 FLUTICASONI-17 PROPIONAS 100 ug, LACTOSUM MONOHYDRICUM q.s. ad PULVEREM pro
+25 mg.
+02 FLUTICASONI-17 PROPIONAS 500 ug, LACTOSUM MONOHYDRICUM q.s. ad PULVEREM pro
+25 mg.
+03 FLUTICASONI-17 PROPIONAS 250 ug, LACTOSUM MONOHYDRICUM q.s. ad PULVEREM pro
+25 mg.
+Anwendung: Antiasthmatikum 
+Packungen:
+01 019 60 Inhalationen 
+02 035 60 Inhalationen 
+03 027 60 Inhalationen 
+* Gültig bis: 25. November 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		1541212	16129	52225019	B	03/15/1994	Axotide Disk 0.1 mg 60 Inhal. 0,1 mg	29.55	51.2		0	30440	Fluticasoni propionas	1007
+GLAXOSMITHKLINE AG		1541229	16129	52225027	B	03/15/1994	Axotide Disk 0.25 mg 60 Inhal. 0,25 mg	64.66	92.55		0	30440	Fluticasoni propionas	1008
+GLAXOSMITHKLINE AG		1541235	16129	52225035	B	03/15/1994	Axotide Disk 0.5 mg 60 Inhal. 0,5 mg	104.16	139.05		0	30440	Fluticasoni propionas	1009
+GLAXOSMITHKLINE AG		1541206	16129	52225043		03/15/1994	Axotide Nebulisator 1 Diskhaler	4.21	9.05	Y	0	30440	Fluticasoni propionas	1010
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Axotide	GLAXOSMITHKLINE AG	03.04.40
+	60 Inhal. 0,1 mg	1541212	16129	51.05	51.20	29.45	29.55	
+	60 Inhal. 0,25 mg	1541229	16129	92.35	92.55	64.50	64.66	
+	60 Inhal. 0,5 mg	1541235	16129	138.80	139.05	103.96	104.16	
+	120 Dosen Dosieraerosol (50 mcg pro dosi)	1556774	16215	51.05	51.20	29.45	29.55	
+	120 Dosen Dosier-Aerosol (125 mcg pro dosi)	1911198	16930	92.35	92.55	64.50	64.66	
+	120 Dosen Dosier-Aerosol (250 mcg pro dosi)	1911206	16930	138.80	139.05	103.96	104.16	
+[...]
+Axotide	GLAXOSMITHKLINE AG	03.04.40
+	1 Diskhaler	1541206	16129	10.10	9.05	4.20	4.21	
+
+
+### Registration: 41476 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+500 ml 46.45%         079   -   052
+200 ml 46.45%         087   -   060
+
+--- Swissmedic-Journal 11/2002 -----------------------------------------
+* 01 Balmed Hermal F, Medizinisches Oelbad 
+Boots Healthcare (Switzerland)AG, Untermüli 11, 6300 Zug 
+Zul.-Nr.: 41476 Abgabekategorie: D Index: 10.10.0. 18.11.2002
+Zusammensetzung: 01 ARACHIDIS OLEUM 464.5 mg, PARAFFINUM PERLIQUIDUM 470 mg, DETERGENTIA, PROPYLENGLYCOLUM, AROMATICA, ANTIOX.: E 321, EXCIPIENS ad SOLUTIONEM pro 1 g.
+Anwendung: Trockene empfindliche Haut, unterstützende Behandlung verschiedener Hauterkrankungen  
+Packungen: 01 079 500 mL D 
+087 200 mL D 
+Bemerkungen: früher: Balneum Hermal F stärker fettend, Medizinalbad Ersetzt die Registrierungsurkunde vom 28.09.2001  
+Gültig bis: 31. Dezember 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Boots Healthcare (Switzerland) AG		2629966	13131	41476060	C	03/15/1979	Balmed Hermal F Liquid. 46.45 % 200 ml Liquid. (46,45+47%)		12.15	Y	20	101000	Ol. Arachidis|Paraffin. perliquid.	1110
+Boots Healthcare (Switzerland) AG		2629972	13131	41476052	C	03/15/1979	Balmed Hermal F Liquid. 46.45 % 500 ml Liquid. (46,45+47%)		20.1	Y	40	101000	Ol. Arachidis|Paraffin. perliquid.	1111
+
+
+### Registration: 29448 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+500 ml 85%            078   -   043
+200 ml 85%            086   -   051
+
+--- Swissmedic-Journal 11/2002 -----------------------------------------
+* 01 Balmed Hermal, Medizinisches Oelbad 
+Boots Healthcare (Switzerland)AG, Untermüli 11, 6300 Zug 
+Zul.-Nr.: 29448 Abgabekategorie: D Index: 10.10.0. 18.11.2002
+Zusammensetzung: 01 SOJAE OLEUM 850 mg, PROPYLENGLYCOLUM, AROMATICA, ANTIOX.: E 321, EXCIPIENS ad
+SOLUTIONEM pro 1 g.
+Anwendung: Medizinisches Oelbad bei trockenen und schuppenden Hautveränderungen 
+Packungen: 01 078 500 mL D 
+086 200 mL D 
+Bemerkungen: früher: Balneum Hermal, Medizinisches Oelbad Ersetzt die Registrierungsurkunde vom 16.11.2000 
+Gültig bis: 31. Dezember 2005
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Boots Healthcare (Switzerland) AG		2629937	12524	29448051	D	03/15/1977	Balmed Hermal Liquid. 85 % 200 ml Liquid. 85%		12.15	Y	20	101000	Ol. Soyae	1104
+Boots Healthcare (Switzerland) AG		2629943	12524	29448043	D	03/15/1977	Balmed Hermal Liquid. 85 % 500 ml Liquid. 85%		19.1	Y	30	101000	Ol. Soyae	1105
+
+
+### Registration: 48787 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+200 ml 82.95%         096   -   053
+500 ml 82.95%         118   -   037
+
+--- Swissmedic-Journal 11/2002 -----------------------------------------
+* 02 Balmed Hermal Plus, Medizinisches Oelbad 
+Boots Healthcare (Switzerland)AG, Untermüli 11, 6300 
+Zug Zul.-Nr.: 48787 Abgabekategorie: D Index: 10.10.0. 18.11.2002
+Zusammensetzung: 02 SOJAE OLEUM 830 mg, POLIDOCANOLA 150 mg, PROPYLENGLYCOLUM, AROMATICA, EXCIPIENS ad SOLUTIONEM pro 1 g.
+Anwendung: Trockene juckende Haut, unterstützende Behandlung verschiedener Hauterkrankungen 
+Packungen: 02 096 200 mL D 
+118 500 mL D 
+Bemerkungen: früher: Balneum Hermal Plus, flüssiger Badezusatz Ersetzt die Registrierungsurkunde vom 28.09.2001 
+Gültig bis: 31. Dezember 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Boots Healthcare (Switzerland) AG		2629989	15386	48787053	C	03/15/1988	Balmed Hermal Plus Liquid. 82.95 % 200 ml Liquid. (82,95+15%)		12.15	Y	20	101000	Ol. Soyae|Polidocanol.	1113
+Boots Healthcare (Switzerland) AG		2629995	15386	48787037	C	03/15/1988	Balmed Hermal Plus Liquid. 82.95 % 500 ml Liquid. (82,95+15%)		19	Y	30	101000	Ol. Soyae|Polidocanol.	1114
+
+
+### Registration: 49629 ################################################
+
+3 Übereinstimmungen:  SMJ  BAG  XLS
+Disk 0.2 mg 120 Inhl. 087   *   087
+Disk 0.4 mg  80 Inhl. 052   *   052 
+Disk 0.4 mg 120 Inhl. 079   *   079 
+
+2 Abweichungen:       SMJ  BAG  XLS
+Disk 0.2 mg 112 Inhl.  -    *   036 
+Nebulisator            -    *   060
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER als diverse Preis-Änderungen
+
+--- Swissmedic-Journal 02/2004 -----------------------------------------
+01   Becodisk 200, treibgasfreies Inhalationssystem
+02   Becodisk forte 400, treibgasfreies Inhalationssystem
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 49629                    Abgabekategorie: B             Index: 03.04.4.                                      24.02.2004
+Zusammensetzung:   01 BECLOMETASONI DIPROPIONAS 200 ug pro DOSI, LACTOSUM MONOHYDRICUM q.s. ad PUL-
+VEREM pro 25 mg. 
+02 BECLOMETASONI DIPROPIONAS 400 ug pro DOSI, LACTOSUM MONOHYDRICUM q.s. ad PUL-
+VEREM pro 25 mg. 
+Anwendung:                   Antiasthmatikum
+Packungen:                01 087                       120  Inhalationen                           B
+02 052                         80  Inhalationen                           B
+079                       120  Inhalationen                           B
+* Gültig bis:                       23. Februar 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		1480781	15517	49629087	B	09/15/1993	Becodisk Disk 0.2 mg 120 Inhal. 0,2 mg	49.76	75			30440	Beclomethason. dipropionic.	14285
+GLAXOSMITHKLINE AG		1364974	15517	49629036	B	03/15/1989	Becodisk Disk 0.2 mg 80 Inhal. 0,2 mg	34.22	56.7		0	30440	Beclomethason. dipropionic.	1181
+GLAXOSMITHKLINE AG		1480798	15517	49629079	B	09/15/1993	Becodisk Disk 0.4 mg 120 Inhal. 0,4 mg	64.01	91.75			30440	Beclomethason. dipropionic.	13067
+GLAXOSMITHKLINE AG		1364997	15517	49629052	B	03/15/1989	Becodisk Disk 0.4 mg 80 Inhal. 0,4 mg	41.62	65.4		0	30440	Beclomethason. dipropionic.	1184
+GLAXOSMITHKLINE AG		1364951	15517	49629060		03/15/1989	Becodisk Nebulisator 1 Diskhaler zu Becodisk	4.21	9.05	Y	0	30440	Beclomethason. dipropionic.	1186
+
+
+### Registration: 41717 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+200 mg/5 ml 100 ml    033   *   025 
+
+* http://www.galinfo.net/PR031201.txt
+vermerkt OHNE SWISSMEDIC-NUMMER unter der Rubrik 
+IV. Preiserhöhungen / Augmentations de prix
+
+--- Swissmedic-Journal 06/2005 -----------------------------------------
+02   Ben-u-ron, Sirup
+Milupa SA, Route de l'Industrie 24, 1564 Domdidier
+Zul.-Nr.: 41717                    Abgabekategorie: D             Index: 01.01.1.                                      08.06.2005
+* Zusammensetzung:02 PARACETAMOLUM 200mg, SACCHARUM, AROMATICA, VANILLINUM, COLOR.: E110, CON-
+SERV.: E 216, E 218, EXCIPIENS ad SOLUTIONEM pro 5 mL. 
+Anwendung:                     Analgetikum, Antipyretikum
+Packung:                    02 033                       100  mL                                           D
+Bemerkungen:             Ersetzt die Registrierungsurkunde vom 13.12.2002 Änderung der Hilfsstoff-
+zusammensetzung
+Gültig bis:                          12. Dezember 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+MILUPA SA		2155267	13550	41717025	D	12/01/2003	Ben-u-ron Sirup. 200 mg/5ml 100 ml Sirup. 200 mg/5 ml		8.8		0	10110	Paracetamol.	1243
+
+--- http://www.galinfo.net/PR031201.txt --------------------------------
+Ben-u-ron		MILUPA SA	01.01.10
+	20 Compr. 500 mg	1148331	14984		2.45		2.55		0		0.00	
+	10 Supp. pro lactant. 125 mg	1417825	10339	3.65		3.80		0		0.00	
+	10 Supp. pro infant. 250 mg	31532	10339	4.25		4.45		0		0.00	
+	10 Supp. 500 mg		1148354	10339		4.40		4.60		0		0.00	
+	10 Supp. 1 g		1148348	10339		5.80		6.05		0		0.00	
+	100 ml Sirup. 200 mg/5 ml	2155267	13550	8.45		8.80		0		0.00	
+
+
+### Registration: 25636 ################################################
+
+1 Übereinstimmung:    SMJ  BAG  XLS
+100 mg 100 Tabletten  058   -   058 
+
+1 Abweichung:         SMJ  BAG  XLS
+100 mg  20 Tabletten   -    -   031*
+
+* Auch in medwin.ch nicht vorhanden.
+
+--- Swissmedic-Journal 05/2005 -----------------------------------------
+01   Benerva 300 mg, Tabletten
+02   Benerva 100 mg, Tabletten
+* Bayer (Schweiz) AG, Grubenstrasse 6, 8045 Zürich
+Zul.-Nr.: 25636                    Abgabekategorien: C, D     Index: 07.02.3.                                      01.05.2005
+Zusammensetzung:   01 THIAMINI HYDROCHLORIDUM 300 mg, EXCIPIENS pro COMPRESSO OBDUCTO.
+02 THIAMINI HYDROCHLORIDUM 100 mg, EXCIPIENS pro COMPRESSO.
+Anwendung:                   Vitamin-B1-Präparat
+Packungen:                01 015                         20  Tabletten                                 C
+023                       100  Tabletten                                 C
+02 058                       100  Tabletten                                 D
+* Bemerkungen:             Ersetzt die Zulassungsbescheinigung vom 08.10.2004 (Änderung Zulassu\
+ngs-
+inhaberin)
+Gültig bis:                          07. Oktober 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+BAYER (Schweiz) AG		2149634	6702	25636058	D	03/15/1955	Benerva Obd. 100 mg 100 Compr. 100 mg		23.85		0	70230	Thiamini HCl	1258
+BAYER (Schweiz) AG		2164154	6702	25636031	D	03/15/1955	Benerva Obd. 100 mg 20 Compr. 100 mg		5.7		0	70230	Thiamini HCl	1257
+
+
+### Registration: 53225 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+15 Stechamp.          039   *   012
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER unter der Rubrik 
+C) Überwälzung der Erhöhung des Swissmedic-Zulassungsvermerks / Comme conséquence de l'augmentation de l'estampille de Swissmedic
+
+--- Swissmedic-Journal 04/2003 -----------------------------------------
+02 Betaferon, Lyophilisat 
+Schering (Schweiz) AG, Blegistrasse 5, 6341 Baar 
+Zul.-Nr.: 53225 Verkaufskategorie: B Index: 01.99.0. 01.04.2003
+* Zusammensetzung: 02 PRAEPARATIO CRYODESICCATA: INTERFERONUM beta-1b ADNr 9.6 Mio U.I., ALBUMINUM
+HUMANUM, MANNITOLUM, pro VITRO, SOLVENS: NATRII CHLORIDUM 0.54%g/v, AQUA q.s. ad SOLUTIONEM pro 1.2 mL, SOLUTIO RECONSTITUTA 1 mL corresp. INTERFERONUM beta-1b ADNr 8 Mio U.I..
+Anwendung: Multiple Sklerose 
+Packung: 02 15 Stechamp.Betaferon/15 Fertigspritzen solv. 
+039 1 Kombipackung(en) B
+Bemerkungen:  Ersetzt die Registrierungsurkunde vom 22.12.1999 Änderung der Zusammensetzung (Hilfsstoffe) 
+Gültig bis: 31. Dezember 2004
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+SCHERING (Schweiz) AG		1667255	16480	53225012	B	03/15/1996	Betaferon Amp. 8 Mio E 15 Amp. 8 Mio I.E.	1537.22	1792.95		0	19900	Interferon. beta-1b	1324
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Betaferon	SCHERING (Schweiz) AG	01.99.00
+	15 Amp. 8 Mio I.E.	1667255	16480	1789.00	1792.95	1533.72	1537.22	
+
+
+### Registration: 32026 ################################################
+
+1 Übereinstimmung:    SMJ  BAG  XLS
+30 g Crème            036   *   036
+
+1 Abweichung:         SMJ  BAG  XLS
+15 g Crème             -    -   028
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER als Preisänderung
+
+--- Swissmedic-Journal 11/2004 -----------------------------------------
+01   Betnovate-C, Crème
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 32026                    Verkaufskategorie: B            Index: 10.05.2.                                      22.11.2004
+Zusammensetzung:   01 BETAMETHASONUM 1 mg ut BETAMETHASONI VALERAS, CLIOQUINOLUM 30 mg, CONSERV.:
+CHLOROCRESOLUM, EXCIPIENS ad UNGUENTUM pro 1 g. 
+Anwendung:                     Entzündliche, sekundär infizierte Dermatosen
+Packung:                    01 036                         30  g                                              B
+* Gültig bis:                       21. November 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		139815	12093	32026028	B	03/15/1970	Betnovate-C Crème 0.1 % 15 g Crème (0,1+3%)	5.42	12.55		0	100520	Betamethason. valerianic.|Clioquinol.	1360
+GLAXOSMITHKLINE AG		139821	12093	32026036	B	03/15/1970	Betnovate-C Crème 0.1 % 30 g Crème (0,1+3%)	10.02	20		0	100520	Betamethason. valerianic.|Clioquinol.	1361
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Betnovate-C	GLAXOSMITHKLINE AG	10.05.20
+	30 g Crème (0,1+3%)	139821	12093	22.00	20.00	10.00	10.02	
+	30 g Ungt. (0,1+3%)	139850	12090	22.00	20.00	10.00	10.02	
+
+
+### Registration: 32027 ################################################
+
+1 Übereinstimmung:    SMJ  BAG  XLS
+30 g Salbe            024   *   024
+
+1 Abweichung:         SMJ  BAG  XLS
+15 g Salbe             -    -   016
+
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER als Preisänderung
+
+--- Swissmedic-Journal 11/2004 -----------------------------------------
+01   Betnovate-C, Salbe
+* GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 32027                    Verkaufsart: B                        Index: 10.05.2.                                      01.05.2002
+Zusammensetzung:   01 BETAMETHASONUM 1 mg ut BETAMETHASONI VALERAS, CLIOQUINOLUM 30 mg, EXCIPIENS
+ad UNGUENTUM pro 1 g. 
+Anwendung:                     Entzündliche, sekundär infizierte Dermatosen
+Packung:                    01 024                         30  g                                              B
+* Bemerkungen:            Ersetzt die Registrierungsurkunde vom 26.05.1999 (Änderung Firmennamen
+und Domizil)
+Gültig bis:                          31. Dezember 2004
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		139844	12090	32027016	B	03/15/1970	Betnovate-C Ungt. 0.1 % 15 g Ungt. (0,1+3%)	5.42	12.55		0	100520	Betamethason. valerianic.|Clioquinol.	1362
+GLAXOSMITHKLINE AG		139850	12090	32027024	B	03/15/1970	Betnovate-C Ungt. 0.1 % 30 g Ungt. (0,1+3%)	10.02	20		0	100520	Betamethason. valerianic.|Clioquinol.	1363
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Betnovate-C	GLAXOSMITHKLINE AG	10.05.20
+	30 g Crème (0,1+3%)	139821	12093	22.00	20.00	10.00	10.02	
+	30 g Ungt. (0,1+3%)	139850	12090	22.00	20.00	10.00	10.02	
+
+
+### Registration: 30971 ################################################
+
+1 Übereinstimmung:    SMJ  BAG  XLS
+30 g Crème            027   *   027
+
+1 Abweichung:         SMJ  BAG  XLS
+15 g Crème             -    -   019
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER als Preisänderung
+
+--- Swissmedic-Journal 11/2004 -----------------------------------------
+01   Betnovate-N, Crème
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 30971                    Verkaufskategorie: B            Index: 10.05.2.                                      22.11.2004
+Zusammensetzung:   01 BETAMETHASONUM 1 mg ut BETAMETHASONI VALERAS, NEOMYCINUM 3.6 mg ut NEOMY-
+CINI SULFAS, CONSERV.: CHLOROCRESOLUM, EXCIPIENS ad UNGUENTUM pro 1 g. 
+Anwendung:                     Entzündliche, sekundär bakteriell infizierte Dermatosen
+Packung:                    01 027                         30  g                                              B
+* Gültig bis:                       21. November 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		139873	12094	30971019	B	03/15/1965	Betnovate-N Crème 0.1 % 15 g Crème (0,1+0,5%)	5.14	12.2		0	100520	Betamethason. valerianic.|Neomycin. sulfuric.	1364
+GLAXOSMITHKLINE AG		139896	12094	30971027	B	03/15/1965	Betnovate-N Crème 0.1 % 30 g Crème (0,1+0,5%)	9.51	19.4		0	100520	Betamethason. valerianic.|Neomycin. sulfuric.	1365
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Betnovate-N	GLAXOSMITHKLINE AG	10.05.20
+	30 g Crème (0,1+0,5%)	139896	12094	21.40	19.40	9.49	9.51	
+	30 g Ungt. (0,1+0,5%)	139933	12091	21.40	19.40	9.49	9.51	
+
+
+### Registration: 30973 ################################################
+
+1 Übereinstimmung:    SMJ  BAG  XLS
+30 g Salbe            038   *   038
+
+1 Abweichung:         SMJ  BAG  XLS
+15 g Salbe             -    -   011
+
+* http://www.galinfo.net/PR040901.txt
+vermerkt OHNE SWISSMEDIC-NUMMER als Preisänderung
+
+--- Swissmedic-Journal 11/2004 -----------------------------------------
+01   Betnovate-N, Salbe
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 30973                    Verkaufskategorie: B            Index: 10.05.2.                                      22.11.2004
+Zusammensetzung:   01 BETAMETHASONUM 1 mg ut BETAMETHASONI VALERAS, NEOMYCINUM 3.6 mg ut NEOMY-
+CINI SULFAS, EXCIPIENS ad UNGUENTUM pro 1 g. 
+Anwendung:                     Entzündliche, sekundär bakteriell infizierte Dermatosen
+Packung:                    01 038                         30  g                                              B
+* Gültig bis:                       21. November 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		139927	12091	30973011	B	03/15/1965	Betnovate-N Ungt. 0.1 % 15 g Ungt. (0,1+0,5%)	5.14	12.2		0	100520	Betamethason. valerianic.|Neomycin. sulfuric.	1366
+GLAXOSMITHKLINE AG		139933	12091	30973038	B	03/15/1965	Betnovate-N Ungt. 0.1 % 30 g Ungt. (0,1+0,5%)	9.51	19.4		0	100520	Betamethason. valerianic.|Neomycin. sulfuric.	1367
+
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Betnovate-N	GLAXOSMITHKLINE AG	10.05.20
+	30 g Crème (0,1+0,5%)	139896	12094	21.40	19.40	9.49	9.51	
+	30 g Ungt. (0,1+0,5%)	139933	12091	21.40	19.40	9.49	9.51	
+
+
+### Registration: 54260 ################################################
+
+4 Übereinstimmungen:  SMJ  BAG  XLS
+ 4 mg  7 Tabletten    016   -   016
+16 mg 28 Tabletten    059   -   059
+16 mg 56 Tabletten    067   -   067
+30 mg 98 Tabletten    075   -   075
+
+3 Abweichungen        SMJ  BAG  XLS
+ 8 mg 28 Tabletten    101   -   024
+ 8 mg 56 Tabletten    113   -   032
+ 8 mg 98 Tabletten    121   -   040
+
+--- Swissmedic-Journal 06/2005 -----------------------------------------
+01   Blopress 4 mg, Tabletten
+03   Blopress 16 mg, Tabletten
+04   Blopress 8 mg, Tabletten
+05   Blopress 32 mg, Tabletten
+Takeda Pharma AG, Alpenblickstrasse 26, 8853 Lachen
+Zul.-Nr.: 54260                    Abgabekategorie: B             Index: 02.07.1.                                      27.06.2005
+* Zusammensetzung:01 CANDESARTANUM CILEXETILUM 4 mg, EXCIPIENS pro COMPRESSO.
+03 CANDESARTANUM CILEXETILUM 16 mg, EXCIPIENS pro COMPRESSO.
+04 CANDESARTANUM CILEXETILUM 8 mg, EXCIPIENS pro COMPRESSO.
+05 CANDESARTANUM CILEXETILUM 32 mg, EXCIPIENS pro COMPRESSO.
+Anwendung:                     Essentielle Hypertonie
+* Packungen:               01 016                               7  Tabletten                                     B
+056                         70  Tabletten                                 B
+064                       140  Tabletten                                 B
+03 059                         28  Tabletten                                 B
+067                         56  Tabletten                                 B
+075                         98  Tabletten                                 B
+099                       280  Tabletten                                 B
+102                       490  Tabletten                                 B
+04 072                       280  Tabletten                                 B
+080                       490  Tabletten                                 B
+105                         28  Tabletten                                 B
+113                         56  Tabletten                                 B
+121                         98  Tabletten                                 B
+05 156                         28  Tabletten                                 B
+164                         98  Tabletten                                 B
+172                       280  Tabletten                                 B
+180                       490  Tabletten                                 B
+* Bemerkung:                   Ersetzt die Zulassungsbescheinigung vom 30. April 2002
+Gültig bis:                          31. Dezember 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Takeda Pharma (Schweiz)		1948563	16919	54260016	B	03/15/1998	Blopress Compr. 4 mg 7 Compr. 4 mg	7.97	17.6		0	20710	Candesartan. cilexetil.	1430
+Takeda Pharma (Schweiz)		1948586	16919	54260024	B	03/15/1998	Blopress Compr. 8 mg 28 Compr. 8 mg	35.67	58.4		0	20710	Candesartan. cilexetil.	1432
+Takeda Pharma (Schweiz)		1948592	16919	54260032	B	03/15/1998	Blopress Compr. 8 mg 56 Compr. 8 mg	67.9	96.35		0	20710	Candesartan. cilexetil.	1433
+Takeda Pharma (Schweiz)		1948600	16919	54260040	B	03/15/1998	Blopress Compr. 8 mg 98 Compr. 8 mg	116.5	153.55		0	20710	Candesartan. cilexetil.	1434
+Takeda Pharma (Schweiz)		1948617	16919	54260059	B	03/15/1998	Blopress Compr. 16 mg 28 Compr. 16 mg	42.89	66.9		0	20710	Candesartan. cilexetil.	1436
+Takeda Pharma (Schweiz)		1948623	16919	54260067	B	03/15/1998	Blopress Compr. 16 mg 56 Compr. 16 mg	81.78	112.7		0	20710	Candesartan. cilexetil.	1437
+Takeda Pharma (Schweiz)		1948646	16919	54260075	B	03/15/1998	Blopress Compr. 16 mg 98 Compr. 16 mg	151.55	194.85		0	20710	Candesartan. cilexetil.	1438
+
+
+### Registration: 34313 ################################################
+
+1 Übereinstimmung:    SMJ  BAG  XLS
+0.5 mg 100 Dragées    040   -   038
+
+1 Abweichung:         SMJ  BAG  XLS
+0.1 mg 100 Dragées     -    -   067
+
+* Aus Registration gelöscht per SMJ 04/2005
+
+--- Swissmedic-Journal 04/2005 -----------------------------------------
+01   Brinerdin, Dragées
+Novartis Pharma Schweiz AG, Monbijoustrasse 118, 3007 Bern
+Zul.-Nr.: 34313                    Abgabekategorie: B             Index: 02.07.2.                                      25.04.2005
+Zusammensetzung:   01 DIHYDROERGOCRISTINUM 0.5 mg ut DIHYDROERGOCRISTINI MESILAS, CLOPAMIDUM 5 mg,
+RESERPINUM 0.1 mg, EXCIPIENS pro COMPRESSO OBDUCTO.
+Anwendung:                   Antihypertensivum
+Packung:                    01 040                       100  Dragées                                   B
+* Bemerkung:                   Ersetzt die Zulassungsbescheinigung vom 15.09.2004
+Gültig bis:                          31. Dezember 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Novartis Pharma Schweiz AG		648480	10949	34313067	B	03/15/1969	Brinerdin Obd. 0.05 mg 100 Obd. mite (0,05+0,35+2,5 mg)	17.71	37.25	Y	0	20720	Reserpin.|Dihydroergocristin.|Clopamid.	1501
+Novartis Pharma Schweiz AG		384377	10949	34313040	B	03/15/1969	Brinerdin Obd. 0.1 mg 100 Obd. (0,1+0,5+5 mg)	25.95	46.95	Y	0	20720	Reserpin.|Dihydroergocristin.|Clopamid.	1499
+
+
+### Registration: 45031 ################################################
+
+5 Übereinstimmungen:  SMJ  BAG  XLS
+600 mg 100 Filmtabl.  055   -   055
+200 mg  30 Filmtabl.  063   -   063
+200 mg 100 Filmtabl.  071   -   071
+400 mg  20 Filmtabl.  098   -   098
+400 mg  50 Filmtabl.  101   -   101
+
+1 Abweichung:         SMJ  BAG  XLS
+600 mg  20 Filmtabl.  047   -   012
+
+--- Swissmedic-Journal 04/2003 -----------------------------------------
+02 Brufen 600 mg, Filmtabletten 
+03 Brufen 200 mg, Filmtabletten 
+04 Brufen 400 mg, Filmtabletten 
+Abbott AG, Neuhofstrasse 23, 6341 Baar 
+Zul.-Nr.: 45031 Verkaufskategorie: B Index: 07.10.1. 17.04.2003
+Zusammensetzung: 
+02 IBUPROFENUM 600 mg, COLOR.: E 127, EXCIPIENS pro COMPRESSO OBDUCTO.
+03 IBUPROFENUM 200 mg, COLOR.: E 127, EXCIPIENS pro COMPRESSO OBDUCTO. 
+04 IBUPROFENUM 400 mg, COLOR.: E 127, EXCIPIENS pro COMPRESSO OBDUCTO.
+Anwendung: Antirheumatikum, Antiphlogistikum 
+Packungen: 
+02 
+047 20 Filmtabletten B
+055 100 Filmtabletten B
+03 
+063 30 Filmtabletten B
+071 100 Filmtabletten B
+04 
+098 20 Filmtabletten B
+101 50 Filmtabletten B
+
+* Gültig bis: 31. Dezember 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Abbott AG		1983134	11185	45031098	B	03/15/1978	Brufen Filmtabs 400 mg 20 Filmtabs 400 mg	7.5	17.05		0	71010	Ibuprofen.	1514
+Abbott AG		1983140	11185	45031101	B	03/15/1978	Brufen Filmtabs 400 mg 50 Filmtabs 400 mg	17.16	36.6		0	71010	Ibuprofen.	1515
+Abbott AG		1983163	14248	45031055	B	03/15/1983	Brufen Filmtabs 600 mg 100 Filmtabs 600 mg	44.11	68.35		0	71010	Ibuprofen.	1517
+Abbott AG		1983157	14248	45031012	B	03/15/1983	Brufen Filmtabs 600 mg 20 Filmtabs 600 mg	10.98	21.15		0	71010	Ibuprofen.	1516
+[...]
+Abbott AG		1983128	14248	45031071	B	04/15/2000	Brufen Filmtabs 200 mg 100 Filmtabs 200 mg	20.17	40.15			71010	Ibuprofen.	12501
+Abbott AG		1983111	14248	45031063	B	04/15/2000	Brufen Filmtabs 200 mg 30 Filmtabs 200 mg	6.81	16.2			71010	Ibuprofen.	12500
+
+
+### Registration: 53628 ################################################
+
+4 Packungen:          SMJ  BAG  XLS
+ 500/440 30 Sachets   060   -   028
+ 500/440 90 Sachets   095   -   036
+1000/880 30 Sachets   079   -   044
+1000/880 90 Sachets   109   -   052
+
+--- Swissmedic-Journal 03/2005 -----------------------------------------
+01   Calcium-Sandoz D3 f 500/440, Instant-Pulver mit Zitronenaroma
+02   Calcium-Sandoz D3 ff 1000/880, Instant-Pulver mit Zitronenaroma
+* Sandoz Pharmaceuticals AG, Schachenstrasse 24, 5012 Schönenwerd
+Zul.-Nr.: 53628                    Abgabekategorie: D             Index: 07.02.51                                     21.03.2005
+Zusammensetzung:   01 CHOLECALCIFEROLUM 440 U.I., CALCII CARBONAS 1.25 g, CYCLAMAS, SACCHARINUM, ARO-
+MATICA, EXCIPIENS ad PULVEREM pro CHARTA.
+02 CHOLECALCIFEROLUM 880U.I., CALCII CARBONAS 2.5g, CYCLAMAS, SACCHARINUM, ARO-
+MATICA, EXCIPIENS ad PULVEREM pro CHARTA.
+Anwendung:                     Calcium- und Vitamin D3-Präparat
+Packungen:                01 060                         30  Sachets                                    D
+095                         90  Sachets                                    D
+02 079                         30  Sachets                                    D
+109                         90  Sachets                                    D
+* Bemerkungen:      Ersetzt die Zulassungsbescheinigung vom 15.09.2004 (Änderung Firmen-
+name)
+Gültig bis:                          31. Dezember 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Sandoz Pharmaceuticals AG		2668156	16958	53628028	D	03/15/1998	Calcium-Sandoz D3f/ff Sach. 500 mg 30 Sach. f (500 mg+440 I.E.)		17.75		0	70250	Ca carbonas|Cholecalciferol.	1601
+Sandoz Pharmaceuticals AG		2668162	16958	53628036	D	03/15/1998	Calcium-Sandoz D3f/ff Sach. 500 mg 90 Sach. f (500 mg+440 I.E.)		45.85		0	70250	Ca carbonas|Cholecalciferol.	1602
+Sandoz Pharmaceuticals AG		2668104	16958	53628044	D	03/15/1998	Calcium-Sandoz D3f/ff Sach. 1000 mg 30 Sach. ff (1000 mg+880 I.E.)		29.2		0	70250	Ca carbonas|Cholecalciferol.	1603
+Sandoz Pharmaceuticals AG		2668110	16958	53628052	D	03/15/1998	Calcium-Sandoz D3f/ff Sach. 1000 mg 90 Sach. ff (1000 mg+880 I.E.)		75.4		0	70250	Ca carbonas|Cholecalciferol.	1604
+
+
+### Registration: 48348 ################################################
+
+2 Übereinstimmungen   SMJ  BAG  XLS
+150 mg 56 Kapseln     033   -   033
+300 mg 28 Kapseln     041   -   041
+
+2 Abweichungen        SMJ  BAG  XLS
+150 mg 28 Kapseln      -    -   025
+300 mg 14 Kapseln      -    -   017
+
+--- Swissmedic-Journal 12/2004 -----------------------------------------
+01   Calmaxid 150 mg, Kapseln
+02   Calmaxid 300 mg, Kapseln
+Norgine AG, Industriestrasse 11/13, 6343 Rotkreuz
+Zul.-Nr.: 48348                    Verkaufskategorie: B            Index: 04.01.1.                                      15.12.2004
+Zusammensetzung:   01 NIZATIDINUM 150 mg, EXCIPIENS pro CAPSULA.
+02 NIZATIDINUM 300 mg, EXCIPIENS pro CAPSULA.
+Anwendung:                     H2-Rezeptor Antagonist
+Packungen:                01 033                         56  Kapseln                                   B
+02 041                         28  Kapseln                                   B
+* Gültig bis:                       14. Dezember 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Norgine AG		1321663	15228	48348025	B	03/15/1988	Calmaxid Caps. 150 mg 28 Caps. 150 mg	23.92	44.55		0	40110	Nizatidin.	1658
+Norgine AG		1321686	15228	48348033	B	03/15/1988	Calmaxid Caps. 150 mg 56 Caps. 150 mg	42.2	66.1		0	40110	Nizatidin.	1659
+Norgine AG		1321692	15228	48348017	B	03/15/1988	Calmaxid Caps. 300 mg 14 Caps. 300 mg	22.3	42.65		0	40110	Nizatidin.	1660
+Norgine AG		1321700	15228	48348041	B	03/15/1988	Calmaxid Caps. 300 mg 28 Caps. 300 mg	39.21	62.55		0	40110	Nizatidin.	1661
+
+
+### Registration: 40333 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+100 mg 100 ml         037   -   010
+
+--- Swissmedic-Journal 12/2003 -----------------------------------------
+03   Carbaderm, Crème
+Gebro Pharma AG, Gestadeckplatz 2, 4410 Liestal
+Zul.-Nr.: 40333                    Abgabekategorie: D             Index: 10.10.0.                                      09.12.2003
+* Zusammensetzung:03 UREUM 100 mg, CONSERV.: E 218, EXCIPIENS ad UNGUENTUM pro 1 g. 
+Anwendung:                     Trockene Haut
+Packung:                    03 037                       100  mL                                           D
+Bemerkungen:                  Ersetzt die Registrierungsurkunde vom 18.07.2003
+(Änderung der Zusammensetzung)
+Gültig bis:                          31. Dezember 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GEBRO PHARMA AG		720639	15482	40333010	D	03/15/1989	Carbaderm Crème 10 % 100 ml Crème 10%		11.35		0	100700	Ureum	1783
+
+
+### Registration: 51481 ################################################
+
+3 Packungen:          SMJ  BAG  XLS
+10 mg/ml  5 ml        089   -   054
+10 mg/ml 15 ml        097   -   062
+10 mg/ml 45 ml        100   -   070
+
+--- Swissmedic-Journal 11/2004 -----------------------------------------
+* 01Carboplatin Proreo, Infusionslösung
+* ProReo Pharma AG, Rebgasse 2, 4410 Liestal
+Zul.-Nr.: 51481                    Verkaufskategorie: A           Index: 07.16.1.                                      29.11.2004
+Zusammensetzung:   01 CARBOPLATINUM 10 mg, MANNITOLUM, AQUA q.s. ad SOLUTIONEM pro 1 mL. 
+Anwendung:                   Zytostatikum
+Packungen:                  01 089                   1 x 5 ml  Stechampulle(n)                        A
+097                1 x 15 ml  Stechampulle(n)                        A
+100                1 x 45 ml  Stechampulle(n)                        A
+* Bemerkungen:       Ersetzt die Registrierungsurkunde vom 06.12.2001 (Änderung Zulassungs-
+inhaberin und Änderung Präparatenamen)
+Früher: Carboplatin Sanofi-Synthélabo, solution injectable
+Gültig bis:                          31. Dezember 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Proreo Pharma AG	G		17284	51481054	A	06/01/2005	Carboplatin Proreo Amp. 50 mg 1 Amp. 50 mg	29	50.55		0	71610	Carboplatin.	1793
+Proreo Pharma AG	G		17284	51481062	A	06/01/2005	Carboplatin Proreo Amp. 150 mg 1 Amp. 150 mg	119	156.5		0	71610	Carboplatin.	1794
+Proreo Pharma AG	G		17284	51481070	A	06/01/2005	Carboplatin Proreo Amp. 450 mg 1 Amp. 450 mg	289	356.7		0	71610	Carboplatin.	1795
+
+
+### Registration: 48508 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+10 mg/ml  5 ml        022   -   014
+
+--- Swissmedic-Export 2002 ---------------------------------------------
+48508;022;02;Carnitene sigma-tau, Trinklösung;H-Synthetika;Hauptregistrierung;100;mg/mL;B;01;Sigma-Tau Pharma AG;10 x 10;mL;Flacons;B;Lösung (oral);L-CARNITINUM;1;g;A16AA01;20.12.2000
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+SIGMA-TAU		1336328	15537	48508014	B	03/15/1993	Carnitene Sol. 1 g 10 x 10 ml Sol. pot. 1 g	34.52	57.05	Y	0	79900	L-Carnitin.	1835
+
+
+### Registration: 55729 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+1 g 1 Injektion       014  006* 006
+
+* Zum Zeitpunkt des Bulletins möglicherweise korrekt.
+
+--- Swissmedic-Journal 03/2005 -----------------------------------------
+* 01Cefazolin Sandoz 1 g i.v., Trockensubstanz
+02   Cefazolin Sandoz 2 g i.v., Trockensubstanz
+Medika AG, Industriestrasse 111, 4147 Aesch
+Zul.-Nr.: 55729                    Abgabekategorie: A             Index: 08.01.3.                                      16.03.2005
+Zusammensetzung:   01 PRAEPARATIO SICCA: CEFAZOLINUM 1 g ut CEFAZOLINUM NATRICUM, pro VITRO.
+02 PRAEPARATIO SICCA: CEFAZOLINUM 2 g ut CEFAZOLINUM NATRICUM, pro VITRO.
+Anwendung:                   Infektionskrankheiten
+Packungen:                01 014                           1  Injektionsflasche(n)                A
+016                         10  Injektionsflasche(n)                A
+02 018                           1  Infusionsflasche(n)                 A
+020                         10  Infusionsflasche(n)                 A
+Bemerkungen:     Ersetzt die Zulassungsbescheinung vom 10.06.2004 frühere Präparate-
+bezeichnung: Cefazolin-Biochemie 1 g/2 g i.v., Trockensubstanz
+Gültig bis:                          04. November 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Medika AG	G	2741255	17879	55729006	A	05/01/2003	Cefazolin-Biochemie Amp. 1 g 1 Amp. 1 g	4.2	9.05			80130	Cefazolin.	13818
+
+--- http://www.galinfo.net/PR030501.txt --------------------------------
+Kapitel:08.01.30
+		Cefazolin-Biochemie 		MEDIKA AG
+		(Cefazolin.)
+		17879		1 Amp. 1 g Fr. 9.05 {4.20}			[55729006]		01.05.2003, A
+ 
+
+### Registration: 55682 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+1 g 1 Injektion       035  029* 029
+2 g 1 Injektion       041  011* 011
+
+* Zum Zeitpunkt des Bulletins möglicherweise korrekt.
+
+--- Swissmedic-Journal 03/2005 -----------------------------------------
+* 01Ceftriaxon Sandoz 1 g i.v./i.m., Trockensubstanz
+02   Ceftriaxon Sandoz 2 g i.v., Trockensubstanz
+03   Ceftriaxon Sandoz 250 mg i.m., Trockensubstanz
+04   Ceftriaxon Sandoz 500 mg i.v., Trockensubstanz
+Medika AG, Industriestrasse 111, 4147 Aesch
+Zul.-Nr.: 55682                    Abgabekategorie: A             Index: 08.01.3.                                      26.04.2005
+Zusammensetzung:   01 PRAEPARATIO SICCA: CEFTRIAXONUM 1 g ut CEFTRIAXONUM DINATRICUM, pro VITRO.
+02 PRAEPARATIO SICCA: CEFTRIAXONUM 2 g ut CEFTRIAXONUM DINATRICUM, pro VITRO.
+03 PRAEPARATIO SICCA: CEFTRIAXONUM 250 mg ut CEFTRIAXONUM DINATRICUM, pro VITRO.
+04 PRAEPARATIO SICCA: CEFTRIAXONUM 500 mg ut CEFTRIAXONUM DINATRICUM, pro VITRO.
+Anwendung:                   Infektionskrankheiten
+Packungen:                01 035                           1  Stechampulle(n)                     A
+037                        5 x 1  Stechampulle(n)                        A
+039                      50 x 1  Stechampulle(n)                        A
+02 041                           1  Infusionsflasche(n)                 A
+043                        5 x 1  Infusionsflasche(n)                   A
+045                      50 x 1  Infusionsflasche(n)                   A
+03 047                           1  Stechampulle(n)                     A
+04 049                           1  Stechampulle(n)                     A
+Bemerkungen:       Ersetzt die Zulassungsbescheinigung vom 10.06.2004 frühere Präparate-
+bezeichnung: Ceftriaxon-Biochemie, Trockensubstanz
+Gültig bis:                          29. Oktober 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Medika AG	G	2666602	17877	55682029	A	05/01/2004	Ceftriaxon-Biochemie Amp. 1 g 1 Amp. 1 g	8	17.6	Y		80130	Ceftriaxon. dinatric.	13812
+Medika AG	G	2666625	17877	55682011	A	05/01/2004	Ceftriaxon-Biochemie Amp. 2 g 1 Amp. 2 g	13	27.6	Y		80130	Ceftriaxon. dinatric.	13814
+
+--- http://www.galinfo.net/PR030501.txt --------------------------------
+Kapitel:08.01.30
+[...]
+	(L)	Ceftriaxon-Biochemie 		MEDIKA AG
+		(Ceftriaxon. dinatric.)
+		17877		1 Amp. 1 g Fr. 42.45 {22.15}			[55682029]		01.05.2003, A
+		17877		5 Amp. 1 g Fr. 126.25 {95.87}			[55682031]		01.05.2003, A
+ 
+	(L)	Ceftriaxon-Biochemie 		MEDIKA AG
+		(Ceftriaxon. dinatric.)
+		17877		1 Amp. 2 g Fr. 63.50 {40.02}			[55682011]		01.05.2003, A
+		17877		5 Amp. 2 g Fr. 210.20 {164.58}			[55682013]		01.05.2003, A
+
+
+### Registration: 55823 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+750 mg 1 Injektion    014  006* 006
+ 1.5 g 1 Injektion    018  010* 010
+
+* Zum Zeitpunkt des Bulletins möglicherweise korrekt.
+
+--- Swissmedic-Journal 03/2005 -----------------------------------------
+* 01Cefuroxim Sandoz 750 mg i.v., Trockensubstanz
+02   Cefuroxim Sandoz 1,5 g i.v., Trockensubstanz
+Medika AG, Industriestrasse 111, 4147 Aesch
+Zul.-Nr.: 55823                    Abgabekategorie: A             Index: 08.01.3.                                      16.03.2005
+Zusammensetzung:   01 CEFUROXIMUM 750 mg ut CEFUROXIMUM NATRICUM, pro VITRO.
+02 CEFUROXIMUM 1.5 g ut CEFUROXIMUM NATRICUM, pro VITRO.
+Anwendung:                   Infektionskrankheiten
+Packungen:                01 014                           1  Stechampulle(n)                     A
+016                      10 x 1  Stechampulle(n)                        A
+02 018                           1  Stechampulle(n)                     A
+020                      10 x 1  Stechampulle(n)                        A
+Bemerkungen:       Ersetzt die Zulassungsbescheinigung vom 10.06.2004 frühere Präparate-
+bezeichnung: Cefuroxim-Biochemie 750 mg/1,5 g i.v. Trockensubstanz
+Gültig bis:                          05. Februar 2008
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Medika AG	G	2741278	17878	55823010	A	05/01/2004	Cefuroxim-Biochemie Amp. 1.5 g 1 Amp. 1,5 g	6.19	15.5			80130	Cefuroxim.	13817
+Medika AG	G	2741261	17878	55823006	A	05/01/2004	Cefuroxim-Biochemie Amp. 750 mg 1 Amp. 750 mg	3.65	8.4			80130	Cefuroxim.	13816
+
+--- http://www.galinfo.net/PR030501.txt --------------------------------
+Kapitel:08.01.30
+[...]	
+		Cefuroxim-Biochemie 		MEDIKA AG
+		(Cefuroxim.)
+		17878		1 Amp. 750 mg Fr. 9.95 {4.99}			[55823006]		01.05.2003, A
+ 
+		Cefuroxim-Biochemie 		MEDIKA AG
+		(Cefuroxim.)
+		17878		1 Amp. 1,5 g Fr. 18.95 {9.13}			[55823010]		01.05.2003, A
+ 
+
+### Registration: 55345 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+0.5% 1 x 10 ml        008  002  002
+0.5% 3 x 10 ml        010  004  004
+
+--- Swissmedic-Journal 12/2002 -----------------------------------------
+* 01 Cellufluid, Augentropfen 
+Allergan AG, Feldmoosstrasse 6, 8853 Lachen 
+Zul.-Nr.: 55345 Abgabekategorie: D Index: 11.08.2. 19.12.2002
+Zusammensetzung: 01 CARMELLOSUM NATRICUM 5 mg, CONSERV.: OXYCHLORO COMPLEX, EXCIPIENS ad SOLUTIONEM pro 1 mL.
+Anwendung: Künstliche Tränenflüssigkeit 
+Packungen: 01 
+008 1x10 mL D 
+010 3x10 mL D 
+Bemerkungen: Früher: Refresh Tears 0,5 %, Augentropfen Ersetzt die Registrierungsurkunde vom 04.12.2001 
+Gültig bis: 31. Dezember 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Allergan AG		2617845	17818	55345002	D	04/01/2003	Cellufluid Guttae 0.5 % 10 ml Guttae 0,5%	4.13	7.6			110820	Carmellos. natric.	13648
+Allergan AG			17818	55345004	D	04/01/2003	Cellufluid Guttae 0.5 % 3 x 10 ml Guttae 0,5%	11.78	21.7			110820	Carmellos. natric.	13649
+
+--- http://www.galinfo.net/PR030401.txt --------------------------------
+Kapitel:11.08.10
+		Cellufluid 		ALLERGAN AG
+		(Carmellos. natric.)
+		17818		10 ml Guttae 0,5% Fr. 7.60 {4.13}			[55345002]		01.04.2003, D
+		17818		3 x 10 ml Guttae 0,5% Fr. 21.70 {11.78}			[55345004]		01.04.2003, D
+  
+
+### Registration: 13369 ################################################
+
+3 Packungen:          SMJ  BAG  XLS
+100 mg 100 Ampullen   046   -    - 
+100 mg  10 Ampullen   054   -    - 
+100 mg   5 Ampullen    -    -   011
+
+--- Swissmedic-Journal 04/2003 -----------------------------------------
+01 Pethidin HCl Amino, Injektionslösung 
+Amino AG, Althofstrasse 12, 5432 Neuenhof 
+Zul.-Nr.: 13369 Verkaufskategorie: A Index: 01.01.3. 07.04.2003
+Zusammensetzung: 01 PETHIDINI HYDROCHLORIDUM 100 mg, AQUA q.s. ad SOLUTIONEM pro 2 mL. 
+Anwendung: Analgetikum 
+Packungen: 01 
+046 100 Ampulle(n) A 
+054 10 Ampulle(n) A 
+Bemerkungen: Untersteht dem Bundesgesetz für Betäubungsmittel und die psychotropen Stoffe 
+* Gültig bis: 31. Dezember 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+AMINO AG			672	13369011	A	03/15/1955	Centralgin Amp. 100 mg/2ml 5 Amp. 2 ml 100 mg	1.4	3.35		0	10130	Pethidin. HCl	1934
+
+--- http://www.galinfo.net/PR030401.txt --------------------------------
+Kapitel:11.08.10
+		Cellufluid 		ALLERGAN AG
+		(Carmellos. natric.)
+		17818		10 ml Guttae 0,5% Fr. 7.60 {4.13}			[55345002]		01.04.2003, D
+		17818		3 x 10 ml Guttae 0,5% Fr. 21.70 {11.78}			[55345004]		01.04.2003, D
+  
+
+### Registration: 33524 ################################################
+
+3 Packungen:          SMJ  BAG  XLS
+2000 I.E. 3 Ampullen  129   -   064
+5000 I.E. 3 Ampullen  137   -   080
+1000 I.E. 3 Ampullen  145   -   072
+ 500 I.E. 3 Ampullen  161   -   099
+
+--- Swissmedic-Journal 12/2003 -----------------------------------------
+10   Choriomon 10'000, preparazione iniettabile i.m.
+11   Choriomon 1500, preparazione iniettabile i.m.
+12   Choriomon 2000, preparazione iniettabile i.m.
+13   Choriomon 5000, preparazione iniettabile i.m.
+14   Choriomon 1000, preparazione iniettabile i.m.
+15   Choriomon 250, preparazione iniettabile i.m.
+16   Choriomon 500, preparazione iniettabile i.m.
+IBSA Institut Biochimique SA, Via al Ponte 13, 6903 Lugano
+N°AMM: 33524                    Modo di vendita: B               Index: 07.08.1.                                      29.12.2003
+* Composizione:         10 PRAEPARATIO CRYODESICCATA: GONADOTROPINUM CHORIONICUM 10'000U.I. hCG, LAC-
+TOSUM MONOHYDRICUM, pro VITRO,  SOLVENS: NATRII CHLORIDUM, AQUA ad INIECTABI-
+LIA q.s. ad SOLUTIONEM pro 1 mL. 
+11 PRAEPARATIO CRYODESICCATA: GONADOTROPINUM CHORIONICUM 1500 U.I. hCG, LACTO-
+SUM MONOHYDRICUM, pro VITRO,  SOLVENS: NATRII CHLORIDUM, AQUA ad INIECTABILIA
+q.s. ad SOLUTIONEM pro 1 mL. 
+12 PRAEPARATIO CRYODESICCATA: GONADOTROPINUM CHORIONICUM 2000 U.I. hCG, LACTO-
+SUM MONOHYDRICUM, pro VITRO,  SOLVENS: NATRII CHLORIDUM, AQUA ad INIECTABILIA
+q.s. ad SOLUTIONEM pro 1 mL. 
+13 PRAEPARATIO CRYODESICCATA: GONADOTROPINUM CHORIONICUM 5000 U.I. hCG, LACTO-
+SUM MONOHYDRICUM, pro VITRO,  SOLVENS: NATRII CHLORIDUM, AQUA ad INIECTABILIA
+q.s. ad SOLUTIONEM pro 1 mL. 
+14 PRAEPARATIO CRYODESICCATA: GONADOTROPINUM CHORIONICUM 1000 U.I. hCG, LACTO-
+SUM MONOHYDRICUM, pro VITRO,  SOLVENS: NATRII CHLORIDUM, AQUA ad INIECTABILIA
+q.s. ad SOLUTIONEM pro 1 mL. 
+15 PRAEPARATIO CRYODESICCATA: GONADOTROPINUM CHORIONICUM 250U.I. hCG, LACTO-
+SUM MONOHYDRICUM, pro VITRO,  SOLVENS: NATRII CHLORIDUM, AQUA ad INIECTABILIA
+q.s. ad SOLUTIONEM pro 1 mL. 
+16 PRAEPARATIO CRYODESICCATA: GONADOTROPINUM CHORIONICUM 500U.I. hCG, LACTO-
+SUM MONOHYDRICUM, pro VITRO,  SOLVENS: NATRII CHLORIDUM, AQUA ad INIECTABILIA
+q.s. ad SOLUTIONEM pro 1 mL. 
+Indicazione:               Amenorrea, anovulazione; criptorchidismo, ipogonadismo ipogonadotropi-
+nico, Pubertas tarda
+* Confezioni:               10 181                        3 + 3  fiale                                              B
+12 129                        3 + 3  fiale                                              B
+13 137                        3 + 3  fiale                                              B
+14 145                        3 + 3  fiale                                              B
+15 Exportspezialität
+B
+16 161                        3 + 3  fiale                                              B
+* Osservazioni:                 Seq.11 (1500 U.I.) e 15 (250 U.I.) = Destinate solo per esportazione
+Questo attestato di registrazione sostituisce quello del 27.12.2001
+Valevole fino al:               31 dicembre 2005
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+IBSA SA		0	17071	33524099	B	03/15/1998	Choriomon Amp. 500 IE 3 Amp. 500 I.E.	5.32	12.4	Y	0	70810	Gonadotrophin. chorionic.	2007
+IBSA SA		1934265	17071	33524072	B	03/15/1998	Choriomon Amp. 1000 IE 3 Amp. 1000 I.E.	7.27	16.75	Y	0	70810	Gonadotrophin. chorionic.	2008
+IBSA SA		1992937	17071	33524064	B	03/15/1998	Choriomon Amp. 2000 IE 3 Amp. 2000 I.E.	9.18	21.05	Y	0	70810	Gonadotrophin. chorionic.	2009
+IBSA SA		1934271	17071	33524080	B	03/15/1998	Choriomon Amp. 5000 IE 3 Amp. 5000 I.E.	17.91	37.45	Y	0	70810	Gonadotrophin. chorionic.	2010
+  
+
+### Registration: 38838 ################################################
+
+3 Packungen:          SMJ  BAG  XLS
+3 mg/ml  5 Ampullen    -    -   016
+3 mg/ml 10 Ampullen   024   -    - 
+3 mg/ml 50 Ampullen   040   -    - 
+
+--- Swissmedic-Journal 02/2004 -----------------------------------------
+01   Chronocort, Injektionslösung
+G. Streuli & Co. AG, Bahnhofstrasse 7, 8730 Uznach
+Zul.-Nr.: 38838                    Abgabekategorie: B             Index: 07.07.26                                     25.02.2004
+Zusammensetzung:   01DEXAMETHASONUM 3mg, DEXAMETHASONI NATRII PHOSPHAS 3.96mg, HYPROMELLO-
+SUM, POLYSORBATUM 85, SORBITANI OLEAS, CONSERV.: E218 1mg, AQUA q.s. ad SUSPEN-
+SIONEM pro 1 mL. 
+Anwendung:                   Glukokortikosteroid-Therapie
+Packungen:                  01 024               10 x 1 mL  Ampulle(n)                                 B
+040               50 x 1 mL  Ampulle(n)                                 B
+* Gültig bis:                       24. Februar 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+G. STREULI & Co. AG		1040102	13436	38838016	B	01/01/2002	Chronocort Amp. 3 mg/ml 5 Amp. (3+3,96 mg)	13.8	30.6		0	70726	Dexamethason. acetylat.|Dexamethason. dinatriumphosphoric.	2011
+  
+
+### Registration: 47998 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+1 x 10 mg /  20 ml    085   -   050
+1 x 50 mg / 100 ml    107   -   077
+
+--- Swissmedic-Journal 11/2004 -----------------------------------------
+* 01Cisplatin Proreo, Infusionskonzentrat
+* ProReo Pharma AG, Rebgasse 2, 4410 Liestal
+Zul.-Nr.: 47998                    Verkaufskategorie: A           Index: 07.16.1.                                      29.11.2004
+Zusammensetzung:   01 CISPLATINUM 0.5 mg, NATRII CHLORIDUM, AQUA q.s. ad SOLUTIONEM pro 1 mL. 
+Anwendung:                   Zytostatikum
+Packungen:                  01 085    1 x 10 mg/20 ml  Stechampulle(n)                        A
+093    1 x 25 mg/50 ml  Stechampulle(n)                        A
+107  1 x 50 mg/100ml  Stechampulle(n)                        A
+* Bemerkungen:       Ersetzt die Registrierungsurkunde vom 06.12.2001 (Änderung Zulassungs-
+inhaberin und Änderung Präparatenamen)
+Früher: Cisplatin Sanofi-Synthélabo, solution pour perfusion et injection
+Gültig bis:                          31. Dezember 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Proreo Pharma AG		2924493	17285	47998050	A	06/01/2005	Cisplatin Proreo Amp. 10 mg 1 Amp. 10 mg	19	38.75		0	71610	Cisplatin.	2106
+Proreo Pharma AG		2924501	17285	47998077	A	06/01/2005	Cisplatin Proreo Amp. 50 mg 1 Amp. 50 mg	76	105.9		0	71610	Cisplatin.	2107
+  
+
+### Registration: 37427 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+200 mg 20 Sachets     039*  -   020
+
+* Ausser Handel per 31.12.2003
+
+--- Swissmedic-Journal 05/2002 -----------------------------------------
+03   Clamoxyl 200 mg, Sachets
+* GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 37427                    Verkaufsart: A                        Index: 08.01.23                                     01.05.2002
+Zusammensetzung:   03AMOXICILLINUM ANHYDRICUM 200mg, ASPARTAMUM, BERGAMOTTAE AETHEROLEUM,
+VANILLINUM, AROMATICA, ANTIOX.: E 320, EXCIPIENS ad PULVEREM pro CHARTA.
+Anwendung:                   Infektionskrankheiten
+Packung:                    03 039                         20  Sachets                                    A
+* Bemerkungen:       Ersetzt die Registrierungsurkunde vom 24.11.2000 (Änderung Zulassungs-
+inhaberin)
+Gültig bis:                          31. Dezember 2003
+
+--- Swissmedic-Journal 12/2003 -----------------------------------------
+Widerruf der Zulassung
+[...]
+1    Widerruf der Zulassung infolge Verzicht auf den Vertrieb                   Révocation de l'AMM par manque d'autorisation d'exploitation
+[...]
+1    Clamoxyl 200 mg, Sachets                                                     37427     A         08.01.2331.12.2004
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		2336129	11428	37427020	A	03/15/1974	Clamoxyl Sach. 0.2 g 20 Sach. 0,2 g	9.94	21.95		0	80123	Amoxicillin.	2126
+  
+
+### Registration: 37848 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+25 mg/ml 80 ml        034   -   018
+50 mg/ml 80 ml        042   -   026
+
+--- Swissmedic-Journal 11/2003 -----------------------------------------
+03   Clamoxyl 100 mg, Pulver zur Herstellung einer Suspension
+04   Clamoxyl 200 mg, Pulver zur Herstellung einer Suspension
+GlaxoSmithKline AG, Talstrasse 3-5, 3053 Münchenbuchsee
+Zul.-Nr.: 37848                    Abgabekategorie: A             Index: 08.01.23                                     18.11.2003
+Zusammensetzung:   03AMOXICILLINUM ANHYDRICUM 100mg, ASPARTAMUM, BERGAMOTTAE AETHEROLEUM,
+VANILLINUM, AROMATICA, ANTIOX.: E320, CONSERV.: E211, EXCIPIENS ad PULVEREM cor-
+resp. SUSPENSIO RECONSTITUTA 4 mL. 
+04AMOXICILLINUM ANHYDRICUM 200mg, ASPARTAMUM, BERGAMOTTAE AETHEROLEUM,
+VANILLINUM, AROMATICA, ANTIOX.: E320, CONSERV.: E211, EXCIPIENS ad PULVEREM cor-
+resp. SUSPENSIO RECONSTITUTA 4 mL. 
+Anwendung:                   Infektionskrankheiten
+Packungen:                03 034                         80  mL                                           A
+04 042                         80  mL                                           A
+* Gültig bis:                       17. November 2008
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GLAXOSMITHKLINE AG		631999	11865	37848018	A	03/15/1974	Clamoxyl Sirup. 25 mg/ml 80 ml Sirup. 25 mg/ml	5.48	14.65		0	80123	Amoxicillin.	2122
+GLAXOSMITHKLINE AG		2337206	11865	37848026	A	03/15/1974	Clamoxyl Sirup. 50 mg/ml 80 ml Sirup. 50 mg/ml	9.96	19.95		0	80123	Amoxicillin.	2123
+  
+
+### Registration: 49456 ################################################
+
+6 Übereinstimmungen   SMJ  BAG  XLS
+20 mg 10 Amp.         050   -   050
+40 mg 2 Amp.          042   -   042  
+40 mg 10 Amp.         069   -   069 
+60 mg 10 Amp.         093   -   093 
+80 mg 10 Amp.         115   -   115 
+100 mg 10 Amp.        131   -   131
+
+4 Abweichungen:       SMJ  BAG  XLS
+20 mg 2 Amp.           -    -   034
+60 mg 2 Amp.           -    -   085 
+80 mg 2 Amp.           -    -   107 
+100 mg 2 Amp.          -    -   123 
+
+--- Swissmedic-Journal 08/2004 -----------------------------------------
+01   Clexane 20 mg/0,2 mL, Injektionslösung
+02   Clexane 40 mg/0,4 mL, Injektionslösung
+03   Clexane 100 mg/mL, Injektionslösung
+04   Clexane 60 mg/0,6 mL, Injektionslösung
+05   Clexane 80 mg/0,8 mL, Injektionslösung
+06   Clexane 90 mg/0,6 mL, Injektionslösung
+07   Clexane 120 mg/0,8 mL, Injektionslösung
+08   Clexane 150 mg/mL, Injektionslösung
+Aventis Pharma AG, Herostrasse 7, 8048 Zürich
+Zul.-Nr.: 49456                    Abgabekategorie: B             Index: 06.03.3.                                      05.08.2004
+Zusammensetzung:   01 ENOXAPARINUM NATRICUM 20 mg corresp. 2'000 U.I. anti-Xa (Ph.Eur. 95-130 UI/mg), AQUA
+ad INIECTABILIA q.s. ad SOLUTIONEM pro 0.2 mL. 
+02 ENOXAPARINUM NATRICUM 40 mg corresp. 4'000 U.I. anti-Xa (Ph.Eur. 95-130 UI/mg), AQUA
+ad INIECTABILIA q.s. ad SOLUTIONEM pro 0.4 mL. 
+03ENOXAPARINUM NATRICUM 100mg corresp. 10'000U.I. anti-Xa (Ph.Eur. 95-130 UI/mg),
+AQUA ad INIECTABILIA q.s. ad SOLUTIONEM pro 1 mL. 
+04 ENOXAPARINUM NATRICUM 60 mg corresp. 6'000 U.I. anti-Xa (Ph.Eur. 95-130 UI/mg), AQUA
+ad INIECTABILIA q.s. ad SOLUTIONEM pro 0.6 mL. 
+05 ENOXAPARINUM NATRICUM 80 mg corresp. 8'000 U.I. anti-Xa (Ph.Eur. 95-130 UI/mg), AQUA
+ad INIECTABILIA q.s. ad SOLUTIONEM pro 0.8 mL. 
+06 ENOXAPARINUM NATRICUM 90 mg corresp. 9'000 U.I. anti-Xa (Ph.Eur. 95-130 UI/mg), AQUA
+ad INIECTABILIA q.s. ad SOLUTIONEM pro 0.6 mL. 
+07ENOXAPARINUM NATRICUM 120mg corresp. 12'000U.I. anti-Xa (Ph.Eur. 95-130 UI/mg),
+AQUA ad INIECTABILIA q.s. ad SOLUTIONEM pro 0.8 mL. 
+08ENOXAPARINUM NATRICUM 150mg corresp. 15'000U.I. anti-Xa (Ph.Eur. 95-130 UI/mg),
+AQUA ad INIECTABILIA q.s. ad SOLUTIONEM pro 1 mL. 
+Anwendung:                   Anticoagulans
+* Packungen:               01 050            10 x 0,2 mL  Fertigspritze(n)                          B
+204            50 x 0,2 mL  Fertigspritze(n)                          B
+02 042              2 x 0,4 mL  Fertigspritze(n)                          B
+069            10 x 0,4 mL  Fertigspritze(n)                          B
+212            50 x 0,4 mL  Fertigspritze(n)                          B
+03 131               10 x 1 mL  Fertigspritze(n)                          B
+04 093            10 x 0,6 mL  Fertigspritze(n)                          B
+05 115            10 x 0,8 mL  Fertigspritze(n)                          B
+Bemerkungen:             ersetzt Zulassungsbescheinigung vom 14.11.2003 
+Seq. 01: 50 x 0,2mL = Änderung von Bündelpackung auf Originalpackung  
+Seq. 02: 50 x 0,4mL = Änderung von Bündelpackung auf Originalpackung  
+Seq. 06, 07, 08 = nur für den Export bestimmt
+Gültig bis:                          13. November 2008
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Aventis Pharma AG		1466048	15598	49456050	B	03/15/1990	Clexane Amp. 20 mg 10 Amp. ad iniect. parat. 20 mg	40.12	63.65		0	60330	Enoxaparin.	2160
+Aventis Pharma AG		1360427	15598	49456034	B	03/15/1990	Clexane Amp. 20 mg 2 Amp. ad iniect. parat. 20 mg	9.52	19.4		0	60330	Enoxaparin.	2159
+Aventis Pharma AG		1466054	15598	49456069	B	03/15/1990	Clexane Amp. 40 mg 10 Amp. ad iniect. parat. 40 mg	75.02	104.75		0	60330	Enoxaparin.	2162
+Aventis Pharma AG		1360433	15598	49456042	B	03/15/1990	Clexane Amp. 40 mg 2 Amp. ad iniect. parat. 40 mg	14.92	29.85		0	60330	Enoxaparin.	2161
+Aventis Pharma AG		1905074	15598	49456093	B	03/15/1997	Clexane Amp. 60 mg 10 Amp. ad iniect. parat. 60 mg	98.11	131.9		0	60330	Enoxaparin.	2165
+Aventis Pharma AG		1905068	15598	49456085	B	03/15/1997	Clexane Amp. 60 mg 2 Amp. ad iniect. parat. 60 mg	22.51	42.9		0	60330	Enoxaparin.	2164
+Aventis Pharma AG		1905097	15598	49456115	B	03/15/1997	Clexane Amp. 80 mg 10 Amp. ad iniect. parat. 80 mg	139.91	181.15		0	60330	Enoxaparin.	2167
+Aventis Pharma AG		1905080	15598	49456107	B	03/15/1997	Clexane Amp. 80 mg 2 Amp. ad iniect. parat. 80 mg	30.09	51.8		0	60330	Enoxaparin.	2166
+Aventis Pharma AG		1905111	15598	49456131	B	03/15/1997	Clexane Amp. 100 mg 10 Amp. ad iniect. parat. 100 mg	174.83	222.25		0	60330	Enoxaparin.	2169
+Aventis Pharma AG		1905105	15598	49456123	B	03/15/1997	Clexane Amp. 100 mg 2 Amp. ad iniect. parat. 100 mg	37.52	60.55		0	60330	Enoxaparin.	2168
+  
+
+### Registration: 51642 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+1% 20 g               031  015  015
+1% 50 g               058  023  023
+
+--- Swissmedic-Journal 03/2003 -----------------------------------------
+* 01 Clotrimazol Helvepharm, Creme 
+Helvepharm AG, Walzmühlestrasse 60, 8500 Frauenfeld 
+Zul.-Nr.: 51642 Verkaufskategorie: C Index: 10.09.4. 14.03.2003
+Zusammensetzung: 01 CLOTRIMAZOLUM 10 mg, CONSERV.: PHENOXYETHANOLUM, EXCIPIENS ad UNGUENTUM
+pro 1 g.
+Anwendung: Antimykotikum 
+* Packungen: 01 
+031 20 g C 
+058 50 g C 
+Bemerkungen: früher: nur für den Export bestimmt 
+früher: Cutistad, Creme 
+Ersetzt die Registrierungsurkunde vom 26.09.2001 
+Gültig bis: 31. Dezember 2006
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+HELVEPHARM AG	G	2686792	17934	51642015	C	08/01/2003	Clotrimazol Helvepharm Crème 1 % 20 g Crème 1%	3.3	6.1			100941	Clotrimazol.	13989
+HELVEPHARM AG	G	2686800	17934	51642023	C	08/01/2003	Clotrimazol Helvepharm Crème 1 % 50 g Crème 1%	7.26	13.4			100941	Clotrimazol.	13990
+  
+--- http://www.galinfo.net/PR030801.txt --------------------------------
+Kapitel:10.09.41
+		Clotrimazol Helvepharm 		HELVEPHARM AG
+		(Clotrimazol.)
+		17934		20 g Crème 1% Fr. 6.10 {3.30}				[51642015]		01.08.2003, C
+		17934		50 g Crème 1% Fr. 13.40 {7.26}				[51642023]		01.08.2003, C
+ 
+
+### Registration: 56647 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+20 mg 28 Tabletten    006  002* 002
+20 mg 98 Tabletten    008  004* 004
+
+* Zum Zeitpunkt des Bulletins möglicherweise korrekt.
+
+--- Swissmedic-Journal 03/2005 -----------------------------------------
+01   Co-Enalapril Sandoz, Tabletten
+* Sandoz Pharmaceuticals AG, Schachenstrasse 24, 5012 Schönenwerd
+Zul.-Nr.: 56647                    Abgabekategorie: B             Index: 02.07.2.                                      21.03.2005
+Zusammensetzung:   01 ENALAPRILI HYDROGENOMALEAS 20mg, HYDROCHLOROTHIAZIDUM 12.5mg, EXCIPIENS
+pro COMPRESSO.
+Anwendung:                   Antihypertensivum
+Packungen:                01 006                         28  Tabletten                                 B
+008                         98  Tabletten                                 B
+* Bemerkungen:      Ersetzt die Zulassungsbescheinigung vom 15.05.2004 (Änderung Firmen-
+name)
+Gültig bis:                          21. August 2008
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Sandoz Pharmaceuticals AG	G	2837311	17972	56647002	B	09/01/2004	Co-Enalapril Sandoz Compr. 20 mg 28 Compr. (20+12,5 mg)	13.05	27.65			20720	Enalaprili hydrogenomaleas|Hydrochlorothiazid.	14136
+Sandoz Pharmaceuticals AG	G	2837328	17972	56647004	B	09/01/2004	Co-Enalapril Sandoz Compr. 20 mg 98 Compr. (20+12,5 mg)	44.6	68.9			20720	Enalaprili hydrogenomaleas|Hydrochlorothiazid.	14137
+  
+--- http://www.galinfo.net/PR040901.txt --------------------------------
+Kapitel:02.07.20
+		Co-Enalapril Sandoz 	SANDOZ AG
+		(Enalaprili hydrogenomaleas, Hydrochlorothiazid.)
+(G)		17972		28 Compr. (20+12,5 mg) Fr. 27.65 {13.05}	[56647002]		01.09.2004, B
+		17972		98 Compr. (20+12,5 mg) Fr. 68.90 {44.60}	[56647004]		01.09.2004, B
+
+
+### Registration: 40410 ################################################
+
+3 Packungen:          SMJ  BAG  XLS
+150 mg 100 Caps.      058   -   015
+300 mg 100 Caps.      066   -   023
+500 mg  60 Caps.      074   -   031
+
+--- Swissmedic-Journal 04/2003 -----------------------------------------
+04 Convulex 150, Kapseln 
+05 Convulex 300, Kapseln 
+06 Convulex 500, Kapseln 
+Orion Pharma AG, Untermüli 11, 6300 Zug 
+Zul.-Nr.: 40410 Verkaufskategorie: B Index: 01.07.1. 09.04.2003
+Zusammensetzung: 
+04 ACIDUM VALPROICUM 150 mg, EXCIPIENS pro CAPSULA. 
+05 ACIDUM VALPROICUM 300 mg, EXCIPIENS pro CAPSULA.
+06 ACIDUM VALPROICUM 500 mg, EXCIPIENS pro CAPSULA.
+Anwendung: Antiepilepticum 
+Packungen: 
+04 058 100 Kapseln B
+05 066 100 Kapseln B
+06 074 60 Kapseln  B
+* Gültig bis: 31. Dezember 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Orion Pharma AG		732944	12659	40410015	B	03/15/1977	Convulex Caps. 150 mg 100 Caps. 150 mg	15.83	35.05		0	10710	Na valproas	2403
+Orion Pharma AG		732950	12659	40410023	B	03/15/1977	Convulex Caps. 300 mg 100 Caps. 300 mg	27.17	48.4		0	10710	Na valproas	2404
+Orion Pharma AG		966369	12659	40410031	B	03/15/1984	Convulex Caps. 500 mg 60 Caps. 500 mg	23.13	43.65		0	10710	Na valproas	2405
+
+
+### Registration: 43615 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+50mg/ml 300 ml        025   -   017
+
+--- Swissmedic-Journal 09/2003 -----------------------------------------
+02 Convulex, Sirup 
+Orion Pharma AG, Untermüli 11, 6300 Zug 
+Zul.-Nr.: 43615 Abgabekategorie: B Index: 01.07.1. 18.09.2003
+* Zusammensetzung: 02 NATRII VALPROAS 50 mg, SACCHARINUM, AROMATICA, CONSERV.: E 218, E 216, EXCIPIENS
+ad SOLUTIONEM pro 1 mL.
+Anwendung: Antiepilepticum 
+Packung: 02 025 300 mL B 
+Bemerkung: Ersetzt die Registrierungsurkunde vom 09.04.2003 
+Gültig bis: 31. Dezember 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+Orion Pharma AG		1041774	14355	43615017	B	03/15/1984	Convulex Sirup. 50 mg/ml 300 ml Sirup. 50 mg/ml	13.62	26.3		0	10710	Na valproas	2407
+
+
+### Registration: 56001 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+200 mg 168 Filmtabs.  006*  -   004
+200 mg 112 Filmtabs.  008  006  006*
+
+*             Packungsnummer
+Anzahl Tabl.:  112    168
+-----------------------------
+SMJ 06/2002:          004    (unter dem Namen Ribavirin Roche)
+SMJ 09/2002:          006 
+SMJ 01/2003:   006    004    ???
+SMJ 05/2003:   008    006 
+
+--- Swissmedic-Journal 05/2003 -----------------------------------------
+01 Copegus, Filmtabletten 
+Roche Pharma (Schweiz) AG, Schönmattstrasse 2, 4153 Reinach 
+Zul.-Nr.: 56001 Verkaufskategorie: A Index: 08.03.0. 21.05.2003
+Zusammensetzung: 01 RIBAVIRINUM 200 mg, EXCIPIENS pro COMPRESSO OBDUCTO. 
+Anwendung: Chronische Hepatitis C, Kombinationstherapie mit Interferon 
+* Packungen: 01 
+006 168 Filmtabletten A 
+008 112 Filmtabletten A 
+Bemerkung: Ersetzt die Zulassungsbescheinigung vom 21.01.2003 
+Gültig bis: 25. Juni 2007
+
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+ROCHE PHARMA (SCHWEIZ) AG		2743455	17813	56001006	A	06/01/2003	Copegus Filmtabs 200 112 Filmtabs 200 mg	628.8	756.85			80300	Ribavirin.	13903
+ROCHE PHARMA (SCHWEIZ) AG		2561731	17813	56001004	A	11/01/2002	Copegus Filmtabs 200 168 Filmtabs 200 mg	942.4	1122.95			80300	Ribavirin.	13634
+
+--- http://www.galinfo.net/PR030601.txt --------------------------------
+Kapitel:08.03.00
+		Copegus 			ROCHE PHARMA (SCHWEIZ) AG
+		(Ribavirin.)
+		17813		112 Filmtabs 200 mg Fr. 754.95 {627.20}		[56001006]			01.06.2003, A
+ 
+
+### Registration: 49381 ################################################
+
+2 Packungen:          SMJ  BAG  XLS
+90 mg  20 Tabletten   042   -   034
+90 mg 100 Tabletten   050   -   026
+
+--- Swissmedic-Journal 05/2003 -----------------------------------------
+01 Coridil 90 retard, Tabletten 
+* Ecosol AG, 6312 Steinhausen 
+Zul.-Nr.: 49381 Verkaufskategorie: B Index: 02.06.1. 15.05.2003
+Zusammensetzung: 01 DILTIAZEMI HYDROCHLORIDUM 90 mg, EXCIPIENS pro COMPRESSO. 
+Anwendung: Calciumantagonist 
+Packungen: 01 
+042 20 Tabletten B 
+050 100 Tabletten B 
+* Bemerkungen: Ersetzt die Registrierungsurkunde vom 06.12.2002 (Änderung Domizil) 
+Gültig bis: 05. Dezember 2007
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+ECOSOL AG	G	1390138	15666	49381026	B	03/15/1990	Coridil Compr. 90 mg 100 Compr. retard 90 mg	22.67	41		0	20610	Diltiazemi HCl	2441
+ECOSOL AG	G	1390121	15666	49381034	B	03/15/1990	Coridil Compr. 90 mg 20 Compr. retard 90 mg	5.15	12.2		0	20610	Diltiazemi HCl	2440
+
+ 
+### Registration: 35152 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+40% 150 ml            067   -   040
+
+--- Swissmedic-Journal 03/2005 -----------------------------------------
+02   Cremol-Ritter, Öl-Bad
+Gebro Pharma AG, Gestadeckplatz 2, 4410 Liestal
+Zul.-Nr.: 35152                    Abgabekategorie: D             Index: 10.10.0.                                      17.03.2005
+* Zusammensetzung:02 SOJAE OLEUM, PROPYLENGLYCOLUM, ANTIOX.: E 321, EXCIPIENS ad EMULSIONEM pro 1 g. 
+Anwendung:                     Badezusatz für die trockene, schuppende Haut
+Packungen:                02 067                       150  mL                                           D
+075                       300  mL                                           D
+083                       800  mL                                           D
+091                           5  Liter                                         D
+Bemerkungen:                  Aenderung in der Zusammensetzung der Hilfsstoffe
+Ersetzt die Registrierungsurkunde vom 18.07.2003
+Gültig bis:                          31. Dezember 2005
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+GEBRO PHARMA AG		1518093	11258	35152040	D	03/15/1971	Cremol-Ritter, Oel-Bad Liquid. 40 % 150 ml Liquid. 40%		7.3	Y	20	101000	Sojae Ol.	2535
+
+
+### Registration: 51231 ################################################
+
+1 Übereinstimmung     SMJ  BAG  XLS
+250 mg 12 Sachets     031   -   031
+
+1 Abweichung          SMJ  BAG  XLS
+150 mg 12 Sachets     058   -   023
+
+--- Swissmedic-Journal 02/2003 -----------------------------------------
+03 Dafalgan Kinder, Pulver 
+04 Dafalgan Kleinkinder, Pulver 
+* Upsamedica GmbH, Neuhofstrasse 6, 6340 Baar 
+Zul.-Nr.: 51231 Abgabekategorie: D Index: 01.01.1. 01.02.2003
+Zusammensetzung: 
+03 PARACETAMOLUM 250 mg, SORBITOLUM, ASPARTAMUM, AROMATICA, CONSERV.: E 211,
+EXCIPIENS ad PULVEREM pro CHARTA.
+04 PARACETAMOLUM 150 mg, SORBITOLUM, ASPARTAMUM, AROMATICA, CONSERV.: E 211,
+EXCIPIENS ad PULVEREM pro CHARTA.
+Anwendung: Analgetikum, Antipyretikum 
+Packungen: 
+03 031 12 Sachets D 
+04 058 12 Sachets D 
+Bemerkungen: Ersetzt die Registrierungsurkunde vom 12.09.2000 (Änderung Firmennamen)
+Gültig bis: 31. Dezember 2005
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+UPSAMEDICA GmbH		1565017	16187	51231023	D	03/15/1994	Dafalgan Sach. 150 mg 12 Sach. pro infant. 150 mg		3.3		0	10110	Paracetamol.	2637
+UPSAMEDICA GmbH		1970597	16187	51231031	D	03/15/1998	Dafalgan Sach. 250 mg 12 Sach. pro infant. 250 mg		4.05		0	10110	Paracetamol.	2638
+
+
+### Registration: 39416 ################################################
+
+4 Packungen:          SMJ  BAG  XLS
+10 mg 20 Tabletten    034   -   018
+10 mg 50 Tabletten    042   -   026
+20 mg 20 Tabletten    050   -   034 !
+20 mg 50 Tabletten    069   -   042 !
+
+--- Swissmedic-Journal 07/2004 -----------------------------------------
+03   Demetrin 20, Tabletten
+04   Demetrin 10, Tabletten
+Pfizer AG, Schärenmoosstrasse 99, 8052 Zürich
+Zul.-Nr.: 39416                    Abgabekategorie: B             Index: 01.04.1.                                      22.07.2004
+* Zusammensetzung:03 PRAZEPAMUM 20 mg, EXCIPIENS pro COMPRESSO.
+04 PRAZEPAMUM 10 mg, EXCIPIENS pro COMPRESSO.
+Anwendung:                   Tranquilizer
+Packungen:                03 050                         20  Tabletten                                 B
+069                         50  Tabletten                                 B
+04 034                         20  Tabletten                                 B
+042                         50  Tabletten                                 B
+Bemerkung:                      ersetzt die Zulassungsbescheinigung vom 27.10.2003
+Gültig bis:                          31. Dezember 2005
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+PFIZER AG		778544	12996	39416018	B	03/15/1981	Demetrin Compr. 10 mg 20 Compr. 10 mg	4.99	9.95	Y	20	10410	Prazepam.	2811
+PFIZER AG		778550	12996	39416026	B	03/15/1981	Demetrin Compr. 10 mg 50 Compr. 10 mg	10.96	21.1	Y	40	10410	Prazepam.	2812
+PFIZER AG		933683	12996	39416034	B	03/15/1982	Demetrin Compr. 20 mg 20 Compr. 20 mg	7.9	17.5	Y	30	10410	Prazepam.	2813
+PFIZER AG		933677	12996	39416042	B	03/15/1982	Demetrin Compr. 20 mg 50 Compr. 20 mg	18.08	37.65	Y	50	10410	Prazepam.	2814
+
+
+### Registration: 42599 ################################################
+
+1 Packung:            SMJ  BAG  XLS
+200 mg 60 Tabletten   032   -   018
+
+--- Swissmedic-Journal 12/2004 -----------------------------------------
+01   Didronel, comprimés
+Vifor SA, Route de Moncor 10, 1752 Villars-sur-Glâne
+N°d'AMM: 42599                 Catégorie de remise: B         Index: 07.99.0.                                      29.12.2004
+Composition:             01 DINATRII ETIDRONAS 200 mg, EXCIPIENS pro COMPRESSO.
+Indication:                         Osteodystrophia deformans, ossification hétérotopique
+Conditionnement:     01 Blister
+032                         60  comprimés                              B
+* Valable jusqu'au:          28 décembre 2009
+
+--- http://www.galinfo.net/BSV_per_2005.09.01.xls ----------------------
+VIFOR SA		2639491	13623	42599018	B	03/15/1981	Didronel Compr. 200 mg 60 Compr. 200 mg	62.08	89.5		0	79900	Dinatrium etidronic.	3015
+
+
+
+** 1. Beispiel Betäubungsmittel **
+Swissmedic: 14769;056;01;Ketalgin, Injektionslösung;H-Synthetika;Hauptregistrierung;10;mg;A;01;Amino AG;10;Ampulle(n); [...]
+                   ^----------------------- korrekter IKS-Code
+
+SL-Liste:   AMINO AG    0 675 14769013   A   03/15/1955   Ketalgin Amp. 10 mg/1ml 5 Amp. 1 ml 10 mg   1.8 4.35 [...]
+ kein Pharmacode -------^           ^------ IKS-Code falsch.
+

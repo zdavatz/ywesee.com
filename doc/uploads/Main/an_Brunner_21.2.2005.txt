@@ -1,0 +1,53 @@
+Sehr geehrter Herr Brunner
+
+Norvasc ist ein Medikament das in der Schweiz CHF 55 Mio Umsatz macht.
+
+Wegen Ihrem fehlerhaften monatlichen Excel-Export werden die Preise für dieses
+Produkt nicht korrekt an die Patienten kommuniziert - nämlich gar nicht.
+
+Ihr Excel-Export enthält für Norvasc folgende EAN-Nummern (Swissmedic):
+* 50044 025
+* 50044 041
+
+Die korrekten Nummern wären aber
+* 50044 076
+* 50044 068
+
+Bald wird zu diesem Produkt ein Generikum erscheinen. Sie verunmöglichen uns
+einen Preisvergleich zwischen teurem Original und günstigem Generikum nur weil
+Ihre SL-Liste (Administration) auf dem proprietären Pharmacode aufbaut und
+nicht auf dem OpenSource EAN-Code (internationaler Standard).
+
+Meine Frage nun an Sie: Wie lange können wir es uns noch leisten durch
+unprofessionelle Dienstleistungen und proprietäre Standards die Kosten vom
+Schweizer Gesundheitswesen noch mehr in die Höhe zu treiben und die Steuergelder
+einfach aus dem Fenster zu werfen?
+
+Die Plattform Generika.cc hat bis heute von Herr Kämpf keine Antwort auf unser
+Schreiben vom Jahre 2003 erhalten.
+
+Eine solche Zeitverschwendung grenzt für mich an Fahrlässigkeit oder Absicht
+oder Überlastung durch schlechtes Outsourcing.
+
+Bei einem Einsparungspotential von 30-40% vom Original gegenüber dem Generikum
+verhindern Sie Transparenz im CH-Gesundheitswesen im wert von gut CHF 20 Mio.
+- Einsparungspotential das einfach nicht beachtet wird weil wir es nicht nötig
+haben?
+
+Mein Beispiel beruht auf einem Produkt, es sind aber ca. 500 Produkte die einen
+falschen EAN-Code haben...
+
+Gerne erwarte ich Ihr Feedback.
+
+Mit freundlichen Grüssen aus dem weissen Zürich
+Zeno Davatz
+
+-- 
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50
+
+www.ywesee.com > intellectual capital connected > www.oddb.org

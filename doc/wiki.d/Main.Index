@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1611233119
+host=212.51.146.241
+name=Main.Index
+rev=2
+targets=Main.DocumedGalenicaVsYwesee
+text=* [[DocumedGalenicaVsYwesee]]%0a
+time=1611233155
+author:1611233155=zeno
+diff:1611233155:1611233119:=1c1%0a%3c * [[DocumedGalenicaVsYwesee]]%0a---%0a> [[DocumedGalenicaVsYwesee]]%0a\ No newline at end of file%0a
+host:1611233155=212.51.146.241
+author:1611233119=zeno
+diff:1611233119:1611233119:=1d0%0a%3c [[DocumedGalenicaVsYwesee]]%0a\ No newline at end of file%0a
+host:1611233119=212.51.146.241

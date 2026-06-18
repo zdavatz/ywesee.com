@@ -1,0 +1,6 @@
+# Secrets — never commit. These contain plaintext/crypted passwords and credentials.
+/etc/htaccess
+/doc/local/config.php
+
+# Lock file used by log/rebuild-webalizer
+/var/lock/update_vhost_stats

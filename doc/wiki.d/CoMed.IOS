@@ -1,0 +1,33 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.72 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1379751268
+host=212.51.146.241
+name=CoMed.IOS
+rev=7
+targets=
+text=!! CoMed pour iOS%0a!!! Version 2.9%0a* Imprimer une ordonnance%0a* Imprimer l'étiquette%0a* Créer une ordonnance au format PDF%0a* Envoyer l'ordonnance au format PDF%0a* Sélectionner le médicament à l'aide d'un lecteur de codes à barres%0a* Sélectionner ou créer un nouveau patient de carte d'assurance à l'aide du lecteur OCR%0a%0a!!!Recueillez toutes les informations professionelles pour votre iPhone ou iPad: CoMed%0aProfitez de la meilleure solution pour remplacer vos ouvrages:%0aCette application vous offre toutes les informations professionelles actuelles et complètes reposants sur AIPS Swissmedic, OFS et Refdata et les rejoigne à un seul endroit.%0a%0aCoMed optimisée pour iPhone et iPad est disponible par l'intermédiaire de l'iTunes Store:%0a* https://itunes.apple.com/us/app/amiko-desitin/id687642725?l=de&ls=1&mt=8%0a%0aNotre app vous permet de lire hors-ligne tous les 3900 informations professionelles soit avec votre iPhone soit avec votre iPad.%0aLa mise à jour sera effectuée trimestriellement, basée sur l'export respectif de l'AIPS swissmedic.%0a%0aInfo professionelle, hors-ligne, complet, actuel, AIPS%0a%0aN'hésitez pas à nous contacter si vous avez des questions.
+time=1535820703
+author:1535820703=zeno
+diff:1535820703:1379788698:=2,9d1%0a%3c !!! Version 2.9%0a%3c * Imprimer une ordonnance%0a%3c * Imprimer l'étiquette%0a%3c * Créer une ordonnance au format PDF%0a%3c * Envoyer l'ordonnance au format PDF%0a%3c * Sélectionner le médicament à l'aide d'un lecteur de codes à barres%0a%3c * Sélectionner ou créer un nouveau patient de carte d'assurance à l'aide du lecteur OCR%0a%3c %0a
+host:1535820703=212.51.146.241
+author:1379788698=zeno
+diff:1379788698:1379788684:=8a9,10%0a> N'hésitez pas à nous contacter si vous avez des questions.%0a> %0a12,14c14%0a%3c Info professionelle, hors-ligne, complet, actuel, AIPS%0a%3c %0a%3c N'hésitez pas à nous contacter si vous avez des questions.%0a\ No newline at end of file%0a---%0a> Info professionelle, hors-ligne, complet, actuel, AIPS%0a\ No newline at end of file%0a
+host:1379788698=80.219.10.25
+author:1379788684=zeno
+diff:1379788684:1379788617:=11,14d10%0a%3c Notre app vous permet de lire hors-ligne tous les 3900 informations professionelles soit avec votre iPhone soit avec votre iPad.%0a%3c La mise à jour sera effectuée trimestriellement, basée sur l'export respectif de l'AIPS swissmedic.%0a%3c %0a%3c Info professionelle, hors-ligne, complet, actuel, AIPS%0a\ No newline at end of file%0a
+host:1379788684=80.219.10.25
+author:1379788617=zeno
+diff:1379788617:1379788608:=7c7%0a%3c * https://itunes.apple.com/us/app/amiko-desitin/id687642725?l=de&ls=1&mt=8%0a---%0a> https://itunes.apple.com/us/app/amiko-desitin/id687642725?l=de&ls=1&mt=8%0a
+host:1379788617=80.219.10.25
+author:1379788608=zeno
+diff:1379788608:1379788578:=2c2%0a%3c !!!Recueillez toutes les informations professionelles pour votre iPhone ou iPad: CoMed%0a---%0a> !!!Recueillez toutes les informations professionelles pour votre iPhone ou iPad: CoMed Desiti%0a5d4%0a%3c %0a8c7%0a%3c %0a---%0a> [Rassurez-vous de baser sur iOS 6.1 ]%0a10c9%0a%3c %0a---%0a> Avec nos salutations les meilleures%0a\ No newline at end of file%0a
+host:1379788608=80.219.10.25
+author:1379788578=zeno
+diff:1379788578:1379751268:=1,9c1%0a%3c !! CoMed pour iOS%0a%3c !!!Recueillez toutes les informations professionelles pour votre iPhone ou iPad: CoMed Desiti%0a%3c Profitez de la meilleure solution pour remplacer vos ouvrages:%0a%3c Cette application vous offre toutes les informations professionelles actuelles et complètes reposants sur AIPS Swissmedic, OFS et Refdata et les rejoigne à un seul endroit.%0a%3c CoMed optimisée pour iPhone et iPad est disponible par l'intermédiaire de l'iTunes Store:%0a%3c https://itunes.apple.com/us/app/amiko-desitin/id687642725?l=de&ls=1&mt=8%0a%3c [Rassurez-vous de baser sur iOS 6.1 ]%0a%3c N'hésitez pas à nous contacter si vous avez des questions.%0a%3c Avec nos salutations les meilleures%0a\ No newline at end of file%0a---%0a> !! CoMed pour iOS%0a\ No newline at end of file%0a
+host:1379788578=80.219.10.25
+author:1379751268=zeno
+diff:1379751268:1379751268:=1d0%0a%3c !! CoMed pour iOS%0a\ No newline at end of file%0a
+host:1379751268=80.219.10.25

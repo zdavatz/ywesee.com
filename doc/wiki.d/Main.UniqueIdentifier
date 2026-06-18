@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1126171761
+text=! Was ist ein UniqueIdentifier?²Ein UniqueIdentifier ist die Nummer in einer Datenbank an Hand der jeder einzelne Eintrag (Record) in der Datenbank identifiziert werden kann. Ein grosse Datenbank besteht häufig aus vielen verschiedenen Tabellen, welche Informationen enthalten und welche mit einander verknüpft werden müssen.
+targets=Main.UniqueIdentifier
+author=
+author:1126171706=
+host:1126171706=84.73.187.0
+diff:1126171706:1126171706:=1,2d0²< ! Was ist ein UniqueIdentifier?²< Ein UniqueIdentifier ist die Nummer in einer Datenbank an Hand der jeder einzelne Eintrag (Record) in der Datenbank identifiziert werden kann.²\ No newline at end of file²
+name=Main.UniqueIdentifier
+host=84.73.187.0
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050824 Firefox/1.0.6
+rev=2
+author:1126171761=
+host:1126171761=84.73.187.0
+diff:1126171761:1126171706:=2c2²< Ein UniqueIdentifier ist die Nummer in einer Datenbank an Hand der jeder einzelne Eintrag (Record) in der Datenbank identifiziert werden kann. Ein grosse Datenbank besteht häufig aus vielen verschiedenen Tabellen, welche Informationen enthalten und welche mit einander verknüpft werden müssen.²\ No newline at end of file²---²> Ein UniqueIdentifier ist die Nummer in einer Datenbank an Hand der jeder einzelne Eintrag (Record) in der Datenbank identifiziert werden kann.²\ No newline at end of file²

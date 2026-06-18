@@ -1,0 +1,352 @@
+[Fri Dec 02 01:00:05 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Fri Dec 02 01:00:06 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Fri Dec 02 01:06:16 2022] [error] [client 154.16.49.55] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat
+[Fri Dec 02 01:47:57 2022] [error] [client 157.90.181.148] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Dec 02 01:48:00 2022] [error] [client 157.90.181.148] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Dec 02 02:09:23 2022] [error] [client 194.110.203.40] File does not exist: /var/www/ywesee.com/doc/ywesee.combackup.rar
+[Fri Dec 02 02:16:27 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/diguo, referer: http://www.ywesee.com/diguo/index.php
+[Fri Dec 02 02:16:27 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/~admin, referer: http://www.ywesee.com/~admin/index.php
+[Fri Dec 02 02:16:28 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/index.php
+[Fri Dec 02 02:16:29 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/index.php
+[Fri Dec 02 02:16:31 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/index.php
+[Fri Dec 02 02:16:31 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/index.php
+[Fri Dec 02 02:16:32 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/index.php
+[Fri Dec 02 02:16:33 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/upload123, referer: http://www.ywesee.com/upload123/index.php
+[Fri Dec 02 02:16:33 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/upload.php
+[Fri Dec 02 02:16:35 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/viki, referer: http://www.ywesee.com/viki/login.php
+[Fri Dec 02 02:16:36 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/login.php
+[Fri Dec 02 02:16:38 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/wanhu, referer: http://www.ywesee.com/wanhu/login.php
+[Fri Dec 02 02:16:39 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/login.php
+[Fri Dec 02 02:16:39 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/login.php
+[Fri Dec 02 02:16:41 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/login.php
+[Fri Dec 02 02:16:41 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/admin, referer: http://www.ywesee.com/admin/login.php
+[Fri Dec 02 02:16:43 2022] [error] [client 101.43.14.47] script '/var/www/ywesee.com/doc/adminys.php' not found or unable to stat, referer: http://www.ywesee.com/adminys.php?app=admin&c=login
+[Fri Dec 02 02:16:44 2022] [error] [client 101.43.14.47] script '/var/www/ywesee.com/doc/bsadmin.php' not found or unable to stat, referer: http://www.ywesee.com/bsadmin.php
+[Fri Dec 02 02:16:44 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/stage, referer: http://www.ywesee.com/stage/login.php
+[Fri Dec 02 02:16:46 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/templates, referer: http://www.ywesee.com/templates/default/about.htm
+[Fri Dec 02 02:16:46 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/templates, referer: http://www.ywesee.com/templates/web/about.htm
+[Fri Dec 02 02:16:48 2022] [error] [client 101.43.14.47] File does not exist: /var/www/ywesee.com/doc/templates, referer: http://www.ywesee.com/templates/pc/about.htm
+[Fri Dec 02 04:36:01 2022] [error] [client 162.55.86.61] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Dec 02 04:36:09 2022] [error] [client 162.55.86.61] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Dec 02 05:10:00 2022] [error] [client 91.237.82.24] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 05:27:02 2022] [error] [client 5.164.167.153] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 05:27:02 2022] [error] [client 5.164.167.153] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 05:27:04 2022] [error] [client 5.164.167.153] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 05:27:05 2022] [error] [client 5.164.167.153] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 05:27:06 2022] [error] [client 5.164.167.153] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 05:27:07 2022] [error] [client 5.164.167.153] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 05:27:08 2022] [error] [client 5.164.167.153] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 05:27:09 2022] [error] [client 5.164.167.153] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 05:40:22 2022] [error] [client 3.87.113.135] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Dec 02 05:40:25 2022] [error] [client 3.87.113.135] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Dec 02 06:09:28 2022] [error] [client 45.72.48.130] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Fri Dec 02 06:16:10 2022] [error] [client 194.110.203.45] File does not exist: /var/www/ywesee.com/doc/ywesee.com_backup.rar
+[Fri Dec 02 06:27:11 2022] [error] [client 20.203.221.49] File does not exist: /var/www/ywesee.com/doc/.env
+[Fri Dec 02 06:31:16 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 06:31:16 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 06:31:16 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 06:31:18 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 06:31:18 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 06:31:18 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 06:31:20 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 06:31:20 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 06:31:20 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 06:31:23 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 06:31:23 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 06:31:23 2022] [error] [client 178.214.250.71] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 06:31:27 2022] [error] [client 176.215.114.43] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Fri Dec 02 06:31:29 2022] [error] [client 109.71.177.8] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Fri Dec 02 06:57:50 2022] [error] [client 66.249.76.245] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Dec 02 06:57:52 2022] [error] [client 66.249.76.245] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Fri Dec 02 07:56:19 2022] [error] [client 157.55.39.147] File does not exist: /var/www/ywesee.com/doc/resources
+[Fri Dec 02 08:05:21 2022] [error] [client 157.55.39.197] File does not exist: /var/www/ywesee.com/doc/fr
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/wp-includes
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/feed
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] script '/var/www/ywesee.com/doc/xmlrpc.php' not found or unable to stat
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/blog
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/web
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/wordpress
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/wp
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/shop
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/wp1
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/test
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/site
+[Fri Dec 02 08:08:36 2022] [error] [client 162.19.228.173] File does not exist: /var/www/ywesee.com/doc/cms
+[Fri Dec 02 08:41:25 2022] [error] [client 144.24.4.162] File does not exist: /var/www/ywesee.com/doc/ywesee.com-backup.rar
+[Fri Dec 02 09:36:07 2022] [error] [client 66.249.76.91] File does not exist: /var/www/ywesee.com/doc/amiko
+[Fri Dec 02 09:58:15 2022] [error] [client 66.249.76.91] File does not exist: /var/www/ywesee.com/doc/comed
+[Fri Dec 02 10:00:44 2022] [error] [client 66.249.70.47] File does not exist: /var/www/ywesee.com/doc/generikacc
+[Fri Dec 02 10:22:36 2022] [error] [client 194.38.20.161] File does not exist: /var/www/ywesee.com/doc/sites
+[Fri Dec 02 12:03:53 2022] [error] [client 185.135.137.65] File does not exist: /var/www/ywesee.com/doc/backupywesee.com.rar
+[Fri Dec 02 12:38:28 2022] [error] [client 185.81.158.132] File does not exist: /var/www/ywesee.com/doc/_profiler
+[Fri Dec 02 12:39:28 2022] [error] [client 185.81.158.132] File does not exist: /var/www/ywesee.com/doc/.env
+[Fri Dec 02 13:39:05 2022] [error] [client 194.110.203.40] File does not exist: /var/www/ywesee.com/doc/backup-ywesee.com.rar
+[Fri Dec 02 13:40:09 2022] [error] [client 157.90.181.148] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Dec 02 13:40:14 2022] [error] [client 157.90.181.148] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Dec 02 13:40:42 2022] [error] [client 194.38.20.161] File does not exist: /var/www/ywesee.com/doc/sites
+[Fri Dec 02 13:50:38 2022] [error] [client 66.249.76.91] File does not exist: /var/www/ywesee.com/doc/de
+[Fri Dec 02 14:21:45 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Dec 02 14:21:47 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Dec 02 14:21:49 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Dec 02 14:22:22 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Dec 02 14:22:24 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Dec 02 14:22:26 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Dec 02 14:22:28 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Dec 02 14:22:30 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Dec 02 14:26:59 2022] [error] [client 20.198.221.121] File does not exist: /var/www/ywesee.com/doc/wp-admin, referer: binance.com
+[Fri Dec 02 14:27:00 2022] [error] [client 20.198.221.121] File does not exist: /var/www/ywesee.com/doc/.well-known, referer: binance.com
+[Fri Dec 02 14:27:01 2022] [error] [client 20.198.221.121] File does not exist: /var/www/ywesee.com/doc/sites, referer: binance.com
+[Fri Dec 02 14:27:02 2022] [error] [client 20.198.221.121] File does not exist: /var/www/ywesee.com/doc/admin, referer: binance.com
+[Fri Dec 02 14:27:04 2022] [error] [client 20.198.221.121] Directory index forbidden by Options directive: /var/www/ywesee.com/doc/uploads/, referer: binance.com
+[Fri Dec 02 15:01:44 2022] [error] [client 185.81.158.132] File does not exist: /var/www/ywesee.com/doc/_profiler
+[Fri Dec 02 15:02:43 2022] [error] [client 185.81.158.132] File does not exist: /var/www/ywesee.com/doc/.env
+[Fri Dec 02 15:27:56 2022] [error] [client 66.249.79.121] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Fri Dec 02 15:41:34 2022] [error] [client 102.129.145.15] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat
+[Fri Dec 02 15:48:37 2022] [error] [client 185.81.158.132] File does not exist: /var/www/ywesee.com/doc/_profiler
+[Fri Dec 02 15:49:32 2022] [error] [client 185.81.158.132] File does not exist: /var/www/ywesee.com/doc/.env
+[Fri Dec 02 16:16:05 2022] [error] [client 162.55.85.229] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Dec 02 16:16:10 2022] [error] [client 162.55.85.229] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Dec 02 16:24:12 2022] [error] [client 5.188.62.174] File does not exist: /var/www/ywesee.com/doc/admin, referer: https://ywesee.com/
+[Fri Dec 02 17:28:46 2022] [error] [client 3.87.113.135] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Dec 02 17:28:47 2022] [error] [client 3.87.113.135] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Dec 02 17:37:57 2022] [error] [client 184.75.211.139] File does not exist: /var/www/ywesee.com/doc/contact, referer: ywesee.ch
+[Fri Dec 02 17:37:57 2022] [error] [client 184.75.211.139] File does not exist: /var/www/ywesee.com/doc/contact, referer: ywesee.ch
+[Fri Dec 02 17:37:58 2022] [error] [client 184.75.211.139] File does not exist: /var/www/ywesee.com/doc/contact, referer: ywesee.ch
+[Fri Dec 02 17:37:59 2022] [error] [client 184.75.211.139] File does not exist: /var/www/ywesee.com/doc/contact, referer: ywesee.ch
+[Fri Dec 02 18:56:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:56:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:56:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:56:48 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:56:49 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:56:49 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:56:49 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:56:50 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:56:50 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:56:50 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:56:59 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:00 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:00 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:01 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:01 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:01 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:05 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:05 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:34 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:34 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:34 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:35 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:35 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:35 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:36 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:36 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:36 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:37 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:39 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:39 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:39 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:39 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:42 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:42 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:57:42 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:57:42 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:58:08 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:58:08 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:58:09 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:58:11 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 18:58:11 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:58:11 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:58:12 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 18:58:12 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 19:03:23 2022] [error] [client 3.87.113.135] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Dec 02 19:03:24 2022] [error] [client 3.87.113.135] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Dec 02 19:03:25 2022] [error] [client 3.87.113.135] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Dec 02 19:03:25 2022] [error] [client 3.87.113.135] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Fri Dec 02 19:15:58 2022] [error] [client 102.129.145.55] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat
+[Fri Dec 02 19:20:46 2022] [error] [client 80.58.162.10] File does not exist: /var/www/ywesee.com/doc/yweseedb.rar
+[Fri Dec 02 19:27:57 2022] [error] [client 66.249.79.198] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Fri Dec 02 19:36:02 2022] [error] [client 49.228.123.23] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat
+[Fri Dec 02 19:36:07 2022] [error] [client 20.203.221.49] File does not exist: /var/www/ywesee.com/doc/.env
+[Fri Dec 02 19:36:07 2022] [error] [client 49.228.123.23] File does not exist: /var/www/ywesee.com/doc/administrator
+[Fri Dec 02 19:36:14 2022] [error] [client 49.228.123.23] File does not exist: /var/www/ywesee.com/doc/admin
+[Fri Dec 02 20:03:27 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:28 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:28 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:28 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:03:28 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:03:29 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:03:30 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:31 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:31 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:31 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:31 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:03:31 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:03:31 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:03:31 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:03:33 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:34 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:03:38 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:38 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:03:38 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:03:38 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:05:12 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:05:12 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:05:13 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:05:13 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:05:16 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:05:16 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:05:17 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:05:17 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:07:23 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:07:23 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:07:23 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:07:24 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:07:24 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:07:24 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:07:28 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:07:29 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:07:32 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:07:32 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:07:33 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:07:33 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:07:33 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:07:33 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:07:36 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:07:36 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:07:37 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:07:37 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:08:53 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:08:53 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:08:54 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:08:54 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 20:08:54 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:08:54 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:08:54 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:08:54 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 20:16:41 2022] [error] [client 123.31.41.38] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat, referer: http://ywesee.org/wp-login.php
+[Fri Dec 02 20:30:47 2022] [error] [client 94.130.237.99] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Fri Dec 02 20:30:53 2022] [error] [client 94.130.237.99] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Fri Dec 02 20:45:35 2022] [error] [client 8.210.102.36] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat, referer: http://ywesee.com/wp-login.php
+[Fri Dec 02 21:34:39 2022] [error] [client 184.168.121.5] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat, referer: http://ywesee.net/wp-login.php
+[Fri Dec 02 22:11:10 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:10 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:11 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:11 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:11 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:12 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:12 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:12 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:12 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:13 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:18 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:18 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:20 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:20 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:21 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:21 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:21 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:21 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:25 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:25 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:26 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:26 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:28 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:28 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:11:29 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:11:29 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:20 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:20 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:20 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:21 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:21 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:21 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:41 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:42 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:42 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:42 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:43 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:43 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:46 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:46 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:46 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:46 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:48 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:49 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:49 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:49 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:49 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:49 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:50 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:50 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:50 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:51 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:51 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:52 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:52 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:13:52 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:13:53 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:14:35 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:14:36 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:14:36 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:14:36 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:14:37 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:14:37 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:19 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:19 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:19 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:19 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:29 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:30 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:30 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:31 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:31 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:32 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:32 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:32 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:32 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:32 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:45 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:46 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:46 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:46 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:46 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:46 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:16:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:16:47 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:11 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:12 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:13 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:14 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:14 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:15 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:16 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:17 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:17 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:18 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:18 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:19 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:19 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:19 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:19 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:19 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:35 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:35 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:35 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:36 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:37 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:37 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:37 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:38 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:38 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:38 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:44 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:44 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Fri Dec 02 22:17:45 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:17:45 2022] [error] [client 186.214.61.151] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Fri Dec 02 22:39:37 2022] [error] [client 101.67.50.42] File does not exist: /var/www/ywesee.com/doc/ywesee
+[Fri Dec 02 23:14:20 2022] [error] [client 51.178.30.245] File does not exist: /var/www/ywesee.com/doc/ywesee-db.rar
+[Fri Dec 02 23:17:45 2022] [error] [client 83.171.248.62] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat, referer: http://ywesee.ch/wp-login.php

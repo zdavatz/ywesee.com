@@ -1,0 +1,27 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a2pre) Gecko/20100209 Minefield/3.7a2pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1265705011
+host=80.219.10.249
+name=Ywesee.Ebps
+rev=5
+targets=
+text=! Ebook publishing service%0a%0aDas Konfigurations-file muss einfach immer gleich heissen wie das Programm.%0a* $> cd /var/ebps/bin%0a* $> mv oddb_epub oddb_firefox%0a* $> cd /etc/ebps%0a* $> mv oddb_epub.yml oddb_firefox.yml%0a%0aUnd wenn du ein neues device anlegen willst:%0a* $> cd /var/ebps/bin%0a* $> ln -s ebps %3cscriptname>%0a* $> cd /etc/ebps%0a* $> vi %3cscriptname>.yml%0a
+time=1265800341
+author:1265800341=
+diff:1265800341:1265800323:=1,2d0%0a%3c ! Ebook publishing service%0a%3c %0a
+host:1265800341=80.219.10.249
+author:1265800323=
+diff:1265800323:1265705067:=1a2%0a> %0a
+host:1265800323=80.219.10.249
+author:1265705067=
+diff:1265705067:1265705034:=1,2d0%0a%3c Das Konfigurations-file muss einfach immer gleich heissen wie das Programm.%0a%3c %0a
+host:1265705067=80.219.10.249
+author:1265705034=
+diff:1265705034:1265705011:=1,5c1,5%0a%3c * $> cd /var/ebps/bin%0a%3c * $> mv oddb_epub oddb_firefox%0a%3c * $> cd /etc/ebps%0a%3c * $> mv oddb_epub.yml oddb_firefox.yml%0a%3c %0a---%0a> $> cd /var/ebps/bin%0a> $> mv oddb_epub oddb_firefox%0a> $> cd /etc/ebps%0a> $> mv oddb_epub.yml oddb_firefox.yml%0a> %0a7,10c7,10%0a%3c * $> cd /var/ebps/bin%0a%3c * $> ln -s ebps %3cscriptname>%0a%3c * $> cd /etc/ebps%0a%3c * $> vi %3cscriptname>.yml%0a---%0a> $> cd /var/ebps/bin%0a> $> ln -s ebps %3cscriptname>%0a> $> cd /etc/ebps%0a> $> vi %3cscriptname>.yml%0a
+host:1265705034=80.219.10.249
+author:1265705011=
+diff:1265705011:1265705011:=1,10d0%0a%3c $> cd /var/ebps/bin%0a%3c $> mv oddb_epub oddb_firefox%0a%3c $> cd /etc/ebps%0a%3c $> mv oddb_epub.yml oddb_firefox.yml%0a%3c %0a%3c Und wenn du ein neues device anlegen willst:%0a%3c $> cd /var/ebps/bin%0a%3c $> ln -s ebps %3cscriptname>%0a%3c $> cd /etc/ebps%0a%3c $> vi %3cscriptname>.yml%0a
+host:1265705011=80.219.10.249

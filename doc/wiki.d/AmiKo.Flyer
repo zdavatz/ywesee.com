@@ -1,0 +1,24 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.99 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1408621393
+host=212.51.146.241
+name=AmiKo.Flyer
+rev=4
+targets=AmiKo.Index
+text=%3c%3c|[[Index]]|>>%0aAttach:AmiKo_CoMed_Flyer.png%0aAttach:tagesaktuell_weiss.png
+time=1516875376
+author:1516875376=zeno
+diff:1516875376:1408711272:=1d0%0a%3c %3c%3c|[[Index]]|>>%0a
+host:1516875376=212.51.146.241
+author:1408711272=zeno
+diff:1408711272:1408711194:=2c2%0a%3c Attach:tagesaktuell_weiss.png%0a\ No newline at end of file%0a---%0a> Attach:tagesaktuell.png%0a\ No newline at end of file%0a
+host:1408711272=46.140.30.26
+author:1408711194=zeno
+diff:1408711194:1408621393:=1,2c1%0a%3c Attach:AmiKo_CoMed_Flyer.png%0a%3c Attach:tagesaktuell.png%0a\ No newline at end of file%0a---%0a> Attach:AmiKo_CoMed_Flyer.png%0a\ No newline at end of file%0a
+host:1408711194=46.140.30.26
+author:1408621393=zeno
+diff:1408621393:1408621393:=1d0%0a%3c Attach:AmiKo_CoMed_Flyer.png%0a\ No newline at end of file%0a
+host:1408621393=46.140.30.26

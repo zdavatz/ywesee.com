@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1124721105
+text=! State Based Session Management, LGPL²http://scm.ywesee.com/?p=sbsm;a=summary
+targets=
+author=
+author:1124721056=
+host:1124721056=217.162.177.109
+diff:1124721056:1124721056:=1,2d0²< ! State based Session Management, LGPL²< http://scm.ywesee.com/?p=sbsm;a=summary²\ No newline at end of file²
+name=Ywesee.SBSM
+host=217.162.177.109
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050724 Firefox/1.0.6
+rev=2
+author:1124721105=
+host:1124721105=217.162.177.109
+diff:1124721105:1124721056:=1c1²< ! State Based Session Management, LGPL²---²> ! State based Session Management, LGPL²

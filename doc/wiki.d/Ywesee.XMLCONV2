@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1124720944
+text=! XMLCONV2, LGPL²http://scm.ywesee.com/?p=xmlconv2;a=summary
+targets=Ywesee.XMLCONV2
+author=
+author:1124720944=
+host:1124720944=217.162.177.109
+diff:1124720944:1124720944:=1,2d0²< ! XMLCONV2, LGPL²< http://scm.ywesee.com/?p=xmlconv2;a=summary²\ No newline at end of file²
+name=Ywesee.XMLCONV2
+host=217.162.177.109
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050724 Firefox/1.0.6
+rev=1

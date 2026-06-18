@@ -1,0 +1,30 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.37 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1379319932
+host=80.219.10.25
+name=OSX.AmiKo
+rev=6
+targets=
+text=!! AmiKo für OS X%0aAb Version 10.7%0a* https://itunes.apple.com/us/app/amiko/id708142753?mt=12 - Deutsch%0a* https://itunes.apple.com/us/app/comed/id710472327&mt=12 - Französisch
+time=1380261837
+author:1380261837=zeno
+diff:1380261837:1380261761:=4c4%0a%3c * https://itunes.apple.com/us/app/comed/id710472327&mt=12 - Französisch%0a\ No newline at end of file%0a---%0a> * https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=710472327&mt=12 - Französisch%0a\ No newline at end of file%0a
+host:1380261837=80.219.10.25
+author:1380261761=zeno
+diff:1380261761:1380175621:=4c4%0a%3c * https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=710472327&mt=12 - Französisch%0a\ No newline at end of file%0a---%0a> * http://pillbox.oddb.org/CoMedOSX.pkg - Französisch%0a\ No newline at end of file%0a
+host:1380261761=80.219.10.25
+author:1380175621=zeno
+diff:1380175621:1379322186:=3c3%0a%3c * https://itunes.apple.com/us/app/amiko/id708142753?mt=12 - Deutsch%0a---%0a> * http://pillbox.oddb.org/AmiKoOSX.pkg - Deutsch%0a
+host:1380175621=80.219.10.25
+author:1379322186=zeno
+diff:1379322186:1379321994:=2d1%0a%3c Ab Version 10.7%0a
+host:1379322186=80.219.10.25
+author:1379321994=zeno
+diff:1379321994:1379319932:=1,3c1%0a%3c !! AmiKo für OS X%0a%3c * http://pillbox.oddb.org/AmiKoOSX.pkg - Deutsch%0a%3c * http://pillbox.oddb.org/CoMedOSX.pkg - Französisch%0a\ No newline at end of file%0a---%0a> !! AmiKo für OS X%0a\ No newline at end of file%0a
+host:1379321994=80.219.10.25
+author:1379319932=zeno
+diff:1379319932:1379319932:=1d0%0a%3c !! AmiKo für OS X%0a\ No newline at end of file%0a
+host:1379319932=80.219.10.25

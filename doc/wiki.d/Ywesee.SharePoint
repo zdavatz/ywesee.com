@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.6) Gecko/20060808 Firefox/1.5.0.6
+author=
+host=84.72.152.159
+name=Ywesee.SharePoint
+rev=1
+targets=
+text=! The Microsoft Sharepoint Portal%0a* http://office.microsoft.com/en-us/FX010909721033.aspx
+time=1157470202
+author:1157470202=
+diff:1157470202:1157470202:=1,2d0%0a%3c ! The Microsoft Sharepoint Portal%0a%3c * http://office.microsoft.com/en-us/FX010909721033.aspx%0a\ No newline at end of file%0a
+host:1157470202=84.72.152.159

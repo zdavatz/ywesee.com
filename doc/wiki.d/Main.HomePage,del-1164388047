@@ -1,0 +1,13 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1097757511
+text=test
+targets=
+author=benfay
+author:1097757511=benfay
+host:1097757511=212.254.248.118
+diff:1097757511:1097757511:=1d0²< test²\ No newline at end of file²
+name=Main.HomePage
+host=212.254.248.118
+agent=Mozilla/5.0 (compatible; Konqueror/3.3; Linux) (KHTML, like Gecko)
+rev=1

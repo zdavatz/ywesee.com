@@ -1,0 +1,50 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 15267 invoked by uid 210); 11 Aug 2006 12:38:10 +0200
+Received: from 84.72.158.123 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.88.2/1644. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.72.158.123):. 
+ Processed in 0.030963 secs); 11 Aug 2006 10:38:10 -0000
+Received: from unknown (HELO zrr.local) (zdavatz@ywesee.com@84.72.158.123)
+  by mail.ywesee.com with ESMTPA; 11 Aug 2006 12:38:09 +0200
+Received: by zrr.local (Postfix, from userid 1000)
+	id ÄBAB5D014; Fri, 11 Aug 2006 12:26:04 +0200 (CEST)
+Date: Fri, 11 Aug 2006 12:26:04 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Weber Patric <ebipharm@ywesee.com>
+Cc: todo@oddb.org
+Subject: Wieso sind diese Produkte nicht in der Refdata vorhanden? - task: /ebi-pharm
+Message-ID: <20060811102604.GF15701@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.11
+
+Sehr geehrter Herr Weber
+
+Fragen Sie bei der Medwin, weshalb Ihre Produkte nicht in der _Refdata_
+gelistet werden! Das ist ausschlaggebend.
+
+Von der Refdata-Website entnehme ich folgendes:
+http://www.refdata.ch/content/page-11.asp?ConType3D1&Lev3D1&PortalId=3D27=
+&recordid3Ö&InId3Ö&ULinkId=3D6
+
+"Ziel ist es, allen Interessierten die Möglichkeit zu bieten, jederzeit
+die EAN Codes von Fachpersonen,  Swissmedic oder BAG registrierten
+Produkten kostenlos via Internet abrufen zu können und so allen
+Beteiligten die Möglichkeit der elektronischen Kommunikation mit
+Referenznummern zu bieten."
+
+Die Refdata erfüllt somit Ihr Ziel ganz klar nicht!!
+
+Bovisan, Nerton, Larifikehl Tropfen und Sedicelo sind alle bei der
+Swissmedic registriert, jedoch nicht vorhanden in der Refdata
+Produktedatenbank!
+
+Weshalb wohl?
+
+Mit freundlichen Grüssen
+Zeno Davatz

@@ -1,0 +1,27 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1360680931
+host=80.219.10.249
+name=Oddb2xml.Bemerkungen
+rev=5
+targets=Oddb2xml.Index,Oddb2xml.Installation
+text=%25trail%25%3c%3c|[[Index]]|>>%0a!! Bemerkungen oddb2xml - 12.2.2013%0aoddb_xml generiert mit [[Oddb2xml/Installation | oddb2xml-1.4.5]] ist da:%0a%0ahttp://pillbox.oddb.org/oddb_xml_04.03.2013_10.06.zip%0a%0aEin paar Bemerkungen zu den Dateien:%0a%0a1. In oddb_article.xml finden Sie alle Produkte (Pharma und Non-Pharma) mit dem Barcode/EAN-13, Pharmacode, Name D/F, SMCAT,%0aSL-Preis etc  versehen. Das ist die Basis-Datei wenn man einfach einen Katalog möchte.%0a%0a2. Zusätzliche Swissmedic-Infos zu Medikamenten (Wirkstoff, ATC-Code, falls vorhanden) finden Sie im oddb_product.xml. Im oddb_product.xml finden Sie _nur_ den EAN-Code.%0a%0a3. Die Interaktionen mappen Sie am einfachsten via dem ATC-Code.%0a%0a4. Die Fachinfos können Sie direkt oder via oddb_fi_product.xml mappen. Hier sind die EAN-Codes pro FI hinterlegt.%0a%0a5. Die Substanzen für alle SL-Produkte finden Sie in oddb_substance.xml - verlinkt mit der SUBNO in oddb_product.xml. Den%0aWirkstoff gemäss Swissmedic finden Sie im oddb_product.xml für alle Produkte die bei der Swissmedic registriert sind (Liste A-E).%0a%0aFür alle Dateien bildet der EAN-Code die Grundlage.%0a%0aDer Pharmacode ist im oddb_article.xml als Referenz vorhanden.%0a%0aBemerkung: Falls im oddb_product.xml kein Name des Produkts gefunden wird, finden Sie den Namen sicher immer im oddb_article.xml.%0a%0agrep -C 13 -rl %3cEAN-Code> oddb_article.xml%0a%0azeigt dann den Namen.%0a%0aFür weitere Fragen stehen wir Ihnen gerne zur Verfügung.
+time=1362388322
+author:1362388322=zeno
+diff:1362388322:1362388290:=3c3%0a%3c oddb_xml generiert mit [[Oddb2xml/Installation | oddb2xml-1.4.5]] ist da:%0a---%0a> oddb_xml generiert mit [[https://github.com/zdavatz/oddb2xml | oddb2xml-1.4.5]] ist da:%0a
+host:1362388322=80.219.10.249
+author:1362388290=zeno
+diff:1362388290:1360681062:=3,5c3,5%0a%3c oddb_xml generiert mit [[https://github.com/zdavatz/oddb2xml | oddb2xml-1.4.5]] ist da:%0a%3c %0a%3c http://pillbox.oddb.org/oddb_xml_04.03.2013_10.06.zip%0a---%0a> oddb_xml generiert mit [[https://github.com/zdavatz/oddb2xml | oddb2xml-1.3.8]] ist da:%0a> %0a> http://pillbox.oddb.org/oddb_xml_11.02.2013_11.00.zip%0a
+host:1362388290=80.219.10.249
+author:1360681062=zeno
+diff:1360681062:1360681054:=1c1%0a%3c %25trail%25%3c%3c|[[Index]]|>>%0a---%0a> %25trail%25%3c%3c|[[Oddb2xml]]|>>%0a
+host:1360681062=80.219.10.249
+author:1360681054=zeno
+diff:1360681054:1360680931:=1c1%0a%3c %25trail%25%3c%3c|[[Oddb2xml]]|>>%0a---%0a> %0a
+host:1360681054=80.219.10.249
+author:1360680931=zeno
+diff:1360680931:1360680931:=1,31d0%0a%3c %0a%3c !! Bemerkungen oddb2xml - 12.2.2013%0a%3c oddb_xml generiert mit [[https://github.com/zdavatz/oddb2xml | oddb2xml-1.3.8]] ist da:%0a%3c %0a%3c http://pillbox.oddb.org/oddb_xml_11.02.2013_11.00.zip%0a%3c %0a%3c Ein paar Bemerkungen zu den Dateien:%0a%3c %0a%3c 1. In oddb_article.xml finden Sie alle Produkte (Pharma und Non-Pharma) mit dem Barcode/EAN-13, Pharmacode, Name D/F, SMCAT,%0a%3c SL-Preis etc  versehen. Das ist die Basis-Datei wenn man einfach einen Katalog möchte.%0a%3c %0a%3c 2. Zusätzliche Swissmedic-Infos zu Medikamenten (Wirkstoff, ATC-Code, falls vorhanden) finden Sie im oddb_product.xml. Im oddb_product.xml finden Sie _nur_ den EAN-Code.%0a%3c %0a%3c 3. Die Interaktionen mappen Sie am einfachsten via dem ATC-Code.%0a%3c %0a%3c 4. Die Fachinfos können Sie direkt oder via oddb_fi_product.xml mappen. Hier sind die EAN-Codes pro FI hinterlegt.%0a%3c %0a%3c 5. Die Substanzen für alle SL-Produkte finden Sie in oddb_substance.xml - verlinkt mit der SUBNO in oddb_product.xml. Den%0a%3c Wirkstoff gemäss Swissmedic finden Sie im oddb_product.xml für alle Produkte die bei der Swissmedic registriert sind (Liste A-E).%0a%3c %0a%3c Für alle Dateien bildet der EAN-Code die Grundlage.%0a%3c %0a%3c Der Pharmacode ist im oddb_article.xml als Referenz vorhanden.%0a%3c %0a%3c Bemerkung: Falls im oddb_product.xml kein Name des Produkts gefunden wird, finden Sie den Namen sicher immer im oddb_article.xml.%0a%3c %0a%3c grep -C 13 -rl %3cEAN-Code> oddb_article.xml%0a%3c %0a%3c zeigt dann den Namen.%0a%3c %0a%3c Für weitere Fragen stehen wir Ihnen gerne zur Verfügung.%0a\ No newline at end of file%0a
+host:1360680931=80.219.10.249

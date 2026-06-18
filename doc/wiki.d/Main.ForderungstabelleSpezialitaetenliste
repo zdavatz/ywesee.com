@@ -1,0 +1,162 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.2) Gecko/20060418 Firefox/1.5.0.2
+author=
+host=84.73.186.14
+name=Main.ForderungstabelleSpezialitaetenliste
+rev=51
+targets=Main.SL-Liste,Main.Legende,Ywesee.SpezialisierteKrankenkasse
+text=! Summarische Tabelle der Forderungen an die Schweizerische Spezialitätenliste%0a(:table border=1 cellpadding=5 cellspacing=0:)%0a(:cell:) '''#'''%0a(:cell:) '''Forderung'''%0a(:cell:) '''Beweis'''%0a(:cell:) '''erledigt Ja/Nein'''%0a(:cellnr:) 1%0a(:cell:) Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.%0a(:cell:) http://www.ywesee.com/uploads/Main/2005-9.txt %0ahttp://todo.oddb.org/ezmlm-cgi?mss:269:200510:nbinemeedegipklbnfbm%0a(:cell:) NEIN%0a(:cellnr:) 2%0a(:cell:) Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene.%0a(:cell:) http://www.galinfo.net/batchhtm/3178.htm%0a(:cell:) JA, 26.4.2006%0a(:cellnr:) 3%0a(:cell:) Bei allen Preisänderungen im SL-Bulletin auch den EAN-Code einfügen.%0a(:cell:) http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt%0a(:cell:) NEIN%0a(:cellnr:) 4%0a(:cell:) Beleg für das Auftragsvolumen des BSV an die E-mediat für die "technische Umsetzung" der Spezialitätenliste.%0a(:cell:) [[http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt | Link zum Dokument]]%0a(:cell:) NEIN%0a(:tableend:)%0a%0a%25trail%25%3c%3c|[[Legende]]|>>
+time=1146065266
+author:1146065266=
+diff:1146065266:1138808516:=15c15%0a%3c (:cell:) JA, 26.4.2006%0a---%0a> (:cell:) NEIN%0a
+host:1146065266=84.73.186.14
+author:1138808516=
+diff:1138808516:1138808424:=1c1%0a%3c ! Summarische Tabelle der Forderungen an die Schweizerische Spezialitätenliste%0a---%0a> ! Summarische Tabelle der Forderungen an die Schweizerische Spezialiätenliste%0a
+host:1138808516=84.73.186.135
+author:1138808424=
+diff:1138808424:1128443696:=24,26c24%0a%3c (:tableend:)%0a%3c %0a%3c %25trail%25%3c%3c|[[Legende]]|>>%0a\ No newline at end of file%0a---%0a> (:tableend:)%0a\ No newline at end of file%0a
+host:1138808424=84.73.186.135
+author:1128443696=
+diff:1128443696:1126519468:=9,10c9%0a%3c (:cell:) http://www.ywesee.com/uploads/Main/2005-9.txt %0a%3c http://todo.oddb.org/ezmlm-cgi?mss:269:200510:nbinemeedegipklbnfbm%0a---%0a> (:cell:) http://www.ywesee.com/uploads/Main/2005-9.txt http://todo.oddb.org/ezmlm-cgi?mss:260:200509:fhijellfbmmlplfoplpm%0a
+host:1128443696=84.73.187.0
+author:1126519468=
+diff:1126519468:1126518809:=20c20%0a%3c (:cell:) Beleg für das Auftragsvolumen des BSV an die E-mediat für die "technische Umsetzung" der Spezialitätenliste.%0a---%0a> (:cell:) Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.%0a
+host:1126519468=84.73.187.0
+author:1126518809=
+diff:1126518809:1126197352:=9c9%0a%3c (:cell:) http://www.ywesee.com/uploads/Main/2005-9.txt http://todo.oddb.org/ezmlm-cgi?mss:260:200509:fhijellfbmmlplfoplpm%0a---%0a> (:cell:) http://www.ywesee.com/uploads/Main/2005-9.txt%0a
+host:1126518809=84.73.187.0
+author:1126197352=
+diff:1126197352:1126196528:=3c3%0a%3c (:cell:) '''#'''%0a---%0a> (:cell:) '''Position'''%0a
+host:1126197352=84.73.187.0
+author:1126196528=
+diff:1126196528:1126196249:=3,5c3,5%0a%3c (:cell:) '''Position'''%0a%3c (:cell:) '''Forderung'''%0a%3c (:cell:) '''Beweis'''%0a---%0a> (:cell:) Position%0a> (:cell:) Forderung%0a> (:cell:) Beweis%0a
+host:1126196528=84.73.187.0
+author:1126196249=
+diff:1126196249:1126196168:=21c21%0a%3c (:cell:) [[http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt | Link zum Dokument]]%0a---%0a> (:cell:) [[http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt | Link]]%0a23c23,28%0a%3c (:tableend:)%0a\ No newline at end of file%0a---%0a> (:tableend:)%0a> %0a> adfasd%0a> asdfa%0a> asdf%0a> adfadfasdasfd%0a\ No newline at end of file%0a
+host:1126196249=84.73.187.0
+author:1126196168=
+diff:1126196168:1126196082:=9c9%0a%3c (:cell:) http://www.ywesee.com/uploads/Main/2005-9.txt%0a---%0a> (:cell:) [[http://www.ywesee.com/uploads/Main/2005-9.txt | Link]]%0a
+host:1126196168=84.73.187.0
+author:1126196082=
+diff:1126196082:1126196050:=21c21%0a%3c (:cell:) [[http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt | Link]]%0a---%0a> (:cell:) http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt%0a
+host:1126196082=84.73.187.0
+author:1126196050=
+diff:1126196050:1126195998:=9c9%0a%3c (:cell:) [[http://www.ywesee.com/uploads/Main/2005-9.txt | Link]]%0a---%0a> (:cell:) http://www.ywesee.com/uploads/Main/2005-9.txt%0a
+host:1126196050=84.73.187.0
+author:1126195998=
+diff:1126195998:1126195891:=25,27d24%0a%3c adfasd%0a%3c asdfa%0a%3c asdf%0a
+host:1126195998=84.73.187.0
+author:1126195891=
+diff:1126195891:1126195881:=24,25d23%0a%3c %0a%3c adfadfasdasfd%0a\ No newline at end of file%0a
+host:1126195891=84.73.187.0
+author:1126195881=
+diff:1126195881:1126195858:=23c23%0a%3c (:tableend:)%0a---%0a> (:tableend:)%0a\ No newline at end of file%0a
+host:1126195881=84.73.187.0
+author:1126195858=
+diff:1126195858:1126195729:=15,23c15,28%0a%3c (:cellnr:) 3%0a%3c (:cell:) Bei allen Preisänderungen im SL-Bulletin auch den EAN-Code einfügen.%0a%3c (:cell:) http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt%0a%3c (:cell:) NEIN%0a%3c (:cellnr:) 4%0a%3c (:cell:) Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.%0a%3c (:cell:) http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt%0a%3c (:cell:) NEIN%0a%3c (:tableend:)%0a\ No newline at end of file%0a---%0a> (:cellnr:) a2%0a> (:cell:) b2%0a> (:cell:) c2%0a> (:cell:) d2%0a> (:cellnr:) a2%0a> (:cell:) b2%0a> (:cell:) c2%0a> (:cell:) d2%0a> (:tableend:)%0a> %0a> ||border=1 width=100%25%0a> ||!Position ||!Forderung||!Beweis||!erledigt JA/NEIN||%0a> ||3||Bei allen Preisänderungen im SL-Bulletin auch den EAN-Code einfügen.||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a> ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a\ No newline at end of file%0a
+host:1126195858=84.73.187.0
+author:1126195729=
+diff:1126195729:1126195607:=11,22d10%0a%3c (:cellnr:) 2%0a%3c (:cell:) Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene.%0a%3c (:cell:) http://www.galinfo.net/batchhtm/3178.htm%0a%3c (:cell:) NEIN%0a%3c (:cellnr:) a2%0a%3c (:cell:) b2%0a%3c (:cell:) c2%0a%3c (:cell:) d2%0a%3c (:cellnr:) a2%0a%3c (:cell:) b2%0a%3c (:cell:) c2%0a%3c (:cell:) d2%0a26a15,16%0a> ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a> ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene.||http://www.galinfo.net/batchhtm/3178.htm||NEIN||%0a
+host:1126195729=84.73.187.0
+author:1126195607=
+diff:1126195607:1126195506:=7,10c7,10%0a%3c (:cellnr:) 1%0a%3c (:cell:) Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.%0a%3c (:cell:) http://www.ywesee.com/uploads/Main/2005-9.txt%0a%3c (:cell:) NEIN%0a---%0a> (:cellnr:) a2%0a> (:cell:) b2%0a> (:cell:) c2%0a> (:cell:) d2%0a
+host:1126195607=84.73.187.0
+author:1126195506=
+diff:1126195506:1126195478:=3,6c3,6%0a%3c (:cell:) Position%0a%3c (:cell:) Forderung%0a%3c (:cell:) Beweis%0a%3c (:cell:) '''erledigt Ja/Nein'''%0a---%0a> (:cell:) !Position%0a> (:cell:) !Forderung%0a> (:cell:) !Beweis%0a> (:cell:) !erledigt Ja/Nein%0a
+host:1126195506=84.73.187.0
+author:1126195478=
+diff:1126195478:1126195461:=3,6c3,6%0a%3c (:cell:) !Position%0a%3c (:cell:) !Forderung%0a%3c (:cell:) !Beweis%0a%3c (:cell:) !erledigt Ja/Nein%0a---%0a> (:cell:) Position%0a> (:cell:) Forderung%0a> (:cell:) Beweis%0a> (:cell:) erledigt Ja/Nein%0a
+host:1126195478=84.73.187.0
+author:1126195461=
+diff:1126195461:1126195207:=2,12c2%0a%3c (:table border=1 cellpadding=5 cellspacing=0:)%0a%3c (:cell:) Position%0a%3c (:cell:) Forderung%0a%3c (:cell:) Beweis%0a%3c (:cell:) erledigt Ja/Nein%0a%3c (:cellnr:) a2%0a%3c (:cell:) b2%0a%3c (:cell:) c2%0a%3c (:cell:) d2%0a%3c (:tableend:)%0a%3c %0a---%0a> %0a
+host:1126195461=84.73.187.0
+author:1126195207=
+diff:1126195207:1126195190:=3c3%0a%3c ||border=1 width=100%25%0a---%0a> ||border=1 width=90%25%0a
+host:1126195207=84.73.187.0
+author:1126195190=
+diff:1126195190:1126195179:=5c5%0a%3c ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a---%0a> ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.|| http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a
+host:1126195190=84.73.187.0
+author:1126195179=
+diff:1126195179:1126195123:=3,5c3,5%0a%3c ||border=1 width=90%25%0a%3c ||!Position ||!Forderung||!Beweis||!erledigt JA/NEIN||%0a%3c ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.|| http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a---%0a> || border=1 width=90%25%0a> ||! Position ||! Forderung ||! Beweis ||! erledigt JA/NEIN ||%0a> || 1 || Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste. || http://www.ywesee.com/uploads/Main/2005-9.txt || NEIN ||%0a
+host:1126195179=84.73.187.0
+author:1126195123=
+diff:1126195123:1126195085:=5c5%0a%3c || 1 || Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste. || http://www.ywesee.com/uploads/Main/2005-9.txt || NEIN ||%0a---%0a> || 1 || Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt || NEIN ||%0a
+host:1126195123=84.73.187.0
+author:1126195085=
+diff:1126195085:1126194712:=2,3c2%0a%3c %0a%3c || border=1 width=90%25%0a---%0a> || border=1 width=100%25%0a
+host:1126195085=84.73.187.0
+author:1126194712=
+diff:1126194712:1126194645:=3,4c3,4%0a%3c ||! Position ||! Forderung ||! Beweis ||! erledigt JA/NEIN ||%0a%3c || 1 || Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt || NEIN ||%0a---%0a> ||!Position||!Forderung||!Beweis||!erledigt JA/NEIN||%0a> ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a
+host:1126194712=84.73.187.0
+author:1126194645=
+diff:1126194645:1126194627:=1a2,4%0a> %0a> ->%25ex%25 Table headers%0a> (:markup:) [=%0a7c10%0a%3c ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a\ No newline at end of file%0a---%0a> ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||=]%0a\ No newline at end of file%0a
+host:1126194645=84.73.187.0
+author:1126194627=
+diff:1126194627:1126194577:=2,3d1%0a%3c %0a%3c ->%25ex%25 Table headers%0a
+host:1126194627=84.73.187.0
+author:1126194577=
+diff:1126194577:1126194408:=2d1%0a%3c (:markup:) [=%0a8c7%0a%3c ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||=]%0a\ No newline at end of file%0a---%0a> ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a\ No newline at end of file%0a
+host:1126194577=84.73.187.0
+author:1126194408=
+diff:1126194408:1126194249:=2c2%0a%3c || border=1 width=100%25%0a---%0a> || border=1 width=642%0a
+host:1126194408=84.73.187.0
+author:1126194249=
+diff:1126194249:1126194171:=2c2%0a%3c || border=1 width=642%0a---%0a> || border=1%0a
+host:1126194249=84.73.187.0
+author:1126194171=
+diff:1126194171:1126193829:=2c2%0a%3c || border=1%0a---%0a> ||align=left border=1%0a
+host:1126194171=84.73.187.0
+author:1126193829=
+diff:1126193829:1126193789:=2c2,3%0a%3c ||align=left border=1%0a---%0a> %0a> ||align=left border=1 width=90%25%0a
+host:1126193829=84.73.187.0
+author:1126193789=
+diff:1126193789:1126193775:=2a3%0a> (:markup:) [=%0a8c9,10%0a%3c ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a\ No newline at end of file%0a---%0a> ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a> =]%0a\ No newline at end of file%0a
+host:1126193789=84.73.187.0
+author:1126193775=
+diff:1126193775:1126193698:=5c5%0a%3c ||!Position||!Forderung||!Beweis||!erledigt JA/NEIN||%0a---%0a> ||!Position||!Forderung||!Beweis||erledigt JA/NEIN||%0a
+host:1126193775=84.73.187.0
+author:1126193698=
+diff:1126193698:1126193630:=2d1%0a%3c %0a
+host:1126193698=84.73.187.0
+author:1126193630=
+diff:1126193630:1126193541:=2,9c2,8%0a%3c (:markup:) [=%0a%3c ||align=left border=1 width=90%25%0a%3c ||!Position||!Forderung||!Beweis||erledigt JA/NEIN||%0a%3c ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a%3c ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene.||http://www.galinfo.net/batchhtm/3178.htm||NEIN||%0a%3c ||3||Bei allen Preisänderungen im SL-Bulletin auch den EAN-Code einfügen.||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a%3c ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a%3c =]%0a\ No newline at end of file%0a---%0a> %0a>  ||align=left border=1 width=90%25%0a>  ||!Position||!Forderung||!Beweis||erledigt JA/NEIN||%0a>  ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a>  ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene.||http://www.galinfo.net/batchhtm/3178.htm||NEIN||%0a>  ||3||Bei allen Preisänderungen im SL-Bulletin auch den EAN-Code einfügen.||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a>  ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a\ No newline at end of file%0a
+host:1126193630=84.73.187.0
+author:1126193541=
+diff:1126193541:1126193460:=3,8c3,8%0a%3c  ||align=left border=1 width=90%25%0a%3c  ||!Position||!Forderung||!Beweis||erledigt JA/NEIN||%0a%3c  ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a%3c  ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene.||http://www.galinfo.net/batchhtm/3178.htm||NEIN||%0a%3c  ||3||Bei allen Preisänderungen im SL-Bulletin auch den EAN-Code einfügen.||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a%3c  ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a\ No newline at end of file%0a---%0a> ||align=left border=1 width=90%25%0a> ||!Position||!Forderung||!Beweis||erledigt JA/NEIN||%0a> ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a> ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene.||http://www.galinfo.net/batchhtm/3178.htm||NEIN||%0a> ||3||Bei allen Preisänderungen im SL-Bulletin auch den EAN-Code einfügen.||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a> ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a\ No newline at end of file%0a
+host:1126193541=84.73.187.0
+author:1126193460=
+diff:1126193460:1126193426:=2d1%0a%3c %0a
+host:1126193460=84.73.187.0
+author:1126193426=
+diff:1126193426:1126099890:=2c2%0a%3c ||align=left border=1 width=90%25%0a---%0a> ||align=left border=1%0a
+host:1126193426=84.73.187.0
+author:1126099890=
+diff:1126099890:1126097268:=6c6%0a%3c ||3||Bei allen Preisänderungen im SL-Bulletin auch den EAN-Code einfügen.||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a---%0a> ||3||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen.||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a
+host:1126099890=84.73.187.0
+author:1126097268=
+diff:1126097268:1126097227:=4,6c4,6%0a%3c ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a%3c ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene.||http://www.galinfo.net/batchhtm/3178.htm||NEIN||%0a%3c ||3||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen.||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a---%0a> ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a> ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene||http://www.galinfo.net/batchhtm/3178.htm||NEIN||%0a> ||3||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a
+host:1126097268=84.73.187.0
+author:1126097227=
+diff:1126097227:1126097159:=7c7%0a%3c ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||http://www.ywesee.com/uploads/Main/An_Kaempf_8.4.2005.txt||NEIN||%0a\ No newline at end of file%0a---%0a> ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||Noch nicht erhalten.||NEIN||%0a\ No newline at end of file%0a
+host:1126097227=84.73.187.0
+author:1126097159=
+diff:1126097159:1126097134:=7c7%0a%3c ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum Führen der Spezialitätenliste.||Noch nicht erhalten.||NEIN||%0a\ No newline at end of file%0a---%0a> ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum führen der Spezialitätenlisten||Noch nicht erhalten.||NEIN||%0a\ No newline at end of file%0a
+host:1126097159=84.73.187.0
+author:1126097134=
+diff:1126097134:1126096942:=3,7c3,6%0a%3c ||!Position||!Forderung||!Beweis||erledigt JA/NEIN||%0a%3c ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste||http://www.ywesee.com/uploads/Main/2005-9.txt||NEIN||%0a%3c ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene||http://www.galinfo.net/batchhtm/3178.htm||NEIN||%0a%3c ||3||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||NEIN||%0a%3c ||4||Beleg für das Auftragsvolumen des BSV an die E-mediat für die Software zum führen der Spezialitätenlisten||Noch nicht erhalten.||NEIN||%0a\ No newline at end of file%0a---%0a> ||!Position||!Forderung||!Beweis||%0a> ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste||http://www.ywesee.com/uploads/Main/2005-9.txt||%0a> ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene||http://www.galinfo.net/batchhtm/3178.htm||%0a> ||3||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||%0a\ No newline at end of file%0a
+host:1126097134=84.73.187.0
+author:1126096942=
+diff:1126096942:1126096879:=6c6%0a%3c ||3||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn http://www.galinfo.net/PR050901.txt||%0a\ No newline at end of file%0a---%0a> ||3||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn||%0a\ No newline at end of file%0a
+host:1126096942=84.73.187.0
+author:1126096879=
+diff:1126096879:1126096803:=2c2%0a%3c ||align=left border=1%0a---%0a> ||align=left border=1 width=50%25%0a
+host:1126096879=84.73.187.0
+author:1126096803=
+diff:1126096803:1126096758:=1c1%0a%3c ! Summarische Tabelle der Forderungen an die Schweizerische Spezialiätenliste%0a---%0a> ! Summarische Tabelle unserer Forderungen an die Schweizerische Spezialiätenliste%0a
+host:1126096803=84.73.187.0
+author:1126096758=
+diff:1126096758:1126096732:=2c2%0a%3c ||align=left border=1 width=50%25%0a---%0a> ||align=center border=1 width=50%25%0a4,6c4,6%0a%3c ||1||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste||http://www.ywesee.com/uploads/Main/2005-9.txt||%0a%3c ||2||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene||http://www.galinfo.net/batchhtm/3178.htm||%0a%3c ||3||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn||%0a\ No newline at end of file%0a---%0a> ||#||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste||http://www.ywesee.com/uploads/Main/2005-9.txt||%0a> ||#||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene||http://www.galinfo.net/batchhtm/3178.htm||%0a> ||#||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn||%0a\ No newline at end of file%0a
+host:1126096758=84.73.187.0
+author:1126096732=
+diff:1126096732:1126096732:=1,6d0%0a%3c ! Summarische Tabelle unserer Forderungen an die Schweizerische Spezialiätenliste%0a%3c ||align=center border=1 width=50%25%0a%3c ||!Position||!Forderung||!Beweis||%0a%3c ||#||Korrektur sämtlicher fehlerhaften EAN-Codes in der Spezialitätenliste||http://www.ywesee.com/uploads/Main/2005-9.txt||%0a%3c ||#||Entfernung vom Pharmavista.net Link oder hinzüfügen vom ODDB.org Link auf Produkteebene||http://www.galinfo.net/batchhtm/3178.htm||%0a%3c ||#||Bei den Preissenkungen im SL-Bulletin auch den EAN-Code einfügen||http://todo.oddb.org/ezmlm-cgi?mss:250:200509:fnediehpchnebfdiepdn||%0a\ No newline at end of file%0a
+host:1126096732=84.73.187.0

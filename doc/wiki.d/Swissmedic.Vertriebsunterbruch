@@ -1,0 +1,36 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1489739979
+host=212.51.146.241
+name=Swissmedic.Vertriebsunterbruch
+rev=8
+targets=
+text=!! Nicht-Inverkehrbringen und bei Vertriebsunterbruch %0agemäss Art. 16a HMG (Heilmittelgesetz, HMG, SR 812.21) und Art. 8a der Arzneimittelverordnung (VAM, SR 812.212.21).\\%0a''14. März 2017''%0a%0a%0aIn der von Ihnen genannte Liste publiziert Swissmedic, die von den Zulassungsinhaberinnen eingegangenen Meldungen bei Nicht-Inverkehrbringen und bei Vertriebsunterbruch gemäss Art. 16a HMG (Heilmittelgesetz, HMG, SR 812.21) und Art. 8a der Arzneimittelverordnung (VAM, SR 812.212.21). Damit soll sichergestellt werden, dass die Zulassung eines Arzneimittels, wenn dieses innerhalb von drei Jahren nach Erteilung der Zulassung nicht tatsächlich in Verkehr gebracht worden ist (Art. 16a Abs. 1 Bst. a HMG) oder sich nach Inverkehrbringen während drei aufeinander folgenden Jahren nicht mehr tatsächlich auf dem Markt befindet (Art. 16a Abs. 1 Bst. b HMG), widerrufen wird („Sunset Clause“).%0a%0aDie zu diesem Zweck notwendigen Kriterien (Datum der Meldung, Zulassungsnummer, Präparatebezeichnung, ZL-Inhaberin, Abgabekategorie, Nicht-Inverkehrbringen ab oder Vertriebsunterbruch ab) sind vollständig und werden so in der Tabelle aufgeführt.%0a%0a(N.B. Kürzerdauernde Vertriebsunterbrüche oder Nicht-Inverkehrbringen sind für diese Liste nicht meldepflichtig).%0aEine Ergänzung mit dem vollständigen EAN- oder GTIN-Code ist auch deshalb nicht möglich, weil deren Angabe rechtlich nicht zwingend sind und daher auch nicht in unseren Systemen geführt werden.%0a%0a[[https://www.swissmedic.ch/arzneimittel/00156/00221/00225/index.html?lang=de&download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1acy4Zn4Z2qZpnO2Yuq2Z6gpJCDdX57e2ym162epYbg2c_JjKbNoKSn6A-- | Link zur Liste]]
+time=1489740145
+author:1489740145=zeno
+diff:1489740145:1489740111:=12,13d11%0a%3c %0a%3c [[https://www.swissmedic.ch/arzneimittel/00156/00221/00225/index.html?lang=de&download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1acy4Zn4Z2qZpnO2Yuq2Z6gpJCDdX57e2ym162epYbg2c_JjKbNoKSn6A-- | Link zur Liste]]%0a\ No newline at end of file%0a
+host:1489740145=212.51.146.241
+author:1489740111=zeno
+diff:1489740111:1489740087:=2,3c2,3%0a%3c gemäss Art. 16a HMG (Heilmittelgesetz, HMG, SR 812.21) und Art. 8a der Arzneimittelverordnung (VAM, SR 812.212.21).\\%0a%3c ''14. März 2017''%0a---%0a> ''14. März 2017''\\%0a> gemäss Art. 16a HMG (Heilmittelgesetz, HMG, SR 812.21) und Art. 8a der Arzneimittelverordnung (VAM, SR 812.212.21).%0a
+host:1489740111=212.51.146.241
+author:1489740087=zeno
+diff:1489740087:1489740081:=2c2%0a%3c ''14. März 2017''\\%0a---%0a> ''14. März 2017''%0a
+host:1489740087=212.51.146.241
+author:1489740081=zeno
+diff:1489740081:1489740053:=2d1%0a%3c ''14. März 2017''%0a
+host:1489740081=212.51.146.241
+author:1489740053=zeno
+diff:1489740053:1489740030:=4c4%0a%3c %0a---%0a> [@%0a6d5%0a%3c %0a8d6%0a%3c %0a10a9%0a> @]%0a\ No newline at end of file%0a
+host:1489740053=212.51.146.241
+author:1489740030=zeno
+diff:1489740030:1489740007:=4d3%0a%3c [@%0a8,9c7%0a%3c Eine Ergänzung mit dem vollständigen EAN- oder GTIN-Code ist auch deshalb nicht möglich, weil deren Angabe rechtlich nicht zwingend sind und daher auch nicht in unseren Systemen geführt werden.%0a%3c @]%0a\ No newline at end of file%0a---%0a> Eine Ergänzung mit dem vollständigen EAN- oder GTIN-Code ist auch deshalb nicht möglich, weil deren Angabe rechtlich nicht zwingend sind und daher auch nicht in unseren Systemen geführt werden.%0a\ No newline at end of file%0a
+host:1489740030=212.51.146.241
+author:1489740007=zeno
+diff:1489740007:1489739979:=1,7c1%0a%3c !! Nicht-Inverkehrbringen und bei Vertriebsunterbruch %0a%3c gemäss Art. 16a HMG (Heilmittelgesetz, HMG, SR 812.21) und Art. 8a der Arzneimittelverordnung (VAM, SR 812.212.21).%0a%3c %0a%3c In der von Ihnen genannte Liste publiziert Swissmedic, die von den Zulassungsinhaberinnen eingegangenen Meldungen bei Nicht-Inverkehrbringen und bei Vertriebsunterbruch gemäss Art. 16a HMG (Heilmittelgesetz, HMG, SR 812.21) und Art. 8a der Arzneimittelverordnung (VAM, SR 812.212.21). Damit soll sichergestellt werden, dass die Zulassung eines Arzneimittels, wenn dieses innerhalb von drei Jahren nach Erteilung der Zulassung nicht tatsächlich in Verkehr gebracht worden ist (Art. 16a Abs. 1 Bst. a HMG) oder sich nach Inverkehrbringen während drei aufeinander folgenden Jahren nicht mehr tatsächlich auf dem Markt befindet (Art. 16a Abs. 1 Bst. b HMG), widerrufen wird („Sunset Clause“).%0a%3c Die zu diesem Zweck notwendigen Kriterien (Datum der Meldung, Zulassungsnummer, Präparatebezeichnung, ZL-Inhaberin, Abgabekategorie, Nicht-Inverkehrbringen ab oder Vertriebsunterbruch ab) sind vollständig und werden so in der Tabelle aufgeführt.%0a%3c (N.B. Kürzerdauernde Vertriebsunterbrüche oder Nicht-Inverkehrbringen sind für diese Liste nicht meldepflichtig).%0a%3c Eine Ergänzung mit dem vollständigen EAN- oder GTIN-Code ist auch deshalb nicht möglich, weil deren Angabe rechtlich nicht zwingend sind und daher auch nicht in unseren Systemen geführt werden.%0a\ No newline at end of file%0a---%0a> !! Nicht-Inverkehrbringen und bei Vertriebsunterbruch gemäss Art. 16a HMG (Heilmittelgesetz, HMG, SR 812.21) und Art. 8a der Arzneimittelverordnung (VAM, SR 812.212.21).%0a\ No newline at end of file%0a
+host:1489740007=212.51.146.241
+author:1489739979=zeno
+diff:1489739979:1489739979:=1d0%0a%3c !! Nicht-Inverkehrbringen und bei Vertriebsunterbruch gemäss Art. 16a HMG (Heilmittelgesetz, HMG, SR 812.21) und Art. 8a der Arzneimittelverordnung (VAM, SR 812.212.21).%0a\ No newline at end of file%0a
+host:1489739979=212.51.146.241

@@ -1,0 +1,90 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 6649 invoked from network); 12 Feb 2007 16:28:38 +0100
+X-Spam-Status: No, hits-3.4 required5.0
+	testsALL_TRUSTED,AWL,BAYES_00,SUBJECT_ENCODED_TWICE
+X-Spam-Check-By: mail.ywesee.com
+Received: from [84.72.157.212] (HELO zrr.local) (84.72.157.212)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Mon, 12 Feb 2007 16:28:37 +0100
+Received: by zrr.local (Postfix, from userid 1000)
+	id 67C3676832; Mon, 12 Feb 2007 16:16:01 +0100 (CET)
+Date: Mon, 12 Feb 2007 16:16:01 +0100
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Balsiger Andreas Swissmedic <Andreas.Balsiger@swissmedic.ch>,
+	todo@oddb.org
+Subject: Re: Schreiben der Documed ?iso-8859-1?Q?A?
+	?iso-8859-1?Q?G_-_Änderung? der Fi ohne Zustimmung der Swissmedic
+Message-ID: <20070212151601.GB26222@zrr-gentoo.local>
+References: <3EE656B353A06742992FFDöED9553D5060A7AA0@smex01s.iks.admin.ch>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+In-Reply-To: <3EE656B353A06742992FFDöED9553D5060A7AA0@smex01s.iks.admin.ch>
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.11
+
+Sehr geehrter Herr Balsiger
+
+Besten Dank für Ihre Stellungnahme.
+
+Mit freundlichen Grüssen
+Zeno Davatz
+
+* Balsiger Andreas Swissmedic <Andreas.Balsiger@swissmedic.ch> [2007-02-12 
+16:06:05 +0100]:
+
+> Sehr geehrter Herr Davatz
+
+> Wie eben am Telefon besprochen, bedaure ich die von Ihnen erwähnte
+> Kompetenzüberschreitung der Documed AG, vermag im Ersatz eines Kommas durch
+> ein Semikolon in einem FI-Text aber keine materielle Änderung der amtlich
+> genehmigten FI zu sehen, weshalb - im vorliegenden Fall - sicher nicht von
+> einer Gefährdung der Arzneimittelsicherheit ausgegangen werden kann und sich
+> ein Einschreiten von Swissmedic nicht rechtfertigt.
+
+> Mit freundlichen Grüssen
+> Swissmedic, Schweizerisches Heilmittelinstitut
+> Leiter Bereich Recht
+> Andreas Balsiger Betts
+
+> Hallerstrasse 7, Postfach, 3000 Bern 9
+> Tel. +41 31 322 02 03
+> Fax +41 31 322 04 67
+> E-Mail: andreas.balsiger@swissmedic.ch
+> www.swissmedic.ch
+
+> -----Ursprüngliche Nachricht-----
+> Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com]
+> Gesendet: Montag, 12. Februar 2007 15:32
+> An: andreas.balsiger@swissmedic.ch
+> Betreff: Schreiben der Documed AG - Änderung der Fi ohne Zustimmung der
+> Swissmedic
+
+
+> Sehr geehrter Herr Balsiger
+
+> http://www.ywesee.com/uploads/Main/Schreiben_von_Documed_8.2.2007.pdf
+
+> 1. ywesee war und ist nach wie vor nur an der gemäss AMZV Art. 13 und 14
+> amtlich geforderten und durch die Swissmedic geprüften Fachinformation
+> interessiert.
+
+> 2. Seite 5 Punkt 9 und 10: Die Documed AG hat ohne die Erlaubnis der
+> Swissmedic die offiziell geprüfte Fachinformation von Caduet verändert
+> und auf dem Internet publiziert. Dieses Verhalten zeigt einmal mehr die
+> Monopolstellung der Documed AG. Amtlich geforderte Daten ohne die
+> Zustimmung der Swissmedic zu verändern ist (u.a. aus
+> Arzneimittelsicherheitsgründen) sehr gefährlich und unserer Meinung nach
+> nicht erlaubt. Aber ein Monopolist kann sich offenbar alles erlauben.
+
+> 3. Die Documed AG benimmt sich nach wie vor wie wenn Sie Urheber der
+> amtlich geforderten Fachinformation wären. Gemäss dem Gutachten des
+> Instituts für geistiges Eigentum, welches im Aufrag der WEKO gemacht
+> wurde, ist die Documed aber nicht Urheber der Fachinformation.20
+
+> Mit freundlichen Grüssen
+> Zeno Davatz
+

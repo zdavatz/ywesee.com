@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.62 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1584348705
+host=212.51.146.241
+name=CoronaVirus.Links
+rev=1
+targets=
+text=! Useful Links about the Corona Virus%0a!! Flatten the curve%0a* https://www.linkedin.com/posts/raymondrumpf_staythefuckhome-flattenthecurve-covid19-activity-6645196645879332864-36Se%0a* https://www.washingtonpost.com/graphics/2020/world/corona-simulator/%0a%0a!! Switzerland %0a* http://corona-ch.surge.sh/
+time=1584348705
+author:1584348705=zeno
+diff:1584348705:1584348705:=1,7d0%0a%3c ! Useful Links about the Corona Virus%0a%3c !! Flatten the curve%0a%3c * https://www.linkedin.com/posts/raymondrumpf_staythefuckhome-flattenthecurve-covid19-activity-6645196645879332864-36Se%0a%3c * https://www.washingtonpost.com/graphics/2020/world/corona-simulator/%0a%3c %0a%3c !! Switzerland %0a%3c * http://corona-ch.surge.sh/%0a\ No newline at end of file%0a
+host:1584348705=212.51.146.241

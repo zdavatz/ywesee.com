@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.14 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1394804885
+host=46.140.30.26
+name=AIPS.Index
+rev=2
+targets=AIPS.Wikipedia,AIPS.Bestaetigung
+text=* [[Wikipedia]]%0a* [[Bestaetigung]]
+time=1394804941
+author:1394804941=zeno
+diff:1394804941:1394804885:=2c2%0a%3c * [[Bestaetigung]]%0a\ No newline at end of file%0a---%0a> * [[%0a\ No newline at end of file%0a
+host:1394804941=46.140.30.26
+author:1394804885=zeno
+diff:1394804885:1394804885:=1,2d0%0a%3c * [[Wikipedia]]%0a%3c * [[%0a\ No newline at end of file%0a
+host:1394804885=46.140.30.26

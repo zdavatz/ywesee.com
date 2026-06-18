@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.16 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1422368128
+host=46.140.30.26
+name=Main.Gtin2atc
+rev=2
+targets=
+text=!gtin2atc%0a!!Pharmacode oder GTIN Code auf ATC-Code schlüsseln.%0a* gem install gtin2atc%0a[@%0a/home/zeno/.rvm/gems/ruby-1.9.3-p551/bin/gtin2atc ver.0.1.3%0aUsage:%0a  gtin2atc [--compare] [--log] [file_with_gtin or gtin or pharmacode] [gtin..]%0a    If file_with_gtin is given only the GTIN (or pharamacode) (one per line) is outputted.%0a    If no file or gtin is given, alle GTIN will be processed.%0a    --log               log important actions%0a%0a    --compare           download an compare GTIN/ATC_code from BAG, SwissIndex and RefData%0a                        For each GTIN we will output a message if it can be only found in the%0a                        * BAG http://bag.e-mediat.net/SL2007.Web.External/File.axd?file=XMLPublications.zip%0a                        * SwissIndex e-mediat: http://swissindex.e-mediat.net/SwissindexPharma_out_V101%0a                        * or if the ATC_Code does not not match%0a    -- full             if --compare and --full given produce 15 detailed report files%0a    -h,   --help         Show this help message.%0a@]
+time=1422368158
+author:1422368158=zeno
+diff:1422368158:1422368128:=3,19c3%0a%3c * gem install gtin2atc%0a%3c [@%0a%3c /home/zeno/.rvm/gems/ruby-1.9.3-p551/bin/gtin2atc ver.0.1.3%0a%3c Usage:%0a%3c   gtin2atc [--compare] [--log] [file_with_gtin or gtin or pharmacode] [gtin..]%0a%3c     If file_with_gtin is given only the GTIN (or pharamacode) (one per line) is outputted.%0a%3c     If no file or gtin is given, alle GTIN will be processed.%0a%3c     --log               log important actions%0a%3c %0a%3c     --compare           download an compare GTIN/ATC_code from BAG, SwissIndex and RefData%0a%3c                         For each GTIN we will output a message if it can be only found in the%0a%3c                         * BAG http://bag.e-mediat.net/SL2007.Web.External/File.axd?file=XMLPublications.zip%0a%3c                         * SwissIndex e-mediat: http://swissindex.e-mediat.net/SwissindexPharma_out_V101%0a%3c                         * or if the ATC_Code does not not match%0a%3c     -- full             if --compare and --full given produce 15 detailed report files%0a%3c     -h,   --help         Show this help message.%0a%3c @]%0a\ No newline at end of file%0a---%0a> * gem install gtin2atc%0a\ No newline at end of file%0a
+host:1422368158=46.140.30.26
+author:1422368128=zeno
+diff:1422368128:1422368128:=1,3d0%0a%3c !gtin2atc%0a%3c !!Pharmacode oder GTIN Code auf ATC-Code schlüsseln.%0a%3c * gem install gtin2atc%0a\ No newline at end of file%0a
+host:1422368128=46.140.30.26

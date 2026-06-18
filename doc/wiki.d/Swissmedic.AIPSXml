@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1367846400
+host=80.219.10.249
+name=Swissmedic.AIPSXml
+rev=4
+targets=
+text=!! Das AIPS XML der Swissmedic%0aohne HTML-Tags und sonstigen unnützen Formatierungen:%0a%0a* http://pillbox.oddb.org/fi_de.zip%0a* http://pillbox.oddb.org/fi_fr.zip%0a%0aDatenstand: 6.5.2013, AIPS Swissmedic.%0a%0aBei Fragen stehen wir gerne zur Verfügung.%0a%0aZeno Davatz: 043 540 05 50
+time=1367846452
+author:1367846452=zeno
+diff:1367846452:1367846443:=3d2%0a%3c %0a6d4%0a%3c %0a
+host:1367846452=80.219.10.249
+author:1367846443=zeno
+diff:1367846443:1367846432:=4a5%0a> %0a
+host:1367846443=80.219.10.249
+author:1367846432=zeno
+diff:1367846432:1367846400:=1,2c1%0a%3c !! Das AIPS XML der Swissmedic%0a%3c ohne HTML-Tags und sonstigen unnützen Formatierungen:%0a---%0a> !! Das AIPS XML der Swissmedic ohne HTML-Tags finden Sie hier:%0a
+host:1367846432=80.219.10.249
+author:1367846400=zeno
+diff:1367846400:1367846400:=1,9d0%0a%3c !! Das AIPS XML der Swissmedic ohne HTML-Tags finden Sie hier:%0a%3c * http://pillbox.oddb.org/fi_de.zip%0a%3c * http://pillbox.oddb.org/fi_fr.zip%0a%3c %0a%3c Datenstand: 6.5.2013, AIPS Swissmedic.%0a%3c %0a%3c Bei Fragen stehen wir gerne zur Verfügung.%0a%3c %0a%3c Zeno Davatz: 043 540 05 50%0a\ No newline at end of file%0a
+host:1367846400=80.219.10.249

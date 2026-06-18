@@ -1,0 +1,24 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090717 Minefield/3.6a1pre
+author=
+host=80.219.159.188
+name=Ywesee.Earnings
+rev=5
+targets=
+text=!Reinvesting and Retaining Earnings vs Dividends%0aEvery company has to decide what it does with its earnings. There are actually three options of what can be done:%0a %0a# You can pile up the cash%0a# You can reinvest the money into the company%0a# You can pay dividends to the shareholders%0a%0aWhen should you pile up cash? Every company needs cash to pay for daily expenditure. But to much cash can be a sign that you are running out of ideas (or simply do not have any new ones). Just piling up cash in your bank account where the money just sits and does not gain a lot of new value only makes sense to a certain extent.%0a%0aWhen should you reinvest the money into the company? Basically the money should be reinvested into the company when every dollar reinvested into the company results in one dollar and twenty cents. If every dollar reinvested into the company results just in twenty cents then you should pay it out to the owners of the company as dividends.%0a%0aAbove attitude is explained very well in the 1984 Letter to the Shareholders of Warren Buffett in the Chapter [[http://www.berkshirehathaway.com/letters/1984.html | Dividend Policy]].
+time=1248075032
+author:1248075032=
+diff:1248075032:1248074518:=12c12%0a%3c Above attitude is explained very well in the 1984 Letter to the Shareholders of Warren Buffett in the Chapter [[http://www.berkshirehathaway.com/letters/1984.html | Dividend Policy]].%0a\ No newline at end of file%0a---%0a> Above attitude is explained very well in the 1984 Letter to the Shareholders of Warren Buffett in the Chapter [[http://www.berkshirehathaway.com/letters/1984.html | Dividend Policy]]%0a\ No newline at end of file%0a
+host:1248075032=80.219.159.188
+author:1248074518=
+diff:1248074518:1248074503:=4,7c4,7%0a%3c # You can pile up the cash%0a%3c # You can reinvest the money into the company%0a%3c # You can pay dividends to the shareholders%0a%3c %0a---%0a> 1. You can pile up the cash%0a> 2. You can reinvest the money into the company%0a> 3. You can pay dividends to the shareholders%0a> %0a
+host:1248074518=80.219.159.188
+author:1248074503=
+diff:1248074503:1248074493:=12c12%0a%3c Above attitude is explained very well in the 1984 Letter to the Shareholders of Warren Buffett in the Chapter [[http://www.berkshirehathaway.com/letters/1984.html | Dividend Policy]]%0a\ No newline at end of file%0a---%0a> Above attitude is explained very well in the 1984 Letter to the Shareholders of Warren Buffett in the Chapter [["http://www.berkshirehathaway.com/letters/1984.html | Dividend Policy"]]%0a\ No newline at end of file%0a
+host:1248074503=80.219.159.188
+author:1248074493=
+diff:1248074493:1248074477:=12c12%0a%3c Above attitude is explained very well in the 1984 Letter to the Shareholders of Warren Buffett in the Chapter [["http://www.berkshirehathaway.com/letters/1984.html | Dividend Policy"]]%0a\ No newline at end of file%0a---%0a> Above attitude is explained very well in the 1984 Letter to the Shareholders of Warren Buffett in the Chapter ["http://www.berkshirehathaway.com/letters/1984.html Dividend Policy"]%0a\ No newline at end of file%0a
+host:1248074493=80.219.159.188
+author:1248074477=
+diff:1248074477:1248074477:=1,12d0%0a%3c !Reinvesting and Retaining Earnings vs Dividends%0a%3c Every company has to decide what it does with its earnings. There are actually three options of what can be done:%0a%3c  %0a%3c 1. You can pile up the cash%0a%3c 2. You can reinvest the money into the company%0a%3c 3. You can pay dividends to the shareholders%0a%3c %0a%3c When should you pile up cash? Every company needs cash to pay for daily expenditure. But to much cash can be a sign that you are running out of ideas (or simply do not have any new ones). Just piling up cash in your bank account where the money just sits and does not gain a lot of new value only makes sense to a certain extent.%0a%3c %0a%3c When should you reinvest the money into the company? Basically the money should be reinvested into the company when every dollar reinvested into the company results in one dollar and twenty cents. If every dollar reinvested into the company results just in twenty cents then you should pay it out to the owners of the company as dividends.%0a%3c %0a%3c Above attitude is explained very well in the 1984 Letter to the Shareholders of Warren Buffett in the Chapter ["http://www.berkshirehathaway.com/letters/1984.html Dividend Policy"]%0a\ No newline at end of file%0a
+host:1248074477=80.219.159.188

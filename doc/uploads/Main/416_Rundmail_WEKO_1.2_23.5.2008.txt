@@ -1,0 +1,241 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 6659 invoked from network); 23 May 2008 07:49:54 -0000
+X-Spam-Status: No, hits-3.5 required5.0
+	testsALL_TRUSTED,AWL,BAYES_00,FUZZY_CREDIT
+X-Spam-Check-By: mail.ywesee.com
+Received: from [77.57.16.157] (HELO zenogentoo.localdomain) (77.57.16.157)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Fri, 23 May 2008 09:49:54 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by zenogentoo.localdomain (Postfix) with ESMTP id 29E31971DD
+	for <todo@oddb.org>; Fri, 23 May 2008 09:49:52 +0200 (CEST)
+Date: Fri, 23 May 2008 09:49:52 +0200 (CEST)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: "todo at ODDB.org" <todo@oddb.org>
+Subject: Stellungnahme zum Antrag der WEKO in Sachen "Publikation von
+ Arzneimittelinformationen". Version 1.2
+Message-ID: <alpine.LNX.1.10.0805230949100.6676@localhost>
+User-Agent: Alpine 1.10 (LNX 962 2008-03-14)
+Organisation: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/Mixed; BOUNDARY"8323328-1976951546-1211449642:19899"
+Content-ID: <alpine.LNX.1.10.0805221311131.19899@localhost>
+X-Virus-Checked: Checked by ClamAV on mail.ywesee.com
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-1976951546-1211449642:19899
+Content-Type: TEXT/PLAIN; FORMATflowed; CHARSETISO-8859-1
+Content-Transfer-Encoding: 8BIT
+Content-ID: <alpine.LNX.1.10.0805221311132.19899@localhost>
+
+Dies ist der Entwurf welcher bis am 18. Juni 2008 fertiggestellt sein 
+muss, Version 1.2 
+******************************************************************************* 
+*******************************************************************************
+
+Sehr geehrter Herr Präsident
+Sehr geehrter Herr Vizepräsident
+
+Sehr geehrte Kommissions-Mitglieder
+
+Wir sind mit dem Antrag des Sekretariats der Wettbewerbskommission vom 
+21.5.2008 zur vorgeschlagenen einvernehmlichen Lösung mit der Documed AG 
+_nicht_ einverstanden.
+
+Wir wünschen eine ordentlich zu Ende geführte Untersuchung ohne Abkürzung 
+für die Documed AG.
+
+Wir schätzen den Umsatz der Documed AG auf CHF 10-12 Mio. Der Aufwand für 
+den Druck und die obligate Verteilung des Buches schätzen wir auf CHF 1-2 
+Mio. Wir schätzen die Monopolrente der Documed AG auf CHF 7 Mio. Diese 
+Monopolrente kommt einer _doppelten_ Verschwendung gleich.
+
+ 	1. Die Monopolrente wird _nur_ in den Status Quo investiert, d.h.
+ 	in ein Buch das nicht mehr zeitgemäss ist. Das Buch dient einzig
+ 	und alleine der Erhaltung des Status Quo der Documed AG im
+ 	Schweizerischen Medikamenten-Markt.
+
+ 	2. Die vergleichbare Investition in die ywesee GmbH würde eine
+ 	1000 Fach grössere Innovation bedeuten.
+
+ 	3. Zum brechen mit dem Status Quo muss a) die
+ 	Buchpublikationspflicht abgeschafft werden und b) für alle
+ 	Wettbewerber eine _gleich_ faire Ausgangslage geschaffen werden.
+
+Die vorgeschlagene, einvernehmliche Lösung der WEKO mit der Documed AG 
+zementiert die deutlich ungleichen Ausgangsbedingungen der Documed AG und 
+der ywesee GmbH. Der Umsatz der ywesee GmbH mit den 
+Publikationsdienstleitungen für die Patienteninformation liegt unter CHF 
+100'000.-
+
+Der Umsatz der Documed AG mag klein erscheinen, ist er aber nicht wenn man 
+die doppelte Wertvernichtung der Documed AG genauer betrachten tut: Mit 
+der einvernehmlichen Lösung zementiert die Documed AG Ihren Status Quo und 
+verhindert zusätzlich Innovation im Bereich der elektronischen Innovation. 
+Solange die Documed AG keine gleichberechtigte Konkurrenz erhalten tut, 
+muss sie sich nicht um Innovation bemühen sondern kann sich mit 
+verhältnismässig einfachen Mitteln aus der Affäre stehlen.
+
+Eine Ungleichbehandlung von zwei Wettbewerbsteilnehmern führt _immer_ zu 
+einer Marktverzerrung und viel weniger Innovation.
+
+Auf materieller Ebene sind wir einer Meinung mit dem Leiter des 
+Rechtsdienstes der Swissmedic. Auch er sieht das Buch als veraltet, ist 
+aber bei seinen persönlichen Bemühungen zur Auflösung der 
+Buchpublikationspflicht auf erheblichen politischen Widerstand gestossen.
+
+Die Zementierung von nicht zeitgemässen Lösungen richtet unserer Meinung 
+nach erheblichen wirtschaftlichen Schaden an weil dabei gleichzeitig auch 
+jegliche Innovation in neue Lösungen verhindert wird.
+
+Aus obigen Gründen sehen wir es als die Pflicht der schweizerischen 
+Wettbewerbskommission diese Untersuchung auf ordentlichem Wege zu Ende zu 
+führen. Gleichzeitig sind wir der Meinung dass die WEKO zu Handen des 
+Bundesrates eine klar und deutliche Empfehlung zur Aufhebung der 
+Buchpublikationspflicht abgeben soll.
+
+Bemerkungen:
+************
+
+1. In der Interpellation vom 6.10.2005 verweist auch Trix Heberlein drauf, 
+dass die hohen Kosten für eine Publikation der Fachinformation im Buch 
+zwischen 5 und 30% der Zulassungsinhaber von einer Publikation im Buch 
+abhalten tut. Die spricht konkret gegen das Ziel der Swissmedic für mehr 
+Arzneimittelsicherheit zu sorgen. Würde die Publikationspflicht im Buch 
+abgeschafft werden, so würden mit grosser Wahrscheinlichkeit mehr 
+Zulassungsinhaber Ihre FI zugänglich machen.
+
+Siehe: http://www.parlament.ch/cv-geschaefte?gesch_id20053601
+
+2. Weshalb hat die Documed mit aufwendigen Methoden versucht eine 
+Ausschreibung der Swissmedic für das Arzneimittelkompendium zu verhindern?
+
+Siehe: 
+http://www.ywesee.com/uploads/Main/Zulaessigkeit-der-Taetigkeit-von-Swissmedic-im-Bereich-des-Schweizerischen-Arzneimittelkompendiums.pdf
+
+Weshalb hat sich der Delegierte des Verwaltungsrates der Galenica, Herr 
+Etienne Jornod, direkt an die Swissmedic gewendet um die ywesee GmbH zu 
+diskreditieren?
+
+Siehe: Akte Nummer 90
+
+In obiger Akte argumentiert der Präsident und Delegierte der Galenica, 
+Etienne Jornod mit den Worten "gesundheitspolizeichlich" und "Fach- und 
+Patienteninformation". Herr Jornod verwendet die richtigen Worte, setzt 
+sich aber mit dem überteuerten Monopol-Buch eher für das Gegenteil ein 
+(siehe auch die Interpellation von Trix Heberlein). Seine Argumentation 
+macht demzufolge keinen Sinn und beweist den reinen Willen nur zum Erhalt 
+des Status Quo.
+
+3. Es besteht unserer Meinung nach kein Zweifel daran, dass die Documed AG 
+und auch die Galenica kein Interesse an einer Veränderung des Status Quo 
+haben. Zusätzlich haben sie kein Interesse an Innovation im Bereiche der 
+Arzneimittelsicherheit.
+
+4. Punkt 82. Das stimmt so nicht. Wenn Sie die Software von ODDB.org mit 
+der Software von Documed.ch vergleichen, dann stellen Sie einen deutlichen 
+Unterschied in der Qualität und in den Funktionen fest. Zur Zeit wird 
+einfach alles Geld in das Buch und dessen Aufrechterhaltung investiert. 
+Mit diesem Geld könnten in der Online-Welt jedoch viel grössere Welten 
+bewegt werden. Dieser Wettbewerb bleibt zur Zeit aus. Der Wettbewerb muss 
+auf die elektronische Ebene verschoben werden, weg vom Buch.
+
+Die WEKO nimmt nur das Buch unter die Lupe. Den zukünftigen Online Markt 
+schaut sie sich nicht genauer an. Mit der einvernehmlichen Lösung sichert 
+sich die Documed AG eine viel bessere Startposition für die Zukunft des 
+Online-Marktes. Das Monopol der Documed AG wird weiterhin künstlich am 
+Leben erhalten.
+
+5. Punkt 93. Seit dem SMJ vom März 2008 werden die Publikationsplattformen 
+nicht mehr namentlich erwähnt.
+
+Siehe: http://www.swissmedic.ch/files/pdf/03_2008.pdf
+
+6. Punkt 128. Können wir die Preise für die 6. Produktegruppe und dessen 7 
+Untergruppen einsehen?
+
+7. Punkt 130. Die Documed kann jederzeit nach Abschluss dieses Verfahrens 
+wieder mit Ihren willkürlichen Preisenmodellen beginnen. Diesem _wilden_ 
+Preistreiben kann nur ein Ende gesetzt werden, wenn die 
+Buchpublikationspflicht abgeschafft wird.
+
+8. Punkt 162-163. Die Documed verschiebt Ihre Aufwände nach "Lust und 
+Laune". 3 von 4 Schritten müssen wir auch tun, auch wenn wir den Text 
+elektronisch von der Website der Documed übernehmen. Wir müssen den Text 
+auch mit dem Wirkstoff-Register und der Registration verknüpfen. Wir 
+müssen den Text auch auf seine Vollständigkeit überprüfen. Tabellen und 
+komplexe Diagramme können nicht einfach ohne weiteres übernommen werden.
+
+Die Documed AG legt die Kosten für die Online-Publikation _absichtlich_ 
+tief aus um Ihr Buch besser rechtfertigen zu können. Wie will die WEKO 
+einen vernünftigen Vergleich der Online-Publikationskosten machen wenn die 
+Documed AG keinen Konkurrenten hat? Richtiger Wettbewerb entsteht erst 
+nach einem Jahr wenn alle Parteien die gleiche Startposition haben. Diese 
+gleiche Startposition muss zuerst geschaffen werden.
+
+Ergo: Es findet eine sehr intensive und komplexe Koppelung der 
+Dienstleistungen und Preise bei der Docuemd AG statt. Ohne diese Koppelung 
+könnte die Documed AG gar nicht überleben. Die ywesee GmbH ist mit dem 
+Fazit der WEKO bezüglich der Koppelung von Dienstleistungen der Documed AG 
+nicht einverstanden.
+
+9. Punkt 164. Die Buchpublikationspflicht muss fallen damit ein fairer 
+Wettbewerb für alle beteiligten Parteien entstehen kann.
+
+10. Punkt 166. Es scheint mehr und mehr, dass die Standardprozesskosten 
+der Documed AG auf einem aufgeblasenen Apparat hindeuten. Die Documed AG 
+rechtfertigt Ihr Bestehen und Ihre Kosten mit dem Buch.
+
+11. Punkt 186. Dies ist sehr gut bemerkt von der WEKO. Die Documed hat 
+sich wegen Ihrer jahrzentelangen Monopolstellung schon daran gewöhnt sich 
+nicht um den Markt kümmern zu müssen. Der Markt hat sich immer um die 
+Documed gekümmert. Diese verkehrte Welt dauert immer noch an.
+
+12. Punkt 194.
+
+ 	a) Die Documed verhindert mit Ihrem Monopol die Enstehung von
+ 	einem neuen dynamischeren Markt. Die Documed verhindert mit Ihrem
+ 	Monopol die Innovation im potentiell neuen Markt. Der Umsatz der
+ 	Documed ist gross genug um gewisse Pharmafirmen davon
+ 	abzuschrecken Ihre Fachinfo überhaupt erst zu publizieren. Somit
+ 	verhindert die Documed auch eine verbesserte
+ 	Arzneimittelsicherheit.
+
+ 	b) Kosten sind Kosten und tragen zur allgemeinen Verteuerung des
+ 	CH-Gesundheitswesens bei. Es gibt keine Begründung für den
+ 	verschwenderischen Umgang mit Ressourcen. Gerade die Pharmafirmen
+ 	verstehen das am besten. Verschwendung bleibt Verschwendung ob im
+ 	grossen oder im kleinen Stil.
+
+ 	c) Der Gewinn wurde mit aufgeblasenen Kosten "künstlich"
+ 	verkleinert.
+
+Schlussbemerkung:
+*****************
+
+Es gilt unserer Meinung nach klar festzuhalten, dass es keinen Sinn macht, 
+wenn die Swissmedic die Publikation der Fach- und Patienteninformation an 
+sich reissen tut (auch wenn sie dies nur elektronisch tut). Dies würde nur 
+zu einer Gebührenerhöhung der Swissmedic gegenüber den Pharmafirmen 
+führen. In einem solchen Fall bliebe der Innovationswettbewerb genauso aus 
+wie wenn die Buchpublikationspflicht für alle Ewigkeit aufrechterhalten 
+werden würde.
+
+Die Swissmedic soll sich auf Ihre polizeilichen Überprüfungen 
+konzentrieren d.h. die Überwachung der Rahmenbedingungen. Der Wettbewerb 
+soll den Wettbewerbern überlassen werden, in diesem Fall Documed AG, 
+ywesee GmbH und jedem weiteren Teilnehmer.
+
+Über die Vollständigkeit von zwei oder mehr Sammlungen braucht man sich 
+keine Gedanken zu machen. Dies ist genau der Vorteil von Software; Die 
+Sammlungen können synchronisiert werden.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50
+--8323328-1976951546-1211449642:19899--

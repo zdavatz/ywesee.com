@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20100101 Firefox/12.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1337955101
+host=80.219.10.249
+name=ODDB.OddbDat
+rev=2
+targets=ODDB.Index
+text=%25trail%25%3c%3c|[[Index]]|>>%0a!!Anleitung IGM-11 Aeskulap Import%0a* http://goo.gl/U22pg
+time=1337955118
+author:1337955118=zeno
+diff:1337955118:1337955101:=1d0%0a%3c %25trail%25%3c%3c|[[Index]]|>>%0a
+host:1337955118=80.219.10.249
+author:1337955101=zeno
+diff:1337955101:1337955101:=1,2d0%0a%3c !!Anleitung IGM-11 Aeskulap Import%0a%3c * http://goo.gl/U22pg%0a\ No newline at end of file%0a
+host:1337955101=80.219.10.249

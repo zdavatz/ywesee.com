@@ -1,0 +1,124 @@
+Available Commands:              
+ag <path> <grp> <time>Adds an arbitrary measure of time to the 
+                      task at <path>, marked as assistance to <grp>.
+                      Synonyms: assisted, assisted_group 
+at <path> <time>      Adds an arbitrary measure of time to the 
+                      task at <path>.
+                      Synonyms: add_time, add_measured_time
+as [<path>]           Advances the task at <path> to the next status.
+                      Synonyms: advance, advance_status
+bt                    Displays a backtrace of the last error (debug).
+                      Synonyms: backtrace
+br <path> <id>        Displays the bugreport for the task at <path> 
+                      with the bug-id <id>.
+                      Synonym:  bugreport
+brs [<path>]          Displays all bugreports for the task at <path>.
+                      Synonyms: bugs, bugreports
+cancel                Cancels the current Time-Measure.
+cb [<path>]           Logs a bugreport for the task at <path> and sets 
+                      the status of the task to 'BugFound'.
+                      Synonyms: bug, create_bug
+c <path>              Creates a new task at <path>.
+                      Synonym:  create
+cd [<path>]           Change the working directory to <path>. If no <path>
+                      is given, changes to the directory configured as 
+                      <home_project>.
+cu <short-name>       Creates a new User called <short-name> and opens an
+                      Editor-Session, where the User can be edited.
+                      Root-Privileges required 
+                      Synonym:  create_user
+d [<path>]            Displays data associated with the task at <path>.
+                      Synonym:  data
+dc [<path>] [<file>]  Retrieves the Description for the task at <path>.
+                      If <file> is given, the Description is written to
+                      a new file at <file>. Otherwise the Description
+                      is displayed.
+ds [<path>]           Opens an Editor-Session, where the Description of 
+                      the task at <path> can be entered without worrying 
+                      about yaml-formatting.
+                      Synonym:  describe
+dt [<path>]           Deletes the task at <path> if it is empty.
+                      Synonym:  delete
+e [<path>]            Opens an Editor-Session where the writable data
+                      associated with the task at <path> can be edited
+                      in a yaml-file.
+                      Synonym:  edit
+eu <short-name>       Opens an Editor-Session, where the User called 
+                      <short-name> can be edited.
+                      Root-Privileges required 
+                      Synonym:  edit_user
+f <string> [<path>]   Finds all tasks under <path> whose name matches <string>.
+                      Synonyms: fn, find, find_name
+g [<path>]            Starts a Time-Measure for the Task at <path>.
+                      Synonyms: go, start
+ga <short-name>       Grants access to a newly created user named <short-name>.
+                      Optional argument: [<corrected-short-name>]
+                      Root-Privileges required 
+                      Synonym:  grant_access
+h                     Displays this Help.
+                      Synonym:  help
+li [<url> [<path>]]   Attempts to log onto the server at <url>, using the 
+                      Private DSA-Key found at <path> in the local
+                      filesystem.
+                      Synonym:  login
+ls [<path>]           Displays the subtasks of the Task at <path>.
+                      Synonym:  list
+mv <path1> <path2>    Moves the Task at <path1> to <path2>.
+                      Synonyms: move, rename
+nt [<path>] [<depth>] Displays the Task-Tree for the Task at <path> down to 
+                      <depth> levels. If <depth> is omitted, the depth 
+                      configured at <name_tree_limit> is used.
+                      Synonym:  name_tree
+oops <path1> <path2>  Reassigns the last measured time by the current
+                      user for the Task at <path1> to the Task at <path2>.
+                      Synonym:  reassign
+ping [<url>]          Checks wether the Server at <url> is up and listening.
+                      If no <url> is given, the url configured at <al_url>
+                      is used instead.
+pwd                   Displays the current working directory.
+requests              Displays all pending requests.
+                      Root-Privileges required 
+request_access <short-name> [<url>]
+                      Opens an Editor-Session, where User-Data for a Request
+                      can be edited. The results are filed as a Request 
+                      for Access to the server at <url>. If no <url> is 
+                      given, the url configured as <al_url> is used. If 
+                      no DSA-Private-Key can be found, a new Key may be
+                      generated.
+rs                    Reloads the name-tree from the server. 
+                      Synonym:  resync
+rt [<path>]           Removes the last measured time from the task at <path>.
+                      Synonym:  remove_time
+sp <start> <stop>     Sends a statistic-mail to the configured email-address
+                      for work done between the <start>- and <stop>-dates
+                      Root-Privileges required 
+sp <path> <priority>  Sets the priority of the Task at <path> to <priority>
+                      Synonym:  set_priority
+sr <path> <short-name>Assigns the Task at <path> to the User called <short_name>
+                      Synonym:  set_responsible
+ss <path> [<status>]  Sets the status of the Task at <path> to <status>.
+                      If no <status> is given, displays a selection of valid
+                      stati and lets the User chose one.
+                      Synonym:  set_status
+sta [<path>]          Displays the Status of the Task at <path>
+                      Synonym:  status
+s [<path>]            Stops the current Time Measure and adds it to the 
+                      Task at <path>. If no <path> is given, adds it to 
+                      the Task it was assigned to when it was started.
+                      Synonym:  stop
+td [<path>] [<filter>]Displays all unfinished Subtasks of the Task at <path>
+                      filtered by <filter> and ordered by priority.
+                      If no filter is given, the filter configured as 
+                      <todo_filter>. If <todo_filter> is not configured, 
+                      all active tasks of the current user are shown.
+                      Synonyms: todo, to_do
+                      Alternate usage:
+td <user>             Displays all unfinished tasks of <user>
+tt [<path>]           Displays the Total Measured Time of the Task at <path>
+                      and all its subtasks.
+                      Synonym:  total_time
+users                 Displays the short-names of all registered users.
+whoami                Displays the short-name of the current logged-in user.
+
+All commands that take an optional <path> argument will use the current
+working directory if no path is given and no other behavior is described.

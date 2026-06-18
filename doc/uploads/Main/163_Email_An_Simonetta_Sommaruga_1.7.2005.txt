@@ -1,0 +1,98 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 1629 invoked by uid 210); 1 Jul 2005 09:39:57 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/961. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.034026 secs); 01 Jul 2005 07:39:57 -0000
+Received: from unknown (HELO localhost) (zdavatz@ywesee.com@217.162.177.109)
+  by bbmb.ch with ESMTPA; 1 Jul 2005 09:39:57 +0200
+Date: Fri, 1 Jul 2005 09:39:06 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: generika.cc mailinglist <medien@generika.cc>, todo@oddb.org
+ <todo@oddb.org>, Daniel Ammann <daniel.ammann@weltwoche.ch>, Pierre Heumann
+ <heumann@netvision.net.il>, Simonetta Sommaruga
+ <simonetta.sommaruga@parl.ch>, swissmedic@oddb.org <swissmedic@oddb.org>,
+ ywesee.com mailinglist <freunde@ywesee.com>
+Subject: Pressemitteilung - 31-0178: Die WEKO ?ISO-8859-1?Q?eröffnet?
+ die Untersuchung gegen die Documed AG
+Message-ID: <20050701093906.1c224799@localhost>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4 (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Damen und Herren
+
+Es ist soweit. Die Schweizerische Wettbewerbskommission eröffnet die
+Untersuchung gegen die Documed AG betreffend Daten und Software im
+schweizerischen Gesundheitswesen.
+
+http://www.ywesee.com/uploads/Main/von_WEKO_30.6.2005.pdf
+
+Dies ist eine Genugtuung für einen 4 jährigen Kampf gegen Monopolstellungen im
+Schweizerischen Gesundheitswesen im speziellen aber gegen Firmen die gezielt und
+absichtlich 1) den Staat versuchen zu verarschen und 2) amtlich geforderte
+Datensammlungen versuchen urheberrechtlich zu schützen und in einen
+proprietären Standard einzuschliessen.
+
+Es ist von grosser Bedeutung für das Schweizerische Gesundheitswesen, dass man
+proprietäre Standards als Dinosaurier deklariert. Dinosaurier sind ausgestorben.
+Proprietäre Standards verhindern den Wettbewerb und ermöglichen ein
+Vendor-Lockin. Die allermeisten Datenbanken im CH-Gesundheitswesen beruhen auf
+proprietären Standards. Ein funktionierendes Gesundheitswesen braucht offene
+Standards.
+
+Die Politiker müssen begreifen, dass amtlich geforderte Datensammlungen im
+Dienstleistungszeitalter mit irgendeiner Rohware verglichen werden kann. Rohware
+kann man veredeln und sehr wertvolle Dienstleistungen daraus machen.
+
+Amtlich geforderte Datensammlungen gehören nicht in die Hände von einer Firma
+ohne dass man zuerst den offenen Datenstandard definiert und die
+datentechnischen Exportbedingungen festlegt. Ich spreche vom TARMED,
+Arzneimittelkompendium, Schweizerisches Ärzteverzeichis, EAN-Code Sammlung
+gemäss dem Heilmittelgesetz (der EAN-Code von Apotheken, Spitälern, Drogerien,
+Pharmafirmen, Ärzten) etc. Dies sind alles Datensammlungen, welche amtlich
+gefodert sind (sprich es gibt ein Gesetz dafür). Für diese Datensammlungen
+müssen offene Standards definiert werden!
+
+Als Beispiel nenne ich Ihnen Norwegen. In Norwegen wird in Kürze die
+Kommunikation mit der Regierung in proprietären Datenstandards nicht mehr
+erlaubt sein:
+
+  http://www.andwest.com/blojsom/blog/tatle/agenda/2005/06/27/Norwegian_Minis
+ter_Proprietary_Standards_No_Longer_Acceptable_in_Communication_with_Govern
+ment.html
+
+Firmen mit grossen Datensammlungen üben sich im Bundling von Leistungen und
+können somit exorbitante Preise verlangen und junge, innovative Firmen in den
+Boden stampfen weil sie sich weigern nur einen Teil der Daten zur Verfügung zu
+stellen. Genau gleich wie Softwarebundling in der Softwareindustrie. Ich nenne
+das Dinosaurierstrategie.
+
+Mit Gruss aus Zürich
+Zeno Davatz
+
+PS: Als kleines Beispiel zur allgemeinen Farce des Tages folgendes: Wie erwähnt 
+gibt es in der Schweiz ein Gesetz das besagt, dass die EAN-Codes von Spitälern,
+Apotheken, Drogerien, Ärzten etc. in einer Datenbank gesammelt werden m
+üssen. Es gibt eine Firma die dies tut und mit einem Satz stolz darauf verweist, dass
+es die offizielle Datensammlung vom BAG ist. Im nächsten Satz verweist die Firma
+darauf, dass diese Daten Urheberrechtlich geschützt sind. Das geht nicht. So
+werden sehr schnell Monopolstellungen geschaffen.
+
+PPS: Offene Standards fördern den Wettbewerb.
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4596.0 Safari/537.36 Edg/94.0.982.2
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1629797601
+host=212.51.146.241
+name=PumpFoilingEvents.PumpFoilingEvents
+rev=4
+targets=
+text=:delete
+time=1629877794
+author:1629877794=zeno
+diff:1629877794:1629797794:=1c1,6%0a%3c :delete%0a\ No newline at end of file%0a---%0a> !! Pumpfoiling Events 2021%0a> * [[http://www.engadinwind.ch/index.php?article_id=2 | Foilmania, Silvaplana, 22.8.2021]]%0a> * [[https://shoreline-watersports.ch/events/watersportday/ | Shoreline Watersports Day, 21.8.2021]]%0a> * [[https://94015.seu2.cleverreach.com/m/12876802/0-75cf91159ef66cf2af1ba9ea0b0d3fe1fb1ed59712e51fb23ca2ee6210e502e91e0140e44b9d5fbeb8b80fb95dde3e09?fbclid=IwAR2JIWh- gH34KHxCGOiosoe00z80sJK6fhRGLygZyNYHFGWEsa6HCiIFzIo | AGENDA ZYC INDIANA FOILING, WING & SUP SUNDAY 29.08.2021]]%0a> * [[https://www.supsuisse.ch/events/2021-09-18_flatwater-swiss-championships.html?fbclid=IwAR0bt0bhJSeaP1hNUKY3MgeCzubTvyH7Il0hCCTloRS1zeQOk7LMv4KYCWY | Swiss SUP Flatwater Championships, 18.9.2021]]%0a> * Silvaplana Pumpfoil Days 11.-13.9.2021%0a\ No newline at end of file%0a
+host:1629877794=212.51.146.241
+author:1629797794=zeno
+diff:1629797794:1629797776:=6c6%0a%3c * Silvaplana Pumpfoil Days 11.-13.9.2021%0a\ No newline at end of file%0a---%0a> * Silvaplana Pumpfoil Days 11.13.9.2021%0a\ No newline at end of file%0a
+host:1629797794=212.51.146.241
+author:1629797776=zeno
+diff:1629797776:1629797601:=1,3c1%0a%3c !! Pumpfoiling Events 2021%0a%3c * [[http://www.engadinwind.ch/index.php?article_id=2 | Foilmania, Silvaplana, 22.8.2021]]%0a%3c * [[https://shoreline-watersports.ch/events/watersportday/ | Shoreline Watersports Day, 21.8.2021]]%0a---%0a> !! Pumpfoiling Events%0a
+host:1629797776=212.51.146.241
+author:1629797601=zeno
+diff:1629797601:1629797601:=1,4d0%0a%3c !! Pumpfoiling Events%0a%3c * [[https://94015.seu2.cleverreach.com/m/12876802/0-75cf91159ef66cf2af1ba9ea0b0d3fe1fb1ed59712e51fb23ca2ee6210e502e91e0140e44b9d5fbeb8b80fb95dde3e09?fbclid=IwAR2JIWh- gH34KHxCGOiosoe00z80sJK6fhRGLygZyNYHFGWEsa6HCiIFzIo | AGENDA ZYC INDIANA FOILING, WING & SUP SUNDAY 29.08.2021]]%0a%3c * [[https://www.supsuisse.ch/events/2021-09-18_flatwater-swiss-championships.html?fbclid=IwAR0bt0bhJSeaP1hNUKY3MgeCzubTvyH7Il0hCCTloRS1zeQOk7LMv4KYCWY | Swiss SUP Flatwater Championships, 18.9.2021]]%0a%3c * Silvaplana Pumpfoil Days 11.13.9.2021%0a\ No newline at end of file%0a
+host:1629797601=212.51.146.241

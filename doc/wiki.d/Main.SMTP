@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1121334018
+text=!! SMTP-Authentifizierung ²ywesee verlangt beim Senden von Mails über den Mail-Server eine SMTP-Authentifizierung. Wie Sie Ihren Mail-Client dazu einrichten finden Sie hier: http://www.cablecom.ch/smtp
+targets=
+author=
+author:1121334018=
+host:1121334018=217.162.177.109
+diff:1121334018:1121334018:=1,2d0²< !! SMTP-Authentifizierung ²< ywesee verlangt beim Senden von Mails über den Mail-Server eine SMTP-Authentifizierung. Wie Sie Ihren Mail-Client dazu einrichten finden Sie hier: http://www.cablecom.ch/smtp²\ No newline at end of file²
+name=Main.SMTP
+host=217.162.177.109
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.8) Gecko/20050620 Firefox/1.0.4
+rev=1

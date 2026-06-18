@@ -1,0 +1,13 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1105965183
+text=* http://www.extremeprogramming.org/rules/testfirst.html
+targets=
+author=
+author:1105965183=
+host:1105965183=80.219.14.53
+diff:1105965183:1105965183:=1d0²< * http://www.extremeprogramming.org/rules/testfirst.html²\ No newline at end of file²
+name=Main.TestFirst
+host=80.219.14.53
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.5) Gecko/20041118 Firefox/1.0
+rev=1

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.49 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1467290778
+host=212.51.146.241
+name=Elexis.DatenflussPublicDomain
+rev=3
+targets=
+text=! Datenfluss bei Elexis via [[http://hin.ch/mediupdatexml | oddb2xml]]%0aAttach:Elexis_Datenfluss_Public_Domain.png
+time=1467290948
+author:1467290948=zeno
+diff:1467290948:1467290860:=1c1%0a%3c ! Datenfluss bei Elexis via [[http://hin.ch/mediupdatexml | oddb2xml]]%0a---%0a> Datenfluss%0a
+host:1467290948=212.51.146.241
+author:1467290860=zeno
+diff:1467290860:1467290778:=1d0%0a%3c Datenfluss%0a
+host:1467290860=212.51.146.241
+author:1467290778=zeno
+diff:1467290778:1467290778:=1d0%0a%3c Attach:Elexis_Datenfluss_Public_Domain.png%0a\ No newline at end of file%0a
+host:1467290778=212.51.146.241

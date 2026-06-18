@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1125570490
+text=! Was ist XML?²* http://en.wikipedia.org/wiki/Xml
+targets=
+author=
+author:1125570468=
+host:1125570468=84.73.187.0
+diff:1125570468:1125570468:=1d0²< * http://en.wikipedia.org/wiki/Xml²\ No newline at end of file²
+name=Main.ExtensibleMarkupLanguage
+host=84.73.187.0
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050824 Firefox/1.0.6
+rev=2
+author:1125570490=
+host:1125570490=84.73.187.0
+diff:1125570490:1125570468:=1d0²< ! Was ist XML?²

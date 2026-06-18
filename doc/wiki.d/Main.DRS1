@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9pre) Gecko/2008053004 Minefield/3.0pre
+author=
+host=77.57.16.157
+name=Main.DRS1
+rev=1
+targets=
+text=http://www.drs1.ch
+time=1212158091
+author:1212158091=
+diff:1212158091:1212158091:=1d0%0a%3c http://www.drs1.ch%0a\ No newline at end of file%0a
+host:1212158091=77.57.16.157

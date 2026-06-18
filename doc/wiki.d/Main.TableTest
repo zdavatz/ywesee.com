@@ -1,0 +1,25 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1110198860
+text=http://pmwiki.org/wiki/PmWiki/AdvancedTables²²(:table (border=1):)²(:cell:)Zeno²(:cell:)Ben²(:cell:)Hannes²(:cellnr:)Skifahren²(:cell:)Spazieren²(:cell:)Langlaufen²(:tableend:)²²||test||test||²²(:table border=1 cellpadding=5 cellspacing=0:)²(:cell:) a1²(:cell:) b1²(:cell:) c1²(:cell:) d1²(:cellnr:) a2²(:cell:) b2²(:cell:) c2²(:cell:) d2²(:tableend:)
+targets=
+author=
+author:1110198606=
+host:1110198606=212.254.97.179
+diff:1110198606:1110198606:=1,10d0²< http://pmwiki.org/wiki/PmWiki/AdvancedTables²< ²< (:table:)²< (:cell:) Zeno²< (:cell:) Ben²< (:cell:) Hannes²< (:cellnr:) Skifahren²< (:cell:) Spazieren²< (:Langlaufen:)²< (:tableend:)²\ No newline at end of file²
+name=Main.TableTest
+host=212.254.97.179
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041109 Firefox/1.0
+rev=5
+author:1110198673=
+host:1110198673=212.254.97.179
+diff:1110198673:1110198606:=9c9²< (:cell:) Langlaufen²---²> (:Langlaufen:)²
+author:1110198730=
+host:1110198730=212.254.97.179
+diff:1110198730:1110198673:=3c3²< (:table (border=1):)²---²> (:table:)²
+author:1110198797=
+host:1110198797=212.254.97.179
+diff:1110198797:1110198730:=10,12c10²< (:tableend:)²< ²< ||test||test||²\ No newline at end of file²---²> (:tableend:)²\ No newline at end of file²
+author:1110198860=
+host:1110198860=212.254.97.179
+diff:1110198860:1110198797:=4,9c4,9²< (:cell:)Zeno²< (:cell:)Ben²< (:cell:)Hannes²< (:cellnr:)Skifahren²< (:cell:)Spazieren²< (:cell:)Langlaufen²---²> (:cell:) Zeno²> (:cell:) Ben²> (:cell:) Hannes²> (:cellnr:) Skifahren²> (:cell:) Spazieren²> (:cell:) Langlaufen²12,23c12²< ||test||test||²< ²< (:table border=1 cellpadding=5 cellspacing=0:)²< (:cell:) a1²< (:cell:) b1²< (:cell:) c1²< (:cell:) d1²< (:cellnr:) a2²< (:cell:) b2²< (:cell:) c2²< (:cell:) d2²< (:tableend:)²\ No newline at end of file²---²> ||test||test||²\ No newline at end of file²

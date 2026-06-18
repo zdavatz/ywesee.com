@@ -1,0 +1,1295 @@
+compare swissmedic to swisssindex: 1294 atc are longer in swissindex
+ATC code  for 7680092320366 longer in swissindex  R01AX10
+ATC code  for 7680109990223 longer in swissindex  A01AZ
+ATC code  for 7680117870463 longer in swissindex  A15
+ATC code  for 7680125700158 longer in swissindex  G04BZ
+ATC code  for 7680145750225 longer in swissindex  A01AZ
+ATC code  for 7680159800381 longer in swissindex  A05AX99
+ATC code  for 7680164770365 longer in swissindex  C01EZ
+ATC code  for 7680164820213 longer in swissindex  A05CZ
+ATC code  for 7680164830298 longer in swissindex  A16AZ
+ATC code  for 7680164840242 longer in swissindex  G04BZ
+ATC code  for 7680164860271 longer in swissindex  G02CZ
+ATC code  for 7680168780223 longer in swissindex  M05BZ
+ATC code  for 7680172730191 longer in swissindex  R05CA10
+ATC code  for 7680174970571 longer in swissindex  R05X
+ATC code  for 7680174980884 longer in swissindex  R05X
+ATC code  for 7680174980969 longer in swissindex  R05X
+ATC code  for 7680182860178 longer in swissindex  C05AX03
+ATC code  for 7680183460889 longer in swissindex  R01AX10
+ATC code  for 7680183460902 longer in swissindex  R01AX10
+ATC code  for 7680183460926 longer in swissindex  R01AX10
+ATC code  for 7680186010289 longer in swissindex  C01EX
+ATC code  for 7680186010364 longer in swissindex  C01EX
+ATC code  for 7680186020240 longer in swissindex  D11AX99
+ATC code  for 7680186030201 longer in swissindex  A16AX99
+ATC code  for 7680186040354 longer in swissindex  A05BA99
+ATC code  for 7680186040439 longer in swissindex  A05BA99
+ATC code  for 7680186050230 longer in swissindex  G02CX99
+ATC code  for 7680199680141 longer in swissindex  G02CZ
+ATC code  for 7680208440193 longer in swissindex  D03AZ
+ATC code  for 7680208440278 longer in swissindex  D03AZ
+ATC code  for 7680208440353 longer in swissindex  D03AZ
+ATC code  for 7680215210512 longer in swissindex  N02CX99
+ATC code  for 7680215210789 longer in swissindex  N02CX99
+ATC code  for 7680215210864 longer in swissindex  N02CX99
+ATC code  for 7680215220238 longer in swissindex  B03XA99
+ATC code  for 7680230960218 longer in swissindex  C01EZ
+ATC code  for 7680233370106 longer in swissindex  R02AZ
+ATC code  for 7680234760104 longer in swissindex  D11AZ
+ATC code  for 7680246080184 longer in swissindex  D03AX99
+ATC code  for 7680246100394 longer in swissindex  N02BG99
+ATC code  for 7680246570197 longer in swissindex  A03AX99
+ATC code  for 7680246580240 longer in swissindex  D03AA
+ATC code  for 7680247200390 longer in swissindex  R02AX
+ATC code  for 7680273010109 longer in swissindex  R05CA10
+ATC code  for 7680281430364 longer in swissindex  M02AX10
+ATC code  for 7680282520484 longer in swissindex  R05Z
+ATC code  for 7680282520569 longer in swissindex  R05Z
+ATC code  for 7680291940174 longer in swissindex  R05Z
+ATC code  for 7680306490960 longer in swissindex  C05CX99
+ATC code  for 7680318810138 longer in swissindex  R02AZ
+ATC code  for 7680320430119 longer in swissindex  R05CA10
+ATC code  for 7680327180277 longer in swissindex  G02CZ
+ATC code  for 7680332080142 longer in swissindex  M09AZ
+ATC code  for 7680332080227 longer in swissindex  M09AZ
+ATC code  for 7680334220249 longer in swissindex  A16AX99
+ATC code  for 7680364920157 longer in swissindex  R05Z
+ATC code  for 7680365030176 longer in swissindex  G04BZ
+ATC code  for 7680365060166 longer in swissindex  G04BZ
+ATC code  for 7680365080195 longer in swissindex  A05AZ
+ATC code  for 7680365090231 longer in swissindex  A05BZ
+ATC code  for 7680365900172 longer in swissindex  M09AZ
+ATC code  for 7680365910133 longer in swissindex  M09AZ
+ATC code  for 7680365950191 longer in swissindex  R03DZ
+ATC code  for 7680365960152 longer in swissindex  R03DZ
+ATC code  for 7680365970113 longer in swissindex  C05Z
+ATC code  for 7680365980181 longer in swissindex  C05Z
+ATC code  for 7680365990142 longer in swissindex  C05Z
+ATC code  for 7680366050142 longer in swissindex  C05Z
+ATC code  for 7680366060103 longer in swissindex  C05Z
+ATC code  for 7680366070171 longer in swissindex  C05Z
+ATC code  for 7680366390163 longer in swissindex  A05BZ
+ATC code  for 7680366420174 longer in swissindex  R05Z
+ATC code  for 7680366450164 longer in swissindex  R05Z
+ATC code  for 7680366520126 longer in swissindex  G04CZ
+ATC code  for 7680366870108 longer in swissindex  R05Z
+ATC code  for 7680366940177 longer in swissindex  G04BZ
+ATC code  for 7680366980128 longer in swissindex  G04BZ
+ATC code  for 7680368460116 longer in swissindex  C01EZ
+ATC code  for 7680368500195 longer in swissindex  A01AZ
+ATC code  for 7680368510156 longer in swissindex  A01AZ
+ATC code  for 7680368630137 longer in swissindex  C05Z
+ATC code  for 7680379690281 longer in swissindex  C01EZ
+ATC code  for 7680379690366 longer in swissindex  C01EZ
+ATC code  for 7680380510165 longer in swissindex  N02CX99
+ATC code  for 7680380510240 longer in swissindex  N02CX99
+ATC code  for 7680394600173 longer in swissindex  R05X
+ATC code  for 7680414300281 longer in swissindex  R05Z
+ATC code  for 7680414340157 longer in swissindex  A05CZ
+ATC code  for 7680414360261 longer in swissindex  R05Z
+ATC code  for 7680414410386 longer in swissindex  R05Z
+ATC code  for 7680414420347 longer in swissindex  R05Z
+ATC code  for 7680414440109 longer in swissindex  A09AZ
+ATC code  for 7680414440291 longer in swissindex  A09AZ
+ATC code  for 7680414590262 longer in swissindex  N07CZ
+ATC code  for 7680414600169 longer in swissindex  N07CZ
+ATC code  for 7680414600244 longer in swissindex  N07CZ
+ATC code  for 7680414610120 longer in swissindex  N07CZ
+ATC code  for 7680414610205 longer in swissindex  N07CZ
+ATC code  for 7680415840175 longer in swissindex  R01AX10
+ATC code  for 7680415870165 longer in swissindex  R05X
+ATC code  for 7680415870240 longer in swissindex  R05X
+ATC code  for 7680429770123 longer in swissindex  M02AX10
+ATC code  for 7680442500127 longer in swissindex  R01Z
+ATC code  for 7680445080282 longer in swissindex  R05Z
+ATC code  for 7680445080367 longer in swissindex  R05Z
+ATC code  for 7680447490171 longer in swissindex  R02AZ
+ATC code  for 7680447910136 longer in swissindex  R01Z
+ATC code  for 7680450330235 longer in swissindex  R02AZ
+ATC code  for 7680450340388 longer in swissindex  C01EZ
+ATC code  for 7680450360225 longer in swissindex  A07XZ
+ATC code  for 7680450370293 longer in swissindex  A16AZ
+ATC code  for 7680450380254 longer in swissindex  R05Z
+ATC code  for 7680450390215 longer in swissindex  A05CZ
+ATC code  for 7680450400389 longer in swissindex  G02CZ
+ATC code  for 7680450410265 longer in swissindex  M09AZ
+ATC code  for 7680450420226 longer in swissindex  A13AZ
+ATC code  for 7680450430294 longer in swissindex  C05Z
+ATC code  for 7680450440255 longer in swissindex  N05CZ
+ATC code  for 7680450450216 longer in swissindex  N02CZ
+ATC code  for 7680450470245 longer in swissindex  G04BZ
+ATC code  for 7680450480206 longer in swissindex  A13AZ
+ATC code  for 7680450490274 longer in swissindex  G02CZ
+ATC code  for 7680450510217 longer in swissindex  C01EZ
+ATC code  for 7680450520360 longer in swissindex  D11AZ
+ATC code  for 7680450530246 longer in swissindex  R07Z
+ATC code  for 7680450550275 longer in swissindex  A13AZ
+ATC code  for 7680450560588 longer in swissindex  G04BZ
+ATC code  for 7680450570389 longer in swissindex  G02CZ
+ATC code  for 7680450580265 longer in swissindex  N07CZ
+ATC code  for 7680450590226 longer in swissindex  B03XZ
+ATC code  for 7680450600208 longer in swissindex  A16AZ
+ATC code  for 7680450610276 longer in swissindex  M09AZ
+ATC code  for 7680450620237 longer in swissindex  M05BZ
+ATC code  for 7680450630380 longer in swissindex  A01AZ
+ATC code  for 7680450640266 longer in swissindex  N07XZ
+ATC code  for 7680450650227 longer in swissindex  A06AZ
+ATC code  for 7680450660295 longer in swissindex  G02CZ
+ATC code  for 7680450670256 longer in swissindex  G02CZ
+ATC code  for 7680450680217 longer in swissindex  A10XZ
+ATC code  for 7680450690360 longer in swissindex  A13AZ
+ATC code  for 7680450700267 longer in swissindex  C05Z
+ATC code  for 7680450710228 longer in swissindex  R03DZ
+ATC code  for 7680450750361 longer in swissindex  N05CZ
+ATC code  for 7680450760247 longer in swissindex  R05Z
+ATC code  for 7680450770208 longer in swissindex  R01Z
+ATC code  for 7680450780276 longer in swissindex  M09AZ
+ATC code  for 7680450790237 longer in swissindex  H03Z
+ATC code  for 7680450800219 longer in swissindex  A04AZ
+ATC code  for 7680450810362 longer in swissindex  D11AZ
+ATC code  for 7680450820248 longer in swissindex  A13AZ
+ATC code  for 7680450830209 longer in swissindex  D03AZ
+ATC code  for 7680450850238 longer in swissindex  R05Z
+ATC code  for 7680450870267 longer in swissindex  A08AZ
+ATC code  for 7680450880228 longer in swissindex  D11AZ
+ATC code  for 7680450890296 longer in swissindex  N02BZ
+ATC code  for 7680450900278 longer in swissindex  C04AZ
+ATC code  for 7680450910239 longer in swissindex  G04BZ
+ATC code  for 7680450920382 longer in swissindex  D05BZ
+ATC code  for 7680450930268 longer in swissindex  C01EZ
+ATC code  for 7680450940229 longer in swissindex  C01EZ
+ATC code  for 7680450950297 longer in swissindex  N07XZ
+ATC code  for 7680450960258 longer in swissindex  N07XZ
+ATC code  for 7680450970219 longer in swissindex  N07XZ
+ATC code  for 7680450980362 longer in swissindex  N07XZ
+ATC code  for 7680450990248 longer in swissindex  A09AZ
+ATC code  for 7680451000229 longer in swissindex  M09AZ
+ATC code  for 7680451010297 longer in swissindex  G04BZ
+ATC code  for 7680451020258 longer in swissindex  G02CZ
+ATC code  for 7680451060209 longer in swissindex  R05Z
+ATC code  for 7680451160367 longer in swissindex  S01XZ
+ATC code  for 7680451160374 longer in swissindex  S01XZ
+ATC code  for 7680451170335 longer in swissindex  S01XZ
+ATC code  for 7680451170342 longer in swissindex  S01XZ
+ATC code  for 7680456270221 longer in swissindex  R01Z
+ATC code  for 7680461490195 longer in swissindex  R01Z
+ATC code  for 7680463060167 longer in swissindex  N05CZ
+ATC code  for 7680463540379 longer in swissindex  D03AX99
+ATC code  for 7680463540386 longer in swissindex  D03AX99
+ATC code  for 7680464440944 longer in swissindex  R05X
+ATC code  for 7680464441088 longer in swissindex  R05X
+ATC code  for 7680465290166 longer in swissindex  A16AZ
+ATC code  for 7680465600194 longer in swissindex  R01AX10
+ATC code  for 7680467310183 longer in swissindex  S01XZ
+ATC code  for 7680467320229 longer in swissindex  C01EZ
+ATC code  for 7680467320304 longer in swissindex  C01EZ
+ATC code  for 7680467320571 longer in swissindex  C01EZ
+ATC code  for 7680467320656 longer in swissindex  C01EZ
+ATC code  for 7680467320816 longer in swissindex  C01EZ
+ATC code  for 7680467321035 longer in swissindex  C01EZ
+ATC code  for 7680467330105 longer in swissindex  C01EZ
+ATC code  for 7680467790312 longer in swissindex  D03AZ
+ATC code  for 7680467790329 longer in swissindex  D03AZ
+ATC code  for 7680473500288 longer in swissindex  A04AZ
+ATC code  for 7680473910162 longer in swissindex  R02AZ
+ATC code  for 7680473920123 longer in swissindex  G04BZ
+ATC code  for 7680473940152 longer in swissindex  R05Z
+ATC code  for 7680473950120 longer in swissindex  R05Z
+ATC code  for 7680473960181 longer in swissindex  A16AZ
+ATC code  for 7680473970142 longer in swissindex  C05Z
+ATC code  for 7680473980103 longer in swissindex  A09AZ
+ATC code  for 7680473980295 longer in swissindex  A09AZ
+ATC code  for 7680473990171 longer in swissindex  R02AZ
+ATC code  for 7680476590378 longer in swissindex  A01AZ
+ATC code  for 7680476880356 longer in swissindex  N05CZ
+ATC code  for 7680476880431 longer in swissindex  N05CZ
+ATC code  for 7680477210169 longer in swissindex  C01EZ
+ATC code  for 7680480240191 longer in swissindex  N05CZ
+ATC code  for 7680484730247 longer in swissindex  A01AD11
+ATC code  for 7680485610128 longer in swissindex  R05Z
+ATC code  for 7680485630157 longer in swissindex  C05Z
+ATC code  for 7680485640118 longer in swissindex  N07XZ
+ATC code  for 7680485650186 longer in swissindex  R05Z
+ATC code  for 7680485670108 longer in swissindex  N02CZ
+ATC code  for 7680485700119 longer in swissindex  M09AZ
+ATC code  for 7680485710347 longer in swissindex  A13AZ
+ATC code  for 7680485710422 longer in swissindex  A13AZ
+ATC code  for 7680485720148 longer in swissindex  A13AZ
+ATC code  for 7680485730291 longer in swissindex  H03Z
+ATC code  for 7680486950193 longer in swissindex  R05Z
+ATC code  for 7680486980183 longer in swissindex  M09AZ
+ATC code  for 7680487050229 longer in swissindex  H03Z
+ATC code  for 7680489670272 longer in swissindex  A09AZ
+ATC code  for 7680491000197 longer in swissindex  G04BZ
+ATC code  for 7680491020119 longer in swissindex  C05Z
+ATC code  for 7680491040148 longer in swissindex  N07XZ
+ATC code  for 7680491050109 longer in swissindex  A04AZ
+ATC code  for 7680493020124 longer in swissindex  R01Z
+ATC code  for 7680493290183 longer in swissindex  D04Z
+ATC code  for 7680493310102 longer in swissindex  C04AZ
+ATC code  for 7680493310294 longer in swissindex  C04AZ
+ATC code  for 7680495370180 longer in swissindex  S01XA99
+ATC code  for 7680495370197 longer in swissindex  S01XA99
+ATC code  for 7680495600362 longer in swissindex  D03AX99
+ATC code  for 7680496400138 longer in swissindex  N05CZ
+ATC code  for 7680496990189 longer in swissindex  C01EZ
+ATC code  for 7680496990264 longer in swissindex  C01EZ
+ATC code  for 7680497850116 longer in swissindex  D11AZ
+ATC code  for 7680497850383 longer in swissindex  D11AZ
+ATC code  for 7680497900163 longer in swissindex  N05CZ
+ATC code  for 7680499780220 longer in swissindex  D11AX99
+ATC code  for 7680499800225 longer in swissindex  D11AX99
+ATC code  for 7680501890152 longer in swissindex  C04AZ
+ATC code  for 7680501890237 longer in swissindex  C04AZ
+ATC code  for 7680501900219 longer in swissindex  C04AZ
+ATC code  for 7680501900486 longer in swissindex  C04AZ
+ATC code  for 7680502070218 longer in swissindex  R05Z
+ATC code  for 7680502070485 longer in swissindex  R05Z
+ATC code  for 7680502080286 longer in swissindex  R05Z
+ATC code  for 7680502240581 longer in swissindex  N05CZ
+ATC code  for 7680502240666 longer in swissindex  N05CZ
+ATC code  for 7680502280105 longer in swissindex  C01EZ
+ATC code  for 7680502290258 longer in swissindex  C01EZ
+ATC code  for 7680502300230 longer in swissindex  M09AZ
+ATC code  for 7680502310383 longer in swissindex  C05Z
+ATC code  for 7680502330145 longer in swissindex  N05CZ
+ATC code  for 7680502330220 longer in swissindex  N05CZ
+ATC code  for 7680502340298 longer in swissindex  N05CZ
+ATC code  for 7680502340373 longer in swissindex  N05CZ
+ATC code  for 7680502410250 longer in swissindex  A16AZ
+ATC code  for 7680502410335 longer in swissindex  A16AZ
+ATC code  for 7680502420211 longer in swissindex  A16AZ
+ATC code  for 7680502420488 longer in swissindex  A16AZ
+ATC code  for 7680502870177 longer in swissindex  A16AZ
+ATC code  for 7680502880138 longer in swissindex  A16AZ
+ATC code  for 7680502890281 longer in swissindex  A16AZ
+ATC code  for 7680502920292 longer in swissindex  D11AZ
+ATC code  for 7680502930178 longer in swissindex  D11AZ
+ATC code  for 7680502940139 longer in swissindex  D11AZ
+ATC code  for 7680502950367 longer in swissindex  D11AZ
+ATC code  for 7680502950442 longer in swissindex  D11AZ
+ATC code  for 7680502950602 longer in swissindex  D11AZ
+ATC code  for 7680502950794 longer in swissindex  D11AZ
+ATC code  for 7680502950954 longer in swissindex  D11AZ
+ATC code  for 7680502951098 longer in swissindex  D11AZ
+ATC code  for 7680502970129 longer in swissindex  D01Z
+ATC code  for 7680502980197 longer in swissindex  D01Z
+ATC code  for 7680502990233 longer in swissindex  D01Z
+ATC code  for 7680502990318 longer in swissindex  D01Z
+ATC code  for 7680503680171 longer in swissindex  M09AZ
+ATC code  for 7680503680256 longer in swissindex  M09AZ
+ATC code  for 7680503700114 longer in swissindex  M09AZ
+ATC code  for 7680504070124 longer in swissindex  R05Z
+ATC code  for 7680504080277 longer in swissindex  R05Z
+ATC code  for 7680504080352 longer in swissindex  R05Z
+ATC code  for 7680504090238 longer in swissindex  R05Z
+ATC code  for 7680504100135 longer in swissindex  R05Z
+ATC code  for 7680504570280 longer in swissindex  R05Z
+ATC code  for 7680504580166 longer in swissindex  R05Z
+ATC code  for 7680505570142 longer in swissindex  R02AZ
+ATC code  for 7680506600442 longer in swissindex  M09AZ
+ATC code  for 7680506600527 longer in swissindex  M09AZ
+ATC code  for 7680506720430 longer in swissindex  R01Z
+ATC code  for 7680507860135 longer in swissindex  R05Z
+ATC code  for 7680508460167 longer in swissindex  S02DZ
+ATC code  for 7680508470210 longer in swissindex  G04BZ
+ATC code  for 7680508660277 longer in swissindex  N02BZ
+ATC code  for 7680508680374 longer in swissindex  A16AZ
+ATC code  for 7680508920357 longer in swissindex  R01Z
+ATC code  for 7680509040603 longer in swissindex  R01Z
+ATC code  for 7680509140129 longer in swissindex  R01Z
+ATC code  for 7680509200489 longer in swissindex  R02AZ
+ATC code  for 7680509370472 longer in swissindex  R02AZ
+ATC code  for 7680509470257 longer in swissindex  R01Z
+ATC code  for 7680509480218 longer in swissindex  R01Z
+ATC code  for 7680510200140 longer in swissindex  N05CZ
+ATC code  for 7680510210101 longer in swissindex  N05CZ
+ATC code  for 7680510850192 longer in swissindex  A16AZ
+ATC code  for 7680511390383 longer in swissindex  N05CZ
+ATC code  for 7680511900179 longer in swissindex  A05CZ
+ATC code  for 7680511900254 longer in swissindex  A05CZ
+ATC code  for 7680512530191 longer in swissindex  D11AZ
+ATC code  for 7680512530276 longer in swissindex  D11AZ
+ATC code  for 7680512540664 longer in swissindex  N05CZ
+ATC code  for 7680512540749 longer in swissindex  N05CZ
+ATC code  for 7680512550113 longer in swissindex  D01Z
+ATC code  for 7680512850275 longer in swissindex  R05Z
+ATC code  for 7680512850282 longer in swissindex  R05Z
+ATC code  for 7680513390107 longer in swissindex  N02BZ
+ATC code  for 7680513390299 longer in swissindex  N02BZ
+ATC code  for 7680513400448 longer in swissindex  R05Z
+ATC code  for 7680513410591 longer in swissindex  R05Z
+ATC code  for 7680513430278 longer in swissindex  R02AZ
+ATC code  for 7680513530138 longer in swissindex  D11AZ
+ATC code  for 7680513600374 longer in swissindex  N05CZ
+ATC code  for 7680513610250 longer in swissindex  D04Z
+ATC code  for 7680513620211 longer in swissindex  M09AZ
+ATC code  for 7680513630203 longer in swissindex  A05CZ
+ATC code  for 7680513640240 longer in swissindex  N05CZ
+ATC code  for 7680513650126 longer in swissindex  D11AZ
+ATC code  for 7680513660187 longer in swissindex  C01EZ
+ATC code  for 7680513660262 longer in swissindex  C01EZ
+ATC code  for 7680513730163 longer in swissindex  A06AZ
+ATC code  for 7680513990147 longer in swissindex  G04BZ
+ATC code  for 7680514490301 longer in swissindex  N02BZ
+ATC code  for 7680514540143 longer in swissindex  R02AZ
+ATC code  for 7680514540228 longer in swissindex  R02AZ
+ATC code  for 7680514550104 longer in swissindex  C01EZ
+ATC code  for 7680514550296 longer in swissindex  C01EZ
+ATC code  for 7680514560332 longer in swissindex  A09AZ
+ATC code  for 7680514560417 longer in swissindex  A09AZ
+ATC code  for 7680514570140 longer in swissindex  M09AZ
+ATC code  for 7680515300128 longer in swissindex  N02BZ
+ATC code  for 7680515310196 longer in swissindex  N02BZ
+ATC code  for 7680515320157 longer in swissindex  A16AZ
+ATC code  for 7680515330118 longer in swissindex  N02BZ
+ATC code  for 7680515350147 longer in swissindex  N02BZ
+ATC code  for 7680516370113 longer in swissindex  N06AZ
+ATC code  for 7680516390142 longer in swissindex  A05BZ
+ATC code  for 7680516400124 longer in swissindex  D11AZ
+ATC code  for 7680516410192 longer in swissindex  M05BZ
+ATC code  for 7680516740152 longer in swissindex  M09AZ
+ATC code  for 7680516750113 longer in swissindex  M09AZ
+ATC code  for 7680516760181 longer in swissindex  D11AZ
+ATC code  for 7680516770227 longer in swissindex  C05Z
+ATC code  for 7680516780295 longer in swissindex  D11AZ
+ATC code  for 7680517790101 longer in swissindex  C05Z
+ATC code  for 7680517890160 longer in swissindex  R05Z
+ATC code  for 7680517890245 longer in swissindex  R05Z
+ATC code  for 7680518580183 longer in swissindex  D01Z
+ATC code  for 7680518580268 longer in swissindex  D01Z
+ATC code  for 7680518590144 longer in swissindex  D01Z
+ATC code  for 7680518610194 longer in swissindex  D01Z
+ATC code  for 7680519790444 longer in swissindex  N02BZ
+ATC code  for 7680519790529 longer in swissindex  N02BZ
+ATC code  for 7680519800181 longer in swissindex  A07XZ
+ATC code  for 7680519800266 longer in swissindex  A07XZ
+ATC code  for 7680519880190 longer in swissindex  D11AZ
+ATC code  for 7680519880275 longer in swissindex  D11AZ
+ATC code  for 7680520480525 longer in swissindex  C01EZ
+ATC code  for 7680520810254 longer in swissindex  C05Z
+ATC code  for 7680520900245 longer in swissindex  R05Z
+ATC code  for 7680521370207 longer in swissindex  D01Z
+ATC code  for 7680521590247 longer in swissindex  A05CZ
+ATC code  for 7680521760268 longer in swissindex  G04CZ
+ATC code  for 7680522950170 longer in swissindex  A01AZ
+ATC code  for 7680522950255 longer in swissindex  A01AZ
+ATC code  for 7680523110412 longer in swissindex  A03Z
+ATC code  for 7680523200397 longer in swissindex  R05Z
+ATC code  for 7680524260147 longer in swissindex  A13AZ
+ATC code  for 7680524470119 longer in swissindex  R05Z
+ATC code  for 7680524610225 longer in swissindex  G04BZ
+ATC code  for 7680524620293 longer in swissindex  G04BZ
+ATC code  for 7680524630254 longer in swissindex  A16AZ
+ATC code  for 7680524650368 longer in swissindex  A07XZ
+ATC code  for 7680524660244 longer in swissindex  N05CZ
+ATC code  for 7680524680204 longer in swissindex  R05X
+ATC code  for 7680524920171 longer in swissindex  R01Z
+ATC code  for 7680525760165 longer in swissindex  R05Z
+ATC code  for 7680525790155 longer in swissindex  A13AZ
+ATC code  for 7680525790230 longer in swissindex  A13AZ
+ATC code  for 7680525800137 longer in swissindex  A01AZ
+ATC code  for 7680526510271 longer in swissindex  R05Z
+ATC code  for 7680526510288 longer in swissindex  R05Z
+ATC code  for 7680526800181 longer in swissindex  R01Z
+ATC code  for 7680526800266 longer in swissindex  R01Z
+ATC code  for 7680527020397 longer in swissindex  A05CZ
+ATC code  for 7680527360219 longer in swissindex  J01Z
+ATC code  for 7680527360486 longer in swissindex  J01Z
+ATC code  for 7680527370362 longer in swissindex  J01Z
+ATC code  for 7680527370447 longer in swissindex  J01Z
+ATC code  for 7680527500172 longer in swissindex  S02DZ
+ATC code  for 7680528620275 longer in swissindex  R05Z
+ATC code  for 7680528620367 longer in swissindex  R05Z
+ATC code  for 7680529490259 longer in swissindex  A16AZ
+ATC code  for 7680529900178 longer in swissindex  M09AZ
+ATC code  for 7680530050121 longer in swissindex  A04AZ
+ATC code  for 7680530060274 longer in swissindex  A16AZ
+ATC code  for 7680530060359 longer in swissindex  A16AZ
+ATC code  for 7680530070235 longer in swissindex  A16AZ
+ATC code  for 7680530070310 longer in swissindex  A16AZ
+ATC code  for 7680530620249 longer in swissindex  G04BZ
+ATC code  for 7680530620324 longer in swissindex  G04BZ
+ATC code  for 7680530630200 longer in swissindex  R05Z
+ATC code  for 7680530630392 longer in swissindex  R05Z
+ATC code  for 7680530640278 longer in swissindex  D11AZ
+ATC code  for 7680530640353 longer in swissindex  D11AZ
+ATC code  for 7680530650239 longer in swissindex  G04BZ
+ATC code  for 7680530650314 longer in swissindex  G04BZ
+ATC code  for 7680530770135 longer in swissindex  C01EZ
+ATC code  for 7680530770210 longer in swissindex  C01EZ
+ATC code  for 7680530960185 longer in swissindex  J01Z
+ATC code  for 7680531780232 longer in swissindex  A04AZ
+ATC code  for 7680531790309 longer in swissindex  A16AZ
+ATC code  for 7680531890252 longer in swissindex  N02BZ
+ATC code  for 7680532420236 longer in swissindex  R01Z
+ATC code  for 7680532430303 longer in swissindex  C01EZ
+ATC code  for 7680532440340 longer in swissindex  G02CZ
+ATC code  for 7680532460287 longer in swissindex  A16AZ
+ATC code  for 7680532470163 longer in swissindex  A16AZ
+ATC code  for 7680532480124 longer in swissindex  J01Z
+ATC code  for 7680532570399 longer in swissindex  R01Z
+ATC code  for 7680532650220 longer in swissindex  D02AB
+ATC code  for 7680532720381 longer in swissindex  R05Z
+ATC code  for 7680533060134 longer in swissindex  D04Z
+ATC code  for 7680533140157 longer in swissindex  R05Z
+ATC code  for 7680533140232 longer in swissindex  R05Z
+ATC code  for 7680533220286 longer in swissindex  N02BZ
+ATC code  for 7680533240109 longer in swissindex  D11AZ
+ATC code  for 7680533580403 longer in swissindex  G02CZ
+ATC code  for 7680533590372 longer in swissindex  C05Z
+ATC code  for 7680533600279 longer in swissindex  C05Z
+ATC code  for 7680533830256 longer in swissindex  N05CZ
+ATC code  for 7680534000191 longer in swissindex  B03XZ
+ATC code  for 7680534000276 longer in swissindex  B03XZ
+ATC code  for 7680534030181 longer in swissindex  G04BZ
+ATC code  for 7680534040142 longer in swissindex  R05Z
+ATC code  for 7680534050103 longer in swissindex  D11AZ
+ATC code  for 7680534060171 longer in swissindex  G04BZ
+ATC code  for 7680534250114 longer in swissindex  M09AZ
+ATC code  for 7680534260182 longer in swissindex  M09AZ
+ATC code  for 7680534260267 longer in swissindex  M09AZ
+ATC code  for 7680535300283 longer in swissindex  R05X
+ATC code  for 7680535470542 longer in swissindex  N05CZ
+ATC code  for 7680535550206 longer in swissindex  M09AZ
+ATC code  for 7680535550398 longer in swissindex  M09AZ
+ATC code  for 7680535560199 longer in swissindex  M09AZ
+ATC code  for 7680535770161 longer in swissindex  D11AZ
+ATC code  for 7680536710128 longer in swissindex  R05Z
+ATC code  for 7680536710203 longer in swissindex  R05Z
+ATC code  for 7680539080129 longer in swissindex  S01XZ
+ATC code  for 7680539360252 longer in swissindex  N05CZ
+ATC code  for 7680540270366 longer in swissindex  M09AZ
+ATC code  for 7680540450263 longer in swissindex  N05CZ
+ATC code  for 7680540560283 longer in swissindex  R05Z
+ATC code  for 7680541230192 longer in swissindex  R05Z
+ATC code  for 7680541240238 longer in swissindex  R05Z
+ATC code  for 7680541240313 longer in swissindex  R05Z
+ATC code  for 7680541270228 longer in swissindex  D01Z
+ATC code  for 7680541270303 longer in swissindex  D01Z
+ATC code  for 7680541320183 longer in swissindex  D01Z
+ATC code  for 7680541330229 longer in swissindex  A16AZ
+ATC code  for 7680541330304 longer in swissindex  A16AZ
+ATC code  for 7680541340112 longer in swissindex  M09AZ
+ATC code  for 7680541350180 longer in swissindex  D03AZ
+ATC code  for 7680541360141 longer in swissindex  D11AZ
+ATC code  for 7680542510170 longer in swissindex  A16AZ
+ATC code  for 7680542510255 longer in swissindex  A16AZ
+ATC code  for 7680543480106 longer in swissindex  A05CZ
+ATC code  for 7680543520277 longer in swissindex  C05Z
+ATC code  for 7680543520284 longer in swissindex  C05Z
+ATC code  for 7680543570364 longer in swissindex  N02BZ
+ATC code  for 7680543860281 longer in swissindex  A07XZ
+ATC code  for 7680543890196 longer in swissindex  D11AZ
+ATC code  for 7680545130382 longer in swissindex  R01Z
+ATC code  for 7680545190287 longer in swissindex  G04BZ
+ATC code  for 7680546780104 longer in swissindex  A16AZ
+ATC code  for 7680547440137 longer in swissindex  A05BZ
+ATC code  for 7680547440212 longer in swissindex  A05BZ
+ATC code  for 7680548520111 longer in swissindex  R05Z
+ATC code  for 7680549230163 longer in swissindex  R02AZ
+ATC code  for 7680549250208 longer in swissindex  G02CZ
+ATC code  for 7680549520165 longer in swissindex  D11AZ
+ATC code  for 7680549530041 longer in swissindex  R01Z
+ATC code  for 7680549600270 longer in swissindex  R01Z
+ATC code  for 7680549710283 longer in swissindex  N02BZ
+ATC code  for 7680549720169 longer in swissindex  N02BZ
+ATC code  for 7680549730120 longer in swissindex  N02BZ
+ATC code  for 7680549730205 longer in swissindex  N02BZ
+ATC code  for 7680550430064 longer in swissindex  S01XA99
+ATC code  for 7680550610220 longer in swissindex  C02KZ
+ATC code  for 7680550610244 longer in swissindex  C02KZ
+ATC code  for 7680550620014 longer in swissindex  N05CZ
+ATC code  for 7680550620038 longer in swissindex  N05CZ
+ATC code  for 7680550870020 longer in swissindex  D11AZ
+ATC code  for 7680550870044 longer in swissindex  D11AZ
+ATC code  for 7680551430025 longer in swissindex  M09AZ
+ATC code  for 7680551430049 longer in swissindex  M09AZ
+ATC code  for 7680552440016 longer in swissindex  R05Z
+ATC code  for 7680552480210 longer in swissindex  A16AZ
+ATC code  for 7680552480234 longer in swissindex  A16AZ
+ATC code  for 7680552500215 longer in swissindex  R05Z
+ATC code  for 7680552500239 longer in swissindex  R05Z
+ATC code  for 7680552540419 longer in swissindex  A16AZ
+ATC code  for 7680552810024 longer in swissindex  M09AZ
+ATC code  for 7680552810048 longer in swissindex  M09AZ
+ATC code  for 7680553000042 longer in swissindex  R01AX10
+ATC code  for 7680553090029 longer in swissindex  S01XZ
+ATC code  for 7680553260217 longer in swissindex  G02CZ
+ATC code  for 7680553260231 longer in swissindex  G02CZ
+ATC code  for 7680553280031 longer in swissindex  A16AZ
+ATC code  for 7680553310226 longer in swissindex  M09AZ
+ATC code  for 7680553310240 longer in swissindex  M09AZ
+ATC code  for 7680553350260 longer in swissindex  G04BZ
+ATC code  for 7680553350284 longer in swissindex  G04BZ
+ATC code  for 7680554440212 longer in swissindex  D11AZ
+ATC code  for 7680554450020 longer in swissindex  D11AZ
+ATC code  for 7680555200037 longer in swissindex  D03AX99
+ATC code  for 7680555500410 longer in swissindex  G04BZ
+ATC code  for 7680556400214 longer in swissindex  R01Z
+ATC code  for 7680556410220 longer in swissindex  R01Z
+ATC code  for 7680557670029 longer in swissindex  A13AZ
+ATC code  for 7680557870269 longer in swissindex  M09AZ
+ATC code  for 7680557870276 longer in swissindex  M09AZ
+ATC code  for 7680558390025 longer in swissindex  M09AZ
+ATC code  for 7680559930022 longer in swissindex  R02AZ
+ATC code  for 7680559940014 longer in swissindex  R05Z
+ATC code  for 7680560060015 longer in swissindex  R01Z
+ATC code  for 7680560310226 longer in swissindex  R05Z
+ATC code  for 7680560680015 longer in swissindex  C01EZ
+ATC code  for 7680560680039 longer in swissindex  C01EZ
+ATC code  for 7680560960018 longer in swissindex  R05Z
+ATC code  for 7680561130021 longer in swissindex  A08AZ
+ATC code  for 7680561310027 longer in swissindex  G02CZ
+ATC code  for 7680561380013 longer in swissindex  R05Z
+ATC code  for 7680561570025 longer in swissindex  R05Z
+ATC code  for 7680561580215 longer in swissindex  G02CZ
+ATC code  for 7680562170026 longer in swissindex  N05CZ
+ATC code  for 7680562830029 longer in swissindex  G02CX99
+ATC code  for 7680563880023 longer in swissindex  M09AZ
+ATC code  for 7680563890039 longer in swissindex  N06AX25
+ATC code  for 7680563910034 longer in swissindex  N05CZ
+ATC code  for 7680567090022 longer in swissindex  R01Z
+ATC code  for 7680567590027 longer in swissindex  M05BX99
+ATC code  for 7680567870020 longer in swissindex  M09AZ
+ATC code  for 7680567870044 longer in swissindex  M09AZ
+ATC code  for 7680570210028 longer in swissindex  M02AX10
+ATC code  for 7680570210042 longer in swissindex  M02AX10
+ATC code  for 7680570520011 longer in swissindex  A16AZ
+ATC code  for 7680570640016 longer in swissindex  G04BZ
+ATC code  for 7680571980012 longer in swissindex  N05CZ
+ATC code  for 7680574410011 longer in swissindex  D11AZ
+ATC code  for 7680574710425 longer in swissindex  N05CZ
+ATC code  for 7680575710011 longer in swissindex  N05CZ
+ATC code  for 7680575940012 longer in swissindex  D11AZ
+ATC code  for 7680575980018 longer in swissindex  N05CZ
+ATC code  for 7680576650019 longer in swissindex  N05CZ
+ATC code  for 7680577590017 longer in swissindex  R05Z
+ATC code  for 7680578020025 longer in swissindex  R05Z
+ATC code  for 7680578020032 longer in swissindex  R05Z
+ATC code  for 7680581450031 longer in swissindex  N02BZ
+ATC code  for 7680582690023 longer in swissindex  M09AZ
+ATC code  for 7680585220012 longer in swissindex  N05CZ
+ATC code  for 7680586530011 longer in swissindex  C01EZ
+ATC code  for 7680587140028 longer in swissindex  N05CZ
+ATC code  for 7680587410015 longer in swissindex  C01EZ
+ATC code  for 7680590570010 longer in swissindex  A01AZ
+ATC code  for 7680590800018 longer in swissindex  G02CZ
+ATC code  for 7680592900020 longer in swissindex  A01AZ
+ATC code  for 7680603780016 longer in swissindex  S01XZ
+ATC code  for 7680603790015 longer in swissindex  S01XZ
+ATC code  for 7680603800011 longer in swissindex  S01XZ
+ATC code  for 7680603810010 longer in swissindex  S01XZ
+ATC code  for 7680612070016 longer in swissindex  N05CZ
+ATC code  for 7680620380015 longer in swissindex  V03ZB03
+ATC code  for 7680621890018 longer in swissindex  V03ZB03
+ATC code  for 7680621890025 longer in swissindex  V03ZB03
+ATC code  for 7680622420016 longer in swissindex  N05CZ
+ATC code  for 7680622490019 longer in swissindex  N05CZ
+ATC code  for 7680622840012 longer in swissindex  M09AZ
+ATC code  for 7680622840029 longer in swissindex  M09AZ
+ATC code  for 7680622850011 longer in swissindex  M09AZ
+ATC code  for 7680622850028 longer in swissindex  M09AZ
+ATC code  for 7680623510020 longer in swissindex  R05Z
+ATC code  for 7680623520012 longer in swissindex  R05Z
+ATC code  for 7680624320017 longer in swissindex  M09AZ
+ATC code  for 7680624320024 longer in swissindex  M09AZ
+ATC code  for 7680624700017 longer in swissindex  C04AZ
+ATC code  for 7680624760011 longer in swissindex  G04BZ
+ATC code  for 7680624770010 longer in swissindex  G04BZ
+ATC code  for 7680624780026 longer in swissindex  N05CZ
+ATC code  for 7680624790018 longer in swissindex  N05CZ
+ATC code  for 7680625120012 longer in swissindex  G02CZ
+ATC code  for 7680625830010 longer in swissindex  R05Z
+ATC code  for 7680626670011 longer in swissindex  V03ZB01
+ATC code  for 7680626670028 longer in swissindex  V03ZB01
+ATC code  for 7680628540015 longer in swissindex  N05CY
+ATC code  for 7680630180025 longer in swissindex  V03ZA01
+ATC code  for 7680631470019 longer in swissindex  R01AX10
+ATC code  for 7680651460014 longer in swissindex  R05Z
+ATC code A01A for 7680107870176 longer in swissindex  A01AD11
+ATC code A02X for 7680089090241 longer in swissindex  A03AX13
+ATC code A02X for 7680089100490 longer in swissindex  A03AX13
+ATC code A03 for 7680416780388 longer in swissindex  A03AX99
+ATC code A03A for 7680416690120 longer in swissindex  A03AX99
+ATC code A03AX for 7680118330126 longer in swissindex  A03AX99
+ATC code A03AX for 7680449050359 longer in swissindex  A03AX99
+ATC code A04A for 7680183830125 longer in swissindex  R06AE55
+ATC code A04A for 7680183830552 longer in swissindex  R06AE55
+ATC code A04A for 7680235600119 longer in swissindex  R06AE55
+ATC code A04A for 7680251270488 longer in swissindex  R06AE55
+ATC code A04A for 7680407700388 longer in swissindex  R06AE55
+ATC code A04A for 7680431940460 longer in swissindex  R06AA02
+ATC code A04A for 7680614610012 longer in swissindex  R06AE55
+ATC code A04AD for 7680450150338 longer in swissindex  A04AD99
+ATC code A04AD for 7680450150413 longer in swissindex  A04AD99
+ATC code A04AD for 7680579130037 longer in swissindex  A04AD12
+ATC code A05 for 7680521200481 longer in swissindex  A05AX99
+ATC code A05 for 7680521200498 longer in swissindex  A05AX99
+ATC code A05A for 7680300380373 longer in swissindex  A05AX99
+ATC code A05AX for 7680102650612 longer in swissindex  A05AX99
+ATC code A05AX for 7680107860108 longer in swissindex  A05AX99
+ATC code A05AX for 7680107860290 longer in swissindex  A05AX99
+ATC code A05AX for 7680125660421 longer in swissindex  A05AX99
+ATC code A05AX for 7680125660438 longer in swissindex  A05AX99
+ATC code A05AX for 7680130770108 longer in swissindex  A05AX99
+ATC code A05AX for 7680166150134 longer in swissindex  A05AX99
+ATC code A05AX for 7680166150219 longer in swissindex  A05AX99
+ATC code A05AX for 7680166150486 longer in swissindex  A05AX99
+ATC code A05AX for 7680252650258 longer in swissindex  A16AX99
+ATC code A05AX for 7680296530387 longer in swissindex  A05AX99
+ATC code A05AX for 7680339770183 longer in swissindex  A05AX99
+ATC code A05AX for 7680339770268 longer in swissindex  A05AX99
+ATC code A05AX for 7680473400120 longer in swissindex  A05AX99
+ATC code A05AX for 7680514930364 longer in swissindex  A05AX99
+ATC code A05AX for 7680533550130 longer in swissindex  A05AX99
+ATC code A05AX for 7680533550215 longer in swissindex  A05AX99
+ATC code A05AX for 7680559380056 longer in swissindex  A05AX99
+ATC code A05AX for 7680559380230 longer in swissindex  A05AX99
+ATC code A05AX for 7680559590240 longer in swissindex  A05AX99
+ATC code A05AX for 7680559590301 longer in swissindex  A05AX99
+ATC code A05AX for 7680570370067 longer in swissindex  A05AX99
+ATC code A05AX for 7680570370142 longer in swissindex  A05AX99
+ATC code A05BA for 7680386250010 longer in swissindex  A05BA99
+ATC code A06 for 7680549480186 longer in swissindex  A06AB56
+ATC code A06 for 7680561970245 longer in swissindex  A06AB20
+ATC code A06AB for 7680211090101 longer in swissindex  A06AX02
+ATC code A06AB for 7680211090378 longer in swissindex  A06AX02
+ATC code A06AB for 7680211090538 longer in swissindex  A06AX02
+ATC code A06AB for 7680549450196 longer in swissindex  A06AB99
+ATC code A06AB for 7680554570209 longer in swissindex  A06AB99
+ATC code A06AB for 7680554570216 longer in swissindex  A06AB99
+ATC code A06AD for 7680542850276 longer in swissindex  A06AD99
+ATC code A07C for 7680446440450 longer in swissindex  A07CA
+ATC code A07X for 7680474010113 longer in swissindex  A16AZ
+ATC code A07XA for 7680586480019 longer in swissindex  A07XA99
+ATC code A08AB for 7680466990171 longer in swissindex  A08AB99
+ATC code A08AB for 7680505860144 longer in swissindex  A10BX01
+ATC code A11GB for 7680546580537 longer in swissindex  A11GB99
+ATC code A11GB for 7680546580544 longer in swissindex  A11GB99
+ATC code A11GB for 7680546590246 longer in swissindex  A11GB99
+ATC code A12AX for 7680118790470 longer in swissindex  A12AX00
+ATC code A12AX for 7680118790555 longer in swissindex  A12AX00
+ATC code A12AX for 7680123370018 longer in swissindex  A12AX00
+ATC code A12AX for 7680123370278 longer in swissindex  A12AX00
+ATC code A12AX for 7680190350180 longer in swissindex  A12AX00
+ATC code A12AX for 7680536281017 longer in swissindex  A12AX00
+ATC code A12AX for 7680536281031 longer in swissindex  A12AX00
+ATC code A12AX for 7680536281116 longer in swissindex  A12AX00
+ATC code A12AX for 7680536281130 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290030 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290054 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290283 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290368 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290443 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290528 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290603 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290795 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290870 longer in swissindex  A12AX00
+ATC code A12AX for 7680539290955 longer in swissindex  A12AX00
+ATC code A12AX for 7680539291099 longer in swissindex  A12AX00
+ATC code A12AX for 7680539291204 longer in swissindex  A12AX00
+ATC code A12AX for 7680539291211 longer in swissindex  A12AX00
+ATC code A12AX for 7680539291228 longer in swissindex  A12AX00
+ATC code A12AX for 7680539291235 longer in swissindex  A12AX00
+ATC code A12AX for 7680548220738 longer in swissindex  A12AX00
+ATC code A12AX for 7680548220745 longer in swissindex  A12AX00
+ATC code A12AX for 7680548220752 longer in swissindex  A12AX00
+ATC code A12AX for 7680548220769 longer in swissindex  A12AX00
+ATC code A12AX for 7680548220776 longer in swissindex  A12AX00
+ATC code A12AX for 7680548220783 longer in swissindex  A12AX00
+ATC code A12AX for 7680548220790 longer in swissindex  A12AX00
+ATC code A12AX for 7680548220806 longer in swissindex  A12AX00
+ATC code A12AX for 7680548220813 longer in swissindex  A12AX00
+ATC code A12AX for 7680557550246 longer in swissindex  A12AX00
+ATC code A12AX for 7680557550260 longer in swissindex  A12AX00
+ATC code A12AX for 7680557550628 longer in swissindex  A12AX00
+ATC code A12AX for 7680557550642 longer in swissindex  A12AX00
+ATC code A12AX for 7680557600316 longer in swissindex  A12AX00
+ATC code A12AX for 7680557600354 longer in swissindex  A12AX00
+ATC code A12AX for 7680557600415 longer in swissindex  A12AX00
+ATC code A12AX for 7680557600453 longer in swissindex  A12AX00
+ATC code A12AX for 7680557610124 longer in swissindex  A12AX00
+ATC code A12AX for 7680557610155 longer in swissindex  A12AX00
+ATC code A12AX for 7680569550227 longer in swissindex  A12AX00
+ATC code A12AX for 7680590960040 longer in swissindex  A12AX00
+ATC code A12AX for 7680590960057 longer in swissindex  A12AX00
+ATC code A12AX for 7680590960064 longer in swissindex  A12AX00
+ATC code A12AX for 7680613630011 longer in swissindex  A12AX00
+ATC code A12AX for 7680613630028 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000017 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000024 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000031 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000048 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000055 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000062 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000079 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000086 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000093 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000109 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000116 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000123 longer in swissindex  A12AX00
+ATC code A12AX for 7680632000130 longer in swissindex  A12AX00
+ATC code A12CC for 7680468710180 longer in swissindex  A12CC08
+ATC code A12CX for 7680436760599 longer in swissindex  B05XA31
+ATC code A13 for 7680498260280 longer in swissindex  N06DX02
+ATC code A13 for 7680498260365 longer in swissindex  N06DX02
+ATC code A13A for 7680263100278 longer in swissindex  A11EX
+ATC code A13A for 7680529120323 longer in swissindex  N06DX02
+ATC code A16 for 7680470730220 longer in swissindex  A13AZ
+ATC code A16AA for 7680532150171 longer in swissindex  A11GB99
+ATC code A16AA for 7680532150256 longer in swissindex  A11GB99
+ATC code A16AA for 7680551810049 longer in swissindex  A11GB99
+ATC code A16AA for 7680551810087 longer in swissindex  A11GB99
+ATC code A16AX for 7680100740452 longer in swissindex  A16AX99
+ATC code A16AX for 7680105230958 longer in swissindex  A16AX99
+ATC code A16AX for 7680105231092 longer in swissindex  A16AX99
+ATC code A16AX for 7680161790434 longer in swissindex  A16AX99
+ATC code A16AX for 7680161790519 longer in swissindex  A16AX99
+ATC code A16AX for 7680170970674 longer in swissindex  A16AX99
+ATC code A16AX for 7680170970681 longer in swissindex  A16AX99
+ATC code A16AX for 7680170970698 longer in swissindex  A16AX99
+ATC code A16AX for 7680170970704 longer in swissindex  A16AX99
+ATC code A16AX for 7680170970728 longer in swissindex  A16AX99
+ATC code A16AX for 7680179810018 longer in swissindex  A16AX99
+ATC code A16AX for 7680179810568 longer in swissindex  A16AX99
+ATC code A16AX for 7680218610654 longer in swissindex  A16AX99
+ATC code A16AX for 7680218610739 longer in swissindex  A16AX99
+ATC code A16AX for 7680218610814 longer in swissindex  A16AX99
+ATC code A16AX for 7680218611033 longer in swissindex  A16AX99
+ATC code A16AX for 7680218611385 longer in swissindex  A16AX99
+ATC code A16AX for 7680218611392 longer in swissindex  A16AX99
+ATC code A16AX for 7680262930012 longer in swissindex  A16AX99
+ATC code A16AX for 7680262930494 longer in swissindex  A16AX99
+ATC code A16AX for 7680300410469 longer in swissindex  A16AX99
+ATC code A16AX for 7680394470103 longer in swissindex  A16AX99
+ATC code A16AX for 7680416730369 longer in swissindex  A16AX99
+ATC code A16AX for 7680416850265 longer in swissindex  A16AX99
+ATC code A16AX for 7680416880255 longer in swissindex  A16AX99
+ATC code A16AX for 7680445540113 longer in swissindex  A16AX99
+ATC code A16AX for 7680452140283 longer in swissindex  A16AX99
+ATC code A16AX for 7680452140368 longer in swissindex  A16AX99
+ATC code A16AX for 7680456820136 longer in swissindex  A16AX99
+ATC code A16AX for 7680462860140 longer in swissindex  A16AX99
+ATC code A16AX for 7680473390148 longer in swissindex  N05CM99
+ATC code A16AX for 7680478270438 longer in swissindex  A16AX99
+ATC code A16AX for 7680478270513 longer in swissindex  A16AX99
+ATC code A16AX for 7680478270780 longer in swissindex  A16AX99
+ATC code A16AX for 7680539730192 longer in swissindex  A16AX99
+ATC code A16AX for 7680593750013 longer in swissindex  A16AX99
+ATC code B01AC for 7680586960016 longer in swissindex  B01AC30
+ATC code B01AC for 7680586960023 longer in swissindex  B01AC30
+ATC code B02BC for 7680612780014 longer in swissindex  B02BC30
+ATC code B02BC for 7680612780021 longer in swissindex  B02BC30
+ATC code B02BC for 7680612780038 longer in swissindex  B02BC30
+ATC code C01E for 7680445570103 longer in swissindex  C01EB04
+ATC code C01EB for 7680478360269 longer in swissindex  C01EB04
+ATC code C01EX for 7680100290582 longer in swissindex  C01EB04
+ATC code C01EX for 7680100290667 longer in swissindex  C01EB04
+ATC code C01EX for 7680436300337 longer in swissindex  C01EB04
+ATC code C01EX for 7680503510348 longer in swissindex  C01EB04
+ATC code C01EX for 7680503510355 longer in swissindex  C01EB04
+ATC code C01EX for 7680503510362 longer in swissindex  C01EB04
+ATC code C02KX for 7680604110010 longer in swissindex  G04BE03
+ATC code C04AX for 7680229580540 longer in swissindex  C04AX99
+ATC code C05B for 7680379790820 longer in swissindex  C05CX99
+ATC code C05B for 7680379790905 longer in swissindex  C05CX99
+ATC code C05B for 7680379791049 longer in swissindex  C05CX99
+ATC code C05B for 7680379791124 longer in swissindex  C05CX99
+ATC code C05BA for 7680161050583 longer in swissindex  C05BA01
+ATC code C05BA for 7680161050743 longer in swissindex  C05BA01
+ATC code C05CA for 7680347550869 longer in swissindex  C05CX03
+ATC code C05CA for 7680347550944 longer in swissindex  C05CX03
+ATC code C05CA for 7680347551088 longer in swissindex  C05CX03
+ATC code C05CA for 7680484080281 longer in swissindex  C05CA01
+ATC code C05CA for 7680542380452 longer in swissindex  C05CX03
+ATC code C05CA for 7680542380537 longer in swissindex  C05CX03
+ATC code C05CA for 7680542380612 longer in swissindex  C05CX03
+ATC code C05CA for 7680575780212 longer in swissindex  C05CA01
+ATC code C05CA for 7680575780236 longer in swissindex  C05CA01
+ATC code C05CA for 7680575780250 longer in swissindex  C05CA01
+ATC code C05CX for 7680236370141 longer in swissindex  C05CX03
+ATC code C05CX for 7680236370226 longer in swissindex  C05CX03
+ATC code C05CX for 7680360730125 longer in swissindex  C05CX99
+ATC code C05CX for 7680360730200 longer in swissindex  C05CX99
+ATC code C05CX for 7680360740193 longer in swissindex  C05CX99
+ATC code C05CX for 7680360740278 longer in swissindex  C05CX99
+ATC code C05CX for 7680360750239 longer in swissindex  C05CX99
+ATC code C05CX for 7680484060177 longer in swissindex  C05CX03
+ATC code C05CX for 7680485450199 longer in swissindex  C05CX99
+ATC code C05CX for 7680495060319 longer in swissindex  C05CX99
+ATC code C05CX for 7680495060586 longer in swissindex  C05CX99
+ATC code C05CX for 7680499690154 longer in swissindex  C05CX99
+ATC code C05CX for 7680499690239 longer in swissindex  C05CX99
+ATC code C05CX for 7680534590210 longer in swissindex  C05CX03
+ATC code C05CX for 7680543070123 longer in swissindex  C05CX99
+ATC code C05CX for 7680543070208 longer in swissindex  C05CX99
+ATC code C05CX for 7680559320038 longer in swissindex  C05CX03
+ATC code C05CX for 7680559320045 longer in swissindex  C05CX03
+ATC code C05CX for 7680573640099 longer in swissindex  C05CX03
+ATC code C05CX for 7680573640112 longer in swissindex  C05CX03
+ATC code C05CX for 7680577160012 longer in swissindex  C05CX99
+ATC code C05CX for 7680577160029 longer in swissindex  C05CX99
+ATC code C05CX for 7680632140010 longer in swissindex  C05CX99
+ATC code C05CX for 7680632140027 longer in swissindex  C05CX99
+ATC code C09DB for 7680612700012 longer in swissindex  C09DB04
+ATC code C09DB for 7680612700029 longer in swissindex  C09DB04
+ATC code C09DB for 7680612700050 longer in swissindex  C09DB04
+ATC code C09DB for 7680612700067 longer in swissindex  C09DB04
+ATC code C09DB for 7680612700074 longer in swissindex  C09DB04
+ATC code C09DB for 7680612700081 longer in swissindex  C09DB04
+ATC code C10AC for 7680496320108 longer in swissindex  C10AC01
+ATC code C10AX for 7680488010130 longer in swissindex  C10AX99
+ATC code C10AX for 7680488010215 longer in swissindex  C10AX99
+ATC code D02A for 7680408410019 longer in swissindex  D02AE51
+ATC code D03 for 7680092440187 longer in swissindex  D02AB
+ATC code D03 for 7680108230214 longer in swissindex  D03AX99
+ATC code D03 for 7680115650265 longer in swissindex  D05AA
+ATC code D03 for 7680176640267 longer in swissindex  D02AB
+ATC code D03 for 7680257900495 longer in swissindex  D03AX99
+ATC code D03 for 7680554700019 longer in swissindex  D03AX99
+ATC code D03 for 7680554700033 longer in swissindex  D03AX99
+ATC code D03A for 7680525620315 longer in swissindex  D03AX99
+ATC code D03A for 7680525620582 longer in swissindex  D03AX99
+ATC code D03AX for 7680086530382 longer in swissindex  D03AX99
+ATC code D03AX for 7680086530467 longer in swissindex  D03AX99
+ATC code D03AX for 7680086530542 longer in swissindex  D03AX99
+ATC code D03AX for 7680094390138 longer in swissindex  D03AX99
+ATC code D03AX for 7680094390480 longer in swissindex  D03AX99
+ATC code D03AX for 7680102230166 longer in swissindex  D03AX99
+ATC code D03AX for 7680102230241 longer in swissindex  D03AX99
+ATC code D03AX for 7680125370344 longer in swissindex  D03AX99
+ATC code D03AX for 7680125370429 longer in swissindex  D03AX99
+ATC code D03AX for 7680125370771 longer in swissindex  D03AX99
+ATC code D03AX for 7680133580018 longer in swissindex  D08AL30
+ATC code D03AX for 7680148090236 longer in swissindex  D03AX99
+ATC code D03AX for 7680167100244 longer in swissindex  D03AX99
+ATC code D03AX for 7680167100329 longer in swissindex  D03AX99
+ATC code D03AX for 7680167100756 longer in swissindex  D03AX99
+ATC code D03AX for 7680168580212 longer in swissindex  D03AX99
+ATC code D03AX for 7680168580564 longer in swissindex  D03AX99
+ATC code D03AX for 7680168580649 longer in swissindex  D03AX99
+ATC code D03AX for 7680201280116 longer in swissindex  D03AX99
+ATC code D03AX for 7680263950118 longer in swissindex  D03AX99
+ATC code D03AX for 7680263960186 longer in swissindex  D03AX99
+ATC code D03AX for 7680327470279 longer in swissindex  C05BA53
+ATC code D03AX for 7680327470354 longer in swissindex  C05BA53
+ATC code D03AX for 7680327470439 longer in swissindex  C05BA53
+ATC code D03AX for 7680385490141 longer in swissindex  D03AX99
+ATC code D03AX for 7680434540995 longer in swissindex  D03AX99
+ATC code D03AX for 7680461800628 longer in swissindex  D03AX99
+ATC code D03AX for 7680477370375 longer in swissindex  D04AB01
+ATC code D03AX for 7680498170107 longer in swissindex  D03AX99
+ATC code D04AB for 7680251640168 longer in swissindex  A01AD11
+ATC code D04AB for 7680251640243 longer in swissindex  A01AD11
+ATC code D04AX for 7680191370231 longer in swissindex  D04AA32
+ATC code D04AX for 7680253980170 longer in swissindex  D04AB01
+ATC code D04AX for 7680253980255 longer in swissindex  D04AB01
+ATC code D04AX for 7680413120170 longer in swissindex  D04AB01
+ATC code D04AX for 7680427780520 longer in swissindex  D04AA02
+ATC code D04AX for 7680427780605 longer in swissindex  D04AA02
+ATC code D04AX for 7680427780797 longer in swissindex  D04AA02
+ATC code D04AX for 7680448670282 longer in swissindex  D04AB01
+ATC code D04AX for 7680448670367 longer in swissindex  D04AB01
+ATC code D04AX for 7680466940152 longer in swissindex  D04AB01
+ATC code D04AX for 7680490340164 longer in swissindex  D04AB01
+ATC code D04AX for 7680520040125 longer in swissindex  D01AE54
+ATC code D04AX for 7680520040200 longer in swissindex  D01AE54
+ATC code D04AX for 7680585920011 longer in swissindex  D04AB01
+ATC code D04AX for 7680585920028 longer in swissindex  D04AB01
+ATC code D04AX for 7680608090011 longer in swissindex  D04AB01
+ATC code D04AX for 7680608100031 longer in swissindex  D04AB01
+ATC code D04AX for 7680629990017 longer in swissindex  D04AB01
+ATC code D04AX for 7680655760028 longer in swissindex  D04AB01
+ATC code D06AX for 7680248840151 longer in swissindex  D06AX04
+ATC code D07BC for 7680450110110 longer in swissindex  D07BC99
+ATC code D07BC for 7680450110387 longer in swissindex  D07BC99
+ATC code D08AX for 7680378160198 longer in swissindex  D08AX99
+ATC code D08AX for 7680441570398 longer in swissindex  D08AX53
+ATC code D08AX for 7680441570473 longer in swissindex  D08AX53
+ATC code D08AX for 7680441570558 longer in swissindex  D08AX53
+ATC code D08AX for 7680441570633 longer in swissindex  D08AX53
+ATC code D08AX for 7680441570718 longer in swissindex  D08AX53
+ATC code D08AX for 7680491870257 longer in swissindex  D08AJ57
+ATC code D08AX for 7680491870264 longer in swissindex  D08AJ57
+ATC code D08AX for 7680498530840 longer in swissindex  D08AJ99
+ATC code D08AX for 7680498531229 longer in swissindex  D08AJ99
+ATC code D08AX for 7680498531304 longer in swissindex  D08AJ99
+ATC code D08AX for 7680498531496 longer in swissindex  D08AJ99
+ATC code D08AX for 7680498531571 longer in swissindex  D08AJ99
+ATC code D11AX for 7680140670191 longer in swissindex  D04AB01
+ATC code D11AX for 7680309450268 longer in swissindex  D11AX99
+ATC code D11AX for 7680315930266 longer in swissindex  M02AX10
+ATC code D11AX for 7680315930341 longer in swissindex  M02AX10
+ATC code D11AX for 7680315930426 longer in swissindex  M02AX10
+ATC code D11AX for 7680322380252 longer in swissindex  D11AX99
+ATC code D11AX for 7680372600379 longer in swissindex  D03AX03
+ATC code D11AX for 7680372600454 longer in swissindex  D03AX03
+ATC code D11AX for 7680378850105 longer in swissindex  M02AA09
+ATC code D11AX for 7680378850297 longer in swissindex  M02AA09
+ATC code D11AX for 7680402310216 longer in swissindex  D03AX99
+ATC code D11AX for 7680402310803 longer in swissindex  D03AX99
+ATC code D11AX for 7680402310995 longer in swissindex  D03AX99
+ATC code D11AX for 7680413250112 longer in swissindex  M02AA09
+ATC code D11AX for 7680413250389 longer in swissindex  M02AA09
+ATC code D11AX for 7680426840164 longer in swissindex  D07XA02
+ATC code D11AX for 7680432320100 longer in swissindex  D03AX05
+ATC code D11AX for 7680432320292 longer in swissindex  D03AX05
+ATC code D11AX for 7680497950175 longer in swissindex  D11AX99
+ATC code D11AX for 7680520390299 longer in swissindex  D11AX99
+ATC code D11AX for 7680532410183 longer in swissindex  D11AX99
+ATC code D11AX for 7680533190176 longer in swissindex  D11AX99
+ATC code D11AX for 7680553690069 longer in swissindex  D11AX99
+ATC code D11AX for 7680569670031 longer in swissindex  D11AX99
+ATC code G01AX for 7680500010162 longer in swissindex  G01AX99
+ATC code G01AX for 7680500010247 longer in swissindex  G01AX99
+ATC code G02CA for 7680444380116 longer in swissindex  R03CC05
+ATC code G02CA for 7680444380468 longer in swissindex  R03CC05
+ATC code G02CX for 7680466970142 longer in swissindex  G02CX99
+ATC code G02CX for 7680509650673 longer in swissindex  G02CX03
+ATC code G02CX for 7680509650680 longer in swissindex  G02CX03
+ATC code G02CX for 7680540980142 longer in swissindex  G02CX99
+ATC code G02CX for 7680561960093 longer in swissindex  G02CX04
+ATC code G02CX for 7680561960338 longer in swissindex  G02CX04
+ATC code G02CX for 7680563550223 longer in swissindex  G02CX04
+ATC code G02CX for 7680563550322 longer in swissindex  G02CX04
+ATC code G02CX for 7680577670016 longer in swissindex  G02CX04
+ATC code G02CX for 7680577670030 longer in swissindex  G02CX04
+ATC code G02CX for 7680616640017 longer in swissindex  G02CX99
+ATC code G02CX for 7680616640024 longer in swissindex  G02CX99
+ATC code G02CX for 7680629880011 longer in swissindex  G02CX99
+ATC code G02CX for 7680629880028 longer in swissindex  G02CX99
+ATC code G03 for 7680626530018 longer in swissindex  G03XB02
+ATC code G03CC for 7680473580198 longer in swissindex  G03CC99
+ATC code G03CC for 7680473580273 longer in swissindex  G03CC99
+ATC code G03G for 7680581540015 longer in swissindex  G03GA30
+ATC code G03G for 7680581540053 longer in swissindex  G03GA30
+ATC code G04 for 7680424410154 longer in swissindex  B05CA02
+ATC code G04BX for 7680005980014 longer in swissindex  G04BX99
+ATC code G04BX for 7680005980021 longer in swissindex  G04BX99
+ATC code G04BX for 7680108110585 longer in swissindex  G04BX99
+ATC code G04BX for 7680180220448 longer in swissindex  G04BX99
+ATC code G04BX for 7680240700187 longer in swissindex  G04BX99
+ATC code G04BX for 7680240700262 longer in swissindex  G04BX99
+ATC code G04BX for 7680252550381 longer in swissindex  G04BX99
+ATC code G04BX for 7680252580296 longer in swissindex  G04BX99
+ATC code G04BX for 7680252760278 longer in swissindex  G04BX99
+ATC code G04BX for 7680300420345 longer in swissindex  G04BX99
+ATC code G04BX for 7680317080280 longer in swissindex  G04BX99
+ATC code G04BX for 7680317080440 longer in swissindex  G04BX99
+ATC code G04BX for 7680416670283 longer in swissindex  G04BX99
+ATC code G04BX for 7680416680244 longer in swissindex  G04BX99
+ATC code G04BX for 7680416840389 longer in swissindex  G04BX99
+ATC code G04BX for 7680433630192 longer in swissindex  G04BX99
+ATC code G04BX for 7680445500162 longer in swissindex  G04BX99
+ATC code G04BX for 7680462810121 longer in swissindex  G04BX99
+ATC code G04BX for 7680485600334 longer in swissindex  G04BX99
+ATC code G04BX for 7680485600341 longer in swissindex  G04BX99
+ATC code G04BX for 7680497930146 longer in swissindex  G04BX99
+ATC code G04BX for 7680498600130 longer in swissindex  G04BX99
+ATC code G04BX for 7680514870448 longer in swissindex  G04BX99
+ATC code G04BX for 7680514870455 longer in swissindex  G04BX99
+ATC code G04BX for 7680519150385 longer in swissindex  G04BX99
+ATC code G04BX for 7680540240109 longer in swissindex  G04BX99
+ATC code G04BX for 7680540240116 longer in swissindex  G04BX99
+ATC code G04BX for 7680541760231 longer in swissindex  G04BX99
+ATC code G04BX for 7680541760316 longer in swissindex  G04BX99
+ATC code G04BX for 7680581400012 longer in swissindex  G04BX99
+ATC code G04BX for 7680581400029 longer in swissindex  G04BX99
+ATC code G04BX for 7680588260015 longer in swissindex  G04BX99
+ATC code G04BX for 7680654480019 longer in swissindex  G04BX99
+ATC code G04BX for 7680654800015 longer in swissindex  G04BX99
+ATC code G04C for 7680600950023 longer in swissindex  G04CA52
+ATC code G04C for 7680600950030 longer in swissindex  G04CA52
+ATC code G04C for 7680600950078 longer in swissindex  G04CA52
+ATC code G04CX for 7680563410022 longer in swissindex  G04CX99
+ATC code G04CX for 7680585370021 longer in swissindex  G04CX99
+ATC code G04CX for 7680585370038 longer in swissindex  G04CX99
+ATC code H01A for 7680571440011 longer in swissindex  H01AX01
+ATC code H01A for 7680571440035 longer in swissindex  H01AX01
+ATC code H01A for 7680571440073 longer in swissindex  H01AX01
+ATC code J05A for 7680632180016 longer in swissindex  J05AB
+ATC code J06AA for 7680002820016 longer in swissindex  J06AA99
+ATC code J06AA for 7680002880010 longer in swissindex  J06AA99
+ATC code J06AA for 7680002880027 longer in swissindex  J06AA99
+ATC code J06AA for 7680003090012 longer in swissindex  J06AA99
+ATC code J06AA for 7680003130015 longer in swissindex  J06AA99
+ATC code J06AA for 7680003140014 longer in swissindex  J06AA99
+ATC code J06AA for 7680003150013 longer in swissindex  J06AA99
+ATC code J06AA for 7680003150020 longer in swissindex  J06AA99
+ATC code J06AA for 7680003350024 longer in swissindex  J06AA99
+ATC code J06AA for 7680003390020 longer in swissindex  J06AA99
+ATC code J07AN for 7680006960015 longer in swissindex  J07AN01
+ATC code L01BC for 7680573800011 longer in swissindex  L01BC07
+ATC code L01CD for 7680615430015 longer in swissindex  L01CD04
+ATC code L01XX for 7680626760019 longer in swissindex  L01XX44
+ATC code L01XX for 7680626760026 longer in swissindex  L01XX44
+ATC code L02BX for 7680594550032 longer in swissindex  L02BX02
+ATC code L02BX for 7680594550049 longer in swissindex  L02BX02
+ATC code L02BX for 7680630400017 longer in swissindex  L02BB04
+ATC code L03AB for 7680621780012 longer in swissindex  L03AB07
+ATC code M01 for 7680394480355 longer in swissindex  N02BG99
+ATC code M01AX for 7680560820336 longer in swissindex  N02BG99
+ATC code M01AX for 7680564250016 longer in swissindex  M01AX99
+ATC code M01AX for 7680570350014 longer in swissindex  M01AX99
+ATC code M01AX for 7680570350021 longer in swissindex  M01AX99
+ATC code M01AX for 7680570510029 longer in swissindex  M01AX99
+ATC code M01AX for 7680570510036 longer in swissindex  M01AX99
+ATC code M01AX for 7680578710018 longer in swissindex  M01AX99
+ATC code M01AX for 7680578710025 longer in swissindex  M01AX99
+ATC code M01AX for 7680578710032 longer in swissindex  M01AX99
+ATC code M01AX for 7680582720010 longer in swissindex  M01AX99
+ATC code M01AX for 7680582720027 longer in swissindex  M01AX99
+ATC code M01AX for 7680624540019 longer in swissindex  M01AX99
+ATC code M02AA for 7680370900273 longer in swissindex  M02AA99
+ATC code M02AA for 7680370900280 longer in swissindex  M02AA99
+ATC code M02AA for 7680446150618 longer in swissindex  M02AA99
+ATC code M02AA for 7680446150885 longer in swissindex  M02AA99
+ATC code M02AA for 7680454430276 longer in swissindex  M02AA99
+ATC code M02AA for 7680454430351 longer in swissindex  M02AA99
+ATC code M02AA for 7680572780017 longer in swissindex  M02AA99
+ATC code M02AA for 7680573470061 longer in swissindex  M02AA15
+ATC code M02AA for 7680573470085 longer in swissindex  M02AA15
+ATC code M02AA for 7680584080211 longer in swissindex  M02AA99
+ATC code M02AX for 7680207130118 longer in swissindex  M02AX10
+ATC code M02AX for 7680207130385 longer in swissindex  M02AX10
+ATC code M02AX for 7680207130392 longer in swissindex  M02AX10
+ATC code M02AX for 7680273480254 longer in swissindex  M02AX10
+ATC code M02AX for 7680590520015 longer in swissindex  M02AX10
+ATC code M02AX for 7680590520022 longer in swissindex  M02AX10
+ATC code M03BX for 7680626440034 longer in swissindex  N02BG10
+ATC code M05BB for 7680573860015 longer in swissindex  M05BB03
+ATC code M05BB for 7680573860039 longer in swissindex  M05BB03
+ATC code M05BB for 7680573860046 longer in swissindex  M05BB03
+ATC code M05BB for 7680573860053 longer in swissindex  M05BB03
+ATC code M09AX for 7680580090061 longer in swissindex  M01AX99
+ATC code M09AX for 7680580090078 longer in swissindex  M01AX99
+ATC code M09AX for 7680580090085 longer in swissindex  M01AX99
+ATC code N02 for 7680410800273 longer in swissindex  M02AC
+ATC code N02CC for 7680552180035 longer in swissindex  N02CC06
+ATC code N02CC for 7680552180059 longer in swissindex  N02CC06
+ATC code N02CC for 7680552180073 longer in swissindex  N02CC06
+ATC code N02CC for 7680552180097 longer in swissindex  N02CC06
+ATC code N02CC for 7680552180110 longer in swissindex  N02CC06
+ATC code N05C for 7680536610176 longer in swissindex  N05CX99
+ATC code N05C for 7680536610251 longer in swissindex  N05CX99
+ATC code N05C for 7680536610336 longer in swissindex  N05CX99
+ATC code N05C for 7680536610411 longer in swissindex  N05CX99
+ATC code N05C for 7680540000147 longer in swissindex  N05CX99
+ATC code N05C for 7680540000222 longer in swissindex  N05CX99
+ATC code N05C for 7680541520194 longer in swissindex  N05CX99
+ATC code N05C for 7680541520279 longer in swissindex  N05CX99
+ATC code N05C for 7680541520354 longer in swissindex  N05CX99
+ATC code N05C for 7680541520439 longer in swissindex  N05CX99
+ATC code N05CM for 7680353060499 longer in swissindex  N05CX99
+ATC code N05CM for 7680353060505 longer in swissindex  N05CX99
+ATC code N05CM for 7680366630658 longer in swissindex  N05CM99
+ATC code N05CM for 7680367360110 longer in swissindex  R06AA02
+ATC code N05CM for 7680367360387 longer in swissindex  R06AA02
+ATC code N05CM for 7680395360137 longer in swissindex  N05CM99
+ATC code N05CM for 7680395410252 longer in swissindex  N05CM99
+ATC code N05CM for 7680416760274 longer in swissindex  N05CM99
+ATC code N05CM for 7680416770150 longer in swissindex  N05CM99
+ATC code N05CM for 7680416870102 longer in swissindex  A16AX99
+ATC code N05CM for 7680419250352 longer in swissindex  R06AA02
+ATC code N05CM for 7680436260440 longer in swissindex  N05CM99
+ATC code N05CM for 7680443470245 longer in swissindex  R06AA52
+ATC code N05CM for 7680459280128 longer in swissindex  N05CM99
+ATC code N05CM for 7680477180240 longer in swissindex  N05CX99
+ATC code N05CM for 7680477180257 longer in swissindex  N05CX99
+ATC code N05CM for 7680477350414 longer in swissindex  R06AA09
+ATC code N05CM for 7680520350231 longer in swissindex  R06AA02
+ATC code N05CM for 7680520350255 longer in swissindex  R06AA02
+ATC code N05CM for 7680523650239 longer in swissindex  R06AA02
+ATC code N05CM for 7680524710284 longer in swissindex  N06AX25
+ATC code N05CM for 7680524710529 longer in swissindex  N06AX25
+ATC code N05CM for 7680524710604 longer in swissindex  N06AX25
+ATC code N05CM for 7680539240189 longer in swissindex  N06AX25
+ATC code N05CM for 7680539240264 longer in swissindex  N06AX25
+ATC code N05CM for 7680539240424 longer in swissindex  N06AX25
+ATC code N05CM for 7680539240509 longer in swissindex  N06AX25
+ATC code N05CM for 7680546770501 longer in swissindex  N05CX99
+ATC code N05CM for 7680546770518 longer in swissindex  N05CX99
+ATC code N05CM for 7680574260012 longer in swissindex  N05CM99
+ATC code N05CM for 7680578320019 longer in swissindex  N05CM99
+ATC code N05CM for 7680578320026 longer in swissindex  N05CM99
+ATC code N05CM for 7680587130012 longer in swissindex  N05CM99
+ATC code N05CM for 7680613670048 longer in swissindex  N06AX25
+ATC code N05CM for 7680613670055 longer in swissindex  N06AX25
+ATC code N05CM for 7680628830017 longer in swissindex  N05CM99
+ATC code N05CM for 7680630460011 longer in swissindex  N05CM99
+ATC code N05CM for 7680651900015 longer in swissindex  R06AA02
+ATC code N05CX for 7680096050450 longer in swissindex  N05CX99
+ATC code N05CX for 7680282700909 longer in swissindex  N05CX99
+ATC code N05CX for 7680282700916 longer in swissindex  N05CX99
+ATC code N05CX for 7680300490393 longer in swissindex  N05CX99
+ATC code N05CX for 7680300490478 longer in swissindex  N05CX99
+ATC code N05CX for 7680355840488 longer in swissindex  N05CX99
+ATC code N05CX for 7680355840563 longer in swissindex  N05CX99
+ATC code N05CX for 7680362930202 longer in swissindex  N05CX99
+ATC code N05CX for 7680465870221 longer in swissindex  N05CX99
+ATC code N05CX for 7680492190163 longer in swissindex  N05CX99
+ATC code N05CX for 7680518380332 longer in swissindex  N05CX99
+ATC code N05CX for 7680518380417 longer in swissindex  N05CX99
+ATC code N05CX for 7680519710275 longer in swissindex  N05CX99
+ATC code N05CX for 7680523260285 longer in swissindex  N05CX99
+ATC code N05CX for 7680523260360 longer in swissindex  N05CX99
+ATC code N05CX for 7680534570106 longer in swissindex  N05CX99
+ATC code N05CX for 7680540370158 longer in swissindex  N05CX99
+ATC code N05CX for 7680546060282 longer in swissindex  N05CX99
+ATC code N05CX for 7680558330069 longer in swissindex  N05CX99
+ATC code N05CX for 7680560090081 longer in swissindex  N05CX99
+ATC code N05CX for 7680560090302 longer in swissindex  N05CX99
+ATC code N05CX for 7680578110016 longer in swissindex  N05CX99
+ATC code N05CX for 7680578110023 longer in swissindex  N05CX99
+ATC code N06AX for 7680445530152 longer in swissindex  N06AX25
+ATC code N06AX for 7680531480187 longer in swissindex  N06AX25
+ATC code N06AX for 7680531480262 longer in swissindex  N06AX25
+ATC code N06AX for 7680537900115 longer in swissindex  N06AX25
+ATC code N06AX for 7680537900382 longer in swissindex  N06AX25
+ATC code N06AX for 7680548260284 longer in swissindex  N06AX25
+ATC code N06AX for 7680548260369 longer in swissindex  N06AX25
+ATC code N06AX for 7680556760264 longer in swissindex  N06AX25
+ATC code N06AX for 7680556760271 longer in swissindex  N06AX25
+ATC code N06AX for 7680562250100 longer in swissindex  N06AX25
+ATC code N06AX for 7680562250223 longer in swissindex  N06AX25
+ATC code N06AX for 7680570090088 longer in swissindex  N06AX25
+ATC code N06AX for 7680570090224 longer in swissindex  N06AX25
+ATC code N06AX for 7680576050017 longer in swissindex  N06AX25
+ATC code N06AX for 7680581020036 longer in swissindex  N06AX25
+ATC code N06AX for 7680581020043 longer in swissindex  N06AX25
+ATC code N06AX for 7680585440014 longer in swissindex  N06AX25
+ATC code N06AX for 7680585440021 longer in swissindex  N06AX25
+ATC code N06AX for 7680626580013 longer in swissindex  N06AX25
+ATC code N06AX for 7680626580020 longer in swissindex  N06AX25
+ATC code N06AX for 7680628840016 longer in swissindex  N06AX25
+ATC code N07BA for 7680552630011 longer in swissindex  N06AX12
+ATC code N07BA for 7680552630028 longer in swissindex  N06AX12
+ATC code N07BA for 7680552630066 longer in swissindex  N06AX12
+ATC code N07BA for 7680552630080 longer in swissindex  N06AX12
+ATC code P01CX for 7680506350156 longer in swissindex  P01CX01
+ATC code R02AX for 7680416790189 longer in swissindex  R02AA20
+ATC code R02AX for 7680583360017 longer in swissindex  A01AD11
+ATC code R05 for 7680505730447 longer in swissindex  R05CA10
+ATC code R05 for 7680567310021 longer in swissindex  R05Z
+ATC code R05 for 7680575430018 longer in swissindex  R05X
+ATC code R05 for 7680575430025 longer in swissindex  R05X
+ATC code R05 for 7680576020010 longer in swissindex  R05X
+ATC code R05 for 7680576020027 longer in swissindex  R05X
+ATC code R05 for 7680600600010 longer in swissindex  R05X
+ATC code R05 for 7680600600034 longer in swissindex  R05X
+ATC code R05 for 7680613500024 longer in swissindex  R05X
+ATC code R05 for 7680613500031 longer in swissindex  R05X
+ATC code R05 for 7680623430014 longer in swissindex  R05CA10
+ATC code R05C for 7680248580149 longer in swissindex  R05CA10
+ATC code R05C for 7680300440374 longer in swissindex  R05CA10
+ATC code R05C for 7680471150195 longer in swissindex  R05CA99
+ATC code R05C for 7680540960113 longer in swissindex  R05CA10
+ATC code R05CA for 7680442090390 longer in swissindex  R05CA12
+ATC code R05CA for 7680527770384 longer in swissindex  R05CA12
+ATC code R05CA for 7680527770469 longer in swissindex  R05CA12
+ATC code R05CA for 7680545390106 longer in swissindex  R05CA12
+ATC code R05CA for 7680556970243 longer in swissindex  R05CA12
+ATC code R05CA for 7680559280448 longer in swissindex  R05CA99
+ATC code R05CA for 7680559280462 longer in swissindex  R05CA99
+ATC code R05CA for 7680559280486 longer in swissindex  R05CA99
+ATC code R05CA for 7680624230019 longer in swissindex  R05CA99
+ATC code R05CA for 7680624230026 longer in swissindex  R05CA99
+ATC code R05CA for 7680629710011 longer in swissindex  R05CA12
+ATC code R05CA for 7680629710028 longer in swissindex  R05CA12
+ATC code R05X for 7680394450266 longer in swissindex  R05CA10
+ATC code R07AX for 7680559740119 longer in swissindex  R07AX99
+ATC code R07AX for 7680559740256 longer in swissindex  R07AX99
+ATC code S01GX for 7680563100015 longer in swissindex  S01GX10
+ATC code S01XA for 7680250220170 longer in swissindex  S01XA99
+ATC code S01XA for 7680259420274 longer in swissindex  S01GA51
+ATC code S01XA for 7680322270157 longer in swissindex  S01XA04
+ATC code S01XA for 7680540710190 longer in swissindex  S01XA99
+ATC code V01AA for 7680606060016 longer in swissindex  V01AA03
+ATC code V01AA for 7680606060023 longer in swissindex  V01AA03
+ATC code V01AA for 7680606060030 longer in swissindex  V01AA03
+ATC code V01AA for 7680606060047 longer in swissindex  V01AA03
+ATC code V01AA for 7680606080014 longer in swissindex  V01AA03
+ATC code V01AA for 7680606080021 longer in swissindex  V01AA03
+ATC code V01AA for 7680606080038 longer in swissindex  V01AA03
+ATC code V01AA for 7680606080045 longer in swissindex  V01AA03
+ATC code V01AA for 7680606090013 longer in swissindex  V01AA03
+ATC code V01AA for 7680606090020 longer in swissindex  V01AA03
+ATC code V01AA for 7680606090037 longer in swissindex  V01AA03
+ATC code V01AA for 7680606090044 longer in swissindex  V01AA03
+ATC code V01AA for 7680606210015 longer in swissindex  V01AA20
+ATC code V01AA for 7680606210022 longer in swissindex  V01AA20
+ATC code V01AA for 7680606230013 longer in swissindex  V01AA20
+ATC code V01AA for 7680606230020 longer in swissindex  V01AA20
+ATC code V01AA for 7680606240012 longer in swissindex  V01AA05
+ATC code V01AA for 7680606240029 longer in swissindex  V01AA05
+ATC code V01AA for 7680606250011 longer in swissindex  V01AA20
+ATC code V01AA for 7680606250028 longer in swissindex  V01AA20
+ATC code V01AA for 7680606260010 longer in swissindex  V01AA20
+ATC code V01AA for 7680606260027 longer in swissindex  V01AA20
+ATC code V01AA for 7680606270019 longer in swissindex  V01AA20
+ATC code V01AA for 7680606270026 longer in swissindex  V01AA20
+ATC code V01AA for 7680606280018 longer in swissindex  V01AA20
+ATC code V01AA for 7680606280025 longer in swissindex  V01AA20
+ATC code V01AA for 7680606290017 longer in swissindex  V01AA20
+ATC code V01AA for 7680606290024 longer in swissindex  V01AA20
+ATC code V01AA for 7680606300013 longer in swissindex  V01AA20
+ATC code V01AA for 7680606300020 longer in swissindex  V01AA20
+ATC code V01AA for 7680606310012 longer in swissindex  V01AA20
+ATC code V01AA for 7680606310029 longer in swissindex  V01AA20
+ATC code V01AA for 7680606320011 longer in swissindex  V01AA10
+ATC code V01AA for 7680606320028 longer in swissindex  V01AA10
+ATC code V01AA for 7680606330010 longer in swissindex  V01AA05
+ATC code V01AA for 7680606330027 longer in swissindex  V01AA05
+ATC code V01AA for 7680606340019 longer in swissindex  V01AA20
+ATC code V01AA for 7680606340026 longer in swissindex  V01AA20
+ATC code V01AA for 7680606350018 longer in swissindex  V01AA20
+ATC code V01AA for 7680606350025 longer in swissindex  V01AA20
+ATC code V01AA for 7680606360017 longer in swissindex  V01AA05
+ATC code V01AA for 7680606360024 longer in swissindex  V01AA05
+ATC code V01AA for 7680606370016 longer in swissindex  V01AA20
+ATC code V01AA for 7680606370023 longer in swissindex  V01AA20
+ATC code V01AA for 7680606380015 longer in swissindex  V01AA02
+ATC code V01AA for 7680606380022 longer in swissindex  V01AA02
+ATC code V01AA for 7680606390014 longer in swissindex  V01AA05
+ATC code V01AA for 7680606390021 longer in swissindex  V01AA05
+ATC code V01AA for 7680606400010 longer in swissindex  V01AA10
+ATC code V01AA for 7680606400027 longer in swissindex  V01AA10
+ATC code V01AA for 7680606410019 longer in swissindex  V01AA10
+ATC code V01AA for 7680606410026 longer in swissindex  V01AA10
+ATC code V01AA for 7680606420018 longer in swissindex  V01AA05
+ATC code V01AA for 7680606420025 longer in swissindex  V01AA05
+ATC code V01AA for 7680606870011 longer in swissindex  V01AA07
+ATC code V01AA for 7680606870028 longer in swissindex  V01AA07
+ATC code V01AA for 7680606880010 longer in swissindex  V01AA07
+ATC code V01AA for 7680606880027 longer in swissindex  V01AA07
+ATC code V01AA for 7680606900015 longer in swissindex  V01AA11
+ATC code V01AA for 7680606900022 longer in swissindex  V01AA11
+ATC code V01AA for 7680606910014 longer in swissindex  V01AA03
+ATC code V01AA for 7680606910021 longer in swissindex  V01AA03
+ATC code V01AA for 7680606950010 longer in swissindex  V01AA20
+ATC code V01AA for 7680606950027 longer in swissindex  V01AA20
+ATC code V01AA for 7680606980017 longer in swissindex  V01AA07
+ATC code V01AA for 7680606980024 longer in swissindex  V01AA07
+ATC code V01AA for 7680606990016 longer in swissindex  V01AA03
+ATC code V01AA for 7680606990023 longer in swissindex  V01AA03
+ATC code V01AA for 7680607000011 longer in swissindex  V01AA11
+ATC code V01AA for 7680607000028 longer in swissindex  V01AA11
+ATC code V01AA for 7680607020019 longer in swissindex  V01AA02
+ATC code V01AA for 7680607020026 longer in swissindex  V01AA02
+ATC code V01AA for 7680607030018 longer in swissindex  V01AA10
+ATC code V01AA for 7680607030025 longer in swissindex  V01AA10
+ATC code V01AA for 7680607060015 longer in swissindex  V01AA07
+ATC code V01AA for 7680607060022 longer in swissindex  V01AA07
+ATC code V01AA for 7680607080013 longer in swissindex  V01AA02
+ATC code V01AA for 7680607080020 longer in swissindex  V01AA02
+ATC code V01AA for 7680607090012 longer in swissindex  V01AA02
+ATC code V01AA for 7680607090029 longer in swissindex  V01AA02
+ATC code V01AA for 7680607100018 longer in swissindex  V01AA11
+ATC code V01AA for 7680607100025 longer in swissindex  V01AA11
+ATC code V01AA for 7680607110017 longer in swissindex  V01AA05
+ATC code V01AA for 7680607110024 longer in swissindex  V01AA05
+ATC code V03AE for 7680562970022 longer in swissindex  V03AE02
+ATC code V09BA for 7680445210160 longer in swissindex  V09BA04
+ATC code V09IX for 7680632860017 longer in swissindex  V09IX07

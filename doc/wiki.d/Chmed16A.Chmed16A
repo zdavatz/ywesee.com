@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1745681252
+host=129.222.69.127
+name=Chmed16A.Chmed16A
+rev=1
+targets=
+text=!! Möglichkeiten der Rezepterfassung%0aAttach:Rezepterfassung.pdf
+time=1745681252
+author:1745681252=zeno
+diff:1745681252:1745681252:=1,2d0%0a%3c !! Möglichkeiten der Rezepterfassung%0a%3c Attach:Rezepterfassung.pdf%0a\ No newline at end of file%0a
+host:1745681252=129.222.69.127

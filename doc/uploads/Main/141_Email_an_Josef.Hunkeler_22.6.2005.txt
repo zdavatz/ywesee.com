@@ -1,0 +1,82 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 9200 invoked by uid 74); 22 Jun 2005 08:22:15 -0000
+Received: from zdavatz@ywesee.com by debian by uid 71 with qmail-scanner-1.15 
+ (clamscan: 0.54.  Clear:. 
+ Processed in 1.045304 secs); 22 Jun 2005 08:22:15 -0000
+Received: from 217-162-177-109.dclient.hispeed.ch (HELO zrr.local) (217.162.177.109)
+  by 0 with SMTP; 22 Jun 2005 08:22:14 -0000
+Date: Wed, 22 Jun 2005 10:22:25 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Hunkeler <Josef.Hunkeler@pue.admin.ch>
+Cc: rudolf.strahm@pue.admin.ch <rudolf.strahm@pue.admin.ch>, Stefano Dozio
+ <stefano.dozio@weko.admin.ch>, Jelena  Majstorovic
+ <jelena.majstorovic@weko.admin.ch>, Simonetta Sommaruga
+ <simonetta.sommaruga@parl.ch>, Andreas Balsiger
+ <andreas.balsiger@swissmedic.ch>, Franz Schneller
+ <franz.schneller@swissmedic.ch>, todo@oddb.org <todo@oddb.org>
+Subject: Rohdaten und Medi-Preise
+Message-ID: <20050622102225.43e92128@zrr.local>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrter Herr Hunkeler
+
+Gestern habe ich am Radio vernommen, dass sich der Preisüberwacher stark macht
+für die Auflistung von Parallelimporten auf der SL-Liste. Das finde ich sehr
+gut.
+
+Mit dieser Initiative treten sie Ihre Forderungen in die gleiche Richtung wie
+wir: Dass ein sauber gepflegter Datenstamm unüberwindbar wird für den
+internationalen Preisvergleich zwischen Medikamenten. Die Politik muss das
+kostbare Gut der amtlich geforderten Rohdaten erkennen und diese in den Public
+Domain stellen (Dienstleister wie wir veredeln die Daten und stehen wiederum in
+Konkurrenz zu anderen Anbieter)!
+
+Aber nicht nur die Preise müssen sauber gesammelt und verglichen werden können.
+Auch das nicht Vorhanden sein von Monographien der Fach- und
+Patienteninformationen kosten das Schweizer Gesundheitswesen jährlich zu viel.
+Bei Paralellimporten könnte die Swissmedic ganz einfach dem Medikament
+zusätzlich eine Fi- und Pi-Monographie verpassen mit entsprechender
+Namensänderung vom Produkt. Somit sinken die Registrationskosten und es werden
+wiederum mehr Medikamente registriert, was die Auswahl vergrössert und den Preis
+wiederum drückt (wahrer Wettbewerb). Heute werden viele Produkte bei der
+Swissmedic gar nicht registriert weil die Registrationskosten zu hoch sind
+(Scheinwettbewerb). Sind die Fi- und Pi-Rohdaten im Public Domain wird die
+Zulassung von Parallelimporten stark vereinfacht, weil sich auch der
+ausländische Hersteller viel besser vorbereiten kann auf den Schweizer Markt
+(verbesserte Zusammenarbeit!).
+
+Des weiteren ist das _obligatorische_ versenden von 30'000 Kompendiumsbüchern 
+(1000 Seiten) total unsinnig, da sehr viele Ärzte die entsprechenden
+Informationen schon heute über das Internet beziehen. Eine Zustellung der
+Kompendiumsbücher _auf_Anfrage_ würde viel mehr Sinn machen. Auch eine strikte
+Trennung von einem Original/Generikum-Buch und einem 
+Homöopathischen-Arzneimittelbuch würde sehr viel Sinn machen und die
+Homöopathischen Arzneimittel in ein unabhängiges Licht stellen. Homöopathische
+Arzneimittel werden nicht am Krankenbett verschrieben und benötigen darum auch
+keine Buchfrom! Dies würde die Homöopathischen Arzneimittel wiederum
+bei der Registration entlasten und somit auch wieder den Preis für den
+Konsumenten entlasten.
+
+Es sind die kleinen Dinge, welche sich ins unendliche Summieren! Ohne wahren
+Wettbewerb gibt es keinen vernüftigen Preis.
+
+Mit wettbewerbsfreundlichem Gruss aus Zürich
+Zeno Davatz
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

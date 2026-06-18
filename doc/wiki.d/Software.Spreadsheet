@@ -1,0 +1,21 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2b1pre) Gecko/20091010 Namoroka/3.6b1pre
+author=
+host=80.219.11.72
+name=Software.Spreadsheet
+rev=4
+targets=
+text=!! Important Ruby-Spreadsheet links%0a* http://spreadsheet.rubyforge.org/%0a* http://rubyforge.org/projects/spreadsheet/%0a* http://scm.ywesee.com/?p=spreadsheet;a=summary
+time=1255350836
+author:1255350836=
+diff:1255350836:1255350820:=1c1%0a%3c !! Important Ruby-Spreadsheet links%0a---%0a> !! Important Spreadhsheet links%0a
+host:1255350836=80.219.11.72
+author:1255350820=
+diff:1255350820:1255350727:=2d1%0a%3c * http://spreadsheet.rubyforge.org/%0a
+host:1255350820=80.219.11.72
+author:1255350727=
+diff:1255350727:1255350711:=1d0%0a%3c !! Important Spreadhsheet links%0a
+host:1255350727=80.219.11.72
+author:1255350711=
+diff:1255350711:1255350711:=1,2d0%0a%3c * http://rubyforge.org/projects/spreadsheet/%0a%3c * http://scm.ywesee.com/?p=spreadsheet;a=summary%0a\ No newline at end of file%0a
+host:1255350711=80.219.11.72

@@ -1,0 +1,86 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+host=202.221.177.154
+name=Main.EANCode
+rev=25
+targets=Main.Legende
+text=!!! Aufbau EAN-Code für Pharmaprodukte in der Schweiz.%0aDer EANCode ist auf jeder Medikamenten-Packung ersichtlich:%0a(:table border=1 cellpadding=5 cellspacing=0 :)%0a(:cell:) '''Zeile'''%0a(:cell:) '''Code'''%0a(:cell:) '''Bezeichnung'''%0a(:cellnr:) 1 bis 2%0a(:cell:) 76%0a(:cell:) Kennziffer für die Schweiz.%0a(:cellnr:) 3 bis 4%0a(:cell:) 80 %0a(:cell:) Kennziffer für die Swissmedic.%0a(:cellnr:) 5 bis 9%0a(:cell:) 41810%0a(:cell:) 5-stelliger Registrationscode, durch Swissmedic vergeben.%0a(:cellnr:) 10 bis 12%0a(:cell:) 017%0a(:cell:) 3-stelliger Packungscode durch Swissmedic vergeben.%0a(:cellnr:) 13%0a(:cell:) 7 %0a(:cell:) Prüfziffer, wird automatisch errechnet.%0a(:tableend:)%0a%0aAttach:Inderal.jpg%0a%0aIKS = Swissmedic. Die Swissmedic hiess früher IKS (Interkantonale Kontrollstelle für Heilmittel).%0a%0a%25trail%25%3c%3c|[[Legende]]|>>
+time=1369314474
+author:1369314474=zeno
+diff:1369314474:1233934379:=8c8%0a%3c (:cell:) 76%0a---%0a> (:cell:) 076%0a
+host:1369314474=202.221.177.154
+author:1233934379=
+diff:1233934379:1233934324:=26,27d25%0a%3c IKS = Swissmedic. Die Swissmedic hiess früher IKS (Interkantonale Kontrollstelle für Heilmittel).%0a%3c %0a
+host:1233934379=84.72.92.25
+author:1233934324=
+diff:1233934324:1233934313:=20c20%0a%3c (:cell:) 7 %0a---%0a> (:cell:) 1 %0a
+host:1233934324=84.72.92.25
+author:1233934313=
+diff:1233934313:1233934296:=17c17%0a%3c (:cell:) 017%0a---%0a> (:cell:) 123%0a
+host:1233934313=84.72.92.25
+author:1233934296=
+diff:1233934296:1233933684:=14c14%0a%3c (:cell:) 41810%0a---%0a> (:cell:) 54321%0a
+host:1233934296=84.72.92.25
+author:1233933684=
+diff:1233933684:1138807697:=24,25d23%0a%3c Attach:Inderal.jpg%0a%3c %0a
+host:1233933684=84.72.92.25
+author:1138807697=
+diff:1138807697:1133280128:=24c24%0a%3c %25trail%25%3c%3c|[[Legende]]|>>%0a\ No newline at end of file%0a---%0a> * Siehe auch [[Main/PharmacodeVsEancode]]%0a\ No newline at end of file%0a
+host:1138807697=84.73.186.135
+author:1133280128=
+diff:1133280128:1133280109:=24c24%0a%3c * Siehe auch [[Main/PharmacodeVsEancode]]%0a\ No newline at end of file%0a---%0a> * Siehe auch [[Main/PharmacodeVsEANCode]]%0a\ No newline at end of file%0a
+host:1133280128=84.73.187.57
+author:1133280109=
+diff:1133280109:1127133265:=22,24c22%0a%3c (:tableend:)%0a%3c %0a%3c * Siehe auch [[Main/PharmacodeVsEANCode]]%0a\ No newline at end of file%0a---%0a> (:tableend:)%0a\ No newline at end of file%0a
+host:1133280109=84.73.187.57
+author:1127133265=
+diff:1127133265:1110201711:=7c7%0a%3c (:cellnr:) 1 bis 2%0a---%0a> (:cellnr:) 1 %0a10c10%0a%3c (:cellnr:) 3 bis 4%0a---%0a> (:cellnr:) 2 %0a13c13%0a%3c (:cellnr:) 5 bis 9%0a---%0a> (:cellnr:) 3 %0a16c16%0a%3c (:cellnr:) 10 bis 12%0a---%0a> (:cellnr:) 4 %0a19c19%0a%3c (:cellnr:) 13%0a---%0a> (:cellnr:) 5%0a
+host:1127133265=84.73.187.0
+author:1110201711=
+diff:1110201711:1110201625:=3c3%0a%3c (:table border=1 cellpadding=5 cellspacing=0 :)%0a---%0a> (:table (border=1) :)%0a
+host:1110201711=212.254.97.179
+author:1110201625=
+diff:1110201625:1110201454:=3c3%0a%3c (:table (border=1) :)%0a---%0a> (:table (border=1):)%0a
+host:1110201625=212.254.97.179
+author:1110201454=
+diff:1110201454:1110201365:=21,22c21%0a%3c (:cell:) Prüfziffer, wird automatisch errechnet.%0a%3c (:tableend:)%0a\ No newline at end of file%0a---%0a> (:cell:) Prüfziffer, wird automatisch errechnet.%0a\ No newline at end of file%0a
+host:1110201454=212.254.97.179
+author:1110201365=
+diff:1110201365:1110201333:=10,11c10%0a%3c (:cellnr:) 2 %0a%3c (:cell:) 80 %0a---%0a> (:cellnr:) 2 80 %0a
+host:1110201365=212.254.97.179
+author:1110201333=
+diff:1110201333:1110200373:=3,20c3,9%0a%3c (:table (border=1):)%0a%3c (:cell:) '''Zeile'''%0a%3c (:cell:) '''Code'''%0a%3c (:cell:) '''Bezeichnung'''%0a%3c (:cellnr:) 1 %0a%3c (:cell:) 076%0a%3c (:cell:) Kennziffer für die Schweiz.%0a%3c (:cellnr:) 2 80 %0a%3c (:cell:) Kennziffer für die Swissmedic.%0a%3c (:cellnr:) 3 %0a%3c (:cell:) 54321%0a%3c (:cell:) 5-stelliger Registrationscode, durch Swissmedic vergeben.%0a%3c (:cellnr:) 4 %0a%3c (:cell:) 123%0a%3c (:cell:) 3-stelliger Packungscode durch Swissmedic vergeben.%0a%3c (:cellnr:) 5%0a%3c (:cell:) 1 %0a%3c (:cell:) Prüfziffer, wird automatisch errechnet.%0a\ No newline at end of file%0a---%0a> || border=1 align=left%0a> || '''Zeile''' || '''Code''' || '''Bezeichnung'''%0a> || 1 || 076 || Kennziffer für die Schweiz.%0a> || 2 || 80 || Kennziffer für die Swissmedic.%0a> || 3 || 54321 || 5-stelliger Registrationscode, durch Swissmedic vergeben.%0a> || 4 || 123 || 3-stelliger Packungscode durch Swissmedic vergeben.%0a> || 5 || 1 || Prüfziffer, wird automatisch errechnet.%0a\ No newline at end of file%0a
+host:1110201333=212.254.97.179
+author:1110200373=
+diff:1110200373:1110200266:=4c4%0a%3c || '''Zeile''' || '''Code''' || '''Bezeichnung'''%0a---%0a> || Zeile || Code || Bezeichnung%0a
+host:1110200373=80.219.14.53
+author:1110200266=
+diff:1110200266:1110199577:=4,9c4,8%0a%3c || Zeile || Code || Bezeichnung%0a%3c || 1 || 076 || Kennziffer für die Schweiz.%0a%3c || 2 || 80 || Kennziffer für die Swissmedic.%0a%3c || 3 || 54321 || 5-stelliger Registrationscode, durch Swissmedic vergeben.%0a%3c || 4 || 123 || 3-stelliger Packungscode durch Swissmedic vergeben.%0a%3c || 5 || 1 || Prüfziffer, wird automatisch errechnet.%0a\ No newline at end of file%0a---%0a> || 076 || Kennziffer für die Schweiz.%0a> || 80 || Kennziffer für die Swissmedic.%0a> || 54321 || 5-stelliger Registrationscode, durch Swissmedic vergeben.%0a> || 123 || 3-stelliger Packungscode durch Swissmedic vergeben.%0a> || 1 || Prüfziffer, wird automatisch errechnet.%0a\ No newline at end of file%0a
+host:1110200266=80.219.14.53
+author:1110199577=
+diff:1110199577:1110199556:=6,7c6,7%0a%3c || 54321 || 5-stelliger Registrationscode, durch Swissmedic vergeben.%0a%3c || 123 || 3-stelliger Packungscode durch Swissmedic vergeben.%0a---%0a> || 54321 || Fünfstelliger Registrationscode, durch Swissmedic vergeben.%0a> || 123 || Dreistelliger Packungscode durch Swissmedic vergeben.%0a
+host:1110199577=80.219.14.53
+author:1110199556=
+diff:1110199556:1110199465:=6,7c6,7%0a%3c || 54321 || Fünfstelliger Registrationscode, durch Swissmedic vergeben.%0a%3c || 123 || Dreistelliger Packungscode durch Swissmedic vergeben.%0a---%0a> || 54321 || Fünfstelliger Registrationscode, von der Swissmedic vergeben.%0a> || 123 || Dreistelliger Packungscode von der Swissmedic vergeben.%0a
+host:1110199556=80.219.14.53
+author:1110199465=
+diff:1110199465:1110199176:=6,7c6,7%0a%3c || 54321 || Fünfstelliger Registrationscode, von der Swissmedic vergeben.%0a%3c || 123 || Dreistelliger Packungscode von der Swissmedic vergeben.%0a---%0a> || 54321 || Fünfstelliger Registrationscode, wird von der Swissmedic vergeben.%0a> || 123 || Dreistelliger Packungscode wird von der Swissmedic vergeben.%0a
+host:1110199465=80.219.14.53
+author:1110199176=
+diff:1110199176:1110199149:=2d1%0a%3c Der EANCode ist auf jeder Medikamenten-Packung ersichtlich:%0a8c7,9%0a%3c || 1 || Prüfziffer, wird automatisch errechnet.%0a\ No newline at end of file%0a---%0a> || 1 || Prüfziffer, wird automatisch errechnet.%0a> [[%3c]]%0a> Der EANCode ist auf jeder Medikamenten-Packung ersichtlich.%0a\ No newline at end of file%0a
+host:1110199176=80.219.14.53
+author:1110199149=
+diff:1110199149:1110199112:=8c8%0a%3c [[%3c]]%0a---%0a> [[%3c%3c]]%0a
+host:1110199149=80.219.14.53
+author:1110199112=
+diff:1110199112:1110199039:=8c8%0a%3c [[%3c%3c]]%0a---%0a> %0a
+host:1110199112=80.219.14.53
+author:1110199039=
+diff:1110199039:1110198794:=1d0%0a%3c !!! Aufbau EAN-Code für Pharmaprodukte in der Schweiz.%0a7,9c6%0a%3c || 1 || Prüfziffer, wird automatisch errechnet.%0a%3c %0a%3c Der EANCode ist auf jeder Medikamenten-Packung ersichtlich.%0a\ No newline at end of file%0a---%0a> || 1 || Prüfziffer, wird automatisch errechnet.%0a\ No newline at end of file%0a
+host:1110199039=80.219.14.53
+author:1110198794=
+diff:1110198794:1110198794:=1,6d0%0a%3c || border=1 align=left%0a%3c || 076 || Kennziffer für die Schweiz.%0a%3c || 80 || Kennziffer für die Swissmedic.%0a%3c || 54321 || Fünfstelliger Registrationscode, wird von der Swissmedic vergeben.%0a%3c || 123 || Dreistelliger Packungscode wird von der Swissmedic vergeben.%0a%3c || 1 || Prüfziffer, wird automatisch errechnet.%0a\ No newline at end of file%0a
+host:1110198794=80.219.14.53

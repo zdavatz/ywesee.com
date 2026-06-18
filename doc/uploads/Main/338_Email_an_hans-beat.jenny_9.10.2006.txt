@@ -1,0 +1,58 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 4299 invoked by uid 210); 6 Oct 2006 12:18:26 +0200
+Received: from 84.72.152.159 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.88.4/1999. spamassassin: 3.1.3. perlscan: 1.25st.  
+ Clear:RC:1(84.72.152.159):. 
+ Processed in 0.031239 secs); 06 Oct 2006 10:18:26 -0000
+Received: from unknown (HELO zrr.local) (zdavatz@ywesee.com@84.72.152.159)
+  by mail.ywesee.com with ESMTPA; 6 Oct 2006 12:18:26 +0200
+Received: by zrr.local (Postfix, from userid 1000)
+	id F26D55D019; Fri,  6 Oct 2006 12:15:25 +0200 (CEST)
+Date: Fri, 6 Oct 2006 12:15:25 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: hans-beat.jenny@swissmedic.ch
+Cc: ursula.iff@swissmedic.ch, todo@oddb.org, Josef.Hunkeler@pue.admin.ch,
+	andreas.wildi@bag.admin.ch
+Subject: Version 2.0, ?iso-8859-1?Q?Packungsnummer?
+	?iso-8859-1?Q?n_im_Excel-Export_möglich3F? - task: /swissmedic
+Message-ID: <20061006101525.GC7043@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.11
+
+Sehr geehrter Herr Jenny
+
+Am 7. September habe ich mit Frau Iff gesprochen betreffend folgendem Anliegen:
+
+Unter http://www.swissmedic.ch/html/content/Listen-d.html publizieren
+Sie neu die erweiterete Liste, aller bei der Swissmedic registrierten
+Produkte! Dazu zuerst einmal: Ganz toll gemacht, wir freuen uns sehr
+darüber! Wirklich ganz toll! Herzliche Gratulation!
+
+Dabei haben wir auch noch eine Frage: Können Sie die Packungsnummern
+auch noch mit in das Excel aufnehmen? Zur Zeit listen Sie zwar die
+Packungsgrössen auf, nicht aber die Packungsnummern (die Sequenz ist da,
+das ist schon mal sehr gut). Die Packungsnummern sind wirklich
+essentiell, denn Sie bilden einen Bestandteil vom EAN-Code. Auch
+verursacht eine Liste mit den Packungsnummern weniger Verwechslung
+innerhalb der Registration.
+
+Noch ein kleiner Nachtrag:
+**************************
+Wenn Sie die Packungsnummern in dieses Excel reinbringen, dann hat auch
+das BAG äusserst Freude, denn dessen Excel-Liste (SL) ist nach wie vor
+mit vielen Fehler behaftet, gerade bei den Packungsnummern (wir zählen
+etwas über 250). Das BAG könnte dann direkt Ihr Excel-Export übernehmen
+und gewisse Spalten löschen und einfach noch die Preis einfügen. Ach
+wie schön!
+
+Besten Dank für Ihr Feedback.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50

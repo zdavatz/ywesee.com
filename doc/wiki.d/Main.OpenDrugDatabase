@@ -1,0 +1,13 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1108628420
+text=* http://www.oddb.org
+targets=
+author=
+author:1108628420=
+host:1108628420=80.219.14.53
+diff:1108628420:1108628420:=1d0²< * http://www.oddb.org²\ No newline at end of file²
+name=Main.OpenDrugDatabase
+host=80.219.14.53
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.5) Gecko/20041118 Firefox/1.0
+rev=1

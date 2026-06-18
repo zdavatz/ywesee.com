@@ -1,0 +1,66 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 16958 invoked by uid 74); 8 Jun 2005 11:57:51 -0000
+Received: from zdavatz@ywesee.com by debian by uid 71 with qmail-scanner-1.15 
+ (clamscan: 0.54.  Clear:. 
+ Processed in 1.045062 secs); 08 Jun 2005 11:57:51 -0000
+Received: from 217-162-177-109.dclient.hispeed.ch (HELO zrr.local) (217.162.177.109)
+  by 0 with SMTP; 8 Jun 2005 11:57:49 -0000
+Date: Wed, 8 Jun 2005 13:58:11 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Franz.Schneller@swissmedic.ch, todo@oddb.org <todo@oddb.org>
+Subject: Publikation von Arzneimitteldaten auf dem Internet im
+ machinenlesbaren Format.
+Message-ID: <20050608135811.277e4330@zrr.local>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrter Herr Schneller
+
+Wir kennen uns von der Zeit als Sie noch bei der Lundbeck tätig waren. Damals
+haben wir miteinander telefoniert betreffend der Publikation der
+Fachinformationen.
+
+Ich wende mich mit einem ähnlichen Anliegen an Sie:
+
+Die Swissmedic verlangt nach wie vor eine Publikation der Fachinformationen im
+Buchformat. Meiner Meinung nach macht das Buch in der Zukunft keinen Sinn mehr
+und sollte nur noch auf Anfrage zugestellt werden (massiv günstigere Kosten).
+
+Es macht Sinn wenn Sie den Fokus viel mehr auf die elektronische Publikation
+der Daten (_offener_Standard_ & Wiederverwendbarkeit) legen. 98% der Daten,
+welche die Swissmedic publiziert könnten in einem einfacheren Format als 
+das PDF (Swissmedic-Journal) publiziert werden resp. in einem zusätzlichen Format das
+einfacher maschinenlesbar ist (z.B. XML oder CSV oder YAML oder sonst ein
+Flatfile).20
+
+Des weiteren würde es Sinn machen wenn Sie im Swissmedic-Journal auch den
+ATC-Code publizieren würden (die Österreicher tun das auch).
+
+Eine Möglichkeit wie es die Kanadischen Behörden tun finden Sie hier:
+http://www.hc-sc.gc.ca/hpb/drugs-dpd/index.html
+
+Gerne beraten wir Sie bei obigen Anliegen.
+
+Betreffend dem Kompendiumsbuch: Zu überlegen ist sich meiner
+Meinung nach auch eine Trennung von Original/Generikum (Gruppe 1) und den
+Homöopathischen Arzneimitteln (Gruppe 2). Homöopathische Arzneimittel werden in
+der Regel nicht am Krankenbett verschrieben.
+
+Ich werde versuchen Sie in den kommenden Tagen telefonisch zu erreichen.
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

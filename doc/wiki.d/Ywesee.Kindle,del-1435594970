@@ -1,0 +1,39 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+charset=ISO-8859-1
+csum=
+ctime=1266324660
+host=80.219.10.249
+name=Ywesee.Kindle
+rev=9
+targets=
+text=! Das kostenlose Kompendium der Schweizer Arzneimittel auf dem Kindle%0a# Kindle für Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | PC]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]] installieren.%0a# Mobi-Datei anklicken auf http://ch.oddb.org%0a# Fertig.
+time=1317993195
+author:1317993195=
+diff:1317993195:1317993188:=3c3%0a%3c # Mobi-Datei anklicken auf http://ch.oddb.org%0a---%0a> # Mobi-Datei anklicken auf ch.oddb.org%0a
+host:1317993195=80.219.10.249
+author:1317993188=
+diff:1317993188:1317993179:=3c3%0a%3c # Mobi-Datei anklicken auf ch.oddb.org%0a---%0a> # Mobi-Datei anklicken.%0a
+host:1317993188=80.219.10.249
+author:1317993179=
+diff:1317993179:1317993162:=1c1%0a%3c ! Das kostenlose Kompendium der Schweizer Arzneimittel auf dem Kindle%0a---%0a> ! Das Compendium der Schweizer Arzneimittel auf dem Kindle%0a
+host:1317993179=80.219.10.249
+author:1317993162=
+diff:1317993162:1317993137:=2c2%0a%3c # Kindle für Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | PC]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]] installieren.%0a---%0a> # Kindle für Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[PC | http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]] installieren.%0a
+host:1317993162=80.219.10.249
+author:1317993137=
+diff:1317993137:1317993011:=2c2%0a%3c # Kindle für Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[PC | http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]] installieren.%0a---%0a> # Kindle für Desktop Mac, PC, iPhone, iPad, Android installieren.%0a
+host:1317993137=80.219.10.249
+author:1317993011=
+diff:1317993011:1269252060:=2,3c2,5%0a%3c # Kindle für Desktop Mac, PC, iPhone, iPad, Android installieren.%0a%3c # Mobi-Datei anklicken.%0a---%0a> # [[http://calibre-ebook.com/download | Calibre]] installieren.%0a> # Kaufen Sie die Dateien von [[http://ch.oddb.org/de/gcc/download_export/ | ch.oddb.org]] oder [[http://de.oddb.org/de/drugs/downloads/ | de.oddb.org]].%0a> # Buch zu Calibre via "Add Book" hinzufügen.%0a> # Buch mit "Send to Device" auf den Kindle laden.%0a
+host:1317993011=80.219.10.249
+author:1269252060=zeno
+diff:1269252060:1266325516:=3c3%0a%3c # Kaufen Sie die Dateien von [[http://ch.oddb.org/de/gcc/download_export/ | ch.oddb.org]] oder [[http://de.oddb.org/de/drugs/downloads/ | de.oddb.org]].%0a---%0a> # compendium_ch.oddb.org.kindle.mobi [[http://ch.oddb.org/de/gcc/download_export/ | hier]] runterladen.%0a
+host:1269252060=80.219.10.249
+author:1266325516=
+diff:1266325516:1266324660:=
+host:1266325516=80.219.10.249
+author:1266324660=
+diff:1266324660:1266324660:=1,6d0%0a%3c ! Das Compendium der Schweizer Arzneimittel auf dem Kindle%0a%3c # [[http://calibre-ebook.com/download | Calibre]] installieren.%0a%3c # compendium_ch.oddb.org.kindle.mobi [[http://ch.oddb.org/de/gcc/download_export/ | hier]] runterladen.%0a%3c # Buch zu Calibre via "Add Book" hinzufügen.%0a%3c # Buch mit "Send to Device" auf den Kindle laden.%0a%3c # Fertig.%0a\ No newline at end of file%0a
+host:1266324660=80.219.10.249

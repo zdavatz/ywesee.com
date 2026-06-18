@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1430474451
+host=178.197.236.121
+name=Oddb2xml.Oddb2xml
+rev=1
+targets=
+text=! oddb2xml Daten-Download von der HIN Plattform%0a* http://www.hin.ch/mediupdatexml
+time=1430474451
+author:1430474451=zeno
+diff:1430474451:1430474451:=1,2d0%0a%3c ! oddb2xml Daten-Download von der HIN Plattform%0a%3c * http://www.hin.ch/mediupdatexml%0a\ No newline at end of file%0a
+host:1430474451=178.197.236.121

@@ -1,0 +1,457 @@
+/*
+#===============================================================================
+# gila.css
+#===============================================================================
+# Copyright (c) 2004 Thomas Weibel. All rights reserved.
+#
+# Defines the CSS for beeblebrox-gila.tmpl
+#
+# This file is part of the PmWiki beeblebrox gila skin; you can redistribute it 
+# and/or modify it under the terms of the GNU General Public License as 
+# published by the Free Software Foundation; either version 2 of the License, 
+# or (at your option) any later version.
+#===============================================================================
+*/
+
+/* 
+#-------------------------------------------------------------------------------
+# Common styles
+#-------------------------------------------------------------------------------
+*/
+body {
+  color: rgb(0,0,0);
+  background-color: rgb(255,255,255);
+  font-family: verdana, helvetica, arial, sans-serif;
+  font-size: 10pt;
+  margin: 0px;
+  padding: 0px;
+}
+
+acronym, abbr {
+  border-bottom: 1px dotted rgb(168,140,83);
+  cursor: help;
+  margin: 0;
+  padding: 0;
+}
+
+.smallCaps {
+  font-size: 117%;
+  font-variant: small-caps;
+}
+
+hr {
+  height: 1px;
+  color: black;
+}
+
+#center {
+  text-align: center;
+}
+
+code { 
+  color: rgb(115,0,0); 
+  font-size: 100%
+}
+
+dt { 
+  color: rgb(155,63,11); 
+}
+
+pre {
+  font-size: 12px;
+  color: rgb(68,68,68);
+  background-color: rgb(244,244,244);
+  border: thin dotted rgb(68,68,68);
+  padding: 10px;
+}
+
+p.right {
+  text-align: right;
+}
+
+p.center {
+  text-align: center;
+}
+
+
+/* 
+#-------------------------------------------------------------------------------
+# Forms
+#-------------------------------------------------------------------------------
+*/
+input, textarea {
+  border: 1px solid rgb(216,210,195);
+  background: rgb(244,244,244);
+  margin: 3px;
+  padding: 2px;
+}
+
+textarea {
+	width: 100%;
+}
+
+input:focus, textarea:focus {
+  background: rgb(250,250,250);
+}
+
+form label.left {
+  margin-right: .3em;
+  vertical-align: middle;
+  float: left;
+  width: 7em;
+  text-align: right;
+  padding: .1em;
+}
+
+form div.right {
+  margin-left: 7.4em;
+}
+
+form {
+  line-height: 140%;
+}
+
+fieldset {
+  border: 1px solid rgb(216,210,195);
+  color: rgb(175,119,14);
+  font-weight: bold;
+  width: auto;
+  border: none;
+}
+
+
+/* 
+#-------------------------------------------------------------------------------
+# Wiki header
+#-------------------------------------------------------------------------------
+*/
+#header {
+  color: inherit;
+  background-color: #ff6562; 
+	height: 52px;
+/*
+	background-image: url(ywesee-logo.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+*/
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-color: rgb(0,0,0); 
+}
+
+.headerTitle {
+  margin: 0;
+  padding: 0.25em 4mm 0.25em 4mm;
+}
+
+.headerTitle a {
+  color: rgb(0,0,0);
+  background-color: transparent;
+  text-decoration: none;
+
+  /* For MSIE */
+  font-size: 105%;  
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* For fully standards-compliant user agents */
+.headerTitle > a {
+  font-size: 124%;
+}
+
+.headerTitle span {
+  color: rgb(255,255,255);
+  background-color: transparent;
+  font-weight: normal;
+}
+
+.headerTitle #tag {
+  color: rgb(255,255,255);
+  font-family: sans-serif;
+  font-size: 80%;
+}
+
+#headerSearch {
+  position: absolute;
+  right: 0.5em;
+  top: 1.3em;
+}
+
+#headerSearch .searchbox {
+  font-family: "lucida console", "courier new", courier, monospace;
+  font-size: 80%;
+  width: 12em;
+}
+
+/* This rule only rendered by CSS2-fully compliant browsers */
+#headerSearch [class~="text"] {  
+  height: 2.5ex;
+}
+
+#headerSearch .searchbutton {
+  font-size: 80%;
+  font-weight: bold;
+  cursor: pointer;
+  position: relative;
+}
+
+#headerSearch label {
+  font-weight: bold;
+}
+
+
+/* 
+#-------------------------------------------------------------------------------
+# Wiki navigation
+#-------------------------------------------------------------------------------
+*/
+.wikileft {
+  width: 12.5em;
+  float: left;
+  clear: left;
+  border-right: 1px solid rgb(216,210,195);
+}
+
+.wikileft ul {
+	font-weight: bold;
+  list-style-type: none;
+  list-style-position: outside;
+  margin: 0 0 1em 0;
+  padding: 0;
+}
+
+.wikileft li {
+  margin: 1ex;
+  padding: 0 0 1.25ex 0.75ex;
+}
+
+/*
+.wikileft a.selfreference {
+  font-weight: bold;
+}
+*/
+
+.wikileft a {
+  color: rgb(175,119,14);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.wikileft a:hover {
+  color: rgb(64,64,64);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.wikileft h1 { 
+  color: rgb(64,64,64);
+  background-color: rgb(230,223,207);
+  font-size: small; 
+  font-weight: bold;
+  margin: 0;
+  padding: 0.8ex 1ex;
+}
+
+.wikileft h3 {
+  color: rgb(175,119,14);
+  background-color: transparent;
+  line-height: 1.25em;
+  margin: 1ex 0.25ex 1.5em 0.75ex;
+  padding: 0;
+  display: block;
+  font-size: small;
+  font-weight: normal;
+}
+
+.wikileft h3 a {
+  text-decoration: underline;
+}
+
+.wikileft h3 a:hover {
+  text-decoration: none;
+}
+
+.wikileft hr { 
+  color: rgb(230,223,207); 
+  height: 1px;
+}
+
+.wikileft table {
+  margin-left: 0.75ex;
+}
+
+.wikileft .wikisearch {
+  display: inline;
+}
+
+.wikileft .wikisearchbox {
+  font-size: 70%;
+  width: 10em;
+}
+
+.wikileft .wikisearchbutton {
+  display: none;
+}
+
+
+/* 
+#-------------------------------------------------------------------------------
+# Wiki body
+#-------------------------------------------------------------------------------
+*/
+#wikibody {
+  color: rgb(0,0,0);
+  background-color: rgb(255,255,255);
+  line-height: 1.5em;
+  margin: 0 0 0 12.5em;
+  padding: 0 0 0.25em 0;  
+  border-left: 1px solid rgb(216,210,195);
+}
+
+#wikibody img {
+	padding: 2px 0px 0px 2px;
+}
+#wikibody #wikipage {
+  margin: 1.5em 2em 1.75em 2em;
+}
+
+#wikibody #breadcrumbs {  
+  vertical-align:top;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 85%;
+  padding: 0.25em 0.5em 0.25em 1.5em;
+}
+
+#wikibody #wikicmds {
+  float: right;
+  border-bottom: solid 1px rgb(221,221,221);
+  border-left: solid 1px rgb(221,221,221);
+  font-family: sans-serif;
+  font-size: 70%;
+  padding: 0.25em 0.5em 0.25em 0.5em;
+  color: rgb(153,153,153);
+}
+
+#wikibody #wikicmds a {
+  color: rgb(153,153,153); 
+  text-decoration: none;
+}
+
+#wikibody h1 {
+	border-bottom: 1px solid rgb(175,119,14);
+  color: rgb(175,119,14);
+  background-color: transparent;
+  font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 1.4em;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+  margin-top: 2ex;
+}
+
+#wikibody h2 {
+  color: rgb(175,119,14);
+  background-color: transparent;
+  font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 1.4em;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+  margin-top: 2ex;
+  margin-bottom: 0.5ex;
+}
+
+#wikibody h3 {
+  color: rgb(175,119,14);
+  background-color: transparent;
+  font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 1.1em;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+  margin-top: 2ex;
+  margin-bottom: 0.5ex;
+}
+
+#wikibody a {
+  color: rgb(175,119,14);
+  background-color: transparent;
+  border-bottom: 1px dotted;
+  text-decoration: none;
+}
+
+#wikibody a:hover {
+	color: rgb(255,101,98);
+  text-decoration: none;
+}
+
+#wikibody a.createlinktext { 
+  text-decoration: none; 
+  border-bottom: 1px dotted grey; 
+}
+
+#wikibody a.createlink { 
+  text-decoration: none; 
+  position: relative; 
+  top: -0.5em;
+  font-weight: bold; 
+  font-size: smaller; 
+  border-bottom: none; 
+}
+
+#wikibody .wikitrail {
+  text-align: center;
+  font-weight: bold;
+}
+
+
+/* 
+#-------------------------------------------------------------------------------
+# Wiki footer
+#-------------------------------------------------------------------------------
+*/
+#wikifoot {
+  color: black;
+  background-color: rgb(230,223,207);
+  font-size: 92%;
+  text-align: center;
+  margin: 0;
+  padding: 0.8em 1em 0.8em 1em;
+  clear: both;
+}
+
+#wikifoot div {
+  margin: 0;
+  padding: 0 0 0 0;
+}
+
+#wikifoot a {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#wikifoot a:hover {
+  text-decoration: none;
+}
+
+#wikifoot .footnav {
+  float: right;
+}
+
+#wikifoot .footnav a {
+  color: rgb(153,153,153);
+  text-decoration: none;
+}
+
+#wikifoot .footnav a:hover {
+  text-decoration: none;
+}
+
+#wikifoot .lastmod {
+  float: left;
+}
+

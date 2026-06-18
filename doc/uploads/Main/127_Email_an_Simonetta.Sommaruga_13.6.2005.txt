@@ -1,0 +1,63 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 19329 invoked by uid 74); 13 Jun 2005 08:12:01 -0000
+Received: from zdavatz@ywesee.com by debian by uid 71 with qmail-scanner-1.15 
+ (clamscan: 0.54.  Clear:. 
+ Processed in 1.401119 secs); 13 Jun 2005 08:12:01 -0000
+Received: from 217-162-177-109.dclient.hispeed.ch (HELO zrr.local) (217.162.177.109)
+  by 0 with SMTP; 13 Jun 2005 08:11:59 -0000
+Date: Mon, 13 Jun 2005 10:12:58 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Simonetta Sommaruga <sommaruga@konsumentenschutz.ch>
+Cc: todo@oddb.org <todo@oddb.org>
+Subject: Direkte Anerkennung von EU-Arzneimitteln
+Message-ID: <20050613101258.49272550@zrr.local>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Frau Sommaruga
+
+Ich habe soeben den Artikel auf Seite 10 der NZZ von heute (13.6.2005)
+gelesen.
+
+Einige Argumente, bei denen ich denke, dass Sie Ihnen helfen:
+
+1). Mehr Bürokratie bringt nicht mehr Arzneimittelsicherheit.
+
+2). Mehr Arzneimittelsicherheit kommt mit verbesserter Kommunikation zwischen
+den Registrierungsbehörden und Datenaustausch basierend auf offenen Standards.
+Mehr Leute wie Sie! (sic) müssen diese Registrationsdaten einsehen können
+(Öffentlichkeitsprinzip) und Ihre kritische Meinung dazu abgeben können! Es
+macht Sinn die Daten der Swissmedic in einem maschinenlesbaren Format zu
+publizieren. Das vereinfacht den internationalen Preisvergleich zwischen den
+Medikamentenpreisen und der Medikamentenqualität.
+
+3.) Eine nähere, verstärkte, intensivere Zusammenarbeit mit der EMEA und der FDA
+macht Sinn. Die Registrationsunterlagen im elektronischen Format von diesen
+beiden Behörden zu verlangen, bringt sehr viel Gutes mit sich (basierend
+auf offenen Standards).
+
+4.) Wenn die Swissmedic die Daten der EMEA und der FDA schneller (d.h. auf
+elektronischem Weg und nicht in Papierformat) übernehmen kann, dann profitieren
+die Zulassungshinhaber und die Patienten. Für die Zulassungshinhaber sinken die
+die Registrationskosten was wiederum eine Auswirkung auf die Medikamentenpreise
+haben sollte.
+
+5.) Ein getrenntes Zulassungsverfahren für Originale/Generika (Gruppe 1) und
+Höopathische Arzneimittel (Gruppe 2) soll angestrebt werden.
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

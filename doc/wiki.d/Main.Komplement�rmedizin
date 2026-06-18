@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1320850371
+host=209.116.60.130
+name=Main.Komplementärmedizin
+rev=1
+targets=
+text=*http://www.phyto-pharma.ch%0a*http://www.phytotherapeutika.ch%0a*http://www.anthroposophica.ch%0a*http://www.homöopathika.ch/
+time=1320850371
+author:1320850371=zeno
+diff:1320850371:1320850371:=1,4d0%0a%3c *http://www.phyto-pharma.ch%0a%3c *http://www.phytotherapeutika.ch%0a%3c *http://www.anthroposophica.ch%0a%3c *http://www.homöopathika.ch/%0a\ No newline at end of file%0a
+host:1320850371=209.116.60.130

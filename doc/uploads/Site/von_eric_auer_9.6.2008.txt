@@ -1,0 +1,49 @@
+Hi Andrea, Zeno,
+
+to give you an early summary of my suggestions about
+www.ywesee.com/pmwiki.php/Site/FlashingBiosOfALinuxServer
+and www.stilen.com/notes/usb_dos_boot.txt and related howtos:
+
+Zeno uses makebootfat-fdisk-makebootfat, and has to
+download boot sectors and mbr separately. Reading the
+makebootfat docs it seems that using makebootfat once
+should be enough :-)
+
+For that I suggest a few updates for makebootfat:
+
+-	make sure the included mbr works (does it set the 
+	registers correctly before calling a boot sector?)
+
+-	maybe add an option for "32 heads, 63 sectors" or
+	even arbitrary heads and sectors. There already is
+	the "ZIP style geometry 64 heads 32 sectors" option
+	in the current makebootfat which could be extended.
+
+-	include freedos boot sectors in makebootfat: they
+	are small and open source. I personally would NOT
+	include kernel and command.com though...
+
+You can get pre-compiled freedos kernel and freecom command.com
+versions on sourceforge: http://sourceforge.net/projects/freedos/
+(freecom 0.82pl3 is still classic - newer version 0.84 with long
+file name support is not completely stable yet)
+
+You can also get the boot sector sources directly from SVN, as
+they are used in SYS which in turn is a part of the kernel SVN
+repository:
+
+http://freedos.svn.sourceforge.net/viewvc/freedos/kernel/trunk/boot/
+
+To create binary boot sector files from source, you use nasm.
+The Linux version of nasm will be okay, and you do not even
+need to use the makefile. I recommend to include pre-compiled
+boot sector binaries in makebootfat :-). To compile them, do:
+
+nasm -dISFAT12 boot.asm -ofat12com.bin
+nasm -dISFAT16 boot.asm -ofat16com.bin
+nasm boot32.asm -ofat32chs.bin
+nasm boot32lb.asm -ofat32lba.bin
+
+If you have questions, please let me know :-)
+
+Eric

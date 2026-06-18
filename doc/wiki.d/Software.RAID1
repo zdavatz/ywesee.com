@@ -1,0 +1,16 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1097760950
+text=[[http://de.wikipedia.org/wiki/RAID#RAID_1:_Spiegelung | Wikipedia on Raid1]]
+targets=
+author=
+author:1097760931=
+host:1097760931=80.219.133.159
+diff:1097760931:1097760931:=1d0²< Wikipedia on Raid1²\ No newline at end of file²
+name=Software.RAID1
+host=80.219.133.159
+agent=Mozilla/5.0 (X11; U; Linux ppc; rv:1.7.3) Gecko/20041008 Firefox/0.10.1
+rev=2
+author:1097760950=
+host:1097760950=80.219.133.159
+diff:1097760950:1097760931:=1c1²< [[http://de.wikipedia.org/wiki/RAID#RAID_1:_Spiegelung | Wikipedia on Raid1]]²\ No newline at end of file²---²> Wikipedia on Raid1²\ No newline at end of file²

@@ -1,0 +1,33 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1361976134
+host=80.219.10.249
+name=Ebook.Kindle
+rev=7
+targets=
+text=! Ebook Compendium der Schweizer Arzneimittel%0a# Kindle für Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | PC]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]] installieren.%0a# Mobi-Datei anklicken auf http://ch.oddb.org/de_ebook.%0a# Das Buch öffnet sich im Kindle Reader.%0a# Für ein Update vom Buch muss einfach der Link nochmals angeklickt werden.%0a%0a! Ebook Compendium Informations Professionnelles%0a# Installe Kindle pour le Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | PC]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]]%0a# Appuyez le liens pour le Ebook Français http://ch.oddb.org/fr_ebook.%0a# Le Ebook se ouvre dans le Kindle Reader.%0a# Pour un Update vous devez appuyer le liens encore une fois.
+time=1361976540
+author:1361976540=zeno
+diff:1361976540:1361976435:=3c3%0a%3c # Mobi-Datei anklicken auf http://ch.oddb.org/de_ebook.%0a---%0a> # Mobi-Datei anklicken auf http://ch.oddb.org.%0a8,11c8%0a%3c # Installe Kindle pour le Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | PC]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]]%0a%3c # Appuyez le liens pour le Ebook Français http://ch.oddb.org/fr_ebook.%0a%3c # Le Ebook se ouvre dans le Kindle Reader.%0a%3c # Pour un Update vous devez appuyer le liens encore une fois.%0a\ No newline at end of file%0a---%0a> # Installe Kindle pour le Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | PC]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]]%0a\ No newline at end of file%0a
+host:1361976540=80.219.10.249
+author:1361976435=zeno
+diff:1361976435:1361976348:=5,8c5%0a%3c # Für ein Update vom Buch muss einfach der Link nochmals angeklickt werden.%0a%3c %0a%3c ! Ebook Compendium Informations Professionnelles%0a%3c # Installe Kindle pour le Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | PC]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]]%0a\ No newline at end of file%0a---%0a> # Für ein Update vom Buch muss einfach der Link nochmals angeklickt werden.%0a\ No newline at end of file%0a
+host:1361976435=80.219.10.249
+author:1361976348=zeno
+diff:1361976348:1361976336:=1c1%0a%3c ! Ebook Compendium der Schweizer Arzneimittel%0a---%0a> ! Compendium der Schweizer Arzneimittel auf dem Kindle%0a
+host:1361976348=80.219.10.249
+author:1361976336=zeno
+diff:1361976336:1361976259:=1c1%0a%3c ! Compendium der Schweizer Arzneimittel auf dem Kindle%0a---%0a> ! Das kostenlose Kompendium der Schweizer Arzneimittel auf dem Kindle%0a
+host:1361976336=80.219.10.249
+author:1361976259=zeno
+diff:1361976259:1361976160:=3,5c3,4%0a%3c # Mobi-Datei anklicken auf http://ch.oddb.org.%0a%3c # Das Buch öffnet sich im Kindle Reader.%0a%3c # Für ein Update vom Buch muss einfach der Link nochmals angeklickt werden.%0a\ No newline at end of file%0a---%0a> # Mobi-Datei anklicken auf http://ch.oddb.org%0a> # Das Buch öffnet sich im Kindle Reader%0a\ No newline at end of file%0a
+host:1361976259=80.219.10.249
+author:1361976160=zeno
+diff:1361976160:1361976134:=4c4%0a%3c # Das Buch öffnet sich im Kindle Reader%0a\ No newline at end of file%0a---%0a> # Fertig.%0a\ No newline at end of file%0a
+host:1361976160=80.219.10.249
+author:1361976134=zeno
+diff:1361976134:1361976134:=1,4d0%0a%3c ! Das kostenlose Kompendium der Schweizer Arzneimittel auf dem Kindle%0a%3c # Kindle für Desktop [[http://www.amazon.com/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=1000464931 | Mac]], [[http://www.amazon.com/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=1000426311 | PC]], [[http://itunes.apple.com/us/app/kindle/id302584613?mt=8 | iPhone, iPad]], [[http://www.amazon.com/gp/feature.html/ref=red_lnd_shrt_url?ie=UTF8&docId=165849822 | Android]] installieren.%0a%3c # Mobi-Datei anklicken auf http://ch.oddb.org%0a%3c # Fertig.%0a\ No newline at end of file%0a
+host:1361976134=80.219.10.249

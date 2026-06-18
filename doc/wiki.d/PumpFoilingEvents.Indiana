@@ -1,0 +1,48 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4613.0 Safari/537.36 Edg/95.0.997.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1629877813
+host=212.51.146.241
+name=PumpFoilingEvents.Indiana
+rev=12
+targets=
+text=!! INDIANA Pumpfoiling Events 2021%0a(:table border=1 cellpadding=5 cellspacing=0:)%0a(:cell:) '''#'''%0a(:cell:) '''Ort'''%0a(:cell:) '''Datum'''%0a(:cell:) '''Event Link'''%0a(:cellnr:) 1%0a(:cell:) [[https://campingsilvaplana.ch/| Silvaplana]]%0a(:cell:) 13.-22.8.2021%0a(:cell:) [[http://www.engadinwind.ch/index.php?article_id=2 | Foilmania]]%0a(:cellnr:) 2%0a(:cell:) Lachen%0a(:cell:) 21.8.2021%0a(:cell:) [[https://shoreline-watersports.ch/events/watersportday/ | Shoreline Watersports Day]]%0a(:cellnr:) 3%0a(:cell:) [[https://goo.gl/maps/2Aj62oAXwst7CSKD9 | Bächau]]%0a(:cell:) 29.8.2021%0a(:cell:) [[https://94015.seu2.cleverreach.com/m/12876802/0-75cf91159ef66cf2af1ba9ea0b0d3fe1fb1ed59712e51fb23ca2ee6210e502e91e0140e44b9d5fbeb8b80fb95dde3e09?fbclid=IwAR2JIWh- gH34KHxCGOiosoe00z80sJK6fhRGLygZyNYHFGWEsa6HCiIFzIo | Zürcher Yachtclub INDIANA Foiling Day]]%0a(:cellnr:) 4%0a(:cell:) [[https://campingsilvaplana.ch/| Silvaplana]]%0a(:cell:) 11.-13.9.2021%0a(:cell:) Silvaplana Pumpfoil Days. Be at the dock at 8.30 am ;)%0a(:cellnr:) 5%0a(:cell:) [[https://goo.gl/maps/PBZfvH5aKhzoK4Ep7| INDIANA Oberrieden]]%0a(:cell:) 15.9.2021%0a(:cell:) [[http://www.nnim.ch/unionabout.html | Pumpfoil üben mit Nnim.ch]]%0a(:cellnr:) 6%0a(:cell:) [[https://www.google.com/maps/d/viewer?mid=1B2qx2tzz_TKgSBrzHRXritkSpn1heQrJ | Richterswil]]%0a(:cell:) 18.9.2021%0a(:cell:) [[https://www.supsuisse.ch/events/2021-09-18_flatwater-swiss-championships.html?fbclid=IwAR0bt0bhJSeaP1hNUKY3MgeCzubTvyH7Il0hCCTloRS1zeQOk7LMv4KYCWY | Swiss SUP Flatwater Championships]]%0a(:tableend:)%0a%0aAttach:silvaplana_zeno_4.6.2021.png%0aAttach:silvaplana_zeno_goofy_4.6.2021.jpg
+time=1631176437
+author:1631176437=zeno
+diff:1631176437:1629980984:=24,27d23%0a%3c (:cell:) [[https://goo.gl/maps/PBZfvH5aKhzoK4Ep7| INDIANA Oberrieden]]%0a%3c (:cell:) 15.9.2021%0a%3c (:cell:) [[http://www.nnim.ch/unionabout.html | Pumpfoil üben mit Nnim.ch]]%0a%3c (:cellnr:) 6%0a
+host:1631176437=212.51.146.241
+author:1629980984=zeno
+diff:1629980984:1629980847:=29,30c29%0a%3c Attach:silvaplana_zeno_4.6.2021.png%0a%3c Attach:silvaplana_zeno_goofy_4.6.2021.jpg%0a\ No newline at end of file%0a---%0a> Attach:silvaplana_zeno_4.6.2021.png%0a\ No newline at end of file%0a
+host:1629980984=212.51.146.241
+author:1629980847=zeno
+diff:1629980847:1629980836:=29c29%0a%3c Attach:silvaplana_zeno_4.6.2021.png%0a\ No newline at end of file%0a---%0a> attach:silvaplana_zeno_4.6.2021.png%0a\ No newline at end of file%0a
+host:1629980847=212.51.146.241
+author:1629980836=zeno
+diff:1629980836:1629980607:=27,29c27%0a%3c (:tableend:)%0a%3c %0a%3c attach:silvaplana_zeno_4.6.2021.png%0a\ No newline at end of file%0a---%0a> (:tableend:)%0a\ No newline at end of file%0a
+host:1629980836=212.51.146.241
+author:1629980607=zeno
+diff:1629980607:1629980562:=1c1%0a%3c !! INDIANA Pumpfoiling Events 2021%0a---%0a> !! Pumpfoiling Events 2021%0a
+host:1629980607=212.51.146.241
+author:1629980562=zeno
+diff:1629980562:1629980527:=11c11%0a%3c (:cellnr:) 2%0a---%0a> (:cellnr:) 1%0a15c15%0a%3c (:cellnr:) 3%0a---%0a> (:cellnr:) 1%0a19c19%0a%3c (:cellnr:) 4%0a---%0a> (:cellnr:) 1%0a23c23%0a%3c (:cellnr:) 5%0a---%0a> (:cellnr:) 1%0a
+host:1629980562=212.51.146.241
+author:1629980527=zeno
+diff:1629980527:1629980515:=0a1,7%0a> !! Pumpfoiling Events 2021%0a> * [[http://www.engadinwind.ch/index.php?article_id=2 | Foilmania, Silvaplana, 22.8.2021]]%0a> * [[https://shoreline-watersports.ch/events/watersportday/ | Shoreline Watersports Day, 21.8.2021]]%0a> * [[https://94015.seu2.cleverreach.com/m/12876802/0-75cf91159ef66cf2af1ba9ea0b0d3fe1fb1ed59712e51fb23ca2ee6210e502e91e0140e44b9d5fbeb8b80fb95dde3e09?fbclid=IwAR2JIWh- gH34KHxCGOiosoe00z80sJK6fhRGLygZyNYHFGWEsa6HCiIFzIo | AGENDA ZYC INDIANA FOILING, WING & SUP SUNDAY 29.08.2021]]%0a> * [[https://www.supsuisse.ch/events/2021-09-18_flatwater-swiss-championships.html?fbclid=IwAR0bt0bhJSeaP1hNUKY3MgeCzubTvyH7Il0hCCTloRS1zeQOk7LMv4KYCWY | Swiss SUP Flatwater Championships, 18.9.2021]]%0a> * Silvaplana Pumpfoil Days 11.-13.9.2021%0a> %0a
+host:1629980527=212.51.146.241
+author:1629980515=zeno
+diff:1629980515:1629980481:=16c16%0a%3c (:cell:) 13.-22.8.2021%0a---%0a> (:cell:) 22.8.2021%0a
+host:1629980515=212.51.146.241
+author:1629980481=zeno
+diff:1629980481:1629980459:=29c29%0a%3c (:cell:) Silvaplana Pumpfoil Days. Be at the dock at 8.30 am ;)%0a---%0a> (:cell:) Be at the dock at 8.30 am ;)%0a
+host:1629980481=212.51.146.241
+author:1629980459=zeno
+diff:1629980459:1629980316:=8c8%0a%3c !! Pumpfoiling Events 2021%0a---%0a> ! Spendertabelle [[#Spendertabelle]]%0a15c15%0a%3c (:cell:) [[https://campingsilvaplana.ch/| Silvaplana]]%0a---%0a> (:cell:) Silvaplana%0a26,29d25%0a%3c (:cellnr:) 1%0a%3c (:cell:) [[https://campingsilvaplana.ch/| Silvaplana]]%0a%3c (:cell:) 11.-13.9.2021%0a%3c (:cell:) Be at the dock at 8.30 am ;)%0a
+host:1629980459=212.51.146.241
+author:1629980316=zeno
+diff:1629980316:1629877813:=6,30c6%0a%3c * Silvaplana Pumpfoil Days 11.-13.9.2021%0a%3c %0a%3c ! Spendertabelle [[#Spendertabelle]]%0a%3c (:table border=1 cellpadding=5 cellspacing=0:)%0a%3c (:cell:) '''#'''%0a%3c (:cell:) '''Ort'''%0a%3c (:cell:) '''Datum'''%0a%3c (:cell:) '''Event Link'''%0a%3c (:cellnr:) 1%0a%3c (:cell:) Silvaplana%0a%3c (:cell:) 22.8.2021%0a%3c (:cell:) [[http://www.engadinwind.ch/index.php?article_id=2 | Foilmania]]%0a%3c (:cellnr:) 1%0a%3c (:cell:) Lachen%0a%3c (:cell:) 21.8.2021%0a%3c (:cell:) [[https://shoreline-watersports.ch/events/watersportday/ | Shoreline Watersports Day]]%0a%3c (:cellnr:) 1%0a%3c (:cell:) [[https://goo.gl/maps/2Aj62oAXwst7CSKD9 | Bächau]]%0a%3c (:cell:) 29.8.2021%0a%3c (:cell:) [[https://94015.seu2.cleverreach.com/m/12876802/0-75cf91159ef66cf2af1ba9ea0b0d3fe1fb1ed59712e51fb23ca2ee6210e502e91e0140e44b9d5fbeb8b80fb95dde3e09?fbclid=IwAR2JIWh- gH34KHxCGOiosoe00z80sJK6fhRGLygZyNYHFGWEsa6HCiIFzIo | Zürcher Yachtclub INDIANA Foiling Day]]%0a%3c (:cellnr:) 1%0a%3c (:cell:) [[https://www.google.com/maps/d/viewer?mid=1B2qx2tzz_TKgSBrzHRXritkSpn1heQrJ | Richterswil]]%0a%3c (:cell:) 18.9.2021%0a%3c (:cell:) [[https://www.supsuisse.ch/events/2021-09-18_flatwater-swiss-championships.html?fbclid=IwAR0bt0bhJSeaP1hNUKY3MgeCzubTvyH7Il0hCCTloRS1zeQOk7LMv4KYCWY | Swiss SUP Flatwater Championships]]%0a%3c (:tableend:)%0a\ No newline at end of file%0a---%0a> * Silvaplana Pumpfoil Days 11.-13.9.2021%0a\ No newline at end of file%0a
+host:1629980316=212.51.146.241
+author:1629877813=zeno
+diff:1629877813:1629877813:=1,6d0%0a%3c !! Pumpfoiling Events 2021%0a%3c * [[http://www.engadinwind.ch/index.php?article_id=2 | Foilmania, Silvaplana, 22.8.2021]]%0a%3c * [[https://shoreline-watersports.ch/events/watersportday/ | Shoreline Watersports Day, 21.8.2021]]%0a%3c * [[https://94015.seu2.cleverreach.com/m/12876802/0-75cf91159ef66cf2af1ba9ea0b0d3fe1fb1ed59712e51fb23ca2ee6210e502e91e0140e44b9d5fbeb8b80fb95dde3e09?fbclid=IwAR2JIWh- gH34KHxCGOiosoe00z80sJK6fhRGLygZyNYHFGWEsa6HCiIFzIo | AGENDA ZYC INDIANA FOILING, WING & SUP SUNDAY 29.08.2021]]%0a%3c * [[https://www.supsuisse.ch/events/2021-09-18_flatwater-swiss-championships.html?fbclid=IwAR0bt0bhJSeaP1hNUKY3MgeCzubTvyH7Il0hCCTloRS1zeQOk7LMv4KYCWY | Swiss SUP Flatwater Championships, 18.9.2021]]%0a%3c * Silvaplana Pumpfoil Days 11.-13.9.2021%0a\ No newline at end of file%0a
+host:1629877813=212.51.146.241

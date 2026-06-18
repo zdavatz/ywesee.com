@@ -1,0 +1,21 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 FireTorrent/2.0.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1290765365
+host=80.219.10.249
+name=Emediat.Swissindex
+rev=3
+targets=
+text=[[http://pharmavista.net/downloads/company/download/3_Sonnenschein_24112010.pdf | Präsentation Matthias Sonnenschein, 24.11.2010]] %0aAttach:swissindex_lizenzfrei.jpeg
+time=1290765638
+author:1290765638=zeno
+diff:1290765638:1290765451:=
+host:1290765638=80.219.10.249
+author:1290765451=zeno
+diff:1290765451:1290765365:=1d0%0a%3c [[http://pharmavista.net/downloads/company/download/3_Sonnenschein_24112010.pdf | Präsentation Matthias Sonnenschein, 24.11.2010]] %0a
+host:1290765451=80.219.10.249
+author:1290765365=zeno
+diff:1290765365:1290765365:=1d0%0a%3c Attach:swissindex_lizenzfrei.jpeg%0a\ No newline at end of file%0a
+host:1290765365=80.219.10.249

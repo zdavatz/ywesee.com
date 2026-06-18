@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1365488579
+host=80.219.10.249
+name=AmiKo.Installation
+rev=1
+targets=
+text=!! Installation AmiKo%0a1. Apps aus unbekannter Herkunft zulassen (Einstellungen, Sicherheit).%0aAttach:Safety.jpg%0a2. App download von http://pillbox.oddb.org%0aAttach:Pillbox_Download.jpg%0a3. Download Abwarten%0aAttach:Download_AmiKo.jpg%0a4. Download Anklicken%0aAttach:Click_AmiKo.jpg%0a5. Installieren%0aAttach:Install_AmiKo.jpg%0a6. Installation abwarten%0aAttach:Intall_Finish.jpg%0a7. App starten%0aAttach:AmiKo_starten.jpg%0a8. Search a Drug (mindestens 2 Buchstaben)%0aAttach:AmiKo_DrugSearch.jpg%0aATC-Suche (min. 2 Buchstaben)%0aAttach:ATC.jpg%0aHersteller-Suche (min. 2 Buchstaben)%0aAttach:Hersteller.jpg%0a9. FI anschauen.%0aAttach:apydan.jpg
+time=1365488579
+author:1365488579=zeno
+diff:1365488579:1365488579:=1,23d0%0a%3c !! Installation AmiKo%0a%3c 1. Apps aus unbekannter Herkunft zulassen (Einstellungen, Sicherheit).%0a%3c Attach:Safety.jpg%0a%3c 2. App download von http://pillbox.oddb.org%0a%3c Attach:Pillbox_Download.jpg%0a%3c 3. Download Abwarten%0a%3c Attach:Download_AmiKo.jpg%0a%3c 4. Download Anklicken%0a%3c Attach:Click_AmiKo.jpg%0a%3c 5. Installieren%0a%3c Attach:Install_AmiKo.jpg%0a%3c 6. Installation abwarten%0a%3c Attach:Intall_Finish.jpg%0a%3c 7. App starten%0a%3c Attach:AmiKo_starten.jpg%0a%3c 8. Search a Drug (mindestens 2 Buchstaben)%0a%3c Attach:AmiKo_DrugSearch.jpg%0a%3c ATC-Suche (min. 2 Buchstaben)%0a%3c Attach:ATC.jpg%0a%3c Hersteller-Suche (min. 2 Buchstaben)%0a%3c Attach:Hersteller.jpg%0a%3c 9. FI anschauen.%0a%3c Attach:apydan.jpg%0a\ No newline at end of file%0a
+host:1365488579=80.219.10.249

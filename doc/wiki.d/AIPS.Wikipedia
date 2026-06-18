@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.14 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1394804903
+host=46.140.30.26
+name=AIPS.Wikipedia
+rev=1
+targets=
+text=!! AIPS und dessen Entstehung im Wikipedia%0a* http://de.wikipedia.org/wiki/Arzneimittelinformations-Publikationsplattform_Swissmedic
+time=1394804903
+author:1394804903=zeno
+diff:1394804903:1394804903:=1,2d0%0a%3c !! AIPS und dessen Entstehung im Wikipedia%0a%3c * http://de.wikipedia.org/wiki/Arzneimittelinformations-Publikationsplattform_Swissmedic%0a\ No newline at end of file%0a
+host:1394804903=46.140.30.26

@@ -1,0 +1,52 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1122285999
+text=! Ubuntu Linux ²[[http://www.ubuntulinux.org | Ubuntu]] is a Linux supported by Mark Shuttleworth, based on the Debian Packaging.²²* Great usability, nice grafical features, still some problems with my custom kernel on my Tibook G4.²* If you install from CD be sure to set "Autoneg on" with the ethtool otherwise your Sungem card will not be funking.²* Kernel Config for PPC Tibook G4, Attach:config-2.6.12.2.txt - The Ubuntu default 5.0.4 Kernel config is to loaded for my taste.²* [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: [= export PS1="\[\e[32;1m\]\w> \[\e[0m\]" =]²* Attach:xorg-conf.txt
+targets=
+author=
+author:1121326314=
+host:1121326314=217.162.177.109
+diff:1121326314:1121326314:=1,2d0²< !!! Ubuntu is a Linux supported by Mark Shuttleworth, based on the Debian Packaging.²< ²
+name=Main.Ubuntu
+host=217.162.177.109
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050724 Firefox/1.0.6
+rev=14
+author:1121326456=
+host:1121326456=217.162.177.109
+diff:1121326456:1121326314:=1,5c1,2²< !!! Ubuntu Linux ²< Ubuntu is a Linux supported by Mark Shuttleworth, based on the Debian Packaging.²< ²< * Great usability, nice grafical features, still some problems with my custom kernel on my Tibook G4.²< * If you install from CD be sure to set "Autoneg on" with the ethtool.²\ No newline at end of file²---²> !!! Ubuntu is a Linux supported by Mark Shuttleworth, based on the Debian Packaging.²> ²
+author:1121326463=
+host:1121326463=217.162.177.109
+diff:1121326463:1121326456:=1c1²< ! Ubuntu Linux ²---²> !!! Ubuntu Linux ²
+author:1121326721=
+host:1121326721=217.162.177.109
+diff:1121326721:1121326463:=5c5²< * If you install from CD be sure to set "Autoneg on" with the ethtool otherwise your Sungem card will not be funking.²\ No newline at end of file²---²> * If you install from CD be sure to set "Autoneg on" with the ethtool.²\ No newline at end of file²
+author:1121326747=
+host:1121326747=217.162.177.109
+diff:1121326747:1121326721:=2,3c2,3²< [[http://www.ubuntulinux.org | Ubuntu]] is a Linux supported by Mark Shuttleworth, based on the Debian Packaging.²< ²---²> Ubuntu is a Linux supported by Mark Shuttleworth, based on the Debian Packaging.²> ²
+author:1121350734=
+host:1121350734=217.162.177.109
+diff:1121350734:1121326747:=5,6c5²< * If you install from CD be sure to set "Autoneg on" with the ethtool otherwise your Sungem card will not be funking.²< * Kernel Config for PPC Tibook G4, Attach:config-2.6.12.2.txt²\ No newline at end of file²---²> * If you install from CD be sure to set "Autoneg on" with the ethtool otherwise your Sungem card will not be funking.²\ No newline at end of file²
+author:1121350783=
+host:1121350783=217.162.177.109
+diff:1121350783:1121350734:=6c6²< * Kernel Config for PPC Tibook G4, Attach:config-2.6.12.2.txt - The Ubuntu default 5.0.4 Kernel config is to loaded for my taste.²\ No newline at end of file²---²> * Kernel Config for PPC Tibook G4, Attach:config-2.6.12.2.txt²\ No newline at end of file²
+author:1121434996=
+host:1121434996=217.162.177.109
+diff:1121434996:1121350783:=6,7c6²< * Kernel Config for PPC Tibook G4, Attach:config-2.6.12.2.txt - The Ubuntu default 5.0.4 Kernel config is to loaded for my taste.²< * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins.²\ No newline at end of file²---²> * Kernel Config for PPC Tibook G4, Attach:config-2.6.12.2.txt - The Ubuntu default 5.0.4 Kernel config is to loaded for my taste.²\ No newline at end of file²
+author:1121435256=
+host:1121435256=217.162.177.109
+diff:1121435256:1121434996:=7c7²< * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: export PS1="\[\e[32;1m\]\w> \[\e[0m\]"²\ No newline at end of file²---²> * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins.²\ No newline at end of file²
+author:1121435268=
+host:1121435268=217.162.177.109
+diff:1121435268:1121435256:=7,8c7²< * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: ²<  export PS1="\[\e[32;1m\]\w> \[\e[0m\]"²\ No newline at end of file²---²> * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: export PS1="\[\e[32;1m\]\w> \[\e[0m\]"²\ No newline at end of file²
+author:1121435333=
+host:1121435333=217.162.177.109
+diff:1121435333:1121435268:=7c7,8²< * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: [= export PS1="\[\e[32;1m\]\w> \[\e[0m\]" =]²\ No newline at end of file²---²> * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: ²>  export PS1="\[\e[32;1m\]\w> \[\e[0m\]"²\ No newline at end of file²
+author:1121435351=
+host:1121435351=217.162.177.109
+diff:1121435351:1121435333:=7,8c7²< * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: ²<  [= export PS1="\[\e[32;1m\]\w> \[\e[0m\]" =]²\ No newline at end of file²---²> * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: [= export PS1="\[\e[32;1m\]\w> \[\e[0m\]" =]²\ No newline at end of file²
+author:1121435362=
+host:1121435362=217.162.177.109
+diff:1121435362:1121435351:=7c7,8²< * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: [= export PS1="\[\e[32;1m\]\w> \[\e[0m\]" =]²\ No newline at end of file²---²> * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: ²>  [= export PS1="\[\e[32;1m\]\w> \[\e[0m\]" =]²\ No newline at end of file²
+author:1122285999=
+host:1122285999=217.162.177.109
+diff:1122285999:1121435362:=7,8c7²< * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: [= export PS1="\[\e[32;1m\]\w> \[\e[0m\]" =]²< * Attach:xorg-conf.txt²\ No newline at end of file²---²> * [[http://www-128.ibm.com/developerworks/linux/library/l-tip-prompt/index.html | Prompt Magic]] by Daniel Robbins. The final prompt for me: [= export PS1="\[\e[32;1m\]\w> \[\e[0m\]" =]²\ No newline at end of file²

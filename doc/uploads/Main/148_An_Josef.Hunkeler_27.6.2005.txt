@@ -1,0 +1,49 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 30993 invoked by uid 210); 27 Jun 2005 21:01:10 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.85.1/958. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.13582 secs); 27 Jun 2005 19:01:10 -0000
+Received: from unknown (HELO zrr.local) (217.162.177.109)
+  by bbmb.ch with SMTP; 27 Jun 2005 21:01:10 +0200
+Date: Mon, 27 Jun 2005 21:00:47 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Hunkeler <Josef.Hunkeler@pue.admin.ch>
+Cc: Simonetta Sommaruga <simonetta.sommaruga@parl.ch>, todo@oddb.org
+ <todo@oddb.org>
+Subject: ODDB.org - Preise auch in USD und EURO
+Message-ID: <20050627210047.6f95029f@zrr.local>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrter Herr Hunkeler
+
+Ich hoffe Sie mögen den Sommer auch heiss, mir gefällt das südländische Klima.
+
+Noch zu Ihrer Information: Auf http://www.oddb.org finden Sie neu die
+Medikamenten-Preise der Schweiz auch in USD und EURO. Dies sollte den
+Preisvergleich mit dem Ausland nochmals um einiges vereinfachen (auch für
+ausländische Hersteller).
+
+Zum Anzeigen einer anderen Währung verwenden Sie einfach den "Switcher" oder
+fahren Sie langsam mit dem Mauszeiger über die Preisangaben im Suchresultat.
+
+Mit freundlichen Grüssen aus Zürich
+Zeno Davatz
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

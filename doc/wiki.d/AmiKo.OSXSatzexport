@@ -1,0 +1,63 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1545230188
+host=212.51.146.241
+name=AmiKo.OSXSatzexport
+rev=17
+targets=AmiKo.Index
+text=%3c%3c|[[Index]]|>>%0a!Voll-Text-Suche mit Satz-Export%0a# [[https://t.co/68l1KfNTkM | Diesen Ablauf als Video anschauen]].%0a# Apfel+A zum DB aktualisieren%0a# File mit einem oder zwei Wörtern pro Zeile erstellen (UTF-8 codiert). Voll-Text-Suche verwenden um Wörter zu finden.%0a# Apfel + I > Input-File wählen%0a# Export von allen Sätzen in der Fachinfo, welche die gewünschten Wörter enthalten. Wortanalyse.csv enthält folgende Felder:%0a## Suchbegriff%0a## Wirkstoff%0a## Markenname%0a## ATC-Code%0a## Kapitelname%0a## Satz mit Wort%0a## Link zur Online Referenz%0a# Das CSV-File mit mehreren tausend Zeilen, lässt sich am besten mit LibreOffice öffnen.%0a# Vorlage Wortliste: Attach:Wortliste.csv.txt%0a# Output Wortanalyse: Attach:Wortanalyse.csv.txt%0a!Download AmiKo/CoMed Desitin für macOS%0ahttps://itunes.apple.com/de/app/amiko-desitin/id708142753?l=tr&mt=12\\%0ahttps://itunes.apple.com/us/app/comed/id710472327&mt=12
+time=1545414572
+author:1545414572=zeno
+diff:1545414572:1545237829:=3d2%0a%3c # [[https://t.co/68l1KfNTkM | Diesen Ablauf als Video anschauen]].%0a
+host:1545414572=212.51.146.241
+author:1545237829=
+diff:1545237829:1545237806:=
+host:1545237829=212.51.146.241
+author:1545237806=
+diff:1545237806:1545237605:=
+host:1545237806=212.51.146.241
+author:1545237605=
+diff:1545237605:1545232135:=2c2%0a%3c !Voll-Text-Suche mit Satz-Export%0a---%0a> !Wortanalyse mit Satzexport%0a
+host:1545237605=212.51.146.241
+author:1545232135=zeno
+diff:1545232135:1545230598:=17c17%0a%3c !Download AmiKo/CoMed Desitin für macOS%0a---%0a> !Download AmiKo/CoMed Desitin%0a
+host:1545232135=212.51.146.241
+author:1545230598=
+diff:1545230598:1545230502:=15,16c15,16%0a%3c # Vorlage Wortliste: Attach:Wortliste.csv.txt%0a%3c # Output Wortanalyse: Attach:Wortanalyse.csv.txt%0a---%0a> # Vorlage Wortliste: Attach:Wortliste.csv%0a> # Output Wortanalyse: Attach:Wortanalyse.csv%0a
+host:1545230598=212.51.146.241
+author:1545230502=
+diff:1545230502:1545230438:=15,16d14%0a%3c # Vorlage Wortliste: Attach:Wortliste.csv%0a%3c # Output Wortanalyse: Attach:Wortanalyse.csv%0a
+host:1545230502=212.51.146.241
+author:1545230438=zeno
+diff:1545230438:1545230431:=16c16%0a%3c https://itunes.apple.com/de/app/amiko-desitin/id708142753?l=tr&mt=12\\%0a---%0a> https://itunes.apple.com/de/app/amiko-desitin/id708142753?l=tr&mt=12%0a
+host:1545230438=212.51.146.241
+author:1545230431=zeno
+diff:1545230431:1545230413:=17d16%0a%3c https://itunes.apple.com/us/app/comed/id710472327&mt=12%0a\ No newline at end of file%0a
+host:1545230431=212.51.146.241
+author:1545230413=zeno
+diff:1545230413:1545230367:=2a3,4%0a> Zum Downlaod: https://itunes.apple.com/de/app/amiko-desitin/id708142753?l=tr&mt=12%0a> %0a14,16c16%0a%3c # Das CSV-File mit mehreren tausend Zeilen, lässt sich am besten mit LibreOffice öffnen.%0a%3c !Download AmiKo/CoMed Desitin%0a%3c https://itunes.apple.com/de/app/amiko-desitin/id708142753?l=tr&mt=12%0a---%0a> # Das CSV-File mit mehreren tausend Zeilen, lässt sich am besten mit LibreOffice öffnen.%0a\ No newline at end of file%0a
+host:1545230413=212.51.146.241
+author:1545230367=zeno
+diff:1545230367:1545230360:=4d3%0a%3c %0a
+host:1545230367=212.51.146.241
+author:1545230360=zeno
+diff:1545230360:1545230344:=3d2%0a%3c Zum Downlaod: https://itunes.apple.com/de/app/amiko-desitin/id708142753?l=tr&mt=12%0a
+host:1545230360=212.51.146.241
+author:1545230344=zeno
+diff:1545230344:1545230249:=1d0%0a%3c %3c%3c|[[Index]]|>>%0a
+host:1545230344=212.51.146.241
+author:1545230249=zeno
+diff:1545230249:1545230225:=7,12c7,8%0a%3c ## Wirkstoff%0a%3c ## Markenname%0a%3c ## ATC-Code%0a%3c ## Kapitelname%0a%3c ## Satz mit Wort%0a%3c ## Link zur Online Referenz%0a---%0a> ## Wirkstoff, Markenname, ATC-Code, Kapitelname, Satz mit Wort, Link zur Online Referenz%0a> %0a
+host:1545230249=212.51.146.241
+author:1545230225=zeno
+diff:1545230225:1545230206:=6,8c6,8%0a%3c ## Suchbegriff%0a%3c ## Wirkstoff, Markenname, ATC-Code, Kapitelname, Satz mit Wort, Link zur Online Referenz%0a%3c %0a---%0a> [@%0a> Suchbegriff, Wirkstoff, Markenname, ATC-Code, Kapitelname, Satz mit Wort, Link zur Online Referenz%0a> @]%0a
+host:1545230225=212.51.146.241
+author:1545230206=zeno
+diff:1545230206:1545230188:=6,8c6%0a%3c [@%0a%3c Suchbegriff, Wirkstoff, Markenname, ATC-Code, Kapitelname, Satz mit Wort, Link zur Online Referenz%0a%3c @]%0a---%0a>  Suchbegriff, Wirkstoff, Markenname, ATC-Code, Kapitelname, Satz mit Wort, Link zur Online Referenz%0a
+host:1545230206=212.51.146.241
+author:1545230188=zeno
+diff:1545230188:1545230188:=1,7d0%0a%3c !Wortanalyse mit Satzexport%0a%3c # Apfel+A zum DB aktualisieren%0a%3c # File mit einem oder zwei Wörtern pro Zeile erstellen (UTF-8 codiert). Voll-Text-Suche verwenden um Wörter zu finden.%0a%3c # Apfel + I > Input-File wählen%0a%3c # Export von allen Sätzen in der Fachinfo, welche die gewünschten Wörter enthalten. Wortanalyse.csv enthält folgende Felder:%0a%3c  Suchbegriff, Wirkstoff, Markenname, ATC-Code, Kapitelname, Satz mit Wort, Link zur Online Referenz%0a%3c # Das CSV-File mit mehreren tausend Zeilen, lässt sich am besten mit LibreOffice öffnen.%0a\ No newline at end of file%0a
+host:1545230188=212.51.146.241

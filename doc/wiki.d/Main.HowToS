@@ -1,0 +1,40 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1103204118
+text=! How To's gesammelt von ywesee²* [[http://www.gentoo.org/doc/en/ldap-howto.xml | Gentoo LDAP Howto]]²* [[http://gentoo-wiki.com/HOWTO_OpenGroupware.org_with_OpenLDAP#Install_OpenLDAP | OpenGrouware with OpenLDAP]]²* [[http://www.gentoo.org/doc/en/qmail-howto.xml | Gentoo Qmail Howto]]²* [[http://forums.gentoo.org/viewtopic.php?t=111817&start=50&postdays=0&postorder=asc&highlight=&sid=ec9bc9e4f3817aff7922e5ffb286e501 | Gentoo Forums SpamAssassin]]²* [[http://forums.gentoo.org/viewtopic.php?t=266572&sid=3c9f2383b54deae73f1084855decd8b7 | Gentoo Forums Virtual Hosting in 2 Minutes]]²* [[http://zeno.davaz.com/index.cgi?Email | Email-Server mit Qmail, QmailAdmin, Vpopmail, Sqwebmail, TMDA-CGI, Clamav, SpamAssassin, QmailScanner]]
+targets=
+author=
+author:1103107580=
+host:1103107580=217.162.173.195
+diff:1103107580:1103107580:=1,2d0²< ! How To's erstellt von ywesee²< * [[http://www.gentoo.org/doc/en/ldap-howto.xml | Gentoo LDAP Howto]]²\ No newline at end of file²
+name=Main.HowToS
+host=217.162.173.195
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.5) Gecko/20041118 Firefox/1.0
+rev=10
+author:1103107616=
+host:1103107616=217.162.173.195
+diff:1103107616:1103107580:=1c1²< ! How To's gesammelt von ywesee²---²> ! How To's erstellt von ywesee²
+author:1103107658=
+host:1103107658=217.162.173.195
+diff:1103107658:1103107616:=2,3c2²< * [[http://www.gentoo.org/doc/en/ldap-howto.xml | Gentoo LDAP Howto]]²< * [[http://www.gentoo.org/doc/en/qmail-howto.xml | Gentto Qmail Howto]]²\ No newline at end of file²---²> * [[http://www.gentoo.org/doc/en/ldap-howto.xml | Gentoo LDAP Howto]]²\ No newline at end of file²
+author:1103107668=
+host:1103107668=217.162.173.195
+diff:1103107668:1103107658:=3c3²< * [[http://www.gentoo.org/doc/en/qmail-howto.xml | Gentoo Qmail Howto]]²\ No newline at end of file²---²> * [[http://www.gentoo.org/doc/en/qmail-howto.xml | Gentto Qmail Howto]]²\ No newline at end of file²
+author:1103107932=
+host:1103107932=217.162.173.195
+diff:1103107932:1103107668:=3,4c3²< * [[http://www.gentoo.org/doc/en/qmail-howto.xml | Gentoo Qmail Howto]]²< * [[http://forums.gentoo.org/viewtopic.php?t=111817&start=50&postdays=0&postorder=asc&highlight=&sid=ec9bc9e4f3817aff7922e5ffb286e501 | Gentoo Formums SpamAssassin]]²\ No newline at end of file²---²> * [[http://www.gentoo.org/doc/en/qmail-howto.xml | Gentoo Qmail Howto]]²\ No newline at end of file²
+author:1103107947=
+host:1103107947=217.162.173.195
+diff:1103107947:1103107932:=4c4²< * [[http://forums.gentoo.org/viewtopic.php?t=111817&start=50&postdays=0&postorder=asc&highlight=&sid=ec9bc9e4f3817aff7922e5ffb286e501 | Gentoo Forums SpamAssassin]]²\ No newline at end of file²---²> * [[http://forums.gentoo.org/viewtopic.php?t=111817&start=50&postdays=0&postorder=asc&highlight=&sid=ec9bc9e4f3817aff7922e5ffb286e501 | Gentoo Formums SpamAssassin]]²\ No newline at end of file²
+author:1103132148=
+host:1103132148=217.162.173.195
+diff:1103132148:1103107947:=3d2²< * [[http://gentoo-wiki.com/HOWTO_OpenGroupware.org_with_OpenLDAP#Install_OpenLDAP | OpenGrouware with OpenLDAP]]²
+author:1103179620=
+host:1103179620=217.162.173.195
+diff:1103179620:1103132148:=5,6c5²< * [[http://forums.gentoo.org/viewtopic.php?t=111817&start=50&postdays=0&postorder=asc&highlight=&sid=ec9bc9e4f3817aff7922e5ffb286e501 | Gentoo Forums SpamAssassin]]²< * [[http://forums.gentoo.org/viewtopic.php?t=266572&sid=3c9f2383b54deae73f1084855decd8b7 | Gentoo Forums Virtual Hosting in 2 Minutes]]²\ No newline at end of file²---²> * [[http://forums.gentoo.org/viewtopic.php?t=111817&start=50&postdays=0&postorder=asc&highlight=&sid=ec9bc9e4f3817aff7922e5ffb286e501 | Gentoo Forums SpamAssassin]]²\ No newline at end of file²
+author:1103204105=
+host:1103204105=217.162.173.195
+diff:1103204105:1103179620:=6,7c6²< * [[http://forums.gentoo.org/viewtopic.php?t=266572&sid=3c9f2383b54deae73f1084855decd8b7 | Gentoo Forums Virtual Hosting in 2 Minutes]]²< * [[http://zeno.davaz.com/index.cgi?Email | Email-Server Qmail, QmailAdmin, Vpopmail, Sqwebmail, TMDA-CGI, Clamav, SpamAssassin, QmailScanner]]  ²\ No newline at end of file²---²> * [[http://forums.gentoo.org/viewtopic.php?t=266572&sid=3c9f2383b54deae73f1084855decd8b7 | Gentoo Forums Virtual Hosting in 2 Minutes]]²\ No newline at end of file²
+author:1103204118=
+host:1103204118=217.162.173.195
+diff:1103204118:1103204105:=7c7²< * [[http://zeno.davaz.com/index.cgi?Email | Email-Server mit Qmail, QmailAdmin, Vpopmail, Sqwebmail, TMDA-CGI, Clamav, SpamAssassin, QmailScanner]]²\ No newline at end of file²---²> * [[http://zeno.davaz.com/index.cgi?Email | Email-Server Qmail, QmailAdmin, Vpopmail, Sqwebmail, TMDA-CGI, Clamav, SpamAssassin, QmailScanner]]²\ No newline at end of file²

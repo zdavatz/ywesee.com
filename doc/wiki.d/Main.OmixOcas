@@ -1,0 +1,18 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9b3pre) Gecko/2008012404 Minefield/3.0b3pre
+author=
+host=77.57.16.157
+name=Main.OmixOcas
+rev=3
+targets=
+text=! Omix Ocas%0a%0a01 Omix Ocas 0.4 mg, comprimés retard%0aAstellas Pharma AG, Route de Moncor 10, 1752 Villars-sur-Glâne%0aN° d'AMM: 57637 Catégorie de remise: B Index: 05.99.0. 13.01.2006%0aComposition 01 tamsulosini hydrochloridum 0.4 mg, excipiens pro compresso obducto.%0aIndication hypertrophie bénigne de la prostate%0aConditionnements 01 001 10 comprimé(s) B%0a003 30 comprimé(s) B%0a005 100 comprimé(s) B%0a%0a'''Die Packungsnummer müssten 001, 002, 003 sein.'''
+time=1201511197
+author:1201511197=
+diff:1201511197:1201511183:=12c12%0a%3c '''Die Packungsnummer müssten 001, 002, 003 sein.'''%0a\ No newline at end of file%0a---%0a> Die Packungsnummer müssten 001, 002, 003 sein.%0a\ No newline at end of file%0a
+host:1201511197=77.57.16.157
+author:1201511183=
+diff:1201511183:1201509887:=2,11d1%0a%3c %0a%3c 01 Omix Ocas 0.4 mg, comprimés retard%0a%3c Astellas Pharma AG, Route de Moncor 10, 1752 Villars-sur-Glâne%0a%3c N° d'AMM: 57637 Catégorie de remise: B Index: 05.99.0. 13.01.2006%0a%3c Composition 01 tamsulosini hydrochloridum 0.4 mg, excipiens pro compresso obducto.%0a%3c Indication hypertrophie bénigne de la prostate%0a%3c Conditionnements 01 001 10 comprimé(s) B%0a%3c 003 30 comprimé(s) B%0a%3c 005 100 comprimé(s) B%0a%3c %0a
+host:1201511183=77.57.16.157
+author:1201509887=
+diff:1201509887:1201509887:=1,2d0%0a%3c ! Omix Ocas%0a%3c Die Packungsnummer müssten 001, 002, 003 sein.%0a\ No newline at end of file%0a
+host:1201509887=77.57.16.157

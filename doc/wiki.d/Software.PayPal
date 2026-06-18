@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de; rv:1.8) Gecko/20051111 Firefox/1.5
+author=
+host=84.73.186.135
+name=Software.PayPal
+rev=1
+targets=
+text=http://www.paypal.com
+time=1138820027
+author:1138820027=
+diff:1138820027:1138820027:=1d0%0a%3c http://www.paypal.com%0a\ No newline at end of file%0a
+host:1138820027=84.73.186.135

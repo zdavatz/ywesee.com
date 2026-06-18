@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1115229463
+text=Ein ToDo ist etwas das erledigt werden will.
+targets=Main.ToDo
+author=
+author:1115229463=
+host:1115229463=217.162.177.109
+diff:1115229463:1115229463:=1d0²< Ein ToDo ist etwas das erledigt werden will.²\ No newline at end of file²
+name=Main.ToDo
+host=217.162.177.109
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.6) Gecko/20050329 Firefox/1.0.2
+rev=1

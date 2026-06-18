@@ -1,0 +1,36 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a1pre) Gecko/20100128 Minefield/3.7a1pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1258017146
+host=80.219.10.249
+name=ODDB.FIUndPIPublikation
+rev=8
+targets=
+text=! Publikation von Fach- und Patienteninformationen auf ch.oddb.org und Generika.cc - (:addThis username="myUsername" btn="sm-share":)%0a* [[http://ch.oddb.org/de/gcc/fipi_offer_input/ | Offertengenerator]]%0a* Username und Passwort anfragen bei '''zdavatz at ywesee dot com'''.%0a* Hintergrund: [[http://www.ywesee.com/pmwiki.php/Main/DocumedGalenicaVsYwesee | Eine Chronologie der Ereignisse]]%0a%0a! FAQ%0a!!Patienteninformation%0a* PI hochladen: http://wiki.oddb.org/wiki.php/ODDB/Pi-Upload%0a* PI zuweisen: http://wiki.oddb.org/wiki.php/ODDB/Pi-Zuweisen (kostenlos)%0a!!Fachinformation:%0a* FI hochladen: http://wiki.oddb.org/wiki.php/ODDB/Fi-Upload%0a* FI zuweisen: http://wiki.oddb.org/wiki.php/ODDB/Fi-Zuweisen (kostenlos)%0a* FI Editor: http://wiki.oddb.org/wiki.php/ODDB/Fi-Editor%0a!!Stammdaten%0a* Stammdaten Mutation: http://wiki.oddb.org/wiki.php/ODDB/Stammdatenmutation%0a%0a! Support%0a* +41 43 540 05 50%0a
+time=1264761405
+author:1264761405=
+diff:1264761405:1258017518:=1c1%0a%3c ! Publikation von Fach- und Patienteninformationen auf ch.oddb.org und Generika.cc - (:addThis username="myUsername" btn="sm-share":)%0a---%0a> ! Publikation von Fach- und Patienteninformationen auf ch.oddb.org und Generika.cc%0a
+host:1264761405=80.219.10.249
+author:1258017518=
+diff:1258017518:1258017490:=1c1%0a%3c ! Publikation von Fach- und Patienteninformationen auf ch.oddb.org und Generika.cc%0a---%0a> ! Publikation von Patienteninformationen auf ch.oddb.org%0a
+host:1258017518=80.219.154.254
+author:1258017490=
+diff:1258017490:1258017457:=16,18d15%0a%3c %0a%3c ! Support%0a%3c * +41 43 540 05 50%0a
+host:1258017490=80.219.154.254
+author:1258017457=
+diff:1258017457:1258017414:=3c3%0a%3c * Username und Passwort anfragen bei '''zdavatz at ywesee dot com'''.%0a---%0a> * Username und Passwort anfragen bei zdavatz at ywesee dot com.%0a
+host:1258017457=80.219.154.254
+author:1258017414=
+diff:1258017414:1258017403:=14d13%0a%3c !!Stammdaten%0a
+host:1258017414=80.219.154.254
+author:1258017403=
+diff:1258017403:1258017359:=7d6%0a%3c !!Patienteninformation%0a10d8%0a%3c !!Fachinformation:%0a
+host:1258017403=80.219.154.254
+author:1258017359=
+diff:1258017359:1258017146:=4,12c4%0a%3c * Hintergrund: [[http://www.ywesee.com/pmwiki.php/Main/DocumedGalenicaVsYwesee | Eine Chronologie der Ereignisse]]%0a%3c %0a%3c ! FAQ%0a%3c * PI hochladen: http://wiki.oddb.org/wiki.php/ODDB/Pi-Upload%0a%3c * PI zuweisen: http://wiki.oddb.org/wiki.php/ODDB/Pi-Zuweisen (kostenlos)%0a%3c * FI hochladen: http://wiki.oddb.org/wiki.php/ODDB/Fi-Upload%0a%3c * FI zuweisen: http://wiki.oddb.org/wiki.php/ODDB/Fi-Zuweisen (kostenlos)%0a%3c * FI Editor: http://wiki.oddb.org/wiki.php/ODDB/Fi-Editor%0a%3c * Stammdaten Mutation: http://wiki.oddb.org/wiki.php/ODDB/Stammdatenmutation%0a---%0a> * Hintergrund: [[http://www.ywesee.com/pmwiki.php/Main/DocumedGalenicaVsYwesee | Eine Chronologie der Ereignisse]]%0a\ No newline at end of file%0a
+host:1258017359=80.219.154.254
+author:1258017146=
+diff:1258017146:1258017146:=1,4d0%0a%3c ! Publikation von Patienteninformationen auf ch.oddb.org%0a%3c * [[http://ch.oddb.org/de/gcc/fipi_offer_input/ | Offertengenerator]]%0a%3c * Username und Passwort anfragen bei zdavatz at ywesee dot com.%0a%3c * Hintergrund: [[http://www.ywesee.com/pmwiki.php/Main/DocumedGalenicaVsYwesee | Eine Chronologie der Ereignisse]]%0a\ No newline at end of file%0a
+host:1258017146=80.219.154.254

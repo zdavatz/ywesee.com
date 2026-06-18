@@ -1,0 +1,15 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1b2pre) Gecko/20081125 Minefield/3.1b2pre
+author=
+host=84.72.92.25
+name=Main.PreisHistorie
+rev=2
+targets=
+text=Der Export aller SL und LPPV Preise, 5 Jahre zurück: [[http://ch.oddb.org/resources/downloads/datadesc/price_history.yaml.txt | Datenbeschrieb]] und [[http://ch.oddb.org/resources/downloads/examples/price_history.yaml | Beispiel-Download]].
+time=1227709253
+author:1227709253=
+diff:1227709253:1227709225:=1c1%0a%3c Der Export aller SL und LPPV Preise, 5 Jahre zurück: [[http://ch.oddb.org/resources/downloads/datadesc/price_history.yaml.txt | Datenbeschrieb]] und [[http://ch.oddb.org/resources/downloads/examples/price_history.yaml | Beispiel-Download]].%0a\ No newline at end of file%0a---%0a> Der Export: [[http://ch.oddb.org/resources/downloads/datadesc/price_history.yaml.txt | Datenbeschrieb]] und [[http://ch.oddb.org/resources/downloads/examples/price_history.yaml | Beispiel-Download]].%0a\ No newline at end of file%0a
+host:1227709253=84.72.92.25
+author:1227709225=
+diff:1227709225:1227709225:=1d0%0a%3c Der Export: [[http://ch.oddb.org/resources/downloads/datadesc/price_history.yaml.txt | Datenbeschrieb]] und [[http://ch.oddb.org/resources/downloads/examples/price_history.yaml | Beispiel-Download]].%0a\ No newline at end of file%0a
+host:1227709225=84.72.92.25

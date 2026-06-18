@@ -1,0 +1,231 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 12897 invoked from network); 20 Nov 2007 07:15:49 -0000
+X-Spam-Status: No, hits-4.4 required5.0
+	testsALL_TRUSTED,AWL,BAYES_00
+X-Spam-Check-By: mail.ywesee.com
+Received: from [77.57.16.157] (HELO zrr.local) (77.57.16.157)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Tue, 20 Nov 2007 08:15:48 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by zrr.local (Postfix) with ESMTP id 3C7617247D;
+	Tue, 20 Nov 2007 08:15:51 +0100 (CET)
+Date: Tue, 20 Nov 2007 08:15:51 +0100 (CET)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: "Martinelli Enea Dr. [Interlaken]" <enea.martinelli@spitalfmi.ch>
+cc: todo@oddb.org
+Subject: Re: AW: Re: Re: Stellungnahme der GSASA zum Kompendium in
+ Buchform.
+In-Reply-To: <B3A32678C9ö5040ADFA07E5771C70A6015A10ä@rsinterl14.interlago.ch>
+Message-ID: <alpine.LNX.0.9999.0711200814340.10185@localhost>
+References: <B3A32678C9ö5040ADFA07E5771C70A6015A10ä@rsinterl14.interlago.ch>
+Organization: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY"8323328-993541208-1195542951:10185"
+X-Virus-Checked: Checked by ClamAV on mail.ywesee.com
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-993541208-1195542951:10185
+Content-Type: TEXT/PLAIN; formatflowed; charsetISO-8859-15
+Content-Transfer-Encoding: 8BIT
+
+Sehr geehrter Herr Martinelli
+
+Vielen Dank für Ihr Feedback.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50
+
+On Tue, 20 Nov 2007, Martinelli Enea Dr. [Interlaken] wrote:
+
+> Sehr geehrter Herr Davaz
+>
+> Eine offizielle Stellungsnahme kann ich Ihnen im Namen der GSASA gerne 
+> geben; sie hat in den letzten 2 Jahren nicht geändert :
+>
+> Vor rund 2 Jahren hatte die Documed in Absprache mit der SGCI 
+> entschieden keine Kompendien mehr in Buchform kostenlos an die Spitäler 
+> zu versenden. Sehr viele Spitäler hatten damals sehr heftig reagiert, da 
+> diese Ankündigung nie abgesprochen war und auch sehr kurzfristig erfolgt 
+> ist. Die GSASA hat darauf hin beim Verlag reklamiert, da wir der Ansicht 
+> waren und nach wie vor sind, dass die Buchform nach wie vor sein muss 
+> und gemäss Gesetz die Fachpersonen Anspruch auf ein Gratisexemplar 
+> haben. Freilich kann der, der die Lage anders einschätzt auf ein Buch 
+> verzichten.
+>
+> Ich kann zwar Ihrer Argumentation weitgehend folgen, jedoch lassen Sie 
+> wesentliche Punkte ausser Acht : In vielen Spitälern ist die 
+> Verfügbarkeit von PC's nach wie vor ein Problem. V.a.  stehen die PC's 
+> nicht unbedingt dort, wo die Information gebraucht wird. Es ist auch 
+> nicht so, dass dieses Buch tagtäglich gebraucht wird, das sehen Sie 
+> richtig. Zählt man zusammen wer genau das Kompendium wie oft braucht, 
+> stellt man fest, dass die häufigsten Anwender des Kompendiums nicht die 
+> Ärzte, sondern das Pflegepersonal sind. Ärzte brauchen das Kompendium 
+> auch, v.a. dann wenn selten verwendete Medikamente angewendet werden 
+> sollen. Viele Spitäler haben deshalb nach wie vor auf dem Visitenwagen 
+> ein Kompendium verfügbar. Wäre dem so, dass man auf die Kompendien in 
+> Buchform verzichten könnte, würden die Spitäler auch keine 
+> Arzneimittellisten drucken lassen. Dass sie es nach wie vor tun (trotz 
+> erheblichen Aufwandes) zeigt, dass die gedruckte Form der Informationen 
+> nach wie vor einen grossen Stellenwert hat.
+>
+> Ich gehe mit Ihnen einig, dass es nicht mehr so viele Kompendien braucht 
+> wie früher und das Internet einige Vorteile bringt. Aus diesem Grund 
+> haben wir uns mit dem Verlag darauf geeinigt, dass er den Spitälern 
+> nicht mehr pro Arzt ein Exemplar zur Verfügung stellt, sondern pro 
+> Abteilung.
+>
+> Wichtig für uns ist, dass die Informationen über eine zentrale Stelle 
+> umfassend abgerufen werden können. D.h. man sollte sich zu keinem 
+> Zeitpunkt überlegen müssen, wo jetzt welche Information genau zu finden 
+> ist. Dies ist der Hauptpunkt. Solange die Spitäler noch so mit der 
+> Informatik ausgerüstet sind, wie sie es jetzt sind, solange wird es auch 
+> noch ein Buch brauchen. Wir fordern darüber hinaus sogar noch einen 
+> italienischen Text, damit die Grenzgänger im Tessin, die weder 
+> französisch noch deutsch können, jedoch trotzdem in den Tessiner 
+> Spitälern arbeiten, ebenfalls einen offiziellen Text haben.
+>
+> Als "Entlastung" haben wir der Swissmedic im Rahmen einer Stellungnahme 
+> zur Vernehmlassung der Verordnungen zum Heilmittelgesetz vorgeschlagen, 
+> dass man auf die Beilage der Fachinformation bei Medikamenten, die am 
+> Patienten angewendet und ihm nicht mitgegeben werden verzichten kann und 
+> diese dafür in allen drei Landessprachen publiziert.
+>
+> Die Realitäten des Alltags liegen eben leider nicht immer auf der 
+> Ideallinie ! Nach unserer Einschätzung ist das Buch trotz den Kosten 
+> nach wie vor essentiell !
+>
+> Freundliche Grüsse
+>
+> dr. pharm. enea martinelli, phd
+> fachapotheker fph Spitalpharmazie
+> Ressort Politik GSASA (gesellschaft schweizerischer amts- und spitalapotheker)
+> chefapotheker spitalapotheke berner oberland
+> spitäler fmi ag
+> weissenaustrasse 27
+> ch-3800 interlaken
+>
+> enea.martinelli@spitalfmi.ch
+> http://www.gsasa.ch <http://www.gsasa.ch/>
+>
+> Tel.: +41 33 826 27 40
+> Fax.: +41 33 826 23 56
+>
+> ****************************************************************************************
+> The information in this e-mail and any attachments is confidential and is
+> intended for the adressee only. Reading, copying, disclosure or use by
+> anybody else is not authorised. The contents do not represent the opinion
+> of the sender, extent that it relates to his official business.
+> If you are not the intended recipient, please delete this message and any
+> attachments and advise the sender by return e-mail. Thank you.
+> ****************************************************************************************
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> ----- Ursprüngliche Nachricht -----
+>
+> Von: gsasa@gsasa.ch
+>
+> Datum: Mon, 19 Nov 2007 09:21:11 +0100
+>
+> Betreff: Re: Re: Stellungnahme der GSASA zum Kompendium in Buchform.
+>
+> An: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+>
+>
+>
+> ----- Ursprüngliche Nachricht -----
+>
+> Von: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+>
+> Datum: Sun, 18 Nov 2007 19:32:25 +0100
+>
+> Betreff: Re: Stellungnahme der GSASA zum Kompendium in Buchform.
+>
+> An: gsasa@gsasa.ch
+>
+> Sehr geehrte Frau Demierre
+>
+> Vielen Dank für Ihr Mail.
+>
+> Herrn Zelger habe ich das Mail ebenfalls bereits persönlich gesandt.
+>
+> Können Sie das Mail ev. noch unter den anderen Vorstandsmitgliedern
+> der GSASA verteilen?
+>
+> Vielen Dank für Ihr Feedback.
+>
+> Mit freundlichen Grüssen
+> Zeno Davatz
+>
+> Am 18.11.2007 um 19:00 schrieb gsasa@gsasa.ch:
+>
+>> Sehr geehrte Herr DAvatz
+>>
+>> Besten Dank für Ihr Mail. Ich habe es an unseren Präsidenten
+>> weitergeleitet, welcher Ihnen direkt Antwort geben wird.
+>>
+>> Mit freundlichen Grüssen
+>>
+>> Brigitte Demierre, Siège GSASA
+>>
+>>
+>>
+>> ----- Ursprüngliche Nachricht -----
+>> Von: "Zeno R.R. Davatz"
+>> Datum: Fri, 16 Nov 2007 10:58:27 +0100 (CET)
+>> Betreff: Stellungnahme der GSASA zum Kompendium in Buchform.
+>> An: gsasa@gsasa.ch
+>> Sehr geehrte Damen und Herren
+>>
+>> Ich bin auf der Suche nach einer offiziellen Stellungnahme der GSASA
+>> zur
+>> Buchform des Kompendiums.
+>>
+>> Wir sind die Betreiber von ODDB.org und publizieren sämtliche Fach-
+>> und
+>> Patienteninformationen auf ODDB.org und Generika.cc, kostenlos zur
+>> Einsicht.
+>>
+>> Unserer Meinung nach ist das Kompendiumsbuch zum Zeitpunkt des
+>> Drucks veraltet
+>> und nicht mehr zeitgemäss.
+>>
+>> Meine Frage an die GSASA ist folgende: Sind Sie gleicher Meinung?
+>> Können Sie
+>> sich mit einer reinen Online-Publikation der Fachinformation
+>> zufrieden geben?
+>>
+>> Ich betrachte mein Anliegen auch als Einsparungspotential im
+>> Schweizerischen
+>> Gesundheitswesen.
+>>
+>> Unsere detaillierte Begründung finden Sie auch in unserem Schreiben an
+>> die Swissmedic:
+>> http://www.ywesee.com/uploads/Main/an_jenny_17.10.2007.pdf
+>>
+>> Vielen Dank für Ihr Feedback.
+>>
+>> Mit freundlichen Grüssen
+>> Zeno Davatz
+>> +41 43 540 05 50
+>>
+>>
+>> Brigitte Demierre
+>> Siège administratif GSASA
+>> Pharmacie, Hôpital cantonal
+>> 1708 Fribourg
+>> Tel.: 026/426 75 19
+>> Fax.: 026/426 75 09
+>> e-mail: gsasa@gsasa.ch

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 FireTorrent/2.0.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1287221752
+host=80.219.10.249
+name=ODDB.PatinfoPublikation
+rev=1
+targets=
+text=http://ch.oddb.org/de/gcc/fipi_offer_input/
+time=1287221752
+author:1287221752=zeno
+diff:1287221752:1287221752:=1d0%0a%3c http://ch.oddb.org/de/gcc/fipi_offer_input/%0a\ No newline at end of file%0a
+host:1287221752=80.219.10.249

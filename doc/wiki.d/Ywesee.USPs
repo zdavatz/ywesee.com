@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.2) Gecko/20060418 Firefox/1.5.0.2
+author=
+host=84.73.186.14
+name=Ywesee.USPs
+rev=1
+targets=
+text=Unique Selling Point.
+time=1145981594
+author:1145981594=
+diff:1145981594:1145981594:=1d0%0a%3c Unique Selling Point.%0a\ No newline at end of file%0a
+host:1145981594=84.73.186.14

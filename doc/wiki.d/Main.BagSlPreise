@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1329748685
+host=80.219.10.249
+name=Main.BagSlPreise
+rev=4
+targets=
+text=!!! Produkte die in der SL sind haben einen Schadenersatz-Anspruch gegenüber dem BAG wenn sie nicht korrekt abgerechnet werden.%0a!!! 20.2.2012%0aWir haben heute nochmals mit Herr Krayenbühl vom BAG Rücksprache genommen.%0a%0aFalls der SL-Preis (EFP und PP) vom BAG aus einem kommerziellen%0aDatenstamm verschwindet, und Ihr Produkt dann nicht mehr abgerechnet%0awerden könnte bei der Krankenkasse, dann haben Sie Recht auf ein%0aSchadensersatz Anspruch gegenüber dem BAG. Warum? Weil Ihr Produkt per%0aGesetz korrekt in der SL registriert wurde und das BAG die Preise%0akorrekt publiziert hat in seinen XML-Daten auf der BAG Homepage. Es%0aist Sache der Krankenkasse diese Produkte korrekt abzurechnen. Genau%0adafür publiziert das BAG ja seine kostenlosen XML-Daten.%0a%0aFalls Sie die jährliche Rechnung von Refdata bezahlt haben (ihr%0aProdukt hat ein Pharmacode), dann können sie davon ausgehen, dass ihre%0aBasisdaten in allen kommerziellen Datenstämmen der Betreiberin der%0aRefdata-DB vorhanden sind. An dieser Stelle schlagen wir jedoch vor,%0adass Sie sich über den genauen vertraglichen Stand der Dinge zwischen%0aRefdata und dessen Datenbank Betreiber informieren, damit Sie ihre%0aRechte besser kennenlernen.%0a%0aMit obigen zwei Punkten können Sie ruhig schlafen und bewusst Kosten%0asparen, falls Sie das wünschen.
+time=1329819793
+author:1329819793=zeno
+diff:1329819793:1329819777:=3c3%0a%3c Wir haben heute nochmals mit Herr Krayenbühl vom BAG Rücksprache genommen.%0a---%0a> Wir haben heute nochmals mit dem BAG Rücksprache genommen.%0a
+host:1329819793=80.219.10.249
+author:1329819777=zeno
+diff:1329819777:1329748699:=2c2%0a%3c !!! 20.2.2012%0a---%0a> %0a
+host:1329819777=80.219.10.249
+author:1329748699=zeno
+diff:1329748699:1329748685:=1c1%0a%3c !!! Produkte die in der SL sind haben einen Schadenersatz-Anspruch gegenüber dem BAG wenn sie nicht korrekt abgerechnet werden.%0a---%0a> !! Produkte die in der SL sind haben einen Schadenersatz-Anspruch gegenüber dem BAG wenn sie nicht korrekt abgerechnet werden.%0a
+host:1329748699=80.219.10.249
+author:1329748685=zeno
+diff:1329748685:1329748685:=1,23d0%0a%3c !! Produkte die in der SL sind haben einen Schadenersatz-Anspruch gegenüber dem BAG wenn sie nicht korrekt abgerechnet werden.%0a%3c %0a%3c Wir haben heute nochmals mit dem BAG Rücksprache genommen.%0a%3c %0a%3c Falls der SL-Preis (EFP und PP) vom BAG aus einem kommerziellen%0a%3c Datenstamm verschwindet, und Ihr Produkt dann nicht mehr abgerechnet%0a%3c werden könnte bei der Krankenkasse, dann haben Sie Recht auf ein%0a%3c Schadensersatz Anspruch gegenüber dem BAG. Warum? Weil Ihr Produkt per%0a%3c Gesetz korrekt in der SL registriert wurde und das BAG die Preise%0a%3c korrekt publiziert hat in seinen XML-Daten auf der BAG Homepage. Es%0a%3c ist Sache der Krankenkasse diese Produkte korrekt abzurechnen. Genau%0a%3c dafür publiziert das BAG ja seine kostenlosen XML-Daten.%0a%3c %0a%3c Falls Sie die jährliche Rechnung von Refdata bezahlt haben (ihr%0a%3c Produkt hat ein Pharmacode), dann können sie davon ausgehen, dass ihre%0a%3c Basisdaten in allen kommerziellen Datenstämmen der Betreiberin der%0a%3c Refdata-DB vorhanden sind. An dieser Stelle schlagen wir jedoch vor,%0a%3c dass Sie sich über den genauen vertraglichen Stand der Dinge zwischen%0a%3c Refdata und dessen Datenbank Betreiber informieren, damit Sie ihre%0a%3c Rechte besser kennenlernen.%0a%3c %0a%3c Mit obigen zwei Punkten können Sie ruhig schlafen und bewusst Kosten%0a%3c sparen, falls Sie das wünschen.%0a\ No newline at end of file%0a
+host:1329748685=80.219.10.249

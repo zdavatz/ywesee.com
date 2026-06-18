@@ -1,0 +1,77 @@
+/*
+ * Written by Hu Gang (hugang@soulinfo.com)
+ *
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License
+ * as published by the Free Software Foundation; either version
+ * 2 of the License, or (at your option) any later version.
+ */
+
+#include "asm/cpu_context.h"
+
+static struct saved_context suspend_saved_context;
+
+static inline void suspend2_save_processor_context(void)
+{
+	__save_processor_state(&suspend_saved_context);
+}
+
+static inline void suspend2_restore_processor_context(void)
+{
+	__restore_processor_state(&suspend_saved_context);
+
+	restore_context();
+}
+
+static inline void suspend2_pre_copy(void)
+{
+}
+
+static inline void suspend2_post_copy(void)
+{
+}
+
+static inline void suspend2_pre_copyback(void)
+{
+	save_context();
+}
+
+static inline void suspend2_post_copyback(void)
+{
+}
+
+static inline void suspend2_flush_caches(void)
+{
+}
+
+static unsigned long new_stack_page;
+
+static inline void snapshot_stack(void)
+{
+	unsigned long old_stack, src;
+
+	new_stack_page = 
+		suspend2_get_nonconflicting_pages(get_order(THREAD_SIZE));
+
+	BUG_ON(!new_stack_page);
+	
+	local_irq_disable();
+
+	/* geting stack address */
+	asm volatile ("stw %%r1, %0" : "=m" (old_stack));
+
+	src = old_stack & (~(THREAD_SIZE - 1));
+	
+	/* Copy stack */
+	memcpy((void*)new_stack_page, (void*)src, THREAD_SIZE);
+
+	new_stack_page += (old_stack - src);
+
+	local_irq_enable();
+}
+
+static void inline moving_stack(void)
+{
+	/* switch to new stack */
+	asm volatile ("lwz %%r1, %0" : "=m" (new_stack_page));
+}

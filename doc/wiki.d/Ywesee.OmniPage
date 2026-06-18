@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.2) Gecko/20060418 Firefox/1.5.0.2
+author=
+host=84.73.186.14
+name=Ywesee.OmniPage
+rev=1
+targets=
+text=http://www.google.com/search?q=omnipage
+time=1146140100
+author:1146140100=
+diff:1146140100:1146140100:=1d0%0a%3c http://www.google.com/search?q=omnipage%0a\ No newline at end of file%0a
+host:1146140100=84.73.186.14

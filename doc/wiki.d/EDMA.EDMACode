@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090618 Minefield/3.6a1pre
+author=
+host=84.74.177.14
+name=EDMA.EDMACode
+rev=1
+targets=
+text=http://www.edma-ivd.be/index.php?id=4
+time=1245420989
+author:1245420989=
+diff:1245420989:1245420989:=1d0%0a%3c http://www.edma-ivd.be/index.php?id=4%0a\ No newline at end of file%0a
+host:1245420989=84.74.177.14

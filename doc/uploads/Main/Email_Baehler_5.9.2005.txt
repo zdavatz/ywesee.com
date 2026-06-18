@@ -1,0 +1,68 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 15180 invoked by uid 210); 5 Sep 2005 09:20:58 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/1062. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.031074 secs); 05 Sep 2005 07:20:58 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 5 Sep 2005 09:20:57 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id 9D7ü15A467; Mon,  5 Sep 2005 09:12:43 +0200 (CEST)
+Date: Mon, 5 Sep 2005 09:12:43 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: ?iso-8859-1?Q?Bähler? Thomas <thomas.baehler@kellerhalslaw.ch>,
+	?iso-8859-1?Q?Kämpf? Reinhard <reinhard.kaempf@bag.admin.ch>,
+	Zeltner Thomas <thomas.zeltner@bag.admin.ch>,
+	Majstorovic Jelena <jelena.majstorovic@weko.admin.ch>,
+	Dozio Stefano <stefano.dozio@weko.admin.ch>
+Cc: todo@oddb.org
+Subject: Preissenkungen im SL-Bulletin nur Pharmacode, Frist von 5 Tagen.
+Message-ID: <20050905071243.GA22772@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrter Herr Bähler
+
+jeweils im offiziellen, schweizerischen SL-Bulletin sind die Preisänderungen nur per Pharmacode
+gekennzeichnet: 
+
+  http://www.galinfo.net/PR050901.txt
+
+alle Produkte in den folgenden Abschnitten:
+III. Preissenkungen / RE9ductions de prix
+IIIa. Preissenkungen nach Ablauf des Patentschutzes / RE9ductions de prix
+aprE8s l'expiration de la protection du brevet
+IIIb. Preissenkungen nach 15 Jahren SL / RE9ductions de prix aprE8s 15 ans
+IIIc. Preiskorrekturen / Corrections de prix
+IV. Preiserhöhungen / Augmentations de prix
+
+
+Beispiel:
+
+Amilo-basan     Sandoz Pharmaceuticals AG       05.01.00
+        20 Compr. (5+50 mg)     1786847 16536   8.00            3.32
+				*Pharmacode* ------------^      ^----------- *SL-Dossier*
+
+  -> die Swissmedic-Registrationsnummer (EAN-Code) wird gar nicht angezeigt.
+
+Ich möchte Sie bitte Ihrem Mandaten _sofort_ mit einer Frist von 5 Tage
+mitzuteilen, dass auf der offiziellen Seite vom BSV überall dort wo ein
+Pharmacode aufgelistet wird auch ein EAN-Code aufgelistet werden muss.
+
+Des weiteren möchten ich Sie bitten, ebenfalls in einer Frist von 5
+Tagen, entweder den Direktlink von der offiziellen Bundesseite auf 
+Pharmavista.ch zu entfernen oder unsere Produktelinks von ODDB.org
+auch in die offizielle BSV-Seite aufzunehmen.
+
+Ich bitte Sie um eine Meldung in spätestens 5 Tagen.
+
+Besten Dank für Ihre Bemühungen.
+
+Mit freundlichen Grüssen
+Zeno Davatz

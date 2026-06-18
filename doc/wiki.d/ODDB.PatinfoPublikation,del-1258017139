@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a1pre) Gecko/20091110 Minefield/3.7a1pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1258016937
+host=80.219.154.254
+name=ODDB.PatinfoPublikation
+rev=2
+targets=
+text=! Publikation von Patienteninformationen auf ch.oddb.org%0a* [[http://ch.oddb.org/de/gcc/fipi_offer_input/ | Offertengenerator]]%0a* Username und Passwort anfragen bei zdavatz at ywesee dot com.%0a* Hintergrund: [[http://www.ywesee.com/pmwiki.php/Main/DocumedGalenicaVsYwesee | Eine Chronologie der Ereignisse]]
+time=1258017043
+author:1258017043=
+diff:1258017043:1258016937:=4c4%0a%3c * Hintergrund: [[http://www.ywesee.com/pmwiki.php/Main/DocumedGalenicaVsYwesee | Eine Chronologie der Ereignisse]]%0a\ No newline at end of file%0a---%0a> * Hintergrund:%0a\ No newline at end of file%0a
+host:1258017043=80.219.154.254
+author:1258016937=
+diff:1258016937:1258016937:=1,4d0%0a%3c ! Publikation von Patienteninformationen auf ch.oddb.org%0a%3c * [[http://ch.oddb.org/de/gcc/fipi_offer_input/ | Offertengenerator]]%0a%3c * Username und Passwort anfragen bei zdavatz at ywesee dot com.%0a%3c * Hintergrund: %0a\ No newline at end of file%0a
+host:1258016937=80.219.154.254

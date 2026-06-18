@@ -1,0 +1,24 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1) Gecko/20061206 BonEcho/2.0
+author=zrr
+host=84.72.152.159
+name=Main.HirslandenProfessional
+rev=5
+targets=
+text=! Hirslanden Professional%0a%0a[[http://www.hirslandenprofessional.ch | Hirslanden Professional]] richtet sich an die Ärzte der Hirslanden-Gruppe.%0a%0a HERAUSGEBER%0a Klinik Hirslanden AG, Zürich%0a Hirslanden Head Office%0a Medical Department%0a Seefeldstrasse 214%0a 8008 Zürich%0a Tel. +41 (0)44 388 85 85%0a Email: info@hirslandenprofessional.ch
+time=1165417630
+author:1165417630=zrr
+diff:1165417630:1165417610:=1,2c1,2%0a%3c ! Hirslanden Professional%0a%3c %0a---%0a> !! Hirslanden Professional%0a> %0a
+host:1165417630=84.72.152.159
+author:1165417610=zrr
+diff:1165417610:1165417595:=5,12c5,12%0a%3c  HERAUSGEBER%0a%3c  Klinik Hirslanden AG, Zürich%0a%3c  Hirslanden Head Office%0a%3c  Medical Department%0a%3c  Seefeldstrasse 214%0a%3c  8008 Zürich%0a%3c  Tel. +41 (0)44 388 85 85%0a%3c  Email: info@hirslandenprofessional.ch%0a\ No newline at end of file%0a---%0a> HERAUSGEBER%0a> Klinik Hirslanden AG, Zürich%0a> Hirslanden Head Office%0a> Medical Department%0a> Seefeldstrasse 214%0a> 8008 Zürich%0a> Tel. +41 (0)44 388 85 85%0a> Email: info@hirslandenprofessional.ch%0a\ No newline at end of file%0a
+host:1165417610=84.72.152.159
+author:1165417595=zrr
+diff:1165417595:1165417522:=1,12c1%0a%3c !! Hirslanden Professional%0a%3c %0a%3c [[http://www.hirslandenprofessional.ch | Hirslanden Professional]] richtet sich an die Ärzte der Hirslanden-Gruppe.%0a%3c %0a%3c HERAUSGEBER%0a%3c Klinik Hirslanden AG, Zürich%0a%3c Hirslanden Head Office%0a%3c Medical Department%0a%3c Seefeldstrasse 214%0a%3c 8008 Zürich%0a%3c Tel. +41 (0)44 388 85 85%0a%3c Email: info@hirslandenprofessional.ch%0a\ No newline at end of file%0a---%0a> [[http://www.hirslandenprofessional.ch | Hirslanden Professional]] richtet sich an die Ärzte der Hirslanden-Gruppe.%0a\ No newline at end of file%0a
+host:1165417595=84.72.152.159
+author:1165417522=zrr
+diff:1165417522:1165417504:=1c1%0a%3c [[http://www.hirslandenprofessional.ch | Hirslanden Professional]] richtet sich an die Ärzte der Hirslanden-Gruppe.%0a\ No newline at end of file%0a---%0a> [[http://www.hirslandenprofessional | Hirslanden Professional]] richtet sich an die Ärzte der Hirslanden-Gruppe.%0a\ No newline at end of file%0a
+host:1165417522=84.72.152.159
+author:1165417504=zrr
+diff:1165417504:1165417504:=1d0%0a%3c [[http://www.hirslandenprofessional | Hirslanden Professional]] richtet sich an die Ärzte der Hirslanden-Gruppe.%0a\ No newline at end of file%0a
+host:1165417504=84.72.152.159

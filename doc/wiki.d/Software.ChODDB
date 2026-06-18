@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090128 Minefield/3.2a1pre
+author=
+host=84.72.92.25
+name=Software.ChODDB
+rev=1
+targets=
+text=!Chart of ch.oddb.org data%0aAttach:ch.oddb.org_chart.png
+time=1233241468
+author:1233241468=
+diff:1233241468:1233241468:=1,2d0%0a%3c !Chart of ch.oddb.org data%0a%3c Attach:ch.oddb.org_chart.png%0a\ No newline at end of file%0a
+host:1233241468=84.72.92.25

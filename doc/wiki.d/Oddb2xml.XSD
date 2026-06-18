@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.99 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1400091122
+host=46.140.30.26
+name=Oddb2xml.XSD
+rev=2
+targets=
+text=! XSD von oddb2xml erstelltem XML %0a https://raw.githubusercontent.com/zdavatz/oddb2xml/master/oddb2xml.xsd
+time=1400091197
+author:1400091197=zeno
+diff:1400091197:1400091122:=2c2%0a%3c  https://raw.githubusercontent.com/zdavatz/oddb2xml/master/oddb2xml.xsd%0a\ No newline at end of file%0a---%0a>  https://raw.githubusercontent.com/ngiger/oddb2xml/master/oddb2xml.xsd%0a\ No newline at end of file%0a
+host:1400091197=46.140.30.26
+author:1400091122=zeno
+diff:1400091122:1400091122:=1,2d0%0a%3c ! XSD von oddb2xml erstelltem XML %0a%3c  https://raw.githubusercontent.com/ngiger/oddb2xml/master/oddb2xml.xsd%0a\ No newline at end of file%0a
+host:1400091122=46.140.30.26

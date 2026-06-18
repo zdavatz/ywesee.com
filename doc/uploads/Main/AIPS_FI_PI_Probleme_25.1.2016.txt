@@ -1,0 +1,627 @@
+00000_fi_de_BCG VACCINE SSI
+00000_fi_de_DIGIFAB® DIGOXIN IMMUNE FAB (OVINE)
+00000_fi_de_Erythrozytenkonzentrat (EK) leukozytendepletiert, in additiver Lösung
+00000_fi_de_FACTOR X P BEHRING
+00000_fi_de_SUCCICAPTAL 200 mg, Hartkapseln
+00000_fi_fr_BCG VACCINE SSI
+00000_fi_fr_Concentré érythrocytaire (CE) déplété en leucocytes, en solution additive
+00000_fi_fr_DIGIFAB® DIGOXIN IMMUNE FAB (OVINE)
+00000_fi_fr_FACTOR X P BEHRING
+00000_fi_fr_SUCCICAPTAL 200 mg, Gélules
+10999_pi_de_Osanit® Kügelchen
+10999_pi_de_Osanit® Zahnen, homöopathische Globuli
+10999_pi_fr_Osanit® dentition, globules homéopathique
+10999_pi_fr_Osanit® globules 
+10999_pi_it_Osanit® dentizione, omeopatico globuli
+10999_pi_it_Osanit® globuli
+14991_pi_de_Pulmex® Salbe
+14991_pi_de_Pulmex® Salbe/Kapseln zur Inhalation
+14991_pi_fr_Pulmex® Pommade
+14991_pi_fr_Pulmex® Pommade/Capsules pour inhalation
+14991_pi_it_Pulmex® Pomata
+14991_pi_it_Pulmex® Pomata/Capsule per inalazione
+16522_pi_de_Hederix
+16522_pi_fr_Hederix
+16522_pi_it_Hederix
+16710_pi_de_Hamamelis Salbe Haas
+16710_pi_fr_Hamamélis Haas Pommade
+16710_pi_fr_Pommade Hamamélis Haas
+25022_fi_de_Augentonicum Stulln
+25022_fi_fr_Augentonicum Stulln
+25022_pi_de_Augentonicum Stulln
+25022_pi_fr_Augentonicum Stulln
+25022_pi_it_Augentonicum Stulln
+26821_pi_de_Agiolax® mit Senna Granulat 150 g
+26821_pi_de_Agiolax® mit Senna Granulat 250 g/1000 g
+26821_pi_fr_Agiolax® avec séné granulés 150 g
+26821_pi_fr_Agiolax® avec séné granulés 250 g/1000 g
+26821_pi_it_Agiolax® con senna granulato 150 g
+26821_pi_it_Agiolax® con senna granulato 250 g/1000 g
+31954_fi_de_Fluimucil® 10%
+31954_fi_de_Fluimucil® 20%
+31954_fi_fr_Fluimucil® 10%
+31954_fi_fr_Fluimucil® 20%
+32053_pi_de_Stugeron®
+32053_pi_de_Stugeron® Tabletten
+32053_pi_fr_Stugeron®
+32053_pi_fr_Stugeron® Comprimés
+32053_pi_it_Stugeron®
+32053_pi_it_Stugeron® Compresse
+33481_pi_de_Vitamin D3 Streuli® Prophylax 
+33481_pi_de_Vitamin D3 Streuli® zur Therapie
+33481_pi_fr_Vitamine D3 Streuli® Prophylax
+33481_pi_fr_Vitamine D3 Streuli® pour la thérapie
+33481_pi_it_Vitamina D3 Streuli® Prophylax
+33481_pi_it_Vitamina D3 Streuli® a terapia
+37397_pi_de_Ventolin® 1,25 mg/2,5 mL gebrauchsfertige Lösung für Aerosolgeräte
+37397_pi_de_Ventolin® 5 mg/mL konzentrierte Lösung für Aerosolgeräte
+37397_pi_fr_Ventolin® 1,25 mg/2,5 mL solution prête à l'emploi pour appareils aérosols
+37397_pi_fr_Ventolin® 5 mg/mL solution concentrée pour appareils aérosols
+37397_pi_it_Ventolin® 1,25 mg/2,5 mL soluzione pronta all'uso per apparecchi aerosol
+37397_pi_it_Ventolin® 5 mg/mL soluzione concentrata per apparecchi aerosol
+37482_fi_de_Androcur®-10
+37482_fi_de_Androcur®-50
+37482_fi_fr_Androcur®-10
+37482_fi_fr_Androcur®-50
+37482_pi_de_Androcur®-10
+37482_pi_de_Androcur®-50
+37482_pi_fr_Androcur®-10
+37482_pi_fr_Androcur®-50
+37482_pi_it_Androcur®-10 
+37482_pi_it_Androcur®-50
+37561_pi_de_Fluimucil
+37561_pi_de_Fluimucil Granulat/Brausetabletten/Tabletten
+37561_pi_fr_Fluimucil
+37561_pi_fr_Fluimucil Granulé/Comprimés effervescents/Comprimés 
+37561_pi_it_Fluimucil
+37561_pi_it_Fluimucil Granulare/Compresse effervescenti/Compresse
+37979_fi_de_Mediaven®
+37979_fi_de_Mediaven® forte
+37979_fi_fr_Mediaven®
+37979_fi_fr_Mediaven® forte
+38133_pi_de_Aspégic 100®
+38133_pi_de_Aspégic 500®
+38133_pi_de_Aspégic Forte®
+38133_pi_de_Aspégic Mite®
+38133_pi_fr_Aspégic 100®
+38133_pi_fr_Aspégic 500®
+38133_pi_fr_Aspégic Forte®
+38133_pi_fr_Aspégic Mite®
+38133_pi_it_Aspégic 100®
+38133_pi_it_Aspégic 500®
+38133_pi_it_Aspégic Forte®
+38133_pi_it_Aspégic Mite®
+38853_fi_de_Vermox® 100 mg
+38853_fi_de_Vermox® 500 mg
+38853_fi_fr_Vermox® 100 mg
+38853_fi_fr_Vermox® 500 mg
+38853_pi_de_Vermox® 100 mg
+38853_pi_de_Vermox® 500 mg
+38853_pi_fr_Vermox® 100 mg
+38853_pi_fr_Vermox® 500 mg
+38853_pi_it_Vermox® 100 mg
+38853_pi_it_Vermox® 500 mg
+41569_pi_de_FemiFect
+41569_pi_fr_FemiFect
+41569_pi_it_FemiFect
+41903_pi_de_Motilium®
+41903_pi_de_Motilium®/- lingual®
+41903_pi_fr_Motilium®
+41903_pi_fr_Motilium®/- lingual®
+41903_pi_it_Motilium®
+41903_pi_it_Motilium®/- lingual®
+43788_pi_de_Tramal® Tropfen, Lösung zum Einnehmen
+43788_pi_de_Tramal® Tropfen, Lösung zum Einnehmen mit Dosierpumpe
+43788_pi_fr_Tramal® Gouttes avec pompe de dosage
+43788_pi_fr_Tramal® Gouttes, solution à prendre
+43788_pi_it_Tramal® gocce, soluzione orale
+43788_pi_it_Tramal® gocce, soluzione orale con pompetta dosatrice
+44654_fi_de_Betacorton S, Lösung
+44654_fi_de_Betacorton® S Lösung  
+44654_fi_fr_Bétacortone S, Solution
+44654_fi_fr_Bétacortone® S Solution
+44654_pi_de_Betacorton S, Lösung
+44654_pi_de_Betacorton® S Lösung
+44654_pi_fr_Bétacortone S, Solution
+44654_pi_fr_Bétacortone® S Solution
+44654_pi_it_Betacorton S, Soluzione
+44654_pi_it_Betacorton® S Soluzione
+44939_pi_de_Otrivin® Schnupfen
+44939_pi_de_Otrivin® Schnupfen 0.1% Menthol, Dosierspray
+44939_pi_fr_Otrivin® Rhume
+44939_pi_fr_Otrivin® Rhume 0.1% Menthol, Spray-doseur
+44939_pi_it_Otrivin® Raffreddore
+44939_pi_it_Otrivin® Raffreddore 0.1% Mentolo, spray dosatore
+45116_pi_de_Similasan Allergisch reagierende Augen, Augentropfen 10 ml 
+45116_pi_de_Similasan Allergisch reagierende Augen, Monodosen, Augentropfen
+45116_pi_fr_Similasan réactions allergiques des yeux, gouttes pour les yeux, 10ml
+45116_pi_fr_Similasan réactions allergiques des yeux, gouttes pour les yeux, monodoses
+45116_pi_it_Similasan reazioni allergiche degli occhi, gocce per gli occhi 10ml
+45116_pi_it_Similasan reazioni allergiche degli occhi, gocce per gli occhi monodose
+45117_pi_de_Similasan Trockene Augen, Augentropfen 10 ml
+45117_pi_de_Similasan Trockene Augen, Monodosen, Augentropfen
+45117_pi_fr_Similasan yeux secs, gouttes pour les yeux, 10ml
+45117_pi_fr_Similasan yeux secs, gouttes pour les yeux, monodoses
+45117_pi_it_Similasan occhi secchi, gocce per gli occhi 10ml
+45117_pi_it_Similasan occhi secchi, gocce per gli occhi monodose
+46206_pi_de_Ben-u-ron® 1000 mg Tabletten
+46206_pi_de_Ben-u-ron® 500 mg Tabletten
+46206_pi_fr_Ben-u-ron® 500 mg comprimés
+46206_pi_fr_Ben-u-ron® Comprimés 1000 mg
+46206_pi_it_Ben-u-ron® 1000 mg compresse
+46206_pi_it_Ben-u-ron® 500 mg compresse
+46673_pi_de_Salofalk® 1 g
+46673_pi_de_Salofalk® 250 /500 Suppositorien
+46673_pi_fr_Salofalk® 1 g
+46673_pi_fr_Salofalk® 250 /500 suppositoires
+46673_pi_it_Salofalk® 1 g
+46673_pi_it_Salofalk® 250/500 supposte
+47909_pi_de_Solmucol® 100, 200, 600 Granulat
+47909_pi_de_Solmucol® 400, 600 Granulat
+47909_pi_fr_Solmucol® 100, 200, 600 Granulé
+47909_pi_fr_Solmucol® 400, 600 Granulé
+47909_pi_it_Solmucol® 100, 200, 600 granulare
+47909_pi_it_Solmucol® 400, 600 granulare
+48112_fi_de_Konakion® MM
+48112_fi_de_Konakion® MM paediatric
+48112_fi_fr_Konakion® MM
+48112_fi_fr_Konakion® MM paediatric
+48249_fi_de_Regaine® 2%
+48249_fi_de_Regaine® 5%
+48249_fi_fr_Regaine® 2%
+48249_fi_fr_Regaine® 5%
+48249_pi_de_Regaine® 2%
+48249_pi_de_Regaine® 5%
+48249_pi_fr_Regaine® 2%
+48249_pi_fr_Regaine® 5%
+48249_pi_it_Regaine® 2%
+48249_pi_it_Regaine® 5%
+48578_fi_de_Torem®
+48578_fi_de_Torem® 200
+48578_fi_fr_Torem®
+48578_fi_fr_Torem® 200
+48578_pi_de_Torem® 2,5/5/10
+48578_pi_de_Torem® 200
+48578_pi_fr_Torem® 2,5/5/10
+48578_pi_fr_Torem® 200
+48578_pi_it_Torem® 2,5/5/10
+48578_pi_it_Torem® 200
+48869_pi_de_Bexin® Hustentabletten (Abgabekategorie B)
+48869_pi_de_Bexin® Hustentabletten (Abgabekategorie C)
+48869_pi_fr_Bexine® Comprimés contre la toux (Catégorie de remise B)
+48869_pi_fr_Bexine® Comprimés contre la toux (Catégorie de remise C)
+48869_pi_it_Bexin® Compresse contro la tosse 
+48869_pi_it_Bexin® Compresse contro la tosse (C)
+49537_pi_de_Weleda Euphrasia-Augentropfen
+49537_pi_de_Weleda Euphrasia-Augentropfen Monodosen
+49537_pi_fr_Collyre Euphrasia Weleda
+49537_pi_fr_Collyre Euphrasia Weleda Monodoses
+49537_pi_it_Collirio Euphrasia Weleda
+49537_pi_it_Collirio Euphrasia Weleda Monodose
+49600_fi_de_Vagifem®
+49600_fi_de_Vagifem® 10 Mikrogramm
+49600_fi_fr_Vagifem®
+49600_fi_fr_Vagifem® 10 Microgrammes
+49600_pi_de_Vagifem®
+49600_pi_de_Vagifem® 10 µg
+49600_pi_fr_Vagifem®
+49600_pi_fr_Vagifem® 10 µg
+49600_pi_it_Vagifem®
+49600_pi_it_Vagifem® 10 µg
+49673_fi_de_Traumalix Dolo Gel 10%
+49673_fi_de_Traumalix Dolo Gel 5%
+49673_fi_fr_Traumalix Dolo Gel 10%
+49673_fi_fr_Traumalix Dolo Gel 5%
+49673_pi_de_Traumalix Dolo Gel 10%
+49673_pi_de_Traumalix dolo Gel 5%
+49673_pi_fr_Traumalix Dolo Gel 10%
+49673_pi_fr_Traumalix dolo Gel 5%
+49673_pi_it_Traumalix Dolo Gel 10%
+49673_pi_it_Traumalix dolo Gel 5%
+49688_fi_de_Neocapil® 2%
+49688_fi_de_Neocapil® 5%
+49688_fi_fr_Néocapil® 2%
+49688_fi_fr_Néocapil® 5%
+49688_pi_de_Neocapil® 2%
+49688_pi_de_Neocapil® 5%
+49688_pi_fr_Néocapil® 2%
+49688_pi_fr_Néocapil® 5%
+49688_pi_it_Neocapil® 2%
+49688_pi_it_Neocapil® 5%
+49768_fi_de_Fungotox-100 Vaginaltabletten, Set
+49768_fi_de_Fungotox-200 Vaginaltabletten
+49768_fi_fr_Fungotox-100 Comprimés vaginaux, Set
+49768_fi_fr_Fungotox-200 Comprimés vaginaux
+49768_pi_de_Fungotox-100 Vaginaltabletten
+49768_pi_de_Fungotox®-200 Vaginaltabletten
+49768_pi_fr_Fungotox-100 Comprimés vaginaux
+49768_pi_fr_Fungotox®-200 Comprimés vaginaux
+49768_pi_it_Fungotox-100 Compresse vaginali
+49768_pi_it_Fungotox®-200 Compresse vaginali
+51285_pi_de_Renelix®, Tropfen
+51285_pi_de_Ricura®, Tropfen
+51285_pi_fr_Renelix®, gouttes
+51285_pi_fr_Ricura®, gouttes
+51285_pi_it_Renelix®, gocce
+51285_pi_it_Ricura®, gocce
+51506_pi_de_Becetamol® 250 mg
+51506_pi_de_Becetamol® 500 mg
+51506_pi_fr_Becetamol® 250 mg
+51506_pi_fr_Becetamol® 500 mg
+51506_pi_it_Becetamol® 250 mg
+51506_pi_it_Becetamol® 500 mg
+51544_pi_de_Arthrotec® 50
+51544_pi_de_Arthrotec® 75
+51544_pi_fr_Arthrotec® 50
+51544_pi_fr_Arthrotec® 75
+51544_pi_it_Arthrotec® 50
+51544_pi_it_Arthrotec® 75
+51671_fi_de_Nutriflex® basal
+51671_fi_de_Nutriflex® plus
+51671_fi_fr_Nutriflex® basal
+51671_fi_fr_Nutriflex® plus
+51886_fi_de_Curosurf®
+51886_fi_fr_Curosurf®
+52039_pi_de_Lomaherpan® Fieberblasen-Creme
+52039_pi_de_Valverde® Fieberbläschen Crème
+52039_pi_fr_Lomaherpan® Boutons de fièvre crème
+52039_pi_fr_Valverde® Boutons de fièvre Crème
+52039_pi_it_Lomaherpan® Febbre labiale crema
+52039_pi_it_Valverde® Febbre labiale Crema
+52412_fi_de_ATG-Fresenius®
+52412_fi_de_Grafalon
+52412_fi_fr_ATG-Fresenius®
+52412_fi_fr_Grafalon
+52471_fi_de_Remotiv® 250 Filmtabletten (Abgabekategorie D)
+52471_fi_de_Remotiv® 250/500 Filmtabletten (Abgabekategorie C)
+52471_fi_fr_Remotiv® 250 Comprimés pelliculés (Catégorie de remise D)
+52471_fi_fr_Remotiv® 250/500 Comprimés pelliculés (Catégorie de remise C)
+52471_pi_de_Remotiv® 250 Filmtabletten (Abgabekategorie C)
+52471_pi_de_Remotiv® 250 Filmtabletten (Abgabekategorie D)
+52471_pi_de_Remotiv® 500 Filmtabletten
+52471_pi_fr_Remotiv® 250 Comprimés pelliculés (catégorie de remise C)
+52471_pi_fr_Remotiv® 250 Comprimés pelliculés (catégorie de remise D) 
+52471_pi_fr_Remotiv® 500 Comprimés pelliculés
+52471_pi_it_Remotiv® 250 compresse film-rivestite
+52471_pi_it_Remotiv® 250 compresse film-rivestite (Abgabekategorie C)
+52471_pi_it_Remotiv® 500 compresse film-rivestite
+52476_fi_de_Albumin CSL 20%
+52476_fi_de_Albumin CSL 5%
+52476_fi_fr_Albumin CSL 20%
+52476_fi_fr_Albumin CSL 5%
+52559_pi_de_Tramadol-Mepha® Tropfen, Lösung zum Einnehmen
+52559_pi_de_Tramadol-Mepha® Tropfen, Lösung zum Einnehmen mit Dosierpumpe
+52559_pi_fr_Tramadol-Mepha® Gouttes, solution à boire
+52559_pi_fr_Tramadol-Mepha® Gouttes, solution à boire avec pompe de dosage
+52559_pi_it_Tramadol-Mepha® gocce, soluzione per uso orale
+52559_pi_it_Tramadol-Mepha® gocce, soluzione per uso orale con pompetta dosatrice
+52620_pi_de_Lipanthyl® 200M
+52620_pi_de_Lipanthyl® 267M
+52620_pi_fr_Lipanthyl® 200M
+52620_pi_fr_Lipanthyl® 267M
+52620_pi_it_Lipanthyl® 200M
+52620_pi_it_Lipanthyl® 267M
+53128_pi_de_Femoston® 1/10
+53128_pi_de_Femoston® 2/10
+53128_pi_fr_Femoston® 1/10
+53128_pi_fr_Femoston® 2/10
+53128_pi_it_Femoston® 1/10
+53128_pi_it_Femoston® 2/10
+53282_fi_de_Transipeg Forte®
+53282_fi_de_Transipeg®
+53282_fi_fr_Transipeg Forte®
+53282_fi_fr_Transipeg®
+53282_pi_de_Transipeg Forte®
+53282_pi_de_Transipeg®
+53282_pi_fr_Transipeg Forte®
+53282_pi_fr_Transipeg®
+53282_pi_it_Transipeg Forte®
+53282_pi_it_Transipeg®
+53661_pi_de_Zeller Schlaf Filmtabletten
+53661_pi_de_Zeller Schlaf forte Filmtabletten
+53661_pi_fr_Zeller Sommeil comprimés pelliculés
+53661_pi_fr_Zeller Sommeil forte comprimés pelliculés
+53661_pi_it_Zeller Sonno compresse film¿rivestite
+53661_pi_it_Zeller Sonno forte compresse film-rivestite
+53924_fi_de_Rebalance® 250 Filmtabletten (Abgabekategorie D)
+53924_fi_de_Rebalance® 250/500 Filmtabletten (Abgabekategorie C)
+53924_fi_fr_Rebalance® 250 Comprimés pelliculés (catégorie de remise D)
+53924_fi_fr_Rebalance® 250/500 Comprimés pelliculés (catégorie de remise C)
+53924_pi_de_Rebalance® 250 Filmtabletten (Abgabekategorie C)
+53924_pi_de_Rebalance® 250 Filmtabletten (Abgabekategorie D)
+53924_pi_de_Rebalance® 500 Filmtabletten
+53924_pi_fr_Rebalance 250 Comprimés pelliculés (catégorie de remise D)
+53924_pi_fr_Rebalance® 250 Comprimés pelliculés (catégorie de remise C)
+53924_pi_fr_Rebalance® 500 Comprimés pelliculés
+53924_pi_it_Rebalance® 250 compresse film-rivestite (Abgabekategorie C)
+53924_pi_it_Rebalance® 250 compresse film-rivestite (Abgabekategorie D)
+53924_pi_it_Rebalance® 500 compresse film-rivestite
+53929_fi_de_Calcimagon®-D3 500/800
+53929_fi_de_Calcimagon®-D3/- Forte
+53929_fi_fr_Calcimagon-D3 500/800
+53929_fi_fr_Calcimagon®-D3/- Forte
+53929_pi_de_Calcimagon®-D3 500/800
+53929_pi_de_Calcimagon®-D3/- Forte
+53929_pi_fr_Calcimagon-D3 500/800
+53929_pi_fr_Calcimagon®-D3/- Forte
+53929_pi_it_Calcimagon-D3 /- Forte
+53929_pi_it_Calcimagon-D3 500/800
+54152_pi_de_Redormin® 250 Filmtabletten
+54152_pi_de_Redormin® 500 Filmtabletten
+54152_pi_fr_Redormin® 250 Comprimés pelliculés
+54152_pi_fr_Redormin® 500 Comprimés pelliculés
+54152_pi_it_Redormin® 250 Compresse film-rivestite
+54152_pi_it_Redormin® 500 Compresse film-rivestite
+54204_pi_de_Telfast® 120
+54204_pi_de_Telfast® 180
+54204_pi_fr_Telfast® 120
+54204_pi_fr_Telfast® 180
+54204_pi_it_Telfast® 120
+54204_pi_it_Telfast® 180
+54534_pi_de_Tebokan® 120
+54534_pi_de_Tebokan® 80
+54534_pi_fr_Tebokan® 120
+54534_pi_fr_Tebokan® 80
+54534_pi_it_Tebokan® 120
+54534_pi_it_Tebokan® 80
+54685_fi_de_Helicobacter Test INFAI für die Infrarotspektroskopie
+54685_fi_de_Helicobacter Test INFAI für die Massenspektrometrie
+54685_fi_fr_Helicobacter Test INFAI pour la spectrométrie de masse
+54685_fi_fr_Helicobacter Test INFAI pour la spectrométrie infrarouge
+54941_pi_de_Schweden-Mixtur «H» 150 ml
+54941_pi_de_Schweden-Mixtur «H» 250 ml
+54941_pi_fr_Schweden-Mixtur «H» 150 ml
+54941_pi_fr_Schweden-Mixtur «H» 250 ml
+54941_pi_it_Schweden-Mixtur «H» 150 ml 
+54941_pi_it_Schweden-Mixtur «H» 250 ml 
+54986_fi_de_Femoston® conti 0,5/2,5
+54986_fi_de_Femoston® conti 1/5
+54986_fi_fr_Femoston® conti 0,5/2,5
+54986_fi_fr_Femoston® conti 1/5
+54986_pi_de_Femoston® conti 0,5/2,5
+54986_pi_de_Femoston® conti 1/5
+54986_pi_fr_Femoston® conti 0,5/2,5
+54986_pi_fr_Femoston® conti 1/5
+54986_pi_it_Femoston® conti 0,5/2,5
+54986_pi_it_Femoston® conti 1/5
+55337_fi_de_Aminoven 10%®
+55337_fi_de_Aminoven 15%®
+55337_fi_de_Aminoven 5%
+55337_fi_fr_Aminoven 10%®
+55337_fi_fr_Aminoven 15%®
+55337_fi_fr_Aminoven 5%
+55725_pi_de_Aranesp® Fertigspritze
+55725_pi_de_Aranesp® Fertigspritze mit automatischem Nadelschutzsystem
+55725_pi_fr_Aranesp® Seringue préremplie
+55725_pi_fr_Aranesp® seringue préremplie avec système de sécurité automatique de l¿aiguille
+55725_pi_it_Aranesp® Siringa preriempita
+55725_pi_it_Aranesp® Siringa preriempita con protezione automatica dell¿ago
+55766_pi_de_Algifor-L® 200 Filmtabletten
+55766_pi_de_Algifor-L® forte 400 Filmtabletten
+55766_pi_fr_Algifor-L® 200 Comprimés filmés
+55766_pi_fr_Algifor-L® forte 400 Comprimés filmés
+55766_pi_it_Algifor-L® 200 compresse filmate
+55766_pi_it_Algifor-L® forte 400 compresse filmate
+55985_fi_de_Perfalgan® 1 g
+55985_fi_de_Perfalgan® 500 mg Kinder
+55985_fi_fr_Perfalgan® 1 g
+55985_fi_fr_Perfalgan® 500 mg Enfants
+56202_fi_de_Hemosol¿ B0, PVC-Beutel mit Brechdorn
+56202_fi_de_Hemosol¿ B0, PVC-Beutel mit Ventil
+56202_fi_de_Hemosol¿ B0, Polyolefin-Beutel mit Brechdorn
+56202_fi_de_Hemosol¿ B0, Polyolefin-Beutel mit Ventil
+56202_fi_fr_Hemosol¿ B0, poche en PVC avec cône sécable
+56202_fi_fr_Hemosol¿ B0, poche en PVC avec valve
+56202_fi_fr_Hemosol¿ B0, poche en polyoléfine avec cône sécable
+56202_fi_fr_Hemosol¿ B0, poche en polyoléfine avec valve
+56358_pi_de_Saridon®
+56358_pi_de_Saridon® forte
+56358_pi_fr_Saridon®
+56358_pi_fr_Saridon® forte
+56358_pi_it_Saridon®
+56358_pi_it_Saridon® forte
+56873_fi_de_Torasemid Sandoz® eco 2,5/5/10/20
+56873_fi_de_Torasemid Sandoz® eco 200
+56873_fi_fr_Torasémide Sandoz® eco 2,5/5/10/20
+56873_fi_fr_Torasémide Sandoz® eco 200
+56873_pi_de_Torasemid Sandoz® eco 2,5/5/10/20
+56873_pi_de_Torasemid Sandoz® eco 200
+56873_pi_fr_Torasémide Sandoz® eco 2,5/5/10/20
+56873_pi_fr_Torasémide Sandoz® eco 200
+56873_pi_it_Torasémide Sandoz® eco 2,5/5/10/20
+56873_pi_it_Torasémide Sandoz® eco 200
+56933_pi_de_Cimifemin® forte Tabletten
+56933_pi_de_Cimifemin® uno Tabletten
+56933_pi_fr_Cimifemine® forte comprimés
+56933_pi_fr_Cimifemine® uno comprimés
+56933_pi_it_Cimifemin® forte compresse
+56933_pi_it_Cimifemin® uno compresse
+57191_fi_de_Difen-Stulln® UD
+57191_fi_fr_Difen-Stulln® UD
+57191_pi_de_Difen-Stulln® UD
+57191_pi_fr_Difen-Stulln® UD
+57191_pi_fr_Difen-Stulln®UD
+57191_pi_it_Difen-Stulln®UD
+57289_fi_de_GLUSCAN® 600 MBq/ml Injektionslösung
+57289_fi_fr_GLUSCAN® 600 MBq/ml solution injectable
+57454_pi_de_Panadol® Junior 125 mg
+57454_pi_de_Panadol® Junior 250 mg
+57454_pi_de_Panadol® Junior 60 mg
+57454_pi_fr_Panadol® Junior 125 mg
+57454_pi_fr_Panadol® Junior 250 mg
+57454_pi_fr_Panadol® Junior 60 mg
+57454_pi_it_Panadol® Junior 125 mg
+57454_pi_it_Panadol® Junior 250 mg
+57454_pi_it_Panadol® Junior 60 mg
+57650_fi_de_Clobex, Shampoo
+57650_fi_de_Clobex® Shampoo
+57650_fi_fr_Clobex, Shampoo
+57650_fi_fr_Clobex® Shampoo
+57650_pi_de_Clobex, Shampoo
+57650_pi_de_Clobex® Shampoo
+57650_pi_fr_Clobex, Shampoo
+57650_pi_fr_Clobex® Shampoo
+57650_pi_it_Clobex, Shampoo
+57650_pi_it_Clobex® Shampoo
+57776_pi_de_Tramadol Streuli® Tropfen, Lösung zum Einnehmen
+57776_pi_de_Tramadol Streuli® Tropfen, Lösung zum Einnehmen mit Dosierpumpe
+57776_pi_fr_Tramadol Streuli® gouttes, solution à prendre
+57776_pi_fr_Tramadol Streuli® gouttes, solution à prendre avec pompe de dosage
+57776_pi_it_Tramadol Streuli® gocce, soluzione orale
+57776_pi_it_Tramadol Streuli® gocce, soluzione orale con pompetta dosatrice
+57850_fi_de_Grazax
+57850_fi_de_Grazax®
+57850_fi_fr_Grazax
+57850_fi_fr_Grazax®
+57850_pi_de_GRAZAX®, Lyophilisat zum Einnehmen
+57850_pi_fr_GRAZAX®, lyophilisat oral
+57850_pi_it_GRAZAX®, liofilizzato orale
+58196_pi_de_Voltaren Dolo® Liquid Caps, Weichgelatinekapseln
+58196_pi_de_Voltaren Dolo® forte 25 mg Liquid Caps, Weichgelatinekapseln
+58196_pi_fr_Voltaren Dolo® Liquid Caps, capsules de gélatine molle
+58196_pi_fr_Voltaren Dolo® forte 25 mg Liquid Caps, capsules de gélatine molle
+58196_pi_it_Voltaren Dolo® Liquid Caps, capsule gelatinose morbide
+58196_pi_it_Voltaren Dolo® forte 25 mg Liquid Caps, capsule gelatinose morbide
+58327_pi_de_Fexofenadine Zentiva® 120 mg
+58327_pi_de_Fexofenadine Zentiva® 180 mg
+58327_pi_fr_Fexofenadine Zentiva® 120 mg
+58327_pi_fr_Fexofenadine Zentiva® 180 mg
+58327_pi_it_Fexofenadine Zentiva® 120 mg
+58327_pi_it_Fexofenadine Zentiva® 180 mg
+58609_fi_de_Prismasol¿, PVC-Beutel mit Brechdorn
+58609_fi_de_Prismasol¿, PVC-Beutel mit Ventil
+58609_fi_de_Prismasol¿, Polyolefin-Beutel mit Brechdorn
+58609_fi_de_Prismasol¿, Polyolefin-Beutel mit Ventil
+58609_fi_fr_Prismasol¿, poche en PVC avec cône sécable
+58609_fi_fr_Prismasol¿, poche en PVC avec valve
+58609_fi_fr_Prismasol¿, poche en polyoléfine avec cône sécable
+58609_fi_fr_Prismasol¿, poche en polyoléfine avec valve
+59322_fi_de_Crilomus®
+59322_fi_de_Tacrolimus Sandoz®
+59322_fi_fr_Crilomus®
+59322_fi_fr_Tacrolimus Sandoz®
+59322_pi_de_Crilomus®
+59322_pi_de_Tacrolimus Sandoz®
+59322_pi_fr_Crilomus®
+59322_pi_fr_Tacrolimus Sandoz®
+59322_pi_it_Crilomus®
+59322_pi_it_Tacrolimus Sandoz®
+59472_fi_de_Valaciclovir Spirig
+59472_fi_de_Valaciclovir Spirig®
+59472_fi_fr_Valaciclovir Spirig
+59472_fi_fr_Valaciclovir Spirig®
+59472_pi_de_Valaciclovir Spirig
+59472_pi_de_Valaciclovir Spirig®
+59472_pi_fr_Valaciclovir Spirig
+59472_pi_fr_Valaciclovir Spirig®
+59472_pi_it_Valaciclovir Spirig
+59472_pi_it_Valaciclovir Spirig®
+60024_fi_de_Amavita Sport- und Rheumagel kühlend
+60024_fi_de_Dicloren Gel
+60024_fi_fr_Amavita Gel pour le sport et les rhumatismes rafraîchissant
+60024_fi_fr_Dicloren Gel
+60024_pi_de_Amavita Sport- und Rheumagel kühlend
+60024_pi_de_Dicloren® Gel
+60024_pi_fr_Amavita Gel rafraîchissant pour le sport et les rhumatismes
+60024_pi_fr_Dicloren® Gel
+60024_pi_it_Amavita Balsamo riscaldante per lo sport e i reumatismi
+60024_pi_it_Dicloren® Gel 
+60128_pi_de_Amavita Bronchialpastillen
+60128_pi_de_Coop Vitality Bronchialpastillen
+60128_pi_fr_Amavita Pastilles bronchiques
+60128_pi_fr_Coop Vitality Pastilles bronchiques
+60128_pi_it_Amavita Pastiglie bronchiali
+60128_pi_it_Coop Vitality Pastiglie bronchiali
+61210_pi_de_Irfen Dolo® L 200
+61210_pi_de_Irfen Dolo® L 400
+61210_pi_fr_Irfen Dolo® L 200
+61210_pi_fr_Irfen Dolo® L 400
+61210_pi_it_Irfen Dolo® L 200
+61210_pi_it_Irfen Dolo® L 400
+61348_pi_de_N-Acetylcysteine Alpex 200 mg
+61348_pi_de_N-Acetylcysteine Alpex 600 mg
+61348_pi_fr_N-Acetylcysteine Alpex 200 mg
+61348_pi_fr_N-Acetylcysteine Alpex 600 mg
+61348_pi_it_N-Acetylcysteine Alpex 200 mg
+61348_pi_it_N-Acetylcysteine Alpex 600 mg
+61442_fi_de_Paracetamol Fresenius
+61442_fi_de_Paracetamol Fresenius Infant
+61442_fi_fr_Paracetamol Fresenius
+61442_fi_fr_Paracetamol Fresenius Infant
+61470_pi_de_Swidro Blasen- und Nierendragées
+61470_pi_de_Swidro Nieren- und Blasendragées
+61470_pi_fr_Swidro Dragees pour les reins et la vessie
+61470_pi_fr_Swidro dragées pour la vessie et les reins
+61470_pi_it_Swidro Confetti per i reni e la vescica
+61470_pi_it_Swidro confetti per la vescica e i reni
+61485_fi_de_Telmisan-Mepha® 40/80 mg
+61485_fi_de_Telmisartan-Mepha 40/80 mg
+61485_fi_fr_Telmisan-Mepha® 40/80 mg
+61485_fi_fr_Telmisartan-Mepha 40/80 mg
+61485_pi_de_Telmisan-Mepha® 40/80 mg
+61485_pi_de_Telmisartan-Mepha 40/80 mg 
+61485_pi_fr_Telmisan-Mepha® 40/80 mg
+61485_pi_fr_Telmisartan-Mepha 40/80 mg 
+61485_pi_it_Telmisan-Mepha® 40/80 mg
+61485_pi_it_Telmisartan-Mepha 40/80 mg 
+62660_fi_de_Albunorm® 20%
+62660_fi_de_Albunorm® 5%
+62660_fi_fr_Albunorm® 20%
+62660_fi_fr_Albunorm® 5%
+62975_pi_de_Azitro-Acino 200 Pulver zur Zubereitung einer Suspension
+62975_pi_fr_Azitro-Acino 200 poudre pour la préparation d¿une suspension
+62975_pi_it_Azitro-Acino 200 polvere per preparare una sospensione
+63048_pi_de_Paracetamol Sandoz® 1000
+63048_pi_de_Paracetamol Sandoz® 500
+63048_pi_fr_Paracétamol Sandoz® 1000
+63048_pi_fr_Paracétamol Sandoz® 500
+63048_pi_it_Paracétamol Sandoz® 1000
+63048_pi_it_Paracétamol Sandoz® 500
+63062_pi_de_AMAphyto Echinacea Tropfen
+63062_pi_de_Amavita Echinacea Tropfen
+63062_pi_fr_AMAphyto gouttes d'Echinacea
+63062_pi_fr_Amavita Gouttes Echinacea
+63062_pi_it_AMAphyto gocce d'Echinacea
+63062_pi_it_Amavita Gocce Echinacea
+65082_fi_de_Postinor
+65082_fi_de_Postinor®
+65082_fi_fr_Postinor
+65082_fi_fr_Postinor®
+65082_pi_de_Postinor
+65082_pi_de_Postinor®
+65082_pi_fr_Postinor
+65082_pi_fr_Postinor®
+65082_pi_it_Postinor
+65082_pi_it_Postinor®
+65088_fi_de_Kosima® 20
+65088_fi_de_Kosima® 30
+65088_fi_fr_Kosima® 20
+65088_fi_fr_Kosima® 30
+65088_pi_de_Kosima® 20
+65088_pi_de_Kosima® 30
+65088_pi_fr_Kosima® 20
+65088_pi_fr_Kosima® 30
+65088_pi_it_Kosima® 20
+65088_pi_it_Kosima® 30
+65203_pi_de_BronchoVerde® Hustenlöser 25 mg, Granulat
+65203_pi_de_BronchoVerde® Hustenlöser 50 mg, Granulat
+65203_pi_fr_BronchoVerde® Expectorant 25 mg, granulé
+65203_pi_fr_BronchoVerde® Expectorant 50 mg, granulé
+65203_pi_it_BronchoVerde® Espettorante 25 mg, granulato
+65203_pi_it_BronchoVerde® Espettorante 50 mg, granulato
+65204_pi_de_BronchoVerde® Hustenlöser 100 mg, Brausetabletten
+65204_pi_de_BronchoVerde® Hustenlöser 50 mg, Brausetabletten
+65204_pi_fr_BronchoVerde® Expectorant 100 mg, comprimés effervescents
+65204_pi_fr_BronchoVerde® Expectorant 50 mg, comprimés effervescents
+65204_pi_it_BronchoVerde® Espettorante 100 mg, compresse effervescenti
+65204_pi_it_BronchoVerde® Espettorante 50 mg, compresse effervescenti
+65426_fi_de_Macrogol-Mepha Junior Pulver
+65426_fi_de_Macrogol-Mepha Pulver
+65426_fi_fr_Macrogol-Mepha Junior poudre
+65426_fi_fr_Macrogol-Mepha poudre
+65426_pi_de_Macrogol-Mepha Junior Pulver
+65426_pi_de_Macrogol-Mepha Pulver
+65426_pi_fr_Macrogol-Mepha Junior poudre
+65426_pi_fr_Macrogol-Mepha poudre
+65426_pi_it_Macrogol-Mepha Junior polvere
+65426_pi_it_Macrogol-Mepha polvere

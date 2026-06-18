@@ -1,0 +1,50 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 30698 invoked from network); 14 Jul 2009 10:03:38 -0000
+Received: from [80.219.159.188] (HELO zenogentoo.localdomain) (80.219.159.188)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Tue, 14 Jul 2009 12:03:38 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by zenogentoo.localdomain (Postfix) with ESMTP id 7Ü06160062;
+	Tue, 14 Jul 2009 12:03:33 +0200 (CEST)
+Date: Tue, 14 Jul 2009 12:03:33 +0200 (CEST)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: stockmeyer@biotest.ch
+cc: Urs Bosshard <urs.bosshard@axapharm.ch>, 
+    Gertrud Fonatsch <gertrud.fonatsch@bag.admin.ch>, 
+    Aeschbacher Samuel <samuel.aeschbacher@e-mediat.net>, 
+    "todo at ODDB.org" <todo@oddb.org>
+Subject: BAG: Verwechslung Alfuzosin Axapharm mit Varitect CP
+Message-ID: <alpine.LNX.2.01.0907141157570.3179@localhost>
+User-Agent: Alpine 2.01 (LNX 1184 2008-12-16)
+Organisation: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY"8323328-1793497175-1247565813:3179"
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-1793497175-1247565813:3179
+Content-Type: TEXT/PLAIN; formatflowed; charsetiso-8859-1
+Content-Transfer-Encoding: 8BIT
+
+Sehr geehrter Herr Stockmeyer
+
+Die aktuelle SL enthält falsche Angaben zum Varitect CP. Der korrekte 
+Swissmedic-Code (5-stellig) wäre
+
+ 	59451
+
+Im BAG wird aber
+
+ 	59415 verwendet.
+
+Siehe Screenshot.
+
+Im Anhang finden Sie auch das aktuelle Blutprodukte/Impfstoffe Excel von 
+der Swissmedic (Deutsche Fassung) mit den korrekten Daten.
+
+Mit freundlichen Grüssen
+Zeno Davatz

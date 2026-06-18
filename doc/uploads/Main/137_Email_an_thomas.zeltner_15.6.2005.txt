@@ -1,0 +1,70 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 22936 invoked by uid 74); 15 Jun 2005 09:14:29 -0000
+Received: from zdavatz@ywesee.com by debian by uid 71 with qmail-scanner-1.15 
+ (clamscan: 0.54.  Clear:. 
+ Processed in 1.36501 secs); 15 Jun 2005 09:14:29 -0000
+Received: from 217-162-177-109.dclient.hispeed.ch (HELO zrr.local) (217.162.177.109)
+  by 0 with SMTP; 15 Jun 2005 09:14:27 -0000
+Date: Wed, 15 Jun 2005 11:16:20 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Thomas Zeltner <thomas.zeltner@bag.admin.ch>,
+ clemens.roggen@bag.admin.ch <clemens.roggen@bag.admin.ch>, todo@oddb.org
+ <todo@oddb.org>
+Cc: rudolf.strahm@pue.admin.ch <rudolf.strahm@pue.admin.ch>
+Subject: Gleichbehandlung von Informationsanbietner im CH-Gesundheitswesen
+Message-ID: <20050615111620.18791eaa@zrr.local>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrter Herr Zeltner
+
+Ich nehme nochmals auf Ihr Schreiben vom 13.6.2005 Bezug.
+
+Ich denke, dass Sie mein Anliegen nicht ganz verstanden haben.
+
+Auf der offiziellen Bundesamtlichen Website von Galinfo.net haben Sie
+_auf_der_Packungsebene direkte Verlinkungen mit der kostenpflichtigen Seite von
+Pharmavista.net
+
+Ein Beispiel: http://www.galinfo.net/batchhtm/2276.htm
+
+Klicken Sie unter obigen Link rechts auf die Nummer (262 99 66). Diese bringt
+Sie zu einer Passwort-Eingabe-Aufforderung. Das ist die kostenpflichtige
+Dienstleistung der Galenica!20
+
+Wir bieten genau die gleich Informationen auf ODDB.org an, kostenlos (mit ein
+wenig Google-Werbung). Der Kunde bezahlt nichts für die Info, kann aber auf
+einen Google-Link klicken wenn er das will.
+
+Wenn Sie mir nun also schreiben, dass Sie sich persönlich für tiefere
+Gesundheitskosten einsetzen dann glaube ich Ihnen das solange nicht, bis Sie von
+der offiziellen Bundesamt Seite _auch_auf_der_Packungsebene_ auf uns verweisen
+und nicht nur auf Pharmavista.
+
+Verstehen Sie nun mein Problem? Ich will, dass die ODDB gleich behandelt wird
+von offizieller Seite. Wir sind mindestens so innovativ wie Pharmavista!
+
+Überall dort wo ein Link auf Pharmavista gemacht wird, will ich auch einen Link
+auf ODDB.org haben oder aber die Pharmavista-Links sollen gestrichen werden!
+
+Ich danke Ihnen höflich für Ihre Kenntnisnahme und Ihre Rückmeldung.
+
+Mit sonnigem Gruss aus Zürich
+Zeno Davatz
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

@@ -1,0 +1,426 @@
+20% -> 10% Selbstbehalt #######################################
+Brufen Filmtabs 400 mg 20 Filmtabs 400 mg                                        | Abbott AG
+Ex-Factory:   7.50 ->   4.29
+Public:      17.05 ->   9.15
+
+Brufen Filmtabs 400 mg 50 Filmtabs 400 mg                                        | Abbott AG
+Ex-Factory:  17.16 ->   9.81
+Public:      36.60 ->  19.75
+
+Brufen Filmtabs 600 mg 100 Filmtabs 600 mg                                       | Abbott AG
+Ex-Factory:  44.11 ->  25.22
+Public:      68.35 ->  46.10
+
+Brufen Filmtabs 600 mg 20 Filmtabs 600 mg                                        | Abbott AG
+Ex-Factory:  10.98 ->   6.28
+Public:      21.15 ->  15.60
+
+Brufen Filmtabs 200 mg 100 Filmtabs 200 mg                                       | Abbott AG
+Ex-Factory:  20.17 ->  11.53
+Public:      40.15 ->  25.90
+
+Brufen Filmtabs 200 mg 30 Filmtabs 200 mg                                        | Abbott AG
+Ex-Factory:   6.81 ->   3.89
+Public:      16.20 ->   8.70
+
+Isoptin Amp. 5 mg/2ml 5 Amp. 2 ml 5 mg                                           | Abbott AG
+Ex-Factory:   4.72 ->   4.01
+Public:       9.65 ->   8.80
+
+Isoptin Filmtabs 80 mg 50 Filmtabs 80 mg                                         | Abbott AG
+Ex-Factory:  10.98 ->   9.33
+Public:      21.15 ->  19.20
+
+Isoptin Filmtabs 120 mg 100 Filmtabs retard 120 mg                               | Abbott AG
+Ex-Factory:  29.87 ->  24.47
+Public:      51.55 ->  45.20
+
+Isoptin Filmtabs 120 mg 20 Filmtabs retard 120 mg                                | Abbott AG
+Ex-Factory:   7.02 ->   5.97
+Public:      16.45 ->  15.25
+
+Isoptin Filmtabs 120 mg 50 Filmtabs retard 120 mg                                | Abbott AG
+Ex-Factory:  16.01 ->  13.61
+Public:      35.25 ->  28.30
+
+Klacid Filmtabs 250 mg 14 Filmtabs 250 mg                                        | Abbott AG
+Ex-Factory:  25.79 ->  18.05
+Public:      46.75 ->  37.65
+
+Klacid Filmtabs 250 mg 20 Filmtabs 250 mg                                        | Abbott AG
+Ex-Factory:  34.81 ->  24.37
+Public:      57.40 ->  45.10
+
+Klacid Filmtabs 500 mg 14 Filmtabs 500 mg                                        | Abbott AG
+Ex-Factory:  41.73 ->  29.21
+Public:      65.55 ->  50.80
+
+Klacid Filmtabs 500 mg 20 Filmtabs 500 mg                                        | Abbott AG
+Ex-Factory:  61.48 ->  43.04
+Public:      88.80 ->  67.05
+
+Klacid Filmtabs 500 mg 30 Filmtabs 500 mg                                        | Abbott AG
+Ex-Factory:  85.38 ->  59.77
+Public:     116.95 ->  86.75
+
+Klaciped Susp. 250 mg/5ml 100 ml Susp. forte 250 mg/5 ml                         | Abbott AG
+Ex-Factory:  31.98 ->  27.50
+Public:      54.05 ->  48.80
+
+Ciproxin Lactabs 250 mg 10 Lactabs 250 mg                                        | BAYER (Schweiz) AG
+Ex-Factory:  17.46 ->  14.84
+Public:      36.95 ->  29.75
+
+Ciproxin Lactabs 250 mg 20 Lactabs 250 mg                                        | BAYER (Schweiz) AG
+Ex-Factory:  29.89 ->  25.41
+Public:      51.60 ->  46.30
+
+Ciproxin Lactabs 250 mg 6 Lactabs 250 mg                                         | BAYER (Schweiz) AG
+Ex-Factory:  11.21 ->   9.53
+Public:      25.50 ->  19.40
+
+Ciproxin Lactabs 500 mg 10 Lactabs 500 mg                                        | BAYER (Schweiz) AG
+Ex-Factory:  28.62 ->  24.32
+Public:      50.10 ->  45.05
+
+Ciproxin Lactabs 500 mg 20 Lactabs 500 mg                                        | BAYER (Schweiz) AG
+Ex-Factory:  54.72 ->  46.51
+Public:      80.80 ->  71.15
+
+Ciproxin Lactabs 750 mg 20 Lactabs 750 mg                                        | BAYER (Schweiz) AG
+Ex-Factory:  73.10 ->  62.14
+Public:     102.50 ->  89.55
+
+Paraplatin Amp. 50 mg 1 Amp. 50 mg                                               | BRISTOL-MYERS SQUIBB GmbH
+Ex-Factory:  51.12 ->  34.75
+Public:      76.60 ->  57.30
+
+Minirin Nasalspray Spray 10 mcg/Dosis 1 x 6 ml Spray (60 Dosen à 10 mcg)         | FERRING AG
+Ex-Factory:  75.10 ->  75.10
+Public:     104.80 -> 104.80
+
+Minirin Nasalspray Spray 10 mcg/Dosis 3 x 6 ml Spray (60 Dosen à 10 mcg)         | FERRING AG
+Ex-Factory: 210.22 -> 210.22
+Public:     263.95 -> 263.95
+
+Augmentin Amp. 500 mg 10 Amp. (500+50 mg)                                        | GLAXOSMITHKLINE AG
+Ex-Factory:  19.50 ->  19.50
+Public:      39.35 ->  39.35
+
+Augmentin Compr. 250 mg 16 Compr. (250+125 mg)                                   | GLAXOSMITHKLINE AG
+Ex-Factory:  23.43 ->  19.92
+Public:      44.00 ->  39.85
+
+Augmentin Compr. 500 mg 10 Compr. (500+125 mg)                                   | GLAXOSMITHKLINE AG
+Ex-Factory:  23.65 ->  20.10
+Public:      44.25 ->  40.05
+
+Augmentin Compr. 500 mg 20 Compr. (500+125 mg)                                   | GLAXOSMITHKLINE AG
+Ex-Factory:  40.16 ->  34.14
+Public:      63.70 ->  56.60
+
+Augmentin Filmtabs 875 mg 12 Filmtabs (875+125 mg)                               | GLAXOSMITHKLINE AG
+Ex-Factory:  35.92 ->  30.53
+Public:      58.70 ->  52.35
+
+Augmentin Filmtabs 875 mg 20 Filmtabs (875+125 mg)                               | GLAXOSMITHKLINE AG
+Ex-Factory:  52.70 ->  44.80
+Public:      78.45 ->  69.15
+
+Augmentin Vitr. 1 g 5 Vitr. (1 g+100 mg)                                         | GLAXOSMITHKLINE AG
+Ex-Factory:  15.80 ->  15.80
+Public:      35.00 ->  35.00
+
+Augmentin Duo Susp. 80 mg/ml 140 ml Susp. (80+11 mg/ml)                          | GLAXOSMITHKLINE AG
+Ex-Factory:  36.87 ->  25.81
+Public:      59.80 ->  46.80
+
+Augmentin Duo Susp. 80 mg/ml 35 ml Susp. (80+11 mg/ml)                           | GLAXOSMITHKLINE AG
+Ex-Factory:  12.52 ->   8.76
+Public:      27.05 ->  18.50
+
+Augmentin Duo Susp. 80 mg/ml 70 ml Susp. (80+11 mg/ml)                           | GLAXOSMITHKLINE AG
+Ex-Factory:  21.73 ->  15.21
+Public:      41.95 ->  34.30
+
+Augmentin Trio Susp. 25 mg/ml 100 ml Susp. pro infant. (25+6,25 mg/ml)           | GLAXOSMITHKLINE AG
+Ex-Factory:  14.84 ->  12.61
+Public:      29.75 ->  27.15
+
+Augmentin Trio Susp. 50 mg/ml 100 ml Susp. pro infant. forte (50+12,5 mg/ml)     | GLAXOSMITHKLINE AG
+Ex-Factory:  22.31 ->  18.96
+Public:      42.65 ->  38.70
+
+Clamoxyl Sirup. 25 mg/ml 80 ml Sirup. 25 mg/ml                                   | GLAXOSMITHKLINE AG
+Ex-Factory:   5.48 ->   4.04
+Public:      14.65 ->   8.85
+
+Zinat Filmtabs 250 mg 14 Filmtabs 250 mg                                         | GLAXOSMITHKLINE AG
+Ex-Factory:  27.87 ->  19.51
+Public:      49.20 ->  39.35
+
+Zinat Filmtabs 500 mg 14 Filmtabs 500 mg                                         | GLAXOSMITHKLINE AG
+Ex-Factory:  47.64 ->  33.35
+Public:      72.50 ->  55.65
+
+Tramal Caps. 50 mg 10 Caps. 50 mg                                                | Grünenthal Pharma AG
+Ex-Factory:   3.41 ->   2.90
+Public:       8.10 ->   7.50
+
+Tramal Caps. 50 mg 20 Caps. 50 mg                                                | Grünenthal Pharma AG
+Ex-Factory:   6.04 ->   5.13
+Public:      15.30 ->  14.25
+
+Tramal Caps. 50 mg 60 Caps. 50 mg                                                | Grünenthal Pharma AG
+Ex-Factory:  17.91 ->  15.22
+Public:      37.45 ->  34.30
+
+Tramal Compr. 100 mg 10 Compr. retard 100 mg                                     | Grünenthal Pharma AG
+Ex-Factory:   6.04 ->   5.13
+Public:      15.30 ->  14.25
+
+Tramal Compr. 100 mg 30 Compr. retard 100 mg                                     | Grünenthal Pharma AG
+Ex-Factory:  16.38 ->  13.92
+Public:      35.65 ->  28.70
+
+Tramal Compr. 100 mg 50 Compr. retard 100 mg                                     | Grünenthal Pharma AG
+Ex-Factory:  25.78 ->  21.91
+Public:      46.75 ->  42.20
+
+Tramal Compr. 150 mg 10 Compr. retard 150 mg                                     | Grünenthal Pharma AG
+Ex-Factory:   8.24 ->   7.00
+Public:      17.90 ->  16.45
+
+Tramal Compr. 150 mg 30 Compr. retard 150 mg                                     | Grünenthal Pharma AG
+Ex-Factory:  22.45 ->  19.08
+Public:      42.80 ->  38.85
+
+Tramal Compr. 150 mg 50 Compr. retard 150 mg                                     | Grünenthal Pharma AG
+Ex-Factory:  36.54 ->  31.06
+Public:      59.40 ->  52.95
+
+Tramal Compr. 200 mg 10 Compr. retard 200 mg                                     | Grünenthal Pharma AG
+Ex-Factory:  10.40 ->   8.84
+Public:      20.45 ->  18.60
+
+Tramal Compr. 200 mg 30 Compr. retard 200 mg                                     | Grünenthal Pharma AG
+Ex-Factory:  26.91 ->  22.87
+Public:      48.10 ->  43.30
+
+Tramal Compr. 200 mg 50 Compr. retard 200 mg                                     | Grünenthal Pharma AG
+Ex-Factory:  43.74 ->  37.18
+Public:      67.90 ->  60.15
+
+Oncovin Amp. 1 mg/ml 1 Amp. 1 ml 1 mg/ml                                         | Medika AG
+Ex-Factory:  21.03 ->  21.03
+Public:      41.15 ->  41.15
+
+Concor Compr. 5 mg 100 Compr. 5 mg                                               | MERCK (SCHWEIZ) AG
+Ex-Factory:  33.78 ->  28.71
+Public:      56.15 ->  50.20
+
+Concor Compr. 5 mg 30 Compr. 5 mg                                                | MERCK (SCHWEIZ) AG
+Ex-Factory:  11.71 ->   9.95
+Public:      26.10 ->  19.90
+
+Concor Compr. 10 mg 100 Compr. 10 mg                                             | MERCK (SCHWEIZ) AG
+Ex-Factory:  55.43 ->  47.12
+Public:      81.65 ->  71.85
+
+Concor Compr. 10 mg 30 Compr. 10 mg                                              | MERCK (SCHWEIZ) AG
+Ex-Factory:  19.31 ->  16.41
+Public:      39.10 ->  35.70
+
+Co-Reniten Compr. 20 mg 28 Compr. (20+12,5 mg)                                   | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  26.63 ->  17.35
+Public:      47.75 ->  36.80
+
+Co-Reniten Compr. 20 mg 98 Compr. (20+12,5 mg)                                   | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  85.99 ->  56.03
+Public:     117.65 ->  82.35
+
+Indocid Caps. 25 mg 100 Caps. 25 mg                                              | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  19.00 ->   7.27
+Public:      38.75 ->  16.75
+
+Indocid Caps. 25 mg 30 Caps. 25 mg                                               | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:   6.30 ->   2.41
+Public:      13.55 ->   6.95
+
+Reniten Compr. 5 mg 30 Compr. submite 5 mg                                       | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  12.43 ->   6.05
+Public:      26.95 ->  15.30
+
+Reniten Compr. 10 mg 28 Compr. mite 10 mg                                        | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  18.63 ->   9.07
+Public:      38.30 ->  18.80
+
+Reniten Compr. 10 mg 98 Compr. mite 10 mg                                        | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  60.69 ->  29.55
+Public:      87.85 ->  51.20
+
+Reniten Compr. 20 mg 28 Compr. 20 mg                                             | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  31.77 ->  15.47
+Public:      53.80 ->  34.60
+
+Reniten Compr. 20 mg 98 Compr. 20 mg                                             | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory: 100.23 ->  48.81
+Public:     134.40 ->  73.85
+
+Timoptic Guttae 0.1 % 5 ml Guttae 0,1%                                           | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:   7.08 ->   0.00
+Public:      16.55 ->   0.00
+
+Zocor Compr. 20 mg 28 Compr. 20 mg                                               | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  45.19 ->  31.63
+Public:      69.60 ->  53.65
+
+Zocor Compr. 20 mg 98 Compr. 20 mg                                               | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory: 157.11 -> 109.98
+Public:     201.40 -> 145.90
+
+Zocor Compr. 40 mg 28 Compr. 40 mg                                               | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  45.19 ->  31.63
+Public:      69.60 ->  53.65
+
+Zocor Compr. 40 mg 98 Compr. 40 mg                                               | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory: 157.11 -> 109.98
+Public:     201.40 -> 145.90
+
+Zocor Compr. 80 mg 28 Compr. 80 mg                                               | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory:  45.19 ->  31.63
+Public:      69.60 ->  53.65
+
+Zocor Compr. 80 mg 98 Compr. 80 mg                                               | MERCK SHARP & DOHME-CHIBRET AG
+Ex-Factory: 157.11 -> 109.98
+Public:     201.40 -> 145.90
+
+Lamisil Compr. 125 mg 14 Compr. 125 mg                                           | Novartis Pharma Schweiz AG
+Ex-Factory:  31.18 ->  21.83
+Public:      53.10 ->  37.20
+
+Lamisil Compr. 250 mg 14 Compr. 250 mg                                           | Novartis Pharma Schweiz AG
+Ex-Factory:  51.11 ->  35.78
+Public:      76.55 ->  58.50
+
+Lamisil Compr. 250 mg 28 Compr. 250 mg                                           | Novartis Pharma Schweiz AG
+Ex-Factory:  97.73 ->  68.41
+Public:     131.45 ->  96.95
+
+Voltaren Cprdisp 50 mg 10 Compr. disper. 50 mg                                   | Novartis Pharma Schweiz AG
+Ex-Factory:   5.84 ->   4.96
+Public:      15.05 ->   9.95
+
+Voltaren Obd. 25 mg 100 Obd. 25 mg                                               | Novartis Pharma Schweiz AG
+Ex-Factory:  16.35 ->  13.90
+Public:      35.65 ->  28.65
+
+Voltaren Obd. 25 mg 30 Obd. 25 mg                                                | Novartis Pharma Schweiz AG
+Ex-Factory:   5.77 ->   4.90
+Public:      15.00 ->   9.85
+
+Voltaren Obd. 50 mg 100 Obd. 50 mg                                               | Novartis Pharma Schweiz AG
+Ex-Factory:  28.65 ->  24.35
+Public:      50.10 ->  45.05
+
+Voltaren Obd. 50 mg 20 Obd. 50 mg                                                | Novartis Pharma Schweiz AG
+Ex-Factory:   6.81 ->   5.79
+Public:      16.20 ->  15.00
+
+Voltaren Obd. 100 mg 10 Obd. retard 100 mg                                       | Novartis Pharma Schweiz AG
+Ex-Factory:   5.95 ->   5.06
+Public:      15.20 ->  14.15
+
+Voltaren Obd. 100 mg 100 Obd. retard 100 mg                                      | Novartis Pharma Schweiz AG
+Ex-Factory:  51.67 ->  43.92
+Public:      77.25 ->  68.10
+
+Voltaren Obd. 100 mg 30 Obd. retard 100 mg                                       | Novartis Pharma Schweiz AG
+Ex-Factory:  16.71 ->  14.20
+Public:      36.05 ->  29.00
+
+Voltaren Supp. 12.5 mg 10 Supp. 12,5 mg                                          | Novartis Pharma Schweiz AG
+Ex-Factory:   1.62 ->   1.38
+Public:       6.00 ->   5.70
+
+Zoloft Compr. 50 mg 10 Compr. 50 mg                                              | PFIZER AG
+Ex-Factory:  14.86 ->  14.86
+Public:      29.80 ->  29.80
+
+Zoloft Compr. 50 mg 100 Compr. 50 mg                                             | PFIZER AG
+Ex-Factory: 140.12 -> 140.12
+Public:     181.40 -> 181.40
+
+Zoloft Compr. 50 mg 30 Compr. 50 mg                                              | PFIZER AG
+Ex-Factory:  38.34 ->  38.34
+Public:      61.55 ->  61.55
+
+Torem Compr. 5 mg 100 Compr. 5 mg                                                | ROCHE PHARMA (SCHWEIZ) AG
+Ex-Factory:  26.54 ->  26.54
+Public:      47.65 ->  47.65
+
+Torem Compr. 5 mg 20 Compr. 5 mg                                                 | ROCHE PHARMA (SCHWEIZ) AG
+Ex-Factory:   6.00 ->   6.00
+Public:      15.25 ->  15.25
+
+Mevalotin Compr. 20 mg 100 Compr. 20 mg                                          | Sankyo Pharma (Schweiz) AG
+Ex-Factory: 125.44 ->  53.47
+Public:     164.10 ->  79.35
+
+Mevalotin Compr. 20 mg 30 Compr. 20 mg                                           | Sankyo Pharma (Schweiz) AG
+Ex-Factory:  37.70 ->  10.12
+Public:      60.80 ->  28.30
+
+Mevalotin Compr. 40 mg 100 Compr. forte 40 mg                                    | Sankyo Pharma (Schweiz) AG
+Ex-Factory: 167.01 ->  73.98
+Public:     213.05 -> 103.50
+
+Mevalotin Compr. 40 mg 30 Compr. forte 40 mg                                     | Sankyo Pharma (Schweiz) AG
+Ex-Factory:  52.33 ->  17.34
+Public:      78.00 ->  36.80
+
+Floxyfral Filmtabs 100 mg 30 Filmtabs 100 mg                                     | Solvay Pharma AG
+Ex-Factory:  34.94 ->  29.00
+Public:      57.55 ->  48.90
+
+Floxyfral Filmtabs 100 mg 60 Filmtabs 100 mg                                     | Solvay Pharma AG
+Ex-Factory:  66.79 ->  55.44
+Public:      95.05 ->  79.50
+
+10% -> 20% Selbstbehalt #######################################
+Beloc Zok Compr. 50 mg 100 Compr. retard 50 mg                                   | ASTRAZENECA AG
+Ex-Factory:  23.90 ->  23.90
+Public:      44.55 ->  44.55
+
+Beloc Zok Compr. 50 mg 30 Compr. retard 50 mg                                    | ASTRAZENECA AG
+Ex-Factory:   7.91 ->   7.91
+Public:      17.50 ->  17.50
+
+Beloc Zok Compr. 200 mg 100 Compr. retard 200 mg                                 | ASTRAZENECA AG
+Ex-Factory:  41.08 ->  41.08
+Public:      64.75 ->  64.75
+
+Beloc Zok Compr. 200 mg 30 Compr. retard 200 mg                                  | ASTRAZENECA AG
+Ex-Factory:  14.30 ->  14.30
+Public:      29.15 ->  29.15
+
+Plendil Compr. 2.5 mg 30 Compr. retard 2,5 mg                                    | ASTRAZENECA AG
+Ex-Factory:  12.29 ->  12.29
+Public:      26.75 ->  26.75
+
+Taxol Amp. 100 mg 1 Amp. 100 mg                                                  | BRISTOL-MYERS SQUIBB GmbH
+Ex-Factory: 496.54 -> 496.54
+Public:     601.10 -> 601.10
+
+Ciprin Lactabs 250 mg 10 Lactabs 250 mg                                          | PFIZER AG
+Ex-Factory:  21.13 ->  21.13
+Public:      41.25 ->  41.25
+
+Ciprin Lactabs 250 mg 20 Lactabs 250 mg                                          | PFIZER AG
+Ex-Factory:  37.02 ->  37.02
+Public:      60.00 ->  60.00
+
+Ciprin Lactabs 750 mg 20 Lactabs 750 mg                                          | PFIZER AG
+Ex-Factory:  92.77 ->  92.77
+Public:     125.65 -> 125.65
+

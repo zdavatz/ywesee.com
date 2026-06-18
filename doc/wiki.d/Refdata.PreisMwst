@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:10.0) Gecko/20100101 Firefox/10.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1329303796
+host=80.219.10.249
+name=Refdata.PreisMwst
+rev=2
+targets=
+text=!! Wieso sind der Preis und Mehrwersteuer-Code im swissINDEX der Refdata%0aWir sind der Meinung, dass der Preis und der Mehrwertsteuercode in den Datensatz der Refdata (swissINDEX) aufgenommen werden soll, weil dies eine günstige Alternative zur Publikation der Stammdaten für alle Pharmafirmen darstellt. Gerade die kleinen und mittleren Pharmafirmen hätten ein Interesse an einem alternativen Artikelstamm um ihre Kosten besser im Griff zu haben.%0a%0a
+time=1329303823
+author:1329303823=zeno
+diff:1329303823:1329303796:=2c2%0a%3c Wir sind der Meinung, dass der Preis und der Mehrwertsteuercode in den Datensatz der Refdata (swissINDEX) aufgenommen werden soll, weil dies eine günstige Alternative zur Publikation der Stammdaten für alle Pharmafirmen darstellt. Gerade die kleinen und mittleren Pharmafirmen hätten ein Interesse an einem alternativen Artikelstamm um ihre Kosten besser im Griff zu haben.%0a---%0a> Wir sind der Meinung, dass der Preis und der Mehrwertsteuercode in den Datensatz der Refdata (swissINDEX) aufgenommen werden soll, weil dies eine günstige Alternative zur Publikation der Stammdaten für alle Pharmafirmen darstellt. Gerade die kleinen und mittleren Pharmafirmen hätten ein Interesse an einem alternativen Artikelstamm um ihre Kosten besser im Griff haben zu können.%0a
+host:1329303823=80.219.10.249
+author:1329303796=zeno
+diff:1329303796:1329303796:=1,3d0%0a%3c !! Wieso sind der Preis und Mehrwersteuer-Code im swissINDEX der Refdata%0a%3c Wir sind der Meinung, dass der Preis und der Mehrwertsteuercode in den Datensatz der Refdata (swissINDEX) aufgenommen werden soll, weil dies eine günstige Alternative zur Publikation der Stammdaten für alle Pharmafirmen darstellt. Gerade die kleinen und mittleren Pharmafirmen hätten ein Interesse an einem alternativen Artikelstamm um ihre Kosten besser im Griff haben zu können.%0a%3c %0a
+host:1329303796=80.219.10.249

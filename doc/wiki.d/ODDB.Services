@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a1pre) Gecko/20091110 Minefield/3.7a1pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1258020046
+host=80.219.154.254
+name=ODDB.Services
+rev=2
+targets=ODDB.FIUndPIPublikation,ODDB.IntegrationLookAmpFeelGenerikasuche,ODDB.IndividuelleMediliste,ODDB.StammdatenCHDE
+text=!! Dienstleistungen von ODDB.org%0a** [[ODDB/FI und PI Publikation]]%0a** [[ODDB/Integration Look & Feel Generikasuche]]%0a** [[ODDB/Individuelle Mediliste]]%0a** [[ODDB/Stammdaten CH, DE]]
+time=1258020221
+author:1258020221=
+diff:1258020221:1258020046:=1d0%0a%3c !! Dienstleistungen von ODDB.org%0a
+host:1258020221=80.219.154.254
+author:1258020046=
+diff:1258020046:1258020046:=1,4d0%0a%3c ** [[ODDB/FI und PI Publikation]]%0a%3c ** [[ODDB/Integration Look & Feel Generikasuche]]%0a%3c ** [[ODDB/Individuelle Mediliste]]%0a%3c ** [[ODDB/Stammdaten CH, DE]]%0a\ No newline at end of file%0a
+host:1258020046=80.219.154.254

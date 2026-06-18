@@ -1,0 +1,30 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:18.0) Gecko/20100101 Firefox/18.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1357813432
+host=80.219.10.249
+name=Main.BM
+rev=6
+targets=
+text=!! Betäubungsmittel-Update%0a* Quelle: [[http://www.swissmedic.ch/produktbereiche/00447/00536/index.html?lang=de&download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1acy4Zn4Z2qZpnO2Yuq2Z6gpJCDdH1,fWym162epYbg2c_JjKbNoKSn6A--&.pdf | Swissmedic]]%0a* Attach:BM_Update.txt%0a* Attach:BM_A+.txt
+time=1357825921
+author:1357825921=zeno
+diff:1357825921:1357813520:=3,4c3%0a%3c * Attach:BM_Update.txt%0a%3c * Attach:BM_A+.txt%0a\ No newline at end of file%0a---%0a> * Attach:BM_Update.txt%0a\ No newline at end of file%0a
+host:1357825921=80.219.10.249
+author:1357813520=zeno
+diff:1357813520:1357813512:=3c3%0a%3c * Attach:BM_Update.txt%0a\ No newline at end of file%0a---%0a> Attach:BM_Update.txt%0a\ No newline at end of file%0a
+host:1357813520=80.219.10.249
+author:1357813512=zeno
+diff:1357813512:1357813457:=2d1%0a%3c * Quelle: [[http://www.swissmedic.ch/produktbereiche/00447/00536/index.html?lang=de&download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1acy4Zn4Z2qZpnO2Yuq2Z6gpJCDdH1,fWym162epYbg2c_JjKbNoKSn6A--&.pdf | Swissmedic]]%0a
+host:1357813512=80.219.10.249
+author:1357813457=zeno
+diff:1357813457:1357813448:=1d0%0a%3c !! Betäubungsmittel-Update%0a
+host:1357813457=80.219.10.249
+author:1357813448=zeno
+diff:1357813448:1357813432:=1c1%0a%3c Attach:BM_Update.txt%0a\ No newline at end of file%0a---%0a> Attach:Betaeubungsmittel_Update.txt%0a\ No newline at end of file%0a
+host:1357813448=80.219.10.249
+author:1357813432=zeno
+diff:1357813432:1357813432:=1d0%0a%3c Attach:Betaeubungsmittel_Update.txt%0a\ No newline at end of file%0a
+host:1357813432=80.219.10.249

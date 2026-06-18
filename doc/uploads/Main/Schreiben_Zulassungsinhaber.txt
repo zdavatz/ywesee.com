@@ -1,0 +1,40 @@
+Sehr geehrte Damen und Herren
+
+Verlangen Sie bei der Einreichung _Ihrer_ Daten an die Swissmedic und an das BAG
+nach offenen Standards. Fragen Sie bei den Bundesbehörden, bei denen Sie Ihre
+Daten einreichen müssen ob Ihre Daten dann in einem offenen, nicht
+proprietären Format publiziert werden. Von Vorteil für Sie ist auch ganz klar
+wenn die Daten in einem maschinenlesbaren Format sind.
+
+Offene Standards verhindern ein Vendor-Lock in.
+
+Lesen Sie mehr über offene Standards:
+* http://perens.com/OpenStandards/Definition.html
+* http://www.w3.org/Consortium/ 
+
+Langfristig können Sie von offenen Standards nur profitieren, da diese den
+wahren Wettbewerb fördern und für alle Anbieter einen gleich langen Spiess
+machen. Ihre Optionen vergrössern sich, die Dienstleistungen werden besser.
+
+Linux ist das beste Beispiel.
+
+Norwegen macht es uns vor (Achtung Link ist lange und kann Umbrechen!):
+http://www.andwest.com/blojsom/blog/tatle/agenda/2005/06/27/Norwegian_Minister_Proprietary_Standards_No_Longer_Acceptable_in_Communication_with_Government.html
+
+Mit freundlichen Grüssen aus dem südländischen Zürich (31°C)
+
+PS: Geschlossene, proprietäre Standards sind Dinosaurier und vom Aussterben
+bedroht! Bleiben Sie flexibel.
+
+-- 
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-24 
+Schl.-Fingerabdruck = 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

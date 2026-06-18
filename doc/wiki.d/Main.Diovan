@@ -1,0 +1,27 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9b3pre) Gecko/2008012404 Minefield/3.0b3pre
+author=
+host=77.57.16.157
+name=Main.Diovan
+rev=6
+targets=
+text=! Diovan%0a%0aAus dem Swissmedic-Journal 1/2007:%0a%0a"Zul.-Nr.: 55743 Abgabekategorie: B Index: 02.07.1. 12.01.2007%0aZusammensetzung 01 valsartanum 80 mg, excipiens pro compresso obducto.%0a02 valsartanum 160 mg, excipiens pro compresso obducto.%0a04 valsartanum 40 mg, excipiens pro compresso obducto.%0a05 valsartanum 320 mg, excipiens pro compresso obducto.%0aAnwendung Hypertonie%0a* Packung/en 01 002 28 Tablette(n) B%0a004 98 Tablette(n) B%0a018 56 Tablette(n) Spitalpackung B%0a02 006 28 Tablette(n) B%0a008 98 Tablette(n) B%0a020 56 Tablette(n) Spitalpackung B%0a04 014 28 Tablette(n) B%0a016 56 Tablette(n) Spitalpackung B%0aBemerkung Ersetzt die Zulassungsbescheinigung vom 22.12.2005 (Zulassung der%0aneuen Dosierung 320 mg )%0aSequenz 05 (320 mg) nur für den Export bestimmt"%0a%0a"Gültig bis 31.12.2006" - '''das Datum macht keinen Sinn'''.
+time=1201510202
+author:1201510202=
+diff:1201510202:1201509959:=23c23%0a%3c "Gültig bis 31.12.2006" - '''das Datum macht keinen Sinn'''.%0a\ No newline at end of file%0a---%0a> "Gültig bis 31.12.2006" - das Datum macht keinen Sinn.%0a\ No newline at end of file%0a
+host:1201510202=77.57.16.157
+author:1201509959=
+diff:1201509959:1201509942:=10a11%0a> %0a
+host:1201509959=77.57.16.157
+author:1201509942=
+diff:1201509942:1201509856:=5c5%0a%3c "Zul.-Nr.: 55743 Abgabekategorie: B Index: 02.07.1. 12.01.2007%0a---%0a> Zul.-Nr.: 55743 Abgabekategorie: B Index: 02.07.1. 12.01.2007%0a11d10%0a%3c %0a22,24c21,23%0a%3c Sequenz 05 (320 mg) nur für den Export bestimmt"%0a%3c %0a%3c "Gültig bis 31.12.2006" - das Datum macht keinen Sinn.%0a\ No newline at end of file%0a---%0a> Sequenz 05 (320 mg) nur für den Export bestimmt%0a> %0a> Gültig bis 31.12.2006%0a\ No newline at end of file%0a
+host:1201509942=77.57.16.157
+author:1201509856=
+diff:1201509856:1201509840:=3,4c3,4%0a%3c Aus dem Swissmedic-Journal 1/2007:%0a%3c %0a---%0a> Aus dem Swissmedic-Journal:%0a> %0a
+host:1201509856=77.57.16.157
+author:1201509840=
+diff:1201509840:1201509817:=3,4d2%0a%3c Aus dem Swissmedic-Journal:%0a%3c %0a
+host:1201509840=77.57.16.157
+author:1201509817=
+diff:1201509817:1201509817:=1,21d0%0a%3c ! Diovan%0a%3c %0a%3c Zul.-Nr.: 55743 Abgabekategorie: B Index: 02.07.1. 12.01.2007%0a%3c Zusammensetzung 01 valsartanum 80 mg, excipiens pro compresso obducto.%0a%3c 02 valsartanum 160 mg, excipiens pro compresso obducto.%0a%3c 04 valsartanum 40 mg, excipiens pro compresso obducto.%0a%3c 05 valsartanum 320 mg, excipiens pro compresso obducto.%0a%3c Anwendung Hypertonie%0a%3c * Packung/en 01 002 28 Tablette(n) B%0a%3c 004 98 Tablette(n) B%0a%3c 018 56 Tablette(n) Spitalpackung B%0a%3c 02 006 28 Tablette(n) B%0a%3c 008 98 Tablette(n) B%0a%3c 020 56 Tablette(n) Spitalpackung B%0a%3c 04 014 28 Tablette(n) B%0a%3c 016 56 Tablette(n) Spitalpackung B%0a%3c Bemerkung Ersetzt die Zulassungsbescheinigung vom 22.12.2005 (Zulassung der%0a%3c neuen Dosierung 320 mg )%0a%3c Sequenz 05 (320 mg) nur für den Export bestimmt%0a%3c %0a%3c Gültig bis 31.12.2006%0a\ No newline at end of file%0a
+host:1201509817=77.57.16.157

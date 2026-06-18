@@ -1,0 +1,24 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1774297243
+host=212.51.146.241
+name=Old2New.Old2New
+rev=4
+targets=
+text=! old2new%0a!! Upscale your videos 2x or 4x %0a# https://github.com/zdavatz/old2new%0a# download from youtube%0a# re-upload to youtube%0a# send status Email%0a%0aAttach:old2new_1.png%0aAttach:old2new_2.png
+time=1774297346
+author:1774297346=zeno
+diff:1774297346:1774297329:=1c1%0a%3c ! old2new%0a---%0a> !old2new%0a
+host:1774297346=212.51.146.241
+author:1774297329=zeno
+diff:1774297329:1774297314:=6d5%0a%3c # send status Email%0a
+host:1774297329=212.51.146.241
+author:1774297314=zeno
+diff:1774297314:1774297243:=3,6c3%0a%3c # https://github.com/zdavatz/old2new%0a%3c # download from youtube%0a%3c # re-upload to youtube%0a%3c %0a---%0a> * https://github.com/zdavatz/old2new%0a
+host:1774297314=212.51.146.241
+author:1774297243=zeno
+diff:1774297243:1774297243:=1,5d0%0a%3c !old2new%0a%3c !! Upscale your videos 2x or 4x %0a%3c * https://github.com/zdavatz/old2new%0a%3c Attach:old2new_1.png%0a%3c Attach:old2new_2.png%0a\ No newline at end of file%0a
+host:1774297243=212.51.146.241

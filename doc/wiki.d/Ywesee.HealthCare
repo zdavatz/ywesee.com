@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090615 Minefield/3.6a1pre
+author=
+host=84.74.177.14
+name=Ywesee.HealthCare
+rev=1
+targets=
+text=http://en.wikipedia.org/wiki/Health_care
+time=1245156863
+author:1245156863=
+diff:1245156863:1245156863:=1d0%0a%3c http://en.wikipedia.org/wiki/Health_care%0a\ No newline at end of file%0a
+host:1245156863=84.74.177.14

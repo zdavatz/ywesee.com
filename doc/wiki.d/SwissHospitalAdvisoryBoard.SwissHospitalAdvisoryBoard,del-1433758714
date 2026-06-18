@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.18 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1433758695
+host=46.140.30.26
+name=SwissHospitalAdvisoryBoard.SwissHospitalAdvisoryBoard
+rev=1
+targets=
+text=* Tom Willi, Holution%0a* Dr. pharm. Marco Schärer, Gesundheitsamt Kanton, Solothurn, Kantonsapotheker %0a* Dr. pharm. Richard Egger, KSA%0a* Peter Wiedemeier, KSB,%0a* Herbert Schmidt, Schulthess Klinik
+time=1433758695
+author:1433758695=zeno
+diff:1433758695:1433758695:=1,5d0%0a%3c * Tom Willi, Holution%0a%3c * Dr. pharm. Marco Schärer, Gesundheitsamt Kanton, Solothurn, Kantonsapotheker %0a%3c * Dr. pharm. Richard Egger, KSA%0a%3c * Peter Wiedemeier, KSB,%0a%3c * Herbert Schmidt, Schulthess Klinik%0a\ No newline at end of file%0a
+host:1433758695=46.140.30.26

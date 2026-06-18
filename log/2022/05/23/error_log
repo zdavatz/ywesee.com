@@ -1,0 +1,22 @@
+[Mon May 23 01:00:06 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Mon May 23 01:00:07 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Mon May 23 03:49:55 2022] [error] [client 66.249.66.216] File does not exist: /var/www/ywesee.com/doc/de
+[Mon May 23 05:19:56 2022] [error] [client 66.249.66.214] File does not exist: /var/www/ywesee.com/doc/en
+[Mon May 23 06:07:29 2022] [error] [client 66.249.66.214] File does not exist: /var/www/ywesee.com/doc/de
+[Mon May 23 06:27:54 2022] [error] [client 66.249.66.218] File does not exist: /var/www/ywesee.com/doc/fr
+[Mon May 23 06:47:53 2022] [error] [client 5.165.151.222] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Mon May 23 06:47:54 2022] [error] [client 5.227.31.175] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Mon May 23 06:47:55 2022] [error] [client 5.165.151.222] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Mon May 23 06:47:56 2022] [error] [client 5.227.31.175] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Mon May 23 06:47:57 2022] [error] [client 5.165.151.222] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Mon May 23 06:47:58 2022] [error] [client 5.227.31.175] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Mon May 23 06:47:59 2022] [error] [client 5.165.151.222] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Mon May 23 06:48:00 2022] [error] [client 5.227.31.175] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Mon May 23 09:47:49 2022] [error] [client 66.249.66.193] File does not exist: /var/www/ywesee.com/doc/de
+[Mon May 23 11:50:27 2022] [error] [client 66.249.66.223] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Mon May 23 12:50:18 2022] [error] [client 35.231.145.31] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Mon May 23 12:50:38 2022] [error] [client 35.231.145.31] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Mon May 23 12:50:41 2022] [error] [client 35.231.145.31] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Mon May 23 17:28:35 2022] [error] [client 66.249.66.216] File does not exist: /var/www/ywesee.com/doc/de
+[Mon May 23 17:30:01 2022] [error] [client 66.249.76.229] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Mon May 23 20:00:10 2022] [error] [client 66.249.76.229] File does not exist: /var/www/ywesee.com/doc/ads.txt

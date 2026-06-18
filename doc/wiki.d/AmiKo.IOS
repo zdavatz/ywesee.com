@@ -1,0 +1,75 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1376376736
+host=73.177.134.113
+name=AmiKo.IOS
+rev=26
+targets=AmiKo.Index
+text=%3c%3c|[[Index]]|>>%0a!! AmiKo für iPhone / iPad%0a* https://itunes.apple.com/ch/app/amiko-desitin/id687642725?mt=8 - German - [[http://www.youtube.com/watch?v=X3qDDX6X5RA | iPhone]] / [[http://www.youtube.com/watch?v=let8W7OUyLo | iPad]] Anleitung%0a* https://itunes.apple.com/us/app/comed-desitin/id712891884?mt=8 - French%0a%0a!! Version 2.9%0a1.9.2018\\%0aNEU: Drucken und Scannen!%0a* Rezept drucken%0a* Etikette drucken%0a* Rezept als PDF erstellen%0a* Rezept als PDF versenden%0a* Medikament für Rezept erfassen mit Barcode-Scanner %0a* Patient wählen oder erstellen mit OCR Krankenkassen Kartenleser%0a%0a!! Version 2.8%0a13.4.2018\\%0aNEU: Rezeptfunktion!%0a* Patienten via iOS Adressbuch importieren. %0a* Patienten im AmiKo Adressbuch verwalten/importieren/versenden. %0a* Rezepte pro Patient verwalten.%0a* Alte Rezepte übernehmen, verändern, neu erstellen, versenden.%0a* Rezepte via Email, WhatsApp, Facebook Messenger, Emails, Airdrop, Gdrive, OneDrive, DropBox übermitteln/einlesen. %0a* Bei vorhandenem Rezept die Patienten-Adresse austauschen und Rezept neu speichern. %0a* Direkt aus der Fachinfo-Suche eine Packung dem Patienten verschreiben. %0a* Einnahme-Anweisung pro Packung erstellen.%0a* Rezepte an Patienten übertragen, welche das Rezept mit dem Generika-App (erhältlich für iOS https://itunes.apple.com/ch/app/generika/id520038123?mt=8 oder Android https://play.google.com/store/apps/details?id=org.oddb.generika) öffnen wollen.%0a%0aFeature Videos:%0a* https://www.youtube.com/watch?v=gmlkoXcxApI%0a* https://www.youtube.com/watch?v=nyXeo81olEI&t%0a* https://www.youtube.com/watch?v=pYDRWK_4S2A%0a%0aDiverse Verbesserungen ab Version 1.6 bis 2.8%0a%0a!! Version 1.6%0a28.6.2014%0a* Added Interactions by EPha%0a* Added In-Text Search%0a* Improved Speed%0a%0a!! Version 1.5%0a27.2.2014%0a* tägliche Datenaktualisierung.%0a* Bugfixes%0a* Verbessertes Menu%0a%0a!! Version 1.4%0a* Favoritenliste%0a* Druckfunktion%0a* Suche nach Präparat, Inhaberin, ATC-Code (Code und Code-Name), Zulassungsnummer, Wirkstoff, Therapie%0a%0a!! Kontakt%0a* 043 540 05 50%0a* zdavatz at ywesee dot com
+time=1762178358
+author:1762178358=zeno
+diff:1762178358:1535821244:=32a33%0a> * https://www.youtube.com/watch?v=emPS--ikXTI%0a
+host:1762178358=73.177.134.113
+author:1535821244=zeno
+diff:1535821244:1535821214:=8d7%0a%3c NEU: Drucken und Scannen!%0a
+host:1535821244=212.51.146.241
+author:1535821214=zeno
+diff:1535821214:1535821204:=7d6%0a%3c 1.9.2018\\%0a
+host:1535821214=212.51.146.241
+author:1535821204=zeno
+diff:1535821204:1523633424:=5,12d4%0a%3c %0a%3c !! Version 2.9%0a%3c * Rezept drucken%0a%3c * Etikette drucken%0a%3c * Rezept als PDF erstellen%0a%3c * Rezept als PDF versenden%0a%3c * Medikament für Rezept erfassen mit Barcode-Scanner %0a%3c * Patient wählen oder erstellen mit OCR Krankenkassen Kartenleser%0a
+host:1535821204=212.51.146.241
+author:1523633424=zeno
+diff:1523633424:1523628394:=20d19%0a%3c * https://www.youtube.com/watch?v=gmlkoXcxApI%0a
+host:1523633424=212.51.146.241
+author:1523628394=zeno
+diff:1523628394:1523628359:=23,24d22%0a%3c %0a%3c Diverse Verbesserungen ab Version 1.6 bis 2.8%0a
+host:1523628394=212.51.146.241
+author:1523628359=zeno
+diff:1523628359:1523628343:=7c7%0a%3c 13.4.2018\\%0a---%0a> 13.4.2018%0a
+host:1523628359=212.51.146.241
+author:1523628343=zeno
+diff:1523628343:1523628303:=6c6%0a%3c !! Version 2.8%0a---%0a> !! Version 2.0%0a
+host:1523628343=212.51.146.241
+author:1523628303=zeno
+diff:1523628303:1403954505:=5,22d4%0a%3c %0a%3c !! Version 2.0%0a%3c 13.4.2018%0a%3c NEU: Rezeptfunktion!%0a%3c * Patienten via iOS Adressbuch importieren. %0a%3c * Patienten im AmiKo Adressbuch verwalten/importieren/versenden. %0a%3c * Rezepte pro Patient verwalten.%0a%3c * Alte Rezepte übernehmen, verändern, neu erstellen, versenden.%0a%3c * Rezepte via Email, WhatsApp, Facebook Messenger, Emails, Airdrop, Gdrive, OneDrive, DropBox übermitteln/einlesen. %0a%3c * Bei vorhandenem Rezept die Patienten-Adresse austauschen und Rezept neu speichern. %0a%3c * Direkt aus der Fachinfo-Suche eine Packung dem Patienten verschreiben. %0a%3c * Einnahme-Anweisung pro Packung erstellen.%0a%3c * Rezepte an Patienten übertragen, welche das Rezept mit dem Generika-App (erhältlich für iOS https://itunes.apple.com/ch/app/generika/id520038123?mt=8 oder Android https://play.google.com/store/apps/details?id=org.oddb.generika) öffnen wollen.%0a%3c %0a%3c Feature Videos:%0a%3c * https://www.youtube.com/watch?v=nyXeo81olEI&t%0a%3c * https://www.youtube.com/watch?v=pYDRWK_4S2A%0a%3c * https://www.youtube.com/watch?v=emPS--ikXTI%0a
+host:1523628303=212.51.146.241
+author:1403954505=zeno
+diff:1403954505:1395061945:=5,10d4%0a%3c %0a%3c !! Version 1.6%0a%3c 28.6.2014%0a%3c * Added Interactions by EPha%0a%3c * Added In-Text Search%0a%3c * Improved Speed%0a
+host:1403954505=46.140.30.26
+author:1395061945=zeno
+diff:1395061945:1395061932:=3c3%0a%3c * https://itunes.apple.com/ch/app/amiko-desitin/id687642725?mt=8 - German - [[http://www.youtube.com/watch?v=X3qDDX6X5RA | iPhone]] / [[http://www.youtube.com/watch?v=let8W7OUyLo | iPad]] Anleitung%0a---%0a> * https://itunes.apple.com/ch/app/amiko-desitin/id687642725?mt=8 - German - [[http://www.youtube.com/watch?v=X3qDDX6X5RA | iPhone]] [[http://www.youtube.com/watch?v=let8W7OUyLo | iPad]] Anleitung%0a
+host:1395061945=46.140.30.26
+author:1395061932=zeno
+diff:1395061932:1394636065:=3c3%0a%3c * https://itunes.apple.com/ch/app/amiko-desitin/id687642725?mt=8 - German - [[http://www.youtube.com/watch?v=X3qDDX6X5RA | iPhone]] [[http://www.youtube.com/watch?v=let8W7OUyLo | iPad]] Anleitung%0a---%0a> * https://itunes.apple.com/ch/app/amiko-desitin/id687642725?mt=8 - German%0a19c19,25%0a%3c * zdavatz at ywesee dot com%0a\ No newline at end of file%0a---%0a> * zdavatz at ywesee dot com%0a> %0a> !! Video Update Anleitung%0a> !!! iPhone%0a> * http://www.youtube.com/watch?v=X3qDDX6X5RA%0a> !!! iPad%0a> * http://www.youtube.com/watch?v=let8W7OUyLo%0a\ No newline at end of file%0a
+host:1395061932=46.140.30.26
+author:1394636065=zeno
+diff:1394636065:1394543724:=22,25c22%0a%3c !!! iPhone%0a%3c * http://www.youtube.com/watch?v=X3qDDX6X5RA%0a%3c !!! iPad%0a%3c * http://www.youtube.com/watch?v=let8W7OUyLo%0a\ No newline at end of file%0a---%0a> * http://www.youtube.com/watch?v=X3qDDX6X5RA%0a\ No newline at end of file%0a
+host:1394636065=46.140.30.26
+author:1394543724=zeno
+diff:1394543724:1393489448:=19,22c19%0a%3c * zdavatz at ywesee dot com%0a%3c %0a%3c !! Video Update Anleitung%0a%3c * http://www.youtube.com/watch?v=X3qDDX6X5RA%0a\ No newline at end of file%0a---%0a> * zdavatz at ywesee dot com%0a\ No newline at end of file%0a
+host:1394543724=46.140.30.26
+author:1393489448=zeno
+diff:1393489448:1389001567:=5,10d4%0a%3c %0a%3c !! Version 1.5%0a%3c 27.2.2014%0a%3c * tägliche Datenaktualisierung.%0a%3c * Bugfixes%0a%3c * Verbessertes Menu%0a
+host:1393489448=46.140.30.26
+author:1389001567=zeno
+diff:1389001567:1389001526:=
+host:1389001567=46.140.30.26
+author:1389001526=zeno
+diff:1389001526:1389001517:=11c11%0a%3c !! Kontakt%0a---%0a> !!! Kontakt%0a
+host:1389001526=46.140.30.26
+author:1389001517=zeno
+diff:1389001517:1389001508:=7,9c7,9%0a%3c * Favoritenliste%0a%3c * Druckfunktion%0a%3c * Suche nach Präparat, Inhaberin, ATC-Code (Code und Code-Name), Zulassungsnummer, Wirkstoff, Therapie%0a---%0a> Favoritenliste%0a> Druckfunktion%0a> Suche nach Präparat, Inhaberin, ATC-Code (Code und Code-Name), Zulassungsnummer, Wirkstoff, Therapie%0a
+host:1389001517=46.140.30.26
+author:1389001508=zeno
+diff:1389001508:1382114684:=5,10d4%0a%3c %0a%3c !! Version 1.4%0a%3c Favoritenliste%0a%3c Druckfunktion%0a%3c Suche nach Präparat, Inhaberin, ATC-Code (Code und Code-Name), Zulassungsnummer, Wirkstoff, Therapie%0a%3c %0a
+host:1389001508=46.140.30.26
+author:1382114684=zeno
+diff:1382114684:1382114672:=3,4c3,4%0a%3c * https://itunes.apple.com/ch/app/amiko-desitin/id687642725?mt=8 - German%0a%3c * https://itunes.apple.com/us/app/comed-desitin/id712891884?mt=8 - French%0a---%0a> * https://itunes.apple.com/ch/app/amiko-desitin/id687642725?mt=8%0a> * https://itunes.apple.com/us/app/comed-desitin/id712891884?mt=8%0a
+host:1382114684=46.140.30.26
+author:1382114672=zeno
+diff:1382114672:1381759282:=4d3%0a%3c * https://itunes.apple.com/us/app/comed-desitin/id712891884?mt=8%0a
+host:1382114672=46.140.30.26

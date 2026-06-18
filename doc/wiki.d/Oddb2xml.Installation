@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:19.0) Gecko/20100101 Firefox/19.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1361390298
+host=80.219.10.249
+name=Oddb2xml.Installation
+rev=2
+targets=Oddb2xml.Index
+text=%25trail%25%3c%3c|[[Index]]|>>%0a!! Installation oddb2xml%0a%0aMittels unserer Software oddb2xml können Sie sämtliche für den Arzt,%0aSpital, Heim, etc relevanten Stammdaten als XML-Files auf Ihrem PC generieren.%0a%0aUm oddb2xml zu installieren benötigen Sie Ruby in Ihrem Windows-Pfad:%0a%0ahttp://rubyforge.org/frs/download.php/76752/rubyinstaller-1.9.3-p385.exe%0a%0a- > Option "Add Ruby to Path" anklicken während der Installation.%0a%0aDanach ein Terminal öffnen und das folgenden eingeben:%0a%0agem install oddb2xml [*]%0a%0aDann werden einigen Abhängigkeiten und die Software installiert.%0a%0aDanach müssen sie noch einmalig das Zertifikat im Pfad hinterlegen,%0adie Anleitung dazu finden Sie hier:%0a%0ahttps://github.com/zdavatz/oddb2xml#sslv3-cert-for-windows-users%0a%0aDas Terminal noch einmal schliessen und wieder öffnen und dann können%0asie mit der folgenden Zeile das XML generieren:%0a%0aoddb2xml -a nonpharma%0a%0aDie Option "-o fi" zur Erstellung der Fachinfo funktioniert zur Zeit%0anur auf Linux und Mac. Alle anderen Optionen funktionieren einwandfrei%0aauf Windows.%0a%0aFür Fragen stehe ich Ihnen gerne zur Verfügung.%0a%0aMfG%0aZeno Davatz%0a+41 43 540 05 50%0a%0a[*] oddb2xml ist unter der GPLv3.0 verfügbar.
+time=1361390326
+author:1361390326=zeno
+diff:1361390326:1361390298:=1d0%0a%3c %25trail%25%3c%3c|[[Index]]|>>%0a
+host:1361390326=80.219.10.249
+author:1361390298=zeno
+diff:1361390298:1361390298:=1,38d0%0a%3c !! Installation oddb2xml%0a%3c %0a%3c Mittels unserer Software oddb2xml können Sie sämtliche für den Arzt,%0a%3c Spital, Heim, etc relevanten Stammdaten als XML-Files auf Ihrem PC generieren.%0a%3c %0a%3c Um oddb2xml zu installieren benötigen Sie Ruby in Ihrem Windows-Pfad:%0a%3c %0a%3c http://rubyforge.org/frs/download.php/76752/rubyinstaller-1.9.3-p385.exe%0a%3c %0a%3c - > Option "Add Ruby to Path" anklicken während der Installation.%0a%3c %0a%3c Danach ein Terminal öffnen und das folgenden eingeben:%0a%3c %0a%3c gem install oddb2xml [*]%0a%3c %0a%3c Dann werden einigen Abhängigkeiten und die Software installiert.%0a%3c %0a%3c Danach müssen sie noch einmalig das Zertifikat im Pfad hinterlegen,%0a%3c die Anleitung dazu finden Sie hier:%0a%3c %0a%3c https://github.com/zdavatz/oddb2xml#sslv3-cert-for-windows-users%0a%3c %0a%3c Das Terminal noch einmal schliessen und wieder öffnen und dann können%0a%3c sie mit der folgenden Zeile das XML generieren:%0a%3c %0a%3c oddb2xml -a nonpharma%0a%3c %0a%3c Die Option "-o fi" zur Erstellung der Fachinfo funktioniert zur Zeit%0a%3c nur auf Linux und Mac. Alle anderen Optionen funktionieren einwandfrei%0a%3c auf Windows.%0a%3c %0a%3c Für Fragen stehe ich Ihnen gerne zur Verfügung.%0a%3c %0a%3c MfG%0a%3c Zeno Davatz%0a%3c +41 43 540 05 50%0a%3c %0a%3c [*] oddb2xml ist unter der GPLv3.0 verfügbar.%0a\ No newline at end of file%0a
+host:1361390298=80.219.10.249

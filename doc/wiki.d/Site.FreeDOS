@@ -1,0 +1,15 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9pre) Gecko/2008061504 Minefield/3.0pre
+author=
+host=77.57.16.157
+name=Site.FreeDOS
+rev=2
+targets=
+text=* http://www.freedos.org%0a* http://sourceforge.net/projects/freedos/
+time=1213620130
+author:1213620130=
+diff:1213620130:1212496071:=1,2c1%0a%3c * http://www.freedos.org%0a%3c * http://sourceforge.net/projects/freedos/%0a\ No newline at end of file%0a---%0a> http://www.freedos.org%0a\ No newline at end of file%0a
+host:1213620130=77.57.16.157
+author:1212496071=
+diff:1212496071:1212496071:=1d0%0a%3c http://www.freedos.org%0a\ No newline at end of file%0a
+host:1212496071=77.57.16.157

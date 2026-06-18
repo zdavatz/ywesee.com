@@ -1,0 +1,114 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 1176 invoked by uid 210); 9 Sep 2005 10:58:25 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.2/1070. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.03156 secs); 09 Sep 2005 08:58:25 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 9 Sep 2005 10:58:25 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id A66DF15A4CA; Fri,  9 Sep 2005 10:49:49 +0200 (CEST)
+Date: Fri, 9 Sep 2005 10:49:49 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Thomas =?iso-8859-1?Q?Bähler_Kellerhals_Rechtsanwälte?= <thomas.baehler@kellerhalslaw.ch>,
+	todo@oddb.org, thomas.zeltner@bag.admin.ch,
+	reinhard.kaempf@bag.admin.ch
+Subject: =?iso-8859-1?Q?Spezialitätenlist?=
+	=?iso-8859-1?Q?e?= vs. Medwin.ch und Galdat
+Message-ID: <20050909084949.GA10967@zrr-gentoo.local>
+References: <20050902170537.GA11219@zrr-gentoo.local> <B0006653614@server-a.gigashop.ch>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+In-Reply-To: <B0006653614@server-a.gigashop.ch>
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrter Herr Bähler
+
+Besten Dank für Ihr Schreiben.
+
+1.) Ich weiss nicht was Sie als einen Beleg bezeichnen. Für mich ist ein
+Beleg folgendes: http://de.wikipedia.org/wiki/Beleg
+
+Weder Ihre Aussagen noch die Aussagen von Herr Brunner, Herr Zeltner und Herr Kämpf sind für mich Belege. 
+Es sind für mich Schreiben. Wie gut die Spitzen vom BAG über die Machenschaften rund um die Spezialätenliste 
+informiert sind weiss ich nicht. Ich habe keinen besonders guten Eindruck 
+bis jetzt. Falsche EAN-Codes bleiben falsche EAN-Codes.
+
+Des Weiteren würde ich eine Auftragsbeschreibung von der Seite Ihrer
+Mandatin oder vom BAG sehr begrüssen.
+
+2.) Sie vermischen den offiziellen SL-Export vom BAG auf Galinfo.net mit
+den Datenbanken der E-mediat (Medwin.ch und Galdat). Es geht uns eben
+genau _NICHT_ um die Daten auf Medwin.ch und Galdat sondern um die
+EAN-Codes aus der offziellen Excelliste. Ein Teil dieser EAN-Codes sind wie wir
+mit unserem manuellen Vergleich und dem Vergleich mit der
+Medwin-Datenbank verglichen haben nicht korrekt. An dieser Stelle möchte
+ich nochmals hinzufügen, dass der SL-Listen-Export auch falsche
+EAN-Codes von Betäubungsmitteln enthält!
+
+Die Anliegen unter Punkt 1 würden nicht zu Tage treten wenn die Fehler im
+SL-Export nicht so zahlreich wären. Genau aus diesem Grunde wollen wir
+den Beleg sehen. Ich verstehe ohnehin nicht wieso Sie uns den Beleg
+nicht zeigen wollen/können. Ist der Betrag doch höher als CHF 50'000.-
+oder gibt es noch irgendwelche Zusatzdienstleistungen von denen wir
+nichts wissen sollen (das ist eine Frage und keine Behauptung)?
+
+Ich möchte Sie an dieser Stelle bitten mir mitzuteilen wann Sie die durch
+uns fehlerhaft identifizierten EAN-Codes im offiziellen SL-Export 
+korrigiert haben.
+
+Sehr geehrter Herr Bähler, Ihr Verhalten ist mir sehr fremd. Sie wissen
+ganz genau, dass 99% aller Apotheken, Drogerien, Spitäler, Arztsoftwares 
+in der Schweiz noch mit dem Pharmacode und dem Galdat operieren. So 
+zu tun als wäre der korrekte technische Export der SL-Liste nicht 
+im Machtbereich Ihrer Mandatin bewerte ich als "Unter-den-Teppich-wisch-Taktik". 
+Das die Daten im käuflichen Export Ihrer Mandatin stimmen ist mir klar, 
+alles andere wäre auch nicht professionell. Das die Daten, welche Sie 
+für die Spezialitätenliste verwalten aber einfach nicht korrekt sind,
+ist höchst unprofessionell wenn nicht äusserst Fahrlässig.
+
+Ich möchte Sie bitten mir innerhalb von den nächsten 14 Tage mitzuteilen
+wann Sie die unkorrekten EAN-Codes in der offiziellen SL-Liste korrigiert haben und
+wie Sie gedenken vorzugehen, dass dies in der Zukunft nie mehr passiert.
+http://todo.oddb.org/ezmlm-cgi?mss:260:200509:fhijellfbmmlplfoplpm
+
+Des Weiteren möchte ich Sie Fragen an wenn ich die Rechnung für die 30
+Aufwand senden soll, welche wir benötigt haben um die SL-Liste zu
+überprüfen und die Fehler zu nageln und an sie und dem BAG zu kommunizieren.
+
+Besten Dank für Ihre Rückmeldung.
+
+Mit freundlichen Grüssen
+Zeno Davatz
+043 540 05 50
+
+* Thomas Bähler Kellerhals Rechtsanwälte <thomas.baehler@kellerhalslaw.=
+ch> [2005-09-09 10:04:04 +0200]:
+
+>
+> Sehr geehrter Herr Davatz
+>
+> Als Beilage geht Ihnen mein heutiges Schreiben vorweg per Email zu.
+>
+> Freundliche Grüsse
+> Thomas Bähler
+>
+> ---------------------------------
+> Dr. Thomas Bähler
+> Fürsprecher, LL.M.
+> Kellerhals Rechtsanwälte
+> Kapellenstrasse 14
+> 3001 Bern
+>
+> Tel: +41 31 390 25 25
+> Fax: +41 31 390 25 26
+> Tel: +41 31 390 25 57 direkt
+> Fax: +41 31 390 25 56 direkt
+> Email: thomas.baehler@kellerhalslaw.ch
+> www.kellerhalslaw.ch
+

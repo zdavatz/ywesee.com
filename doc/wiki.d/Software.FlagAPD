@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1b2pre) Gecko/20081116 Minefield/3.1b2pre
+author=
+host=84.72.92.25
+name=Software.FlagAPD
+rev=1
+targets=Software.FlagAPD
+text=FlagAPD = Y bedeutet, dass dieses Präparat/Packung bereits frühre in anderer Form/Dosierung/Packunghsgrösse in der SL war und deshalb eine "erleichtertes" Aufnahmeprozedere stattfindet (Firma muss z.B. bei Swissmedic nicht alle klinischen Studien, etc. einreichen, da bereits mit dem "Vorgänger" erfolgt) 
+time=1226934276
+author:1226934276=
+diff:1226934276:1226934276:=1d0%0a%3c FlagAPD = Y bedeutet, dass dieses Präparat/Packung bereits frühre in anderer Form/Dosierung/Packunghsgrösse in der SL war und deshalb eine "erleichtertes" Aufnahmeprozedere stattfindet (Firma muss z.B. bei Swissmedic nicht alle klinischen Studien, etc. einreichen, da bereits mit dem "Vorgänger" erfolgt) %0a\ No newline at end of file%0a
+host:1226934276=84.72.92.25

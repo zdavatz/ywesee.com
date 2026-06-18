@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1412866113
+host=46.140.30.26
+name=SpitalSchweiz.AnzahlOperationssaele2012
+rev=2
+targets=SpitalSchweiz.Index
+text=%3c%3c|[[Index]]|>>%0a%0a(:html:)%0a%3ciframe src="http://cf.datawrapper.de/AAz3t/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="1000">%3c/iframe>%0a(:htmlend:)
+time=1412866137
+author:1412866137=zeno
+diff:1412866137:1412866113:=1d0%0a%3c %3c%3c|[[Index]]|>>%0a
+host:1412866137=46.140.30.26
+author:1412866113=zeno
+diff:1412866113:1412866113:=1,4d0%0a%3c %0a%3c (:html:)%0a%3c %3ciframe src="http://cf.datawrapper.de/AAz3t/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="1000">%3c/iframe>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a
+host:1412866113=46.140.30.26

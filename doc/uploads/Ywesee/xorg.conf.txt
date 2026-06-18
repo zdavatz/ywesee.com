@@ -1,0 +1,132 @@
+Section "ServerLayout"
+	Identifier     "X.org Configured"
+	Screen      0  "Screen0" 0 0
+	InputDevice    "Mouse0" "CorePointer"
+	InputDevice    "Keyboard0" "CoreKeyboard"
+EndSection
+
+Section "Files"
+	RgbPath      "/usr/lib/X11/rgb"
+	ModulePath   "/usr/lib/modules"
+	FontPath     "/usr/share/fonts/misc/"
+	FontPath     "/usr/share/fonts/TTF/"
+	FontPath     "/usr/share/fonts/Type1/"
+	FontPath     "/usr/share/fonts/CID/"
+	FontPath     "/usr/share/fonts/75dpi/"
+	FontPath     "/usr/share/fonts/100dpi/"
+EndSection
+
+Section "Module"
+	Load  "dbe"
+	Load  "dri"
+	Load  "extmod"
+	Load  "glx"
+	Load  "record"
+	Load  "xtrap"
+	Load  "freetype"
+	Load  "type1"
+EndSection
+
+Section "InputDevice"
+	Identifier  "Keyboard0"
+	Driver      "kbd"
+	Option      "XkbLayout"	"de_CH"
+EndSection
+
+Section "InputDevice"
+	Identifier  "Mouse0"
+	Driver      "mouse"
+	Option	    "Protocol" "auto"
+	Option	    "Device" "/dev/input/mice"
+EndSection
+
+Section "Monitor"
+	Identifier   "Monitor0"
+	VendorName   "Monitor Vendor"
+	ModelName    "Monitor Model"
+EndSection
+
+Section "Device"
+        ### Available Driver options are:-
+        ### Values: <i>: integer, <f>: float, <bool>: "True"/"False",
+        ### <string>: "String", <freq>: "<f> Hz/kHz/MHz"
+        ### [arg]: arg optional
+        #Option     "NoAccel"            	# [<bool>]
+        #Option     "SWcursor"           	# [<bool>]
+        #Option     "Dac6Bit"            	# [<bool>]
+        #Option     "Dac8Bit"            	# [<bool>]
+        #Option     "BusType"            	# [<str>]
+        #Option     "CPPIOMode"          	# [<bool>]
+        #Option     "CPusecTimeout"      	# <i>
+        #Option     "AGPMode"            	# <i>
+        #Option     "AGPFastWrite"       	# [<bool>]
+        #Option     "AGPSize"            	# <i>
+        #Option     "GARTSize"           	# <i>
+        #Option     "RingSize"           	# <i>
+        #Option     "BufferSize"         	# <i>
+        #Option     "EnableDepthMoves"   	# [<bool>]
+        #Option     "EnablePageFlip"     	# [<bool>]
+        #Option     "NoBackBuffer"       	# [<bool>]
+        #Option     "DRIReinit"          	# [<bool>]
+        #Option     "PanelOff"           	# [<bool>]
+        #Option     "DDCMode"            	# [<bool>]
+        #Option     "MonitorLayout"      	# [<str>]
+        #Option     "IgnoreEDID"         	# [<bool>]
+        #Option     "UseFBDev"           	# [<bool>]
+        #Option     "VideoKey"           	# <i>
+        #Option     "MergedFB"           	# [<bool>]
+        #Option     "CRT2HSync"          	# [<str>]
+        #Option     "CRT2VRefresh"       	# [<str>]
+        #Option     "CRT2Position"       	# [<str>]
+        #Option     "MetaModes"          	# [<str>]
+        #Option     "MergedDPI"          	# [<str>]
+        #Option     "NoMergedXinerama"   	# [<bool>]
+        #Option     "MergedXineramaCRT2IsScreen0" 	# [<bool>]
+        #Option     "DisplayPriority"    	# [<str>]
+        #Option     "PanelSize"          	# [<str>]
+        #Option     "ForceMinDotClock"   	# <freq>
+        #Option     "RenderAccel"        	# [<bool>]
+        #Option     "SubPixelOrder"      	# [<str>]
+        #Option     "ShowCache"          	# [<bool>]
+        #Option     "DynamicClocks"      	# [<bool>]
+        #Option     "VGAAccess"          	# [<bool>]
+        #Option     "LVDSProbePLL"       	# [<bool>]
+        #Option     "ReverseDDC"         	# [<bool>]
+        #Option     "BIOSHotkeys"        	# [<bool>]
+	Identifier  "Card0"
+	Driver      "ati"
+	VendorName  "ATI Technologies Inc"
+	BoardName   "Unknown Board"
+	BusID       "PCI:1:0:0"
+EndSection
+
+Section "Screen"
+	Identifier "Screen0"
+	Device     "Card0"
+	Monitor    "Monitor0"
+	SubSection "Display"
+		Viewport   0 0
+		Depth     1
+	EndSubSection
+	SubSection "Display"
+		Viewport   0 0
+		Depth     4
+	EndSubSection
+	SubSection "Display"
+		Viewport   0 0
+		Depth     8
+	EndSubSection
+	SubSection "Display"
+		Viewport   0 0
+		Depth     15
+	EndSubSection
+	SubSection "Display"
+		Viewport   0 0
+		Depth     16
+	EndSubSection
+	SubSection "Display"
+		Viewport   0 0
+		Depth     24
+	EndSubSection
+EndSection
+

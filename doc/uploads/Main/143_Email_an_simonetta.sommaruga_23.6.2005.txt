@@ -1,0 +1,78 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 6537 invoked by uid 74); 23 Jun 2005 12:01:30 -0000
+Received: from zdavatz@ywesee.com by debian by uid 71 with qmail-scanner-1.15 
+ (clamscan: 0.54.  Clear:. 
+ Processed in 1.049407 secs); 23 Jun 2005 12:01:30 -0000
+Received: from 217-162-177-109.dclient.hispeed.ch (HELO zrr.local) (217.162.177.109)
+  by 0 with SMTP; 23 Jun 2005 12:01:29 -0000
+Date: Thu, 23 Jun 2005 14:01:51 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Simonetta Sommaruga <simonetta.sommaruga@parl.ch>
+Cc: weko@weko.admin.ch, Hunkeler <Josef.Hunkeler@pue.admin.ch>,
+ info@bag.admin.ch, rudolf.strahm@pue.admin.ch <rudolf.strahm@pue.admin.ch>,
+ Stefano Dozio <stefano.dozio@weko.admin.ch>, todo@oddb.org <todo@oddb.org>
+Subject: Gesundheitskarte in Schweizer Gesundheitswesen!
+Message-ID: <20050623140151.48ed518b@zrr.local>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Frau Sommaruga
+
+Gemäss dem BAG wird die Gesundheitskarte für das Schweizerische Gesundheitswesen
+kommen http://www.bag.admin.ch/dienste/medien/2005/d/05062226.htm
+
+Ich möchte gerne darauf hinweisen, dass das Parlament bei der Standardfestlegung
+und der Schnittstellendefinition der Gesundheitskarte unbedingt auf offene
+Standards achten muss:
+http://perens.com/OpenStandards/Definition.html
+http://www.w3.org/Consortium/
+
+Nur so kann eine faire Ausgangslage für alle interessierten Parteien geschaffen
+werden - nicht zuletzt auch zum Schutze des Patienten.
+
+Wir haben im CH-Gesundheitswesen genügend proprietäre Schnittstellen, welche zu
+kompletten Wettbewerbsverzerrungen und Ineffizienzen führen. Einige Beispiele
+sind:
+
+* Tarmed, wird nur auf Windows entwickelt und wurde nicht von Anfang an auf
+offene Standards ausgerichtet. Schnittstellen sind zu Microsoftlastig und
+ermöglichen sehr leicht einen Vendor-Lock-In.
+
+* Galdat, kontrolliert zur Zeit 99% der Medikamentendaten im CH-Gesundheitswesen
+und hat zu lange Zeit Konkurrenz im Medipreisvergleich,
+Medikamentenversandhandel, Publikation von Fach- und Patienteninformation
+verhindert und hält die CH-Gesundheitskosten nach wie vor künstlich hoch.
+
+* Trustcenters, die Trustcenters der Ärzte beruhen allesamt nicht auf offenen
+Schnittstellen, die FMH ist an allen wesentlichen Softwareentwicklungen direkt
+beteiligt und kontrolliert diese. Gerade bei der Trustcentersoftware würde sich
+eine offene Schnittstellendefinition sehr lohnen da dann noch effizienter
+abgerechnet werden kann.
+
+Überhaupt muss das CH-Gesundheitswesen - wenn wir wirklich kosten Sparen wollen
+- direkt über offene Schnittstellen in einander verzahnt werden und wird
+_niemals_ nur auf einem Standard beruhen. Erfahrungen mit grossen proprietären
+Standards sind dieselben wie mit Dinosaurieren; sie sind zu schwerfällig und sie
+sterben aus. IBM hat diese Erfahrung gemacht, Microsoft macht diese Erfahrung
+jetzt auch - falls es sie interessiert:
+http://blogs.siliconvalley.com/gmsv/2005/06/an_interview_wi.html
+
+Mit freundlichen Grüssen aus Zürich
+Zeno Davatz
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1503676356
+host=212.51.146.241
+name=Generikacc.Privacy
+rev=3
+targets=
+text=!Privacy Policy Generika.cc App%0a%0a* Generika.cc App stores all data on your local machine.%0a* Generika.cc App does not collect any user data.%0a* Generika.cc App does not store any user data in the cloud.%0a%0a
+time=1503676380
+author:1503676380=zeno
+diff:1503676380:1503676367:=3c3%0a%3c * Generika.cc App stores all data on your local machine.%0a---%0a> * Generika.cc App stores all data on your local machine (Favorites, Database, Interactions).%0a
+host:1503676380=212.51.146.241
+author:1503676367=zeno
+diff:1503676367:1503676356:=3,5c3,5%0a%3c * Generika.cc App stores all data on your local machine (Favorites, Database, Interactions).%0a%3c * Generika.cc App does not collect any user data.%0a%3c * Generika.cc App does not store any user data in the cloud.%0a---%0a> Generika.cc App stores all data on your local machine (Favorites, Database, Interactions).%0a> Generika.cc App does not collect any user data.%0a> Generika.cc App does not store any user data in the cloud.%0a
+host:1503676367=212.51.146.241
+author:1503676356=zeno
+diff:1503676356:1503676356:=1,6d0%0a%3c !Privacy Policy Generika.cc App%0a%3c %0a%3c Generika.cc App stores all data on your local machine (Favorites, Database, Interactions).%0a%3c Generika.cc App does not collect any user data.%0a%3c Generika.cc App does not store any user data in the cloud.%0a%3c %0a
+host:1503676356=212.51.146.241

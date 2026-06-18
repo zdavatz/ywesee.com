@@ -1,0 +1,1199 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 13615 invoked by uid 210); 8 Sep 2005 12:46:44 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/1069. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.625241 secs); 08 Sep 2005 10:46:44 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 8 Sep 2005 12:46:43 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id 9A3FE15A4CA; Thu,  8 Sep 2005 12:38:21 +0200 (CEST)
+Date: Thu, 8 Sep 2005 12:38:21 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: ODDB <swissmedic@oddb.org>, ODDB <pharmafirma@oddb.org>,
+	GenerikaCC <news@generika.cc>, ODDB <svkh@oddb.org>,
+	ywesee <softwarehaeuser@ywesee.com>, krankenkasse@oddb.org,
+	medien@generika.cc, todo@oddb.org
+Subject: Pharmacode vs EAN-Code
+Message-ID: <20050908103821.GE7285@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrte Damen und Herren
+
+Unsere Auseinandersetzung mit der Documed AG und dessen Tochterfirmen
+führt uns in weitere Gebiete.
+
+Eines dieser Gebiete ist die SL-Liste, welche fehlerhafte EAN-Codes
+enthält. Wir haben innerhalb von 16 Stunden die Produkte A-D der
+Schweizerischen Spezialitätenliste überprüft und herausgefunden dass 111
+Packungen falsche EAN-Code enthalten (das ist nur A-D!). Der Vergleich
+hat direkt mit den Swissmedic-Journals stattgefunden.
+http://www.ywesee.com/uploads/Main/2005-9.txt
+
+In einem zweiten Schritt haben wir die Spezialitätenliste mit der Medwin.
+ch Datenbank (über den Pharmacode) verglichen und herausgefunden, 
+dass in der Mewin.ch Datenbank 376 mehr korrekte EAN-Codes 
+enthalten sind. Die Differenz zwischen der Medwin.ch Datenbank und der SL-Liste beträgt
+gemäss unseren Berechnungen 376 Packungen.  Besser gesagt enthält die
+SL-Liste 376 unkorrekte EAN-Codes im Vergleich mit der Medwin.ch
+Datenbank.
+
+An dieser Stellen möchten wir sie drauf hinweisen, dass ca. 72% vom
+Medikamentenumsatz in der Schweiz also ca. 3 Milliarden Franken
+kassenpflichtige Medikamente sind (Quelle: Interpharma 2004). Wir
+denken, dass bei solchen Umsätzen mehr Präzision in der offiziellen Stammdatenpflege
+durchaus Sinn macht. Ob es die Fahrlässigkeit der Firma ist, an welche
+das BAG die Stammdatenpflege "ougesourct hat" oder ob es die
+Fahrlässigkeit vom BAG selbst ist oder ein weiterer Grund, können wir 
+nicht sagen. Wir können nur sagen, dass der offizielle Stammdatenexport des Swissmedic-Codes vom BA
+G korrekt sein muss, 100% korrekt.
+
+Wieso, dass unserer Meinung nach der EAN-Code geeigneter ist als der
+Pharmacode für die eindeutige Stammdatenpflege finden Sie hier:
+http://www.ywesee.com/pmwiki.php?n3DMain.PharmacodeVsEancode
+
+Anbei die Liste der unterschiedlichen Produkte zwischen Medwin.ch und
+dem BSV-Excel von Galinfo.net. Die Medwin Angaben sind unserer Meinung
+nach die korrekten (weil die 3-stellige Packungsnummer (die letzen drei
+Ziffern) jeweils grösser ist im Vergleich zum BSV-Excel).
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Medwin-Differences:             376
+3TC Sol. 10 mg/ml 240 ml Sol. int. 10 mg/ml
+Medwin: 53663036 <-> BSV-XLS: 53663028
+
+Acemucol Sach. 100 mg 30 Sach. 100 mg
+Medwin: 50121046 <-> BSV-XLS: 50121011
+
+Acemucol Sach. 200 mg 30 Sach. 200 mg
+Medwin: 50121054 <-> BSV-XLS: 50121038
+
+Aesculamed Forte Compr. 50 mg 50 Compr. 50 mg
+Medwin: 57360011 <-> BSV-XLS: 57364011
+
+Agenerase Sol. 15 mg/1ml 240 ml Sol. 15 mg/ml
+Medwin: 55073002 <-> BSV-XLS: 55073000
+
+AlfarE9 Pulv. 400 g Pulv.
+Medwin: 44616033 <-> BSV-XLS: 44616025
+
+Alkeran Compr. 2 mg 25 Compr. 2 mg
+Medwin: 30897048 <-> BSV-XLS: 30897013
+
+Allergodil Spray 0.14 mg/Dosis 10 ml Spray (71 Dosen 0,14 mg pro dosi)
+Medwin: 51257022 <-> BSV-XLS: 51257014
+
+Alucol Gel 375 mg/5ml 130 ml Gel (375+175 mg/5 ml)
+Medwin: 36355107 <-> BSV-XLS: 36355018
+
+Alucol Gel 375 mg/5ml 500 ml Gel (375+175 mg/5 ml)
+Medwin: 36355115 <-> BSV-XLS: 36355026
+
+Amiodarone Winthrop Obd. 200 mg 20 Obd. 200 mg
+Medwin: 53114067 <-> BSV-XLS: 53114032
+
+Amiodarone Winthrop Obd. 200 mg 60 Obd. 200 mg
+Medwin: 53114075 <-> BSV-XLS: 53114040
+
+Andriol Testocaps Testocaps 40 mg 60 Testocaps 40 mg
+Medwin: 42028029 <-> BSV-XLS: 42028010
+
+Aranesp Sureclick Amp. 100 mcg 1 Amp. ad iniect. parat. 100 mcg
+Medwin: 57470017 <-> BSV-XLS: 55725036
+
+Aranesp Sureclick Amp. 150 mcg 1 Amp. ad iniect. parat. 150 mcg
+Medwin: 57470019 <-> BSV-XLS: 55725040
+
+Aranesp Sureclick Amp. 20 mcg 1 Amp. ad iniect. parat. 20 mcg
+Medwin: 57470005 <-> BSV-XLS: 55725012
+
+Aranesp Sureclick Amp. 300 mcg 1 Amp. ad iniect. parat. 300 mcg
+Medwin: 57470021 <-> BSV-XLS: 55725042
+
+Aranesp Sureclick Amp. 40 mcg 1 Amp. ad iniect. parat. 40 mcg
+Medwin: 57470009 <-> BSV-XLS: 55725020
+
+Aranesp Sureclick Amp. 500 mcg 1 Amp. ad iniect. parat. 500 mcg
+Medwin: 57470023 <-> BSV-XLS: 55725046
+
+Aranesp Sureclick Amp. 60 mcg 1 Amp. ad iniect. parat. 60 mcg
+Medwin: 57470013 <-> BSV-XLS: 55725028
+
+Aranesp Sureclick Amp. 80 mcg 1 Amp. ad iniect. parat. 80 mcg
+Medwin: 57470015 <-> BSV-XLS: 55725032
+
+Arava Filmtabs 10 mg 100 Filmtabs 10 mg
+Medwin: 54834020 <-> BSV-XLS: 54834029
+
+Asasantin Caps. 200 mg 100 Caps. retard (200+25 mg)
+Medwin: 54262051 <-> BSV-XLS: 54262035
+
+Asasantin Caps. 200 mg 30 Caps. retard (200+25 mg)
+Medwin: 54262043 <-> BSV-XLS: 54262019
+
+AspE9gic Forte Sach. 1000 mg 20 Sach. 1000 mg
+Medwin: 38133101 <-> BSV-XLS: 38133047
+
+Atenolol Sandoz Filmtabs 100 mg 100 Filmtabs 100 mg
+Medwin: 50651142 <-> BSV-XLS: 50651061
+
+Atenolol Sandoz Filmtabs 100 mg 14 Filmtabs 100 mg
+Medwin: 50651126 <-> BSV-XLS: 50651045
+
+Atenolol Sandoz Filmtabs 100 mg 30 Filmtabs 100 mg
+Medwin: 50651134 <-> BSV-XLS: 50651053
+
+Atenolol Sandoz Filmtabs 50 mg 100 Filmtabs 50 mg
+Medwin: 50651118 <-> BSV-XLS: 50651037
+
+Atenolol Sandoz Filmtabs 50 mg 14 Filmtabs 50 mg
+Medwin: 50651088 <-> BSV-XLS: 50651010
+
+Atenolol Sandoz Filmtabs 50 mg 30 Filmtabs 50 mg
+Medwin: 50651096 <-> BSV-XLS: 50651029
+
+Augmentin Duo Susp. 80 mg/ml 140 ml Susp. (80+11 mg/ml)
+Medwin: 53974066 <-> BSV-XLS: 53974023
+
+Augmentin Duo Susp. 80 mg/ml 35 ml Susp. (80+11 mg/ml)
+Medwin: 53974074 <-> BSV-XLS: 53974031
+
+Augmentin Duo Susp. 80 mg/ml 70 ml Susp. (80+11 mg/ml)
+Medwin: 53974058 <-> BSV-XLS: 53974015
+
+Augmentin Trio Guttae 50 mg/ml 20 ml Guttae pro infant. (50+12,5 mg/ml)
+Medwin: 46207033 <-> BSV-XLS: 46207025
+
+Augmentin Trio Susp. 25 mg/ml 100 ml Susp. pro infant. (25+6,25 mg/ml)
+Medwin: 45673030 <-> BSV-XLS: 45673014
+
+Augmentin Trio Susp. 50 mg/ml 100 ml Susp. pro infant. forte (50+12,5
+mg/ml)
+Medwin: 45673049 <-> BSV-XLS: 45673022
+
+Axotide Aerosol 50 mcg/Dosis 120 Dosen Dosieraerosol (50 mcg pro dosi)
+Medwin: 54306032 <-> BSV-XLS: 52224012
+
+Balmed Hermal F Liquid. 46.45 % 200 ml Liquid. (46,45+47%)
+Medwin: 41476087 <-> BSV-XLS: 41476060
+
+Balmed Hermal F Liquid. 46.45 % 500 ml Liquid. (46,45+47%)
+Medwin: 41476079 <-> BSV-XLS: 41476052
+
+Balmed Hermal Liquid. 85 % 200 ml Liquid. 85%
+Medwin: 29448086 <-> BSV-XLS: 29448051
+
+Balmed Hermal Liquid. 85 % 500 ml Liquid. 85%
+Medwin: 29448078 <-> BSV-XLS: 29448043
+
+Balmed Hermal Plus Liquid. 82.95 % 200 ml Liquid. (82,95+15%)
+Medwin: 48787096 <-> BSV-XLS: 48787053
+
+Balmed Hermal Plus Liquid. 82.95 % 500 ml Liquid. (82,95+15%)
+Medwin: 48787118 <-> BSV-XLS: 48787037
+
+Betaferon Amp. 8 Mio E 15 Amp. 8 Mio I.E.
+Medwin: 53225039 <-> BSV-XLS: 53225012
+
+Blopress Compr. 8 mg 28 Compr. 8 mg
+Medwin: 54260105 <-> BSV-XLS: 54260024
+
+Blopress Compr. 8 mg 56 Compr. 8 mg
+Medwin: 54260113 <-> BSV-XLS: 54260032
+
+Blopress Compr. 8 mg 98 Compr. 8 mg
+Medwin: 54260121 <-> BSV-XLS: 54260040
+
+Bonefos Amp. 300 mg 5 Amp. 300 mg
+Medwin: 50958020 <-> BSV-XLS: 50958019
+
+Boostrix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00637001 <-> BSV-XLS:      637
+
+Boostrix Polio Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00681001 <-> BSV-XLS:      681
+
+Brufen Filmtabs 600 mg 20 Filmtabs 600 mg
+Medwin: 45031047 <-> BSV-XLS: 45031012
+
+Calcium-Sandoz D3f/ff Sach. 1000 mg 30 Sach. ff (1000 mg+880 I.E.)
+Medwin: 53628079 <-> BSV-XLS: 53628044
+
+Calcium-Sandoz D3f/ff Sach. 1000 mg 90 Sach. ff (1000 mg+880 I.E.)
+Medwin: 53628109 <-> BSV-XLS: 53628052
+
+Calcium-Sandoz D3f/ff Sach. 500 mg 30 Sach. f (500 mg+440 I.E.)
+Medwin: 53628060 <-> BSV-XLS: 53628028
+
+Calcium-Sandoz D3f/ff Sach. 500 mg 90 Sach. f (500 mg+440 I.E.)
+Medwin: 53628095 <-> BSV-XLS: 53628036
+
+Carbaderm CrE8me 10 % 100 ml CrE8me 10%
+Medwin: 40333037 <-> BSV-XLS: 40333010
+
+Carnitene Sol. 1 g 10 x 10 ml Sol. pot. 1 g
+Medwin: 48508022 <-> BSV-XLS: 48508014
+
+Ceftriaxon-Biochemie Amp. 1 g 1 Amp. 1 g
+Medwin: 55682005 <-> BSV-XLS: 55682029
+
+Cellufluid Guttae 0.5 % 10 ml Guttae 0,5%
+Medwin: 55345008 <-> BSV-XLS: 55345002
+
+Choriomon Amp. 5000 IE 3 Amp. 5000 I.E.
+Medwin: 33524137 <-> BSV-XLS: 33524080
+
+Clamoxyl Sirup. 25 mg/ml 80 ml Sirup. 25 mg/ml
+Medwin: 37848034 <-> BSV-XLS: 37848018
+
+Clamoxyl Sirup. 50 mg/ml 80 ml Sirup. 50 mg/ml
+Medwin: 37848042 <-> BSV-XLS: 37848026
+
+Clotrimazol Helvepharm CrE8me 1 % 20 g CrE8me 1%
+Medwin: 51642031 <-> BSV-XLS: 51642015
+
+Clotrimazol Helvepharm CrE8me 1 % 50 g CrE8me 1%
+Medwin: 51642058 <-> BSV-XLS: 51642023
+
+Co-Enalapril Sandoz Compr. 20 mg 28 Compr. (20+12,5 mg)
+Medwin: 56647006 <-> BSV-XLS: 56647002
+
+Co-Enalapril Sandoz Compr. 20 mg 98 Compr. (20+12,5 mg)
+Medwin: 56647008 <-> BSV-XLS: 56647004
+
+Convulex Caps. 150 mg 100 Caps. 150 mg
+Medwin: 40410058 <-> BSV-XLS: 40410015
+
+Convulex Caps. 300 mg 100 Caps. 300 mg
+Medwin: 40410066 <-> BSV-XLS: 40410023
+
+Convulex Caps. 500 mg 60 Caps. 500 mg
+Medwin: 40410074 <-> BSV-XLS: 40410031
+
+Convulex Sirup. 50 mg/ml 300 ml Sirup. 50 mg/ml
+Medwin: 43615025 <-> BSV-XLS: 43615017
+
+Copegus Filmtabs 200 112 Filmtabs 200 mg
+Medwin: 56001008 <-> BSV-XLS: 56001006
+
+Copegus Filmtabs 200 168 Filmtabs 200 mg
+Medwin: 56001006 <-> BSV-XLS: 56001004
+
+Coridil Compr. 90 mg 100 Compr. retard 90 mg
+Medwin: 49381050 <-> BSV-XLS: 49381026
+
+Coridil Compr. 90 mg 20 Compr. retard 90 mg
+Medwin: 49381042 <-> BSV-XLS: 49381034
+
+Dafalgan Sach. 150 mg 12 Sach. pro infant. 150 mg
+Medwin: 51231058 <-> BSV-XLS: 51231023
+
+Demetrin Compr. 10 mg 20 Compr. 10 mg
+Medwin: 39416034 <-> BSV-XLS: 39416018
+
+Demetrin Compr. 10 mg 50 Compr. 10 mg
+Medwin: 39416042 <-> BSV-XLS: 39416026
+
+Demetrin Compr. 20 mg 20 Compr. 20 mg
+Medwin: 39416050 <-> BSV-XLS: 39416034
+
+Demetrin Compr. 20 mg 50 Compr. 20 mg
+Medwin: 39416069 <-> BSV-XLS: 39416042
+
+Desomedine Guttae 0.1 % 10 ml Guttae 0,1%
+Medwin: 53037011 <-> BSV-XLS: 28111045
+
+Dexalocal-F CrE8me 0.1 % 20 g CrE8me (0,1+0,5%)
+Medwin: 36231025 <-> BSV-XLS: 36231017
+
+Didronel Compr. 200 mg 60 Compr. 200 mg
+Medwin: 42599032 <-> BSV-XLS: 42599018
+
+Ditanrix Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin: 00567001 <-> BSV-XLS:   567010
+
+Echinamed Compr. 380 mg 400 Compr. (380+20 mg)
+Medwin: 54825021 <-> BSV-XLS: 54825000
+
+Ecomucyl Gran. 600 mg 10 Sach. Gran. 600 mg
+Medwin: 47920043 <-> BSV-XLS: 47920035
+
+Ecoprofen Filmtabs 400 mg 100 Filmtabs 400 mg
+Medwin: 48164099 <-> BSV-XLS: 48164056
+
+Ecoprofen Filmtabs 400 mg 20 Filmtabs 400 mg
+Medwin: 48164080 <-> BSV-XLS: 48164048
+
+Ecovent Easyhaler Pulverinhal. 200 mcg 200 Dosen Pulv. 200 mcg
+Medwin: 53190049 <-> BSV-XLS: 53190022
+
+Eldisine Amp. 5 mg 1 Amp. 5 mg
+Medwin: 42863025 <-> BSV-XLS: 42863017
+
+Elpradil Compr. 10 mg 98 Compr. mite 10 mg
+Medwin: 55866005 <-> BSV-XLS: 55866003
+
+Emtriva Caps. 200 mg 30 Caps. 200 mg
+Medwin: 56880003 <-> BSV-XLS: 56880001
+
+Enalapril Sandoz Compr. 10 mg 100 Compr. mite 10 mg
+Medwin: 56111012 <-> BSV-XLS: 56111008
+
+Enalapril Sandoz Compr. 10 mg 30 Compr. mite 10 mg
+Medwin: 56111010 <-> BSV-XLS: 56111006
+
+Enalapril Sandoz Compr. 20 mg 100 Compr. 20 mg
+Medwin: 56111016 <-> BSV-XLS: 56111004
+
+Enalapril Sandoz Compr. 20 mg 30 Compr. 20 mg
+Medwin: 56111014 <-> BSV-XLS: 56111002
+
+Encepur N/Encepur N Kinder Amp. 0.25 ml 1 Amp. ad iniect. parat. 0,25 ml
+Medwin: 00628001 <-> BSV-XLS:      628
+
+Encepur N/Encepur N Kinder Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin: 00627001 <-> BSV-XLS:      627
+
+Endobulin S/D Amp. 10 g 1 Amp. 10 g
+Medwin: 00464005 <-> BSV-XLS:      464
+
+Endobulin S/D Amp. 2.5 g 1 Amp. 2,5 g
+Medwin: 00464003 <-> BSV-XLS:      464
+
+Endobulin S/D Amp. 5 g 1 Amp. 5 g
+Medwin: 00464004 <-> BSV-XLS:      464
+
+Engerix-B 10 Amp. 1 Amp. ad iniect. parat. pro infant.
+Medwin: 90055102 <-> BSV-XLS:      551
+
+Engerix-B 20 Amp. 1 Amp. ad iniect. parat.
+Medwin: 00534001 <-> BSV-XLS:      534
+
+Eprex Amp. 1000 E/0.5ml 6 Amp. ad iniect. parat. 0,5 ml 1'000 I.E.
+Medwin: 49078242 <-> BSV-XLS: 49078129
+
+Eprex Amp. 10000 E/ml 6 Amp. 1 ml 10'000 I.E.
+Medwin: 49078315 <-> BSV-XLS: 49078226
+
+Eprex Amp. 10000 E/ml 6 Amp. ad iniect. parat. 1 ml 10'000 I.E.
+Medwin: 49078285 <-> BSV-XLS: 49078161
+
+Eprex Amp. 2000 E/0.5ml 6 Amp. ad iniect. parat. 0,5 ml 2'000 I.E.
+Medwin: 49078250 <-> BSV-XLS: 49078137
+
+Eprex Amp. 20000 IE 1 Amp. ad iniect. parat. 0,5 ml 20'000 I.E.
+Medwin: 49078579 <-> BSV-XLS: 49078679
+
+Eprex Amp. 4000 E/0.4ml 6 Amp. ad iniect. parat. 0,4 ml 4'000 I.E.
+Medwin: 49078277 <-> BSV-XLS: 49078153
+
+Eprex Amp. 4000 E/ml 6 Amp. 1 ml 4'000 I.E.
+Medwin: 49078307 <-> BSV-XLS: 49078218
+
+Etoposide Pfizer Amp. 100 mg 10 Amp. 100 mg
+Medwin: 53639046 <-> BSV-XLS: 53639382
+
+FSME Immun CC Amp. 2.4 mcg 1 Amp. ad iniect. parat. 0,5 ml 2,4 mcg
+Medwin: 00450001 <-> BSV-XLS:      450
+
+FSME Immun Junior Amp. 1.19 mcg 1 Amp. ad iniect. parat. 0,25 ml 1,19
+mcg
+Medwin: 00683001 <-> BSV-XLS:      450
+
+Fem7 System TTS 25 12 Systeme TTS 25
+Medwin: 53855075 <-> BSV-XLS: 53855040
+
+Femoston Compr. 2 mg 14 Compr. 2 mg + 14 Compr. (2+10 mg)
+Medwin: 53128033 <-> BSV-XLS: 53128017
+
+Fibrolan Ungt. 1 E 30 g Ungt. (1+666 E./u.)
+Medwin: 28557027 <-> BSV-XLS: 28557019
+
+Flector Compr. 100 mg 10 Compr. retard 100 mg
+Medwin: 51094042 <-> BSV-XLS: 51094018
+
+Flector Compr. 100 mg 100 Compr. retard 100 mg
+Medwin: 51094069 <-> BSV-XLS: 51094034
+
+Flector Compr. 100 mg 30 Compr. retard 100 mg
+Medwin: 51094050 <-> BSV-XLS: 51094026
+
+Flector Compr. 50 mg 20 Compr. 50 mg
+Medwin: 51093054 <-> BSV-XLS: 51093011
+
+Flector Compr. 50 mg 50 Compr. 50 mg
+Medwin: 51093062 <-> BSV-XLS: 51093046
+
+Florosan eco natura Caps. 250 mg 10 Caps. 250 mg
+Medwin: 55836001 <-> BSV-XLS: 55836000
+
+Florosan eco natura Caps. 250 mg 20 Caps. 250 mg
+Medwin: 55836002 <-> BSV-XLS: 55836000
+
+Fluarix Amp. 1 Amp.
+Medwin: 00583041 <-> BSV-XLS:      583
+
+Fluoxetin Sandoz Caps. 20 mg 100 Caps. 20 mg
+Medwin: 54492103 <-> BSV-XLS: 54492065
+
+Fluoxetin Sandoz Caps. 20 mg 14 Caps. 20 mg
+Medwin: 54492073 <-> BSV-XLS: 54492049
+
+Fluoxetin Sandoz Caps. 20 mg 30 Caps. 20 mg
+Medwin: 54492081 <-> BSV-XLS: 54492057
+
+Fostimon Amp. 150 IE 10 Amp. i.m.,s.c. 150 U.I.
+Medwin: 52974097 <-> BSV-XLS: 52974054
+
+Fostimon Amp. 75 IE 1 Amp. i.m.,s.c. 75 U.I.
+Medwin: 52974062 <-> BSV-XLS: 52974011
+
+Gen H-B Vax Amp. 10 mcg 1 Amp. pro adult. 10 mcg
+Medwin: 90052811 <-> BSV-XLS:      528
+
+Gen H-B Vax Dialyse Amp. 40 mcg 1 Amp. 40 mcg
+Medwin: 00545001 <-> BSV-XLS:      545
+
+Glucose 5% - NaCl 0,9% Amp. 0.9 % 1000 ml (0,9+5%)
+Medwin: 29551251 <-> BSV-XLS: 29551030
+
+Glucose 5% - NaCl 0,9% Amp. 0.9 % 500 ml (0,9+5%)
+Medwin: 29551243 <-> BSV-XLS: 29551022
+
+Glucose Infus. 5 % 1000 ml 5%
+Medwin: 29550859 <-> BSV-XLS: 29550034
+
+Grodurex Compr. 5 mg 100 Compr. (5+50 mg)
+Medwin: 48421059 <-> BSV-XLS: 48421024
+
+Grodurex Compr. 5 mg 20 Compr. (5+50 mg)
+Medwin: 48421040 <-> BSV-XLS: 48421032
+
+Gyno-Canesten 1 Compr. vagin. 500 mg 1 Compr. vagin. c. Appl. 500 mg
+Medwin: 37512095 <-> BSV-XLS: 37512052
+
+Gyno-Canesten Compr. vagin. 100 mg 6 Compr. vagin. 100 mg
+Medwin: 37512060 <-> BSV-XLS: 37512028
+
+Gyno-Canesten Compr. vagin. 200 mg 3 Compr. vagin. 200 mg
+Medwin: 37512087 <-> BSV-XLS: 37512044
+
+Gyno-Canesten-3 CrE8me 2 % 20 g CrE8me 2%
+Medwin: 43401025 <-> BSV-XLS: 43401017
+
+HB Vax Pro 10 Amp. 10 mcg 1 Amp. pro adult. 10 mcg
+Medwin: 00663001 <-> BSV-XLS:      663
+
+HB Vax Pro 5 Amp. 5 mcg 1 Amp. pro infant. 5 mcg
+Medwin: 00662001 <-> BSV-XLS:      662
+
+HN 25 Gran. 250 g Gran.
+Medwin: 39861038 <-> BSV-XLS: 39861011
+
+Heparinol Ungt. 200 E/g 30 g Ungt. (200 I.E./u.i./g+0,1%)
+Medwin: 23602075 <-> BSV-XLS: 23602016
+
+Hepasol Lipogel 600 E/g 100 g Lipogel 600 I.E./g
+Medwin: 55948015 <-> BSV-XLS: 55948003
+
+Hepasol Lipogel 600 E/g 50 g Lipogel 600 I.E./g
+Medwin: 55948009 <-> BSV-XLS: 55948001
+
+Heprecomb Berna Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin: 00544002 <-> BSV-XLS:      544
+
+Hexavac Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 90064401 <-> BSV-XLS:      644
+
+Hiberix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00603001 <-> BSV-XLS:      603
+
+Huminsulin Basal Amp. 100 E/ml 1 Amp. 10 ml 100 I.E./ml
+Medwin: 45262030 <-> BSV-XLS: 45262022
+
+Huminsulin Basal Amp. 100 E/ml 5 Amp. 3 ml 100 I.E./ml
+Medwin: 51750039 <-> BSV-XLS: 51750020
+
+Huminsulin Basal Amp. 100 E/ml 5 Amp. ad iniect. parat. (Huminsulinpen)
+3 ml 100 I.E./ml
+Medwin: 54337027 <-> BSV-XLS: 54337019
+
+Huminsulin Normal Amp. 100 E/ml 1 Amp. 10 ml 100 I.E./ml
+Medwin: 45263037 <-> BSV-XLS: 45263029
+
+Huminsulin Profil III Amp. 100 E/ml 1 Amp. 10 ml 100 I.E./ml
+Medwin: 48654045 <-> BSV-XLS: 48654037
+
+Huminsulin Profil III Amp. 100 E/ml 5 Amp. 3 ml 100 I.E./ml
+Medwin: 51753046 <-> BSV-XLS: 51753038
+
+Ilomedin 20/50 i.v. Amp. 1 Amp. i.v. 50 mcg/2,5 ml
+Medwin: 50064093 <-> BSV-XLS: 50064077
+
+Imagopaque Vitr. 300 mg/ml 1 Vitr. 20 ml (658 mg 3D 300 mg)
+Medwin: 51242327 <-> BSV-XLS: 51242718
+
+Imigran Nasenspray 10 mg/2Dos 1 Nasenspray (2 Dosen 10 mg)
+Medwin: 53708013 <-> BSV-XLS: 53708001
+
+Immunate SD Amp. 1000 IE 1 Amp. 1000 I.E.
+Medwin: 52715032 <-> BSV-XLS: 52716032
+
+Immunate SD Amp. 500 IE 1 Amp. 500 I.E.
+Medwin: 52715024 <-> BSV-XLS: 52716024
+
+Immunine STIM Plus Amp. 1200 IE 1 Amp. 1200 I.E.
+Medwin: 52474043 <-> BSV-XLS: 52474027
+
+Immunine STIM Plus Amp. 600 IE 1 Amp. 600 I.E.
+Medwin: 52474035 <-> BSV-XLS: 52474019
+
+Infanrix DTPA-IPV Amp. 0.5 ml 1 Amp. 0.5 ml
+Medwin: 90063801 <-> BSV-XLS:      638
+
+Infanrix DTPa-IPV+Hib Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 90061901 <-> BSV-XLS:      619
+
+Infanrix Hexa Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00640001 <-> BSV-XLS:      640
+
+Inflexal Berna V Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00614051 <-> BSV-XLS:      614
+
+Influvac Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00485051 <-> BSV-XLS:      485
+
+Influvac Plus Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin: 00660051 <-> BSV-XLS:      660
+
+Insuman Basal U-100 OptiSet 100 E/ml 4 Opti-Set 3 ml 100 I.E./ml
+Medwin: 55708001 <-> BSV-XLS: 57708001
+
+Insuman Comb 25 U-100 OptiSet 100 E/ml 4 Opti-Set 3 ml 100 I.E./ml
+Medwin: 55706001 <-> BSV-XLS: 57706001
+
+Insuman Infusat Inject. 100 E/ml 5 Kart. 3,15 ml 100 I.E./ml
+Medwin: 53965016 <-> BSV-XLS: 47727014
+
+Ipeca Sirup. 0.0088 % 200 ml Sirup.
+Medwin: 12307020 <-> BSV-XLS: 12307012
+
+Isotretinoin-Mepha Caps. 10 mg 100 Solucaps. 10 mg
+Medwin: 55972011 <-> BSV-XLS: 55972003
+
+Isotretinoin-Mepha Caps. 10 mg 30 Solucaps. 10 mg
+Medwin: 55972009 <-> BSV-XLS: 55972001
+
+Isotretinoin-Mepha Caps. 20 mg 100 Solucaps. 20 mg
+Medwin: 55972015 <-> BSV-XLS: 55972007
+
+Isotretinoin-Mepha Caps. 20 mg 30 Solucaps. 20 mg
+Medwin: 55972013 <-> BSV-XLS: 55972005
+
+Kamillex Liquid. 100 ml Liquid.
+Medwin: 40231080 <-> BSV-XLS: 40231013
+
+Kamillin Medipharm Konzentrat Sol. 1.7 mg/ml 100 ml Sol. (1,7+0,5 mg/ml)
+Medwin: 33752024 <-> BSV-XLS: 33752083
+
+Keppra Filmtabs 500 mg 100 Filmtabs 500 mg
+Medwin: 55297062 <-> BSV-XLS: 55297022
+
+Keppra Filmtabs 500 mg 20 Filmtabs 500 mg
+Medwin: 55297056 <-> BSV-XLS: 55297014
+
+Keppra Filmtabs 500 mg 200 Filmtabs 500 mg
+Medwin: 55297068 <-> BSV-XLS: 55297026
+
+Kogenate SF Amp. 1000 IE 1 Amp. 1000 U.I.
+Medwin: 52501164 <-> BSV-XLS: 52501059
+
+Kogenate SF Amp. 250 IE 1 Amp. 250 U.I.
+Medwin: 52501148 <-> BSV-XLS: 52501016
+
+Kogenate SF Amp. 500 IE 1 Amp. 500 U.I.
+Medwin: 52501156 <-> BSV-XLS: 52501032
+
+Kytril Amp. 1 mg 5 Amp. 1 mg
+Medwin: 51198034 <-> BSV-XLS: 51198026
+
+Kytril Amp. 3 mg 5 Amp. 3 mg
+Medwin: 51198042 <-> BSV-XLS: 51198018
+
+Kytril Filmtabs 2 mg 1 Filmtab 2 mg
+Medwin: 52354056 <-> BSV-XLS: 52354064
+
+Lacryvisc SE Monodosen 0.3 % 20 Monodosen 5 ml Gel 0,3%
+Medwin: 54944039 <-> BSV-XLS: 54944012
+
+Lacryvisc SE Monodosen 0.3 % 50 Monodosen 5 ml Gel 0,3%
+Medwin: 54944047 <-> BSV-XLS: 54944020
+
+Leukeran Obd. 2 mg 25 Obd. 2 mg
+Medwin: 23426048 <-> BSV-XLS: 23426013
+
+Linola fett Emulsio 100 g Emulsio
+Medwin: 42408042 <-> BSV-XLS: 42408026
+
+Linola fett Emulsio 40 g Emulsio
+Medwin: 42408034 <-> BSV-XLS: 42408018
+
+Loceryl Liquid. 5 % 5 ml Liquid. 5% + 30 Tupfer + 30 Feilen + 10 Spatel
+Medwin: 51281039 <-> BSV-XLS: 51281012
+
+Lyman 50'000 Gel 500 E/g 100 g Gel
+Medwin: 45563049 <-> BSV-XLS: 45563022
+
+Lyman 50'000 Gel 500 E/g 40 g Gel
+Medwin: 45563030 <-> BSV-XLS: 45563014
+
+M-M-R-Vax II Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00268001 <-> BSV-XLS:      268
+
+M-Retard Helvepharm Compr. 10 mg 30 Compr. retard 10 mg
+Medwin: 53644163 <-> BSV-XLS: 53644015
+
+M-Retard Helvepharm Compr. 10 mg 60 Compr. retard 10 mg
+Medwin: 53644171 <-> BSV-XLS: 53644074
+
+M-Retard Helvepharm Compr. 100 mg 30 Compr. retard 100 mg
+Medwin: 53644236 <-> BSV-XLS: 53644058
+
+M-Retard Helvepharm Compr. 200 mg 30 Compr. retard 200 mg
+Medwin: 53644244 <-> BSV-XLS: 53644066
+
+M-Retard Helvepharm Compr. 30 mg 30 Compr. retard 30 mg
+Medwin: 53644198 <-> BSV-XLS: 53644023
+
+M-Retard Helvepharm Compr. 30 mg 60 Compr. retard 30 mg
+Medwin: 53644201 <-> BSV-XLS: 53644082
+
+M-Retard Helvepharm Compr. 60 mg 30 Compr. retard 60 mg
+Medwin: 53644228 <-> BSV-XLS: 53644031
+
+Maliasin Obd. 25 mg 100 Obd. 25 mg
+Medwin: 31862086 <-> BSV-XLS: 31862051
+
+Maliasin Obd. 25 mg 50 Obd. 25 mg
+Medwin: 31862027 <-> BSV-XLS: 31862019
+
+Mediaven Compr. 10 mg 100 Compr. 10 mg
+Medwin: 37979104 <-> BSV-XLS: 37979066
+
+Mediaven Compr. 10 mg 30 Compr. 10 mg
+Medwin: 37979082 <-> BSV-XLS: 37979031
+
+Mediaven Compr. 10 mg 60 Compr. 10 mg
+Medwin: 37979090 <-> BSV-XLS: 37979058
+
+Mediaven Compr. 30 mg 30 Compr. forte 30 mg
+Medwin: 37979112 <-> BSV-XLS: 37979074
+
+Mefenaminsäure Sandoz Caps. 250 mg 10 Caps. 250 mg
+Medwin: 55389008 <-> BSV-XLS: 55389002
+
+Mefenaminsäure Sandoz Caps. 250 mg 100 Caps. 250 mg
+Medwin: 55389012 <-> BSV-XLS: 55389006
+
+Mefenaminsäure Sandoz Caps. 250 mg 30 Caps. 250 mg
+Medwin: 55389010 <-> BSV-XLS: 55389004
+
+Mefenaminsäure Sandoz Filmtabs 500 mg 10 Filmtabs 500 mg
+Medwin: 55388007 <-> BSV-XLS: 55388001
+
+Mefenaminsäure Sandoz Filmtabs 500 mg 100 Filmtabs 500 mg
+Medwin: 55388011 <-> BSV-XLS: 55388005
+
+Mefenaminsäure Sandoz Filmtabs 500 mg 30 Filmtabs 500 mg
+Medwin: 55388009 <-> BSV-XLS: 55388003
+
+Mefenaminsäure Sandoz Supp. 125 mg 10 Supp. 125 mg
+Medwin: 55390005 <-> BSV-XLS: 55390001
+
+Mefenaminsäure Sandoz Supp. 500 mg 10 Supp. 500 mg
+Medwin: 55390007 <-> BSV-XLS: 55390003
+
+Mencevax ACWY Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00652001 <-> BSV-XLS: 65200001
+
+Meningitec Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 90065401 <-> BSV-XLS:      654
+
+Menjugate Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00657001 <-> BSV-XLS:      657
+
+Merional Amp. 150 IE 1 Amp. 150 U.I.
+Medwin: 52703089 <-> BSV-XLS: 52703046
+
+Merional Amp. 150 IE 10 Amp. 150 U.I.
+Medwin: 52703097 <-> BSV-XLS: 52703054
+
+Merional Amp. 75 IE 1 Amp. 75 U.I.
+Medwin: 52703062 <-> BSV-XLS: 52703011
+
+Merional Amp. 75 IE 10 Amp. 75 U.I.
+Medwin: 52703070 <-> BSV-XLS: 52703038
+
+Mifegyne Compr. 200 mg 3 Compr. 200 mg
+Medwin: 55205002 <-> BSV-XLS: 55250002
+
+Mimpara Caps. 30 mg 28 Caps. 30 mg
+Medwin: 56965004 <-> BSV-XLS: 56965002
+
+Mimpara Caps. 60 mg 28 Caps. 60 mg
+Medwin: 56965010 <-> BSV-XLS: 56965008
+
+Mimpara Caps. 90 mg 28 Caps. 90 mg
+Medwin: 56965016 <-> BSV-XLS: 56965014
+
+Mixtard 20 HM NovoLet Amp. 100 I.E. / ml 5 Amp. 3 ml 100 IE/ml
+Medwin: 53660010 <-> BSV-XLS: 53600010
+
+Mnesis Compr. 45 mg 30 Compr. 45 mg
+Medwin: 56276003 <-> BSV-XLS: 56276000
+
+MultiHance Vitr. 529 mg 1 Vitr. 15 ml (529 mg 3D 334+195 mg/ml)
+Medwin: 56212002 <-> BSV-XLS: 56212003
+
+MultiHance Vitr. 529 mg 1 Vitr. 20 ml (529 mg 3D 334+195 mg/ml)
+Medwin: 56212003 <-> BSV-XLS: 56212005
+
+Mutagrip Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00373041 <-> BSV-XLS:      373
+
+Myleran Obd. 2 mg 100 Obd. 2 mg
+Medwin: 21712035 <-> BSV-XLS: 21712027
+
+Myoview Vitr. 0.23 mg 2 Vitr. 0,23 mg
+Medwin: 53562014 <-> BSV-XLS: 53653014
+
+Myrtaven Caps. 58 mg 20 Caps. 58 mg
+Medwin: 49506031 <-> BSV-XLS: 49506015
+
+Myrtaven Caps. 58 mg 60 Caps. 58 mg
+Medwin: 49506058 <-> BSV-XLS: 49506023
+
+Neisvac-C Amp. 0.5 ml 1 Amp. ad iniect. parat. 0,5 ml
+Medwin: 00656001 <-> BSV-XLS:      656
+
+Neosporin Guttae 5000 E/ml 5 ml Guttae (5000+1700+25 I.E./u.i./ml)
+Medwin: 33314027 <-> BSV-XLS: 33314019
+
+Neotracin Dispersa Ungt. 0.35 % 4 g Ungt. (0,35%+250 E./u./g)
+Medwin: 57197002 <-> BSV-XLS: 30233018
+
+Nifedicor Caps. 10 mg 100 Caps. 10 mg
+Medwin: 52434025 <-> BSV-XLS: 54666020
+
+Nifedicor Caps. 10 mg 50 Caps. 10 mg
+Medwin: 52434017 <-> BSV-XLS: 54666012
+
+Nifedipin-Mepha Compr. 30 mg 100 Compr. retard 30 mg
+Medwin: 52458099 <-> BSV-XLS: 52458110
+
+Nifedipin-Mepha Compr. 30 mg 30 Compr. retard 30 mg
+Medwin: 52458080 <-> BSV-XLS: 52458102
+
+Nifedipin-Mepha Compr. 60 mg 100 Compr. retard 60 mg
+Medwin: 52458110 <-> BSV-XLS: 52458099
+
+Nifedipin-Mepha Compr. 60 mg 30 Compr. retard 60 mg
+Medwin: 52458102 <-> BSV-XLS: 52458080
+
+Nopil Amp. 400 mg 5 Amp. (400+80 mg)
+Medwin: 46369041 <-> BSV-XLS: 46369017
+
+Norflocin-Mepha 400 Lactabs 400 mg 14 Lactabs 400 mg
+Medwin: 54424051 <-> BSV-XLS: 54424027
+
+Norflocin-Mepha 400 Lactabs 400 mg 42 Lactabs 400 mg
+Medwin: 54424078 <-> BSV-XLS: 54424035
+
+Norflocin-Mepha 400 Lactabs 400 mg 7 Lactabs 400 mg
+Medwin: 54424043 <-> BSV-XLS: 54424019
+
+Octagam Amp. 1 g 1 Amp. 1 g
+Medwin: 90058404 <-> BSV-XLS:      584
+
+Octagam Amp. 10 g 1 Amp. 10 g
+Medwin: 00584003 <-> BSV-XLS:      584
+
+Octagam Amp. 2.5 g 1 Amp. 2,5 g
+Medwin: 00584001 <-> BSV-XLS:      584
+
+Octagam Amp. 5 g 1 Amp. 5 g
+Medwin: 00584002 <-> BSV-XLS:      584
+
+Omeprazol Sandoz Caps. 10 mg 14 Caps. 10 mg
+Medwin: 55874023 <-> BSV-XLS: 55874001
+
+Omeprazol Sandoz Caps. 10 mg 28 Caps. 10 mg
+Medwin: 55874025 <-> BSV-XLS: 55874003
+
+Omeprazol Sandoz Caps. 10 mg 56 Caps. 10 mg
+Medwin: 55874027 <-> BSV-XLS: 55874005
+
+Omeprazol Sandoz Caps. 10 mg 98 Caps. 10 mg
+Medwin: 55874029 <-> BSV-XLS: 55874021
+
+Omeprazol Sandoz Caps. 20 mg 14 Caps. 20 mg
+Medwin: 55874031 <-> BSV-XLS: 55874007
+
+Omeprazol Sandoz Caps. 20 mg 28 Caps. 20 mg
+Medwin: 55874033 <-> BSV-XLS: 55874009
+
+Omeprazol Sandoz Caps. 20 mg 56 Caps. 20 mg
+Medwin: 55874035 <-> BSV-XLS: 55874011
+
+Omeprazol Sandoz Caps. 20 mg 7 Caps. 20 mg
+Medwin: 55874037 <-> BSV-XLS: 55874013
+
+Omeprazol Sandoz Caps. 20 mg 98 Caps. 20 mg
+Medwin: 55874039 <-> BSV-XLS: 55874017
+
+Omeprazol Sandoz Caps. 40 mg 28 Caps. 40 mg
+Medwin: 55874041 <-> BSV-XLS: 55874015
+
+Omeprazol Sandoz Caps. 40 mg 7 Caps. 40 mg
+Medwin: 55874043 <-> BSV-XLS: 55874019
+
+Oncotice Amp. 5 mg 1 Amp. (5 x 10 8)
+Medwin: 52563038 <-> BSV-XLS: 52563011
+
+Oralpädon Neutral Pulv. 10 Sach. Pulv. (0,47+0,3+0,53+3,56 g)
+Medwin: 53205038 <-> BSV-XLS: 53205011
+
+PK-Merz Compr. 100 mg 100 Compr. 100 mg
+Medwin: 45413020 <-> BSV-XLS: 45413012
+
+Pantozol i.v. Amp. 40 mg 1 Amp. 40 mg
+Medwin: 55551010 <-> BSV-XLS: 55551002
+
+Panzytrat Caps. 332 mg 100 Caps. 332 mg
+Medwin: 50708101 <-> BSV-XLS: 50708055
+
+Panzytrat Caps. 332 mg 50 Caps. 332 mg
+Medwin: 50708098 <-> BSV-XLS: 50708047
+
+Pelsano med. Emulsio 0.8 % 1000 ml Emulsio (0,8+7,6%)
+Medwin: 13942102 <-> BSV-XLS: 13942072
+
+Pelsano med. Emulsio 0.8 % 300 ml Emulsio (0,8+7,6%)
+Medwin: 13942099 <-> BSV-XLS: 13942064
+
+Pelsano med. Ungt. 25 % 60 g Ungt. (25+5%)
+Medwin: 15812087 <-> BSV-XLS: 15812036
+
+Pentavac Amp. 0.5 ml 1 Amp. 0.5 ml
+Medwin: 90061301 <-> BSV-XLS:      613
+
+Permax Compr. 0.05 mg 109 Compr. 0,05 mg + 57 Compr. 0,25 mg
+Medwin: 52089069 <-> BSV-XLS: 52089042
+
+Permax Compr. 0.25 mg 100 Compr. 0,25 mg
+Medwin: 52089077 <-> BSV-XLS: 52089026
+
+Petinutin Caps. 300 mg 100 Caps. 300 mg
+Medwin: 29863024 <-> BSV-XLS: 29863016
+
+Pneumovax-23 Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00509001 <-> BSV-XLS:      509
+
+Poliorix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00669001 <-> BSV-XLS:      669
+
+Prevenar Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 90064301 <-> BSV-XLS:      643
+
+Primperan Guttae 0.26 % 60 ml Guttae pro infant. 0,26%
+Medwin: 31865026 <-> BSV-XLS: 31865018
+
+Principrox Filmtabs 750 mg 20 Filmtabs 750 mg
+Medwin: 56490120 <-> BSV-XLS: 56649014
+
+Prinil Mepha Compr. 20 mg 28 Compr. 20 mg
+Medwin: 49268017 <-> BSV-XLS: 49268041
+
+Prinil Mepha Compr. 20 mg 98 Compr. 20 mg
+Medwin: 49268033 <-> BSV-XLS: 49268068
+
+Prinil Mepha Compr. 5 mg 30 Compr. submite 5 mg
+Medwin: 49268025 <-> BSV-XLS: 49268076
+
+Prinzide Mepha Compr. 20 mg 28 Compr. (20+12,5 mg)
+Medwin: 51053028 <-> BSV-XLS: 51053044
+
+Prinzide Mepha Compr. 20 mg 98 Compr. (20+12,5 mg)
+Medwin: 51053036 <-> BSV-XLS: 51053052
+
+Priorix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 00615001 <-> BSV-XLS:      615
+
+Propycil Compr. 50 mg 100 Compr. 50 mg
+Medwin: 56300013 <-> BSV-XLS: 56300025
+
+Propycil Compr. 50 mg 20 Compr. 50 mg
+Medwin: 56300001 <-> BSV-XLS: 56300018
+
+Ranitidin-Mepha Compr. 150 mg 120 Compr. 150 mg
+Medwin: 53664091 <-> BSV-XLS: 53664032
+
+Ranitidin-Mepha Compr. 150 mg 20 Compr. 150 mg
+Medwin: 53664075 <-> BSV-XLS: 53664016
+
+Ranitidin-Mepha Compr. 150 mg 60 Compr. 150 mg
+Medwin: 53664083 <-> BSV-XLS: 53664024
+
+Ranitidin-Mepha Compr. 300 mg 20 Compr. 300 mg
+Medwin: 53664105 <-> BSV-XLS: 53664040
+
+Ranitidin-Mepha Compr. 300 mg 40 Compr. 300 mg
+Medwin: 53664113 <-> BSV-XLS: 53664059
+
+Ranitidin-Mepha Compr. 300 mg 60 Compr. 300 mg
+Medwin: 53664121 <-> BSV-XLS: 53664067
+
+Rapilysin Amp. 10 IE 2 Amp. 10 I.E.
+Medwin: 53822029 <-> BSV-XLS: 53822010
+
+Recombinate Amp. 1000 IE 1 Amp. 1000 I.E.
+Medwin: 53627102 <-> BSV-XLS: 53627048
+
+Recombinate Amp. 250 IE 1 Amp. 250 I.E.
+Medwin: 53627080 <-> BSV-XLS: 53627013
+
+Recombinate Amp. 500 IE 1 Amp. 500 I.E.
+Medwin: 53627099 <-> BSV-XLS: 53627021
+
+Redimune Amp. 12 g 1 Amp. 12 g i.v.
+Medwin: 00500004 <-> BSV-XLS:      500
+
+Redimune Amp. 6 g 1 Amp. 6 g i.v.
+Medwin: 00500003 <-> BSV-XLS:      500
+
+Redimune NF Liquid Amp. 12 g 1 Amp. 12 g/100 ml
+Medwin: 00678002 <-> BSV-XLS:      678
+
+Redimune NF Liquid Amp. 6 g 1 Amp. 6 g/50 ml
+Medwin: 00678001 <-> BSV-XLS:      678
+
+Regranex Gel 0.01 % 15 g Gel 0,01%
+Medwin: 54776012 <-> BSV-XLS: 54776010
+
+Remeron Soltab 15 mg 30 Soltabs 15 mg
+Medwin: 56075034 <-> BSV-XLS: 56075004
+
+Remeron Soltab 15 mg 6 Soltabs 15 mg
+Medwin: 56075026 <-> BSV-XLS: 56075002
+
+Remeron Soltab 30 mg 30 Soltabs 30 mg
+Medwin: 56075052 <-> BSV-XLS: 56075008
+
+Remeron Soltab 30 mg 96 Soltabs 30 mg
+Medwin: 56075058 <-> BSV-XLS: 56075010
+
+Revaxis Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 90064601 <-> BSV-XLS:      646
+
+Rhinocort Pump-Spray 32 mcg/Dosis 120 Dosen Pump-Spray (32 mcg pro dosi)
+Medwin: 48591035 <-> BSV-XLS: 48591000
+
+Rocaltrol Caps. 0.25 mcg 100 Caps. 0,25 mcg
+Medwin: 41728124 <-> BSV-XLS: 41728086
+
+Rocaltrol Caps. 0.25 mcg 30 Caps. 0,25 mcg
+Medwin: 41728116 <-> BSV-XLS: 41728078
+
+Rocaltrol Caps. 0.5 mcg 100 Caps. 0,5 mcg
+Medwin: 41728140 <-> BSV-XLS: 41728108
+
+Rocaltrol Caps. 0.5 mcg 30 Caps. 0,5 mcg
+Medwin: 41728132 <-> BSV-XLS: 41728094
+
+Rocephin Amp. 1 g 1 Amp. 1 g i.m.
+Medwin: 44625237 <-> BSV-XLS: 44625180
+
+Rocephin Amp. 1 g 5 Amp. 1 g i.m.
+Medwin: 44625245 <-> BSV-XLS: 44625199
+
+Selectol Filmtabs 200 mg 30 Filmtabs 200 mg
+Medwin: 44421097 <-> BSV-XLS: 44421062
+
+Selectol Filmtabs 200 mg 90 Filmtabs 200 mg
+Medwin: 44421100 <-> BSV-XLS: 44421089
+
+Serevent Aerosol 25 mcg/Dosis 120 Dosen Dosier-Aerosol (25 mcg pro dosi)
+Medwin: 57169002 <-> BSV-XLS: 51444019
+
+Simcora Compr. 40 mg 100 Compr. 40 mg
+Medwin: 56035008 <-> BSV-XLS: 56035009
+
+Sinupret Obd. 12 mg 20 Obd. forte (12+36+36+36+36 mg)
+Medwin: 53159044 <-> BSV-XLS: 53159030
+
+Solcotrichovac Amp. 7 Mia 1 Amp. 7 Mia
+Medwin: 90043701 <-> BSV-XLS:      437
+
+Solcotrichovac Amp. 7 Mia 3 Amp. 7 Mia
+Medwin: 90043703 <-> BSV-XLS:      437
+
+Solevita Caps. 425 mg 100 Caps. 425 mg
+Medwin: 55914031 <-> BSV-XLS: 55914021
+
+Solevita Caps. 425 mg 30 Caps. 425 mg
+Medwin: 55914007 <-> BSV-XLS: 55914003
+
+Solmucalm Sirup. 100 mg 90 ml Sirup. pro infant. (100+2 mg/5 ml)
+Medwin: 53336035 <-> BSV-XLS: 53336019
+
+Solmucalm Sirup. 200 mg 180 ml Sirup. pro adult. (200+4 mg/10 ml)
+Medwin: 53336043 <-> BSV-XLS: 53336027
+
+Sonata Caps. 10 mg 14 Caps. 10 mg
+Medwin: 54835094 <-> BSV-XLS: 54835043
+
+Sonata Caps. 10 mg 7 Caps. 10 mg
+Medwin: 54835086 <-> BSV-XLS: 54835027
+
+Sonata Caps. 5 mg 7 Caps. 5 mg
+Medwin: 54835051 <-> BSV-XLS: 54835019
+
+Spectroxyl Compr. 750 mg 20 Compr. 750 mg
+Medwin: 50730026 <-> BSV-XLS: 50201015
+
+Spectroxyl Sirup. 50 mg/ml 80 ml Sirup. 50 mg/ml
+Medwin: 52669022 <-> BSV-XLS: 52669014
+
+Squa-med Shampoo 150 ml Shampoo
+Medwin: 43007041 <-> BSV-XLS: 43007017
+
+Squa-med Shampoo 60 ml Shampoo
+Medwin: 43007033 <-> BSV-XLS: 43007025
+
+Stocrin Filmtabs 600 mg 30 Filmtabs 600 mg
+Medwin: 56000011 <-> BSV-XLS: 56000001
+
+Tarceva Compr. 100 mg 30 Compr. 100 mg
+Medwin: 57266003 <-> BSV-XLS: 57266005
+
+Tarceva Compr. 150 mg 30 Compr. 150 mg
+Medwin: 57266005 <-> BSV-XLS: 57266003
+
+Taxol Amp. 100 mg 1 Amp. 100 mg
+Medwin: 52364043 <-> BSV-XLS: 52364027
+
+Taxol Amp. 30 mg 1 Amp. 30 mg
+Medwin: 52364035 <-> BSV-XLS: 52364019
+
+Telzir Filmtabs 700 mg 60 Filmtabs 700 mg
+Medwin: 56707002 <-> BSV-XLS: 56707024
+
+Telzir Susp. 50 mg/ml 225 ml Susp. 50 mg/ml
+Medwin: 56706001 <-> BSV-XLS: 56706018
+
+Temesta Expidet Compr. 1 mg 20 Compr. 1 mg
+Medwin: 47102073 <-> BSV-XLS: 47102014
+
+Temesta Expidet Compr. 1 mg 50 Compr. 1 mg
+Medwin: 47102081 <-> BSV-XLS: 47102022
+
+Temesta Expidet Compr. 2.5 mg 20 Compr. 2,5 mg
+Medwin: 47102103 <-> BSV-XLS: 47102049
+
+Temesta Expidet Compr. 2.5 mg 50 Compr. 2,5 mg
+Medwin: 47102111 <-> BSV-XLS: 47102057
+
+Tetravac Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 90061201 <-> BSV-XLS:      612
+
+Thrombace Compr. 120 mg 120 Compr. 120 mg
+Medwin: 55197004 <-> BSV-XLS: 43688022
+
+Thrombace Compr. 120 mg 60 Compr. 120 mg
+Medwin: 55197002 <-> BSV-XLS: 43688014
+
+Tobin Filmtabs 10 mg 30 Filmtabs 10 mg
+Medwin: 56328005 <-> BSV-XLS: 56328006
+
+Torem Compr. 2.5 mg 100 Compr. 2,5 mg
+Medwin: 48578152 <-> BSV-XLS: 48578039
+
+Torem Compr. 2.5 mg 20 Compr. 2,5 mg
+Medwin: 48578144 <-> BSV-XLS: 48578012
+
+Transipeg Sach. 2.95 g 30 Sach. (2,95 g+73+284+37,5+84 mg)
+Medwin: 53282067 <-> BSV-XLS: 53282024
+
+Transipeg Sach. 2.95 g 90 Sach. (2,95 g+73+284+37,5+84 mg)
+Medwin: 53282083 <-> BSV-XLS: 53282032
+
+Transipeg Sach. 5.9 g 30 Sach. forte (5,9 g+146+568+75+168 mg)
+Medwin: 53282091 <-> BSV-XLS: 53282040
+
+Transipeg Sach. 5.9 g 90 Sach. forte (5,9 g+146+568+75+168 mg)
+Medwin: 53282075 <-> BSV-XLS: 53282059
+
+Tussantiol Sirup. 5 % 200 ml Sirup. 5%
+Medwin: 47110015 <-> BSV-XLS: 47110017
+
+Utrogestan Caps. 100 mg 90 Caps. 100 mg
+Medwin: 45351041 <-> BSV-XLS: 45351020
+
+Vaccin Rabique InactivE9 Amp. 1 Amp. E0 1 Dose
+Medwin: 90041701 <-> BSV-XLS:      417
+
+Varilrix Amp. 0.5 ml 1 Amp. 0,5 ml
+Medwin: 90058501 <-> BSV-XLS:      585
+
+Venofer Amp. 100 mg 5 Amp. i.v. 5 ml 100 mg
+Medwin: 15398078 <-> BSV-XLS: 15398043
+
+Venoruton 1000 Compr. efferv. 1 g 30 Compr. efferv. 1 g
+Medwin: 55875076 <-> BSV-XLS: 55875002
+
+Verapam Caps. 120 mg 100 Opticaps retard 120 mg
+Medwin: 54436041 <-> BSV-XLS: 54436052
+
+Verapam Caps. 120 mg 20 Opticaps retard 120 mg
+Medwin: 54436033 <-> BSV-XLS: 54436044
+
+Vi-De 3 Liquid. 4500 I.E. / ml 10 ml Liquid. (Sol. alcohol.) 4'500
+U.I./ml
+Medwin: 09395016 <-> BSV-XLS:  9395016
+
+Vincristine Pfizer Amp. 1 mg 5 Amp. 1 mg
+Medwin: 53640052 <-> BSV-XLS: 53640028
+
+Vincristine Pfizer Amp. 2 mg 5 Amp. 2 mg
+Medwin: 53640060 <-> BSV-XLS: 53640036
+
+Zinat Susp. 25 mg/ml 100 ml Susp. 25 mg/ml
+Medwin: 50882071 <-> BSV-XLS: 50882055
+
+Zinat Susp. 25 mg/ml 70 ml Susp. 25 mg/ml
+Medwin: 50882063 <-> BSV-XLS: 50882039
+
+Zoladex Depot Impl. s. c. 3.6 mg 1 Implantat s.c.3,6 mg
+Medwin: 48159044 <-> BSV-XLS: 48159028
+
+Zoladex Depot Impl. s. c. 3.6 mg 3 Implantate s.c. 3,6 mg
+Medwin: 48159052 <-> BSV-XLS: 48159036
+
+Zoladex LA Impl. s. c. 10.8 mg 1 Implantat s.c. 10,8 mg
+Medwin: 53371027 <-> BSV-XLS: 53371019
+
+Zorotop Caps. 2 mg 20 Caps. 2 mg
+Medwin: 56699006 <-> BSV-XLS: 56697006
+
+Zorotop Caps. 2 mg 60 Caps. 2 mg
+Medwin: 56699010 <-> BSV-XLS: 56697010
+
+Zumenon Filmtabs 2 mg 28 Filmtabs 2 mg
+Medwin: 54888023 <-> BSV-XLS: 54888015

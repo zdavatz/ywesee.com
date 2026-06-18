@@ -1,0 +1,64 @@
+[Sat Aug 20 01:00:06 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Sat Aug 20 01:00:07 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Sat Aug 20 01:34:31 2022] [error] [client 182.135.116.154] File does not exist: /var/www/ywesee.com/doc/fckeditor, referer: https://www.ywesee.com/fckeditor/_whatsnew.html
+[Sat Aug 20 02:57:15 2022] [error] [client 157.55.39.219] File does not exist: /var/www/ywesee.com/doc/oddb2xml
+[Sat Aug 20 03:00:04 2022] [error] [client 54.198.63.134] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Aug 20 03:00:06 2022] [error] [client 54.198.63.134] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Aug 20 04:44:04 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Sat Aug 20 04:44:07 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Sat Aug 20 04:44:09 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Sat Aug 20 04:44:12 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Sat Aug 20 05:17:21 2022] [error] [client 185.83.146.154] File does not exist: /var/www/ywesee.com/doc/.env
+[Sat Aug 20 05:35:31 2022] [error] [client 54.198.63.134] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Aug 20 06:12:31 2022] [error] [client 66.249.70.198] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Aug 20 06:19:42 2022] [error] [client 5.165.77.7] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Sat Aug 20 06:19:42 2022] [error] [client 5.165.77.7] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Sat Aug 20 06:19:44 2022] [error] [client 5.165.77.7] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Sat Aug 20 06:19:45 2022] [error] [client 88.204.34.83] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Sat Aug 20 06:19:47 2022] [error] [client 5.165.77.7] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Sat Aug 20 06:19:47 2022] [error] [client 88.204.34.83] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Sat Aug 20 06:19:49 2022] [error] [client 5.227.25.218] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Sat Aug 20 06:19:50 2022] [error] [client 88.204.34.83] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Sat Aug 20 06:55:58 2022] [error] [client 91.92.22.44] File does not exist: /var/www/ywesee.com/doc/de, referer: https://ywesee.com/
+[Sat Aug 20 06:55:58 2022] [error] [client 152.39.169.162] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Aug 20 06:55:58 2022] [error] [client 103.30.13.155] File does not exist: /var/www/ywesee.com/doc/de, referer: https://www.google.com/
+[Sat Aug 20 06:55:59 2022] [error] [client 116.212.189.189] File does not exist: /var/www/ywesee.com/doc/de, referer: https://ywesee.com/robots.txt
+[Sat Aug 20 06:55:59 2022] [error] [client 64.79.229.207] File does not exist: /var/www/ywesee.com/doc/de, referer: https://ywesee.com/
+[Sat Aug 20 06:55:59 2022] [error] [client 154.17.70.20] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Aug 20 06:56:00 2022] [error] [client 154.17.95.101] File does not exist: /var/www/ywesee.com/doc/de, referer: https://ywesee.com/robots.txt
+[Sat Aug 20 06:56:01 2022] [error] [client 98.195.148.71] File does not exist: /var/www/ywesee.com/doc/de, referer: https://ywesee.com/
+[Sat Aug 20 06:56:02 2022] [error] [client 71.185.64.11] File does not exist: /var/www/ywesee.com/doc/de, referer: https://ywesee.com/robots.txt
+[Sat Aug 20 06:56:02 2022] [error] [client 149.71.177.164] File does not exist: /var/www/ywesee.com/doc/de, referer: https://www.google.com/
+[Sat Aug 20 06:56:02 2022] [error] [client 204.210.149.112] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Aug 20 06:56:04 2022] [error] [client 50.127.115.147] File does not exist: /var/www/ywesee.com/doc/de, referer: https://www.google.com/
+[Sat Aug 20 06:56:14 2022] [error] [client 119.13.198.207] File does not exist: /var/www/ywesee.com/doc/de, referer: https://www.google.com/
+[Sat Aug 20 06:56:32 2022] [error] [client 64.79.252.61] File does not exist: /var/www/ywesee.com/doc/de, referer: https://ywesee.com/
+[Sat Aug 20 06:57:04 2022] [error] [client 184.17.93.92] File does not exist: /var/www/ywesee.com/doc/de, referer: https://ywesee.com/
+[Sat Aug 20 07:59:40 2022] [error] [client 66.249.70.198] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Aug 20 08:02:42 2022] [error] [client 40.77.167.47] File does not exist: /var/www/ywesee.com/doc/site
+[Sat Aug 20 09:40:29 2022] [error] [client 66.249.70.201] File does not exist: /var/www/ywesee.com/doc/amiko
+[Sat Aug 20 09:46:49 2022] [error] [client 66.249.70.195] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Aug 20 10:13:05 2022] [error] [client 66.249.70.198] File does not exist: /var/www/ywesee.com/doc/amiko
+[Sat Aug 20 10:22:27 2022] [error] [client 66.249.70.195] File does not exist: /var/www/ywesee.com/doc/generikacc
+[Sat Aug 20 10:42:33 2022] [error] [client 5.188.62.174] File does not exist: /var/www/ywesee.com/doc/admin, referer: https://ywesee.com/
+[Sat Aug 20 11:40:02 2022] [error] [client 157.55.39.219] File does not exist: /var/www/ywesee.com/doc/oddb2xml
+[Sat Aug 20 12:47:53 2022] [error] [client 51.15.183.168] Invalid URI in request GET ywesee.com HTTP/1.0
+[Sat Aug 20 13:42:15 2022] [error] [client 66.249.65.76] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Sat Aug 20 14:33:59 2022] [error] [client 66.249.65.68] File does not exist: /var/www/ywesee.com/doc/de
+[Sat Aug 20 16:34:55 2022] [error] [client 40.77.167.47] File does not exist: /var/www/ywesee.com/doc/site
+[Sat Aug 20 19:35:03 2022] [error] [client 66.249.65.66] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Sat Aug 20 19:35:04 2022] [error] [client 66.249.65.69] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Sat Aug 20 20:05:01 2022] [error] [client 157.55.39.219] File does not exist: /var/www/ywesee.com/doc/oddb2xml
+[Sat Aug 20 20:23:53 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Sat Aug 20 20:23:56 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Sat Aug 20 20:23:57 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Sat Aug 20 20:24:00 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Sat Aug 20 23:24:09 2022] [error] Hostname y provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Aug 20 23:24:09 2022] [error] Hostname y provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Aug 20 23:24:09 2022] [error] Hostname y provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Aug 20 23:24:10 2022] [error] Hostname y provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Aug 20 23:24:10 2022] [error] Hostname y provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Aug 20 23:24:10 2022] [error] Hostname y provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Aug 20 23:24:10 2022] [error] Hostname y provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Aug 20 23:24:10 2022] [error] Hostname y provided via SNI and hostname ywesee.com provided via HTTP are different
+[Sat Aug 20 23:48:12 2022] [error] [client 51.15.183.168] Invalid URI in request GET ywesee.com HTTP/1.0

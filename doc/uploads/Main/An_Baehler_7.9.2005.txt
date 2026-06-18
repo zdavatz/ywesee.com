@@ -1,0 +1,54 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 27656 invoked by uid 210); 7 Sep 2005 14:38:03 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/1066. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.030881 secs); 07 Sep 2005 12:38:03 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 7 Sep 2005 14:38:03 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id 4DEEA15A4CA; Wed,  7 Sep 2005 14:29:54 +0200 (CEST)
+Date: Wed, 7 Sep 2005 14:29:54 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: ?iso-8859-1?Q?Bähler? Thomas <thomas.baehler@kellerhalslaw.ch>,
+	Zeltner Thomas <thomas.zeltner@bag.admin.ch>,
+	?iso-8859-1?Q?Kämpf? Reinhard <reinhard.kaempf@bag.admin.ch>
+Cc: todo@oddb.org
+Subject: Liste mit falschen ?iso-8859-1?Q?EAN-Code?
+	?iso-8859-1?Q?s_in_der_Spezialitätenliste2E?
+Message-ID: <20050907122954.GD4429@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrter Herr Bähler
+
+Ich möchte Sie zuerst darauf aufmerksam machen, dass ca. 72% des
+Medikamentenumsatzes in der Schweiz SL-Produkte sind. Dies sind ca. CHF
+3 Milliarden pro Jahr (Quelle: Interpharma.ch).
+
+Des Weiteren möchten wir Sie auf unsere 
+
+  http://www.ywesee.com/uploads/Main/2005-9.txt20
+
+Liste fehlerhafter EAN-Codes in der SL-Liste aufmerksam machen. Interessant ist, dass die
+Daten nur in der SL-Liste fehlerhaft sind nicht aber im Galdat oder in
+der Medwin.ch Produkte-Datenbank. Sehr wichtig zu erwähnen ist auch, dass 
+sogar Betäubungsmittel falsche EAN-Codes aufweisen (siehe unterstes Beispiel in der Liste).
+
+Ich bitte Sie um Korrektur dieser EAN-Codes (nur A-D in einem ersten Schrit
+t) in der SL-Liste innerhalb von den nächsten 14 Tagen.
+
+Ich möchte nochmals erwähnen, dass das Betäubungsmittelgesetz den
+korrekten EAN-Code verlangt!
+
+Der Aufwand für die Überprüfung der SL-Liste (nur Produkte A-D) beläuft
+sich auf etwas über 16 Stunden.
+
+Mit freundlichen Grüssen
+Zeno Davatz

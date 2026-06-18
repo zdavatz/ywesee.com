@@ -1,0 +1,42 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1b2pre) Gecko/20081116 Minefield/3.1b2pre
+author=
+host=84.72.92.25
+name=Software.XMLBAG
+rev=11
+targets=Software.StatusCodeTypeSL,Software.FlagModal,Software.FlagAPD,Software.DivisionPriceIncVat,Software.DivisionDescription
+text=!XML Beschreibung für die neue SL des BAG%0a%0a!!!XML Files%0a[[http://bag.e-mediat.net/SL2007.Web.External/File.axd?file=XMLPublications.zip | http://bag.e-mediat.net/SL2007.Web.External/File.axd?file=XMLPublications.zip]]%0a%0a!!!StatusCodeTypeSL bezeichnet die internen Codes für die Zugehörigkeit zur SL%0a%0a* Initialzustand (0) = normale Zugehörigkeit%0a* Preiserhöhungsgesuch pendent (1)%0a* Neuaufnahme (2)%0a* Neu gestrichen (3)%0a* Änderung Zusammensetzung (4)%0a* Ausserord. Preiserhöhung (5)%0a* Ausserord. Neuaufnahme (6)%0a* Ausserord. Streichung (7)%0a* Preissenkung (8)%0a* Ungültig/inaktiv/nicht fakturieren (9)%0a* Neu angemeldet, noch nicht aufgenommen (10)%0a%0a!!!Flags%0a* FlagModal = Y bezeichnet die Modal-Packung des Originals für die Berechnung des differenzierten Selbstbehaltes %0a* FlagAPD = Y bedeutet, dass dieses Präparat/Packung bereits frühre in anderer Form/Dosierung/Packunghsgrösse in der SL war und deshalb eine "erleichtertes" Aufnahmeprozedere stattfindet (Firma muss z.B. bei Swissmedic nicht alle klinischen Studien, etc. einreichen, da bereits mit dem "Vorgänger" erfolgt)%0a%0a!!!Die nächsten 3 Felder sind noch nicht überall gefüllt und sind erst für weitere Ausweitungen der SL gedacht%0a%0a* Division gibt die Anzahl Teile, in die der Preis aufgeteilt werden kann (z.B. bei Radiodiagnostika werden einzelne Teile pro Patient verwendet und nicht die ganze Packung) %0a* DivisionPriceIncVat der "geteilte" Preis inkl Mwst %0a* DivisionDescription Beschreibung der Division%0a%0a!!!Browser%0a[[http://bag.e-mediat.net/SL2007.Web.External/ | http://bag.e-mediat.net/SL2007.Web.External/]]
+time=1226935471
+author:1226935471=
+diff:1226935471:1226934919:=27,29c27,29%0a%3c * DivisionPriceIncVat der "geteilte" Preis inkl Mwst %0a%3c * DivisionDescription Beschreibung der Division%0a%3c %0a---%0a> * DivisionPriceIncVat der "geteilte Preis inkl Mwst %0a> * Divisiondescription Beschreibung der Division%0a> %0a
+host:1226935471=84.72.92.25
+author:1226934919=
+diff:1226934919:1226934895:=5a6,8%0a> !!!Browser%0a> [[http://bag.e-mediat.net/SL2007.Web.External/ | http://bag.e-mediat.net/SL2007.Web.External/]]%0a> %0a28,31c31%0a%3c * Divisiondescription Beschreibung der Division%0a%3c %0a%3c !!!Browser%0a%3c [[http://bag.e-mediat.net/SL2007.Web.External/ | http://bag.e-mediat.net/SL2007.Web.External/]]%0a\ No newline at end of file%0a---%0a> * Divisiondescription Beschreibung der Division%0a\ No newline at end of file%0a
+host:1226934919=84.72.92.25
+author:1226934895=
+diff:1226934895:1226934836:=3d2%0a%3c !!!XML Files%0a6,8d4%0a%3c !!!Browser%0a%3c [[http://bag.e-mediat.net/SL2007.Web.External/ | http://bag.e-mediat.net/SL2007.Web.External/]]%0a%3c %0a
+host:1226934895=84.72.92.25
+author:1226934836=
+diff:1226934836:1226934657:=3,4d2%0a%3c [[http://bag.e-mediat.net/SL2007.Web.External/File.axd?file=XMLPublications.zip | http://bag.e-mediat.net/SL2007.Web.External/File.axd?file=XMLPublications.zip]]%0a%3c %0a
+host:1226934836=84.72.92.25
+author:1226934657=
+diff:1226934657:1226934646:=9c9%0a%3c * Änderung Zusammensetzung (4)%0a---%0a> * Aenderung Zusammensetzung (4)%0a
+host:1226934657=84.72.92.25
+author:1226934646=
+diff:1226934646:1226934431:=3,4c3,4%0a%3c !!!StatusCodeTypeSL bezeichnet die internen Codes für die Zugehörigkeit zur SL%0a%3c %0a---%0a> !!!StatusCodeTypeSL bezeichnet die internen Codes für die zugehörigkeit zur SL%0a> %0a
+host:1226934646=84.72.92.25
+author:1226934431=
+diff:1226934431:1226934407:=21,22c21,22%0a%3c !!!Die nächsten 3 Felder sind noch nicht überall gefüllt und sind erst für weitere Ausweitungen der SL gedacht%0a%3c %0a---%0a> Die nächsten 3 Felder sind noch nicht überall gefüllt und sind erst für weitere Ausweitungen der SL gedacht%0a> %0a
+host:1226934431=84.72.92.25
+author:1226934407=
+diff:1226934407:1226934395:=3,4c3,4%0a%3c !!!StatusCodeTypeSL bezeichnet die internen Codes für die zugehörigkeit zur SL%0a%3c %0a---%0a> !!StatusCodeTypeSL bezeichnet die internen Codes für die zugehörigkeit zur SL%0a> %0a17c17%0a%3c !!!Flags%0a---%0a> !!Flags%0a
+host:1226934407=84.72.92.25
+author:1226934395=
+diff:1226934395:1226934354:=3,4c3,4%0a%3c !!StatusCodeTypeSL bezeichnet die internen Codes für die zugehörigkeit zur SL%0a%3c %0a---%0a> StatusCodeTypeSL bezeichnet die internen Codes für die zugehörigkeit zur SL%0a> %0a17d16%0a%3c !!Flags%0a
+host:1226934395=84.72.92.25
+author:1226934354=
+diff:1226934354:1226934204:=17c17%0a%3c * FlagModal = Y bezeichnet die Modal-Packung des Originals für die Berechnung des differenzierten Selbstbehaltes %0a---%0a> * FlagModal = Y bezeichnet dioe Modal-Packung des Originals für die Berechnung des differenzierten Selbstbehaltes %0a20,22c20,23%0a%3c Die nächsten 3 Felder sind noch nicht überall gefüllt und sind erst für weitere Ausweitungen der SL gedacht%0a%3c %0a%3c * Division gibt die Anzahl Teile, in die der Preis aufgeteilt werden kann (z.B. bei Radiodiagnostika werden einzelne Teile pro Patient verwendet und nicht die ganze Packung) %0a---%0a> Die nächsten 3 felder sind noch nicht überall gefüllt und sind erst für %0a> weitere Ausweitungen der SL gedacht%0a> %0a> * Division gibt die Anzahl Teile, in die der Preis aufgeteitl werden kann (z.B. bei Radiodiagnostika werden einzelne Teile pro Patient verwendet und nicht die ganze Packung) %0a
+host:1226934354=84.72.92.25
+author:1226934204=
+diff:1226934204:1226934204:=1,25d0%0a%3c !XML Beschreibung für die neue SL des BAG%0a%3c %0a%3c StatusCodeTypeSL bezeichnet die internen Codes für die zugehörigkeit zur SL%0a%3c %0a%3c * Initialzustand (0) = normale Zugehörigkeit%0a%3c * Preiserhöhungsgesuch pendent (1)%0a%3c * Neuaufnahme (2)%0a%3c * Neu gestrichen (3)%0a%3c * Aenderung Zusammensetzung (4)%0a%3c * Ausserord. Preiserhöhung (5)%0a%3c * Ausserord. Neuaufnahme (6)%0a%3c * Ausserord. Streichung (7)%0a%3c * Preissenkung (8)%0a%3c * Ungültig/inaktiv/nicht fakturieren (9)%0a%3c * Neu angemeldet, noch nicht aufgenommen (10)%0a%3c %0a%3c * FlagModal = Y bezeichnet dioe Modal-Packung des Originals für die Berechnung des differenzierten Selbstbehaltes %0a%3c * FlagAPD = Y bedeutet, dass dieses Präparat/Packung bereits frühre in anderer Form/Dosierung/Packunghsgrösse in der SL war und deshalb eine "erleichtertes" Aufnahmeprozedere stattfindet (Firma muss z.B. bei Swissmedic nicht alle klinischen Studien, etc. einreichen, da bereits mit dem "Vorgänger" erfolgt)%0a%3c %0a%3c Die nächsten 3 felder sind noch nicht überall gefüllt und sind erst für %0a%3c weitere Ausweitungen der SL gedacht%0a%3c %0a%3c * Division gibt die Anzahl Teile, in die der Preis aufgeteitl werden kann (z.B. bei Radiodiagnostika werden einzelne Teile pro Patient verwendet und nicht die ganze Packung) %0a%3c * DivisionPriceIncVat der "geteilte Preis inkl Mwst %0a%3c * Divisiondescription Beschreibung der Division%0a\ No newline at end of file%0a
+host:1226934204=84.72.92.25

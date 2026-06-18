@@ -1,0 +1,127 @@
+ywesee -- intellectual capital connected
+
+Coding-Standards 
+Version 1.0, 15.02.2005
+
+
+## Filesystem ##
+ywesee orientiert sich bezüglich Filesystem am Ruby-Standard:
+projekt-name
+            /bin/executable-files                         (executables können auch ruby-files sein)
+            /ext/require-pfad/c-extension-files
+            /lib/require-pfad/library-files               (alle Ruby-Files enden mit '.rb')
+            /test/test-files                              (alle Test-Files beginnen mit 'test_')
+
+zusätzlich möglich:
+projekt-name
+            /src/code-files                               (Applikations-Code, der nicht als Library verwendet werden kann)
+            /src/subsystem-name/code-files                (bei grösseren Projekten)
+            /test/'test_' + subsystem-name/test-files     (bei grösseren Projekten, Files heissen gleich wie Code-Files)
+            /doc/                                         (Document-Root bei Webprojekten)
+                 resources                                (statische Web-Resources, z.B. CSS-Files, Images etc.)
+            /etc/konfigurations-files
+
+Begründung:
+- Standard-Compliance macht es z.B. einfach ein Installations-Script zu erstellen.
+
+
+## File-Namen ##
+Grundsätzlich gilt: 
+- 1 File pro implementierter Klasse (Mehrere Klassen pro File nur in
+  Ausnahmefällen, z.B. für Subklassen mit geringer Behaviordifferenz)
+- File.name = Class.name.downcase + .rb
+- TestFile.name = 'test_' + File.name
+  Ausnahme: bei grösseren Projekten, wo Code in Subsystem-Directories abgelegt
+            ist, beginnen Subsystem-Test-Directories mit 'test_'. Dann gilt
+            TestFile.name = File.name
+
+Begründung: 
+- Ruby erzwingt keinerlei Beschränkungen für die Nomenklatur. Trotzdem ist es
+  für das Verständnis des Code-Lesers sinnvoll, schon im Filesystem eine
+  Verbindung zwischen Code und Tests zu sehen.
+- um die require-Pfade eindeutig zu halten, haben Test-Files oder
+  Subsystem-Test-Directories das Präfix 'test_'
+
+
+## Code-Formatierung ##
+- Klassen: CamelCase
+  Bsp: class CodeStandardPolice
+- Konstanten: UPPERCASE, underscores für Worttrennung
+  Bsp: DOCUMENT_AUTHOR = 'hwyss'
+- Methoden und Variablen: lowercase, underscores für Worttrennung
+  Bsp: def example_method()
+  Bsp: my_var = 10
+- Konditions-Ausdrücke, Methoden-Argumente (Definition und Aufruf) immer in Klammern
+  Bsp: if(foo == bar)
+  Bsp: def my_method(arg1, arg2)
+  Bsp: my_object.my_method('foo', 'bar')
+- Abstand vor- und nach Operators
+  Bsp: 1 + 2
+  Bsp: rule_number = 15
+- Abstand nach Komma
+  Bsp: my_object.my_method('foo', 'bar', 'baz')
+- Block-Definitionen: Geschweifte Klammern (Abstand vorher), Abstand vor und
+  nach der Block-Argument-Definition
+  Bsp: hash.each { |key, value| printf("%i => %s", key, value) }
+- Mehrzeilige Block-Definitionen: Einrückung um ein Tab, Block-Argumente auf
+  der Ursprungszeile, abschliessende Geschweifte klammer auf neuer Zeile und
+  auf ursprünglicher Höhe.
+  Bsp: hash.each { |key, value| 
+         printf("%i => %s", key, value) 
+       }
+- HashTable-Literals: wie Block-Definitionen, bei mehrzeiligen Hash-Literals
+  Pfeil-Syntax und Werte horizontal aligniert
+  Bsp: table = {
+         1234      => 'simple',
+         385636213 => 'a little more complicated',
+       }
+- Lange Code-Zeilen werden umgebrochen: immer Backslash am ende der Zeile,
+  auch wenn von Syntax nicht gefordert. Folgezeilen um ein Tab eingerückt.
+  Bei Konditions-Ausdrücken werden Logische Operatoren auf die neue Zeile
+  genommen.
+  Bsp: @a_long_variable_name.and_a_very_long_method_name(with, many, \
+         arguments, to, boot)
+  Bsp: if(my_condition_variable == MY_CONDITION_CONSTANT \
+         && my_condition_method(my_condition_variable))
+
+Begründung: 
+- Lesbarkeit in erster Linie eine Frage der Konsistenz, und erst in zweiter
+  Linie einer Frage der Formatierung. Die Regeln sind so gewählt, dass 
+
+
+## Namensgebung ##
+- Getter-Methoden heissen gleich wie die Instanzvariable auf die sie sich
+  beziehen.
+  Bsp: class Foo
+         def initialize
+           @bar = 23
+         end
+         def bar
+           @bar
+         end
+       end
+       (Dies ist ein Beispiel. In production code wird für ein reines Auslesen
+       die 'attr_reader' Klassenmethode verwendet)
+- Setter-Methoden heissen gleich wie die Instanzvariable auf die sie sich
+  beziehen, mit dem Suffix '='.
+  Bsp: class Foo
+         def bar=(bar_value)
+           @bar = bar_value
+         end
+       end
+       (Dies ist ein Beispiel. In production code wird für ein reines
+       assignment die 'attr_writer' Klassenmethode verwendet)
+- Keine Namenswiederholung. Eine Klasse 'Person' hat eine Getter-Methode 'name'
+  und nicht 'person_name'.
+- Descriptive Names: Namen von Klassen, Methoden und Variablen beschreiben die
+  Funktion/Responsibility des Codes in Englisch.
+
+
+## eXtreme-Programming Grundsätze (die wichtigsten) ##
+- Für jede neue Funktionalität wird ein Unit-Test (und gegebenenfalls ein
+	Integration-Test) erstellt, bevor mit der Implementation begonnen wird.
+- Do the simplest thing that could possibly work. (Die Antizipation von
+	Kundenbedürfnissen durch den Entwickler (und sogar durch den Kunden selbst)
+	führt meistens in die falsche Richtung)
+- Refactor mercilessly: Code-Duplikation eliminieren, unpräzise Namensgebungen
+	ändern.

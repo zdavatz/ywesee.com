@@ -1,0 +1,27 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.40 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1554536750
+host=212.51.146.241
+name=Miele.History
+rev=5
+targets=Miele.Index
+text=%25trail%25%3c%3c|[[Index]]|>>%0a!Miele-LXIV History%0a* [[https://web.archive.org/web/20100126045626/http://www.osirix-viewer.com:80/copyright.html | License changes]]%0a* [[https://github.com/bettar/miele-lxiv/releases?after=b4 | First Release b3]]%0a* [[https://github.com/bettar/miele-lxiv/commit/2acf67cd379c55c0c0f5d5e8541e9bae1cb33a76 | Date of Fork]]
+time=1554546082
+author:1554546082=zeno
+diff:1554546082:1554545465:=1d0%0a%3c %25trail%25%3c%3c|[[Index]]|>>%0a
+host:1554546082=212.51.146.241
+author:1554545465=zeno
+diff:1554545465:1554538074:=4d3%0a%3c * [[https://github.com/bettar/miele-lxiv/commit/2acf67cd379c55c0c0f5d5e8541e9bae1cb33a76 | Date of Fork]]%0a\ No newline at end of file%0a
+host:1554545465=212.51.146.241
+author:1554538074=zeno
+diff:1554538074:1554537938:=3c3%0a%3c * [[https://github.com/bettar/miele-lxiv/releases?after=b4 | First Release b3]]%0a---%0a> * [[https://github.com/bettar/miele-lxiv/releases?after=b4 | First Release]]%0a
+host:1554538074=212.51.146.241
+author:1554537938=zeno
+diff:1554537938:1554536750:=3d2%0a%3c * [[https://github.com/bettar/miele-lxiv/releases?after=b4 | First Release]]%0a
+host:1554537938=212.51.146.241
+author:1554536750=zeno
+diff:1554536750:1554536750:=1,2d0%0a%3c !Miele-LXIV History%0a%3c * [[https://web.archive.org/web/20100126045626/http://www.osirix-viewer.com:80/copyright.html | License changes]]%0a
+host:1554536750=212.51.146.241

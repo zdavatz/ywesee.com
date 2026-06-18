@@ -1,0 +1,48 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a1pre) Gecko/20091215 Minefield/3.7a1pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1260972164
+host=80.219.10.249
+name=Pic2Shop.BarcodeScanner
+rev=12
+targets=
+text=!Scanning Barcodes with Pic2Shop and finding drugs in de.oddb.org%0a#Install [[http://itunes.com/apps/pic2shop | Pic2Shop]]%0a#Create a bookmark, save it and then edit it to save the following: \\%0apic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a#Then you can click onto the bookmark in Safari and the scanner from Pic2Scan will open and search for the barcode in de.oddb.org
+time=1260978428
+author:1260978428=
+diff:1260978428:1260976965:=5c5%0a%3c #Then you can click onto the bookmark in Safari and the scanner from Pic2Scan will open and search for the barcode in de.oddb.org%0a\ No newline at end of file%0a---%0a> #Then you can click onto the bookmark and the scanner from Pic2Scan will open and search for the barcode in de.oddb.org%0a\ No newline at end of file%0a
+host:1260978428=80.219.10.249
+author:1260976965=
+diff:1260976965:1260976953:=4c4%0a%3c pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a---%0a> '''pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare'''%0a
+host:1260976965=80.219.10.249
+author:1260976953=
+diff:1260976953:1260976947:=4c4%0a%3c '''pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare'''%0a---%0a> ''''pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare''''%0a
+host:1260976953=80.219.10.249
+author:1260976947=
+diff:1260976947:1260976938:=4c4%0a%3c ''''pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare''''%0a---%0a> ''''+pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare+''''%0a
+host:1260976947=80.219.10.249
+author:1260976938=
+diff:1260976938:1260976923:=4c4%0a%3c ''''+pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare+''''%0a---%0a> '+pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare+'%0a
+host:1260976938=80.219.10.249
+author:1260976923=
+diff:1260976923:1260976904:=4c4%0a%3c '+pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare+'%0a---%0a>  pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a
+host:1260976923=80.219.10.249
+author:1260976904=
+diff:1260976904:1260976891:=3c3%0a%3c #Create a bookmark, save it and then edit it to save the following: \\%0a---%0a> #Create a bookmark, save it and then edit it to save the following: %0a
+host:1260976904=80.219.10.249
+author:1260976891=
+diff:1260976891:1260975475:=3,4c3%0a%3c #Create a bookmark, save it and then edit it to save the following: %0a%3c  pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a---%0a> #Create a bookmark, save it and then edit it to save the following: pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a
+host:1260976891=80.219.10.249
+author:1260975475=
+diff:1260975475:1260975426:=3,4c3%0a%3c #Create a bookmark, save it and then edit it to save the following: pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a%3c #Then you can click onto the bookmark and the scanner from Pic2Scan will open and search for the barcode in de.oddb.org%0a\ No newline at end of file%0a---%0a> #Create a bookmark, save it and then edit it to save the following: pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a\ No newline at end of file%0a
+host:1260975475=80.219.10.249
+author:1260975426=
+diff:1260975426:1260973170:=3c3%0a%3c #Create a bookmark, save it and then edit it to save the following: pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a\ No newline at end of file%0a---%0a> #Save this link as icon on your Home-Screen: pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a\ No newline at end of file%0a
+host:1260975426=80.219.10.249
+author:1260973170=
+diff:1260973170:1260972164:=2c2%0a%3c #Install [[http://itunes.com/apps/pic2shop | Pic2Shop]]%0a---%0a> #Install [[http://www.pic2shop.com/ Pic2shop]]%0a
+host:1260973170=80.219.10.249
+author:1260972164=
+diff:1260972164:1260972164:=1,3d0%0a%3c !Scanning Barcodes with Pic2Shop and finding drugs in de.oddb.org%0a%3c #Install [[http://www.pic2shop.com/ Pic2shop]]%0a%3c #Save this link as icon on your Home-Screen: pic2shop://scan?callback=http%253A//de.oddb.org/de/drugs/search/query/EAN/dstype/compare%0a\ No newline at end of file%0a
+host:1260972164=80.219.10.249

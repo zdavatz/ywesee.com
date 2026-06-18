@@ -1,0 +1,15 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a2pre) Gecko/20090820 Namoroka/3.6a2pre
+author=
+host=80.219.10.75
+name=Main.Linux
+rev=2
+targets=
+text=!WHO IS REVIEWING THE WORK%0aPatches do not normally pass directly into the mainline kernel; instead, they pass through one of%0aone-hundred or so subsystem trees. Each subsystem tree is dedicated to a specific part of the%0akernel (examples might be SCSI drivers, x86 architecture code, or networking) and is under the%0acontrol of a specific maintainer. When a subsystem maintainer accepts a patch into a subsystem%0atree, he or she will attach a “Signed-off-by” line to it. This line is a statement that the patch can be%0alegally incorporated into the kernel; the sequence of signoff lines can be used to establish the path%0aby which each change got into the kernel.%0a%0aSee: http://www.linuxfoundation.org/publications/whowriteslinux.pdf
+time=1250838814
+author:1250838814=
+diff:1250838814:1250838797:=10d9%0a%3c See: http://www.linuxfoundation.org/publications/whowriteslinux.pdf%0a\ No newline at end of file%0a
+host:1250838814=80.219.10.75
+author:1250838797=
+diff:1250838797:1250838797:=1,9d0%0a%3c !WHO IS REVIEWING THE WORK%0a%3c Patches do not normally pass directly into the mainline kernel; instead, they pass through one of%0a%3c one-hundred or so subsystem trees. Each subsystem tree is dedicated to a specific part of the%0a%3c kernel (examples might be SCSI drivers, x86 architecture code, or networking) and is under the%0a%3c control of a specific maintainer. When a subsystem maintainer accepts a patch into a subsystem%0a%3c tree, he or she will attach a “Signed-off-by” line to it. This line is a statement that the patch can be%0a%3c legally incorporated into the kernel; the sequence of signoff lines can be used to establish the path%0a%3c by which each change got into the kernel.%0a%3c %0a
+host:1250838797=80.219.10.75

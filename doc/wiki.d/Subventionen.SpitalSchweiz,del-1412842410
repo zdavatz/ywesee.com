@@ -1,0 +1,36 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1412838712
+host=46.140.30.26
+name=Subventionen.SpitalSchweiz
+rev=8
+targets=
+text=(:html:)%0a%3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="900" height="1200">%3c/iframe>%0a(:htmlend:)
+time=1412842358
+author:1412842358=zeno
+diff:1412842358:1412839901:=
+host:1412842358=46.140.30.26
+author:1412839901=zeno
+diff:1412839901:1412839882:=2c2%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="900" height="1200">%3c/iframe>%0a---%0a> %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="800" height="1200">%3c/iframe>%0a
+host:1412839901=46.140.30.26
+author:1412839882=zeno
+diff:1412839882:1412838994:=2c2%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="800" height="1200">%3c/iframe>%0a---%0a> %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="800" height="1400">%3c/iframe>%0a
+host:1412839882=46.140.30.26
+author:1412838994=zeno
+diff:1412838994:1412838982:=2c2%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="800" height="1400">%3c/iframe>%0a---%0a> %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="600" height="1400">%3c/iframe>%0a
+host:1412838994=46.140.30.26
+author:1412838982=zeno
+diff:1412838982:1412838775:=2c2%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="600" height="1400">%3c/iframe>%0a---%0a> %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="800" height="1400">%3c/iframe>%0a
+host:1412838982=46.140.30.26
+author:1412838775=zeno
+diff:1412838775:1412838760:=2c2%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="800" height="1400">%3c/iframe>%0a---%0a> %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="1400">%3c/iframe>%0a
+host:1412838775=46.140.30.26
+author:1412838760=zeno
+diff:1412838760:1412838712:=2c2%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="1400">%3c/iframe>%0a---%0a> %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="743">%3c/iframe>%0a
+host:1412838760=46.140.30.26
+author:1412838712=zeno
+diff:1412838712:1412838712:=1,3d0%0a%3c (:html:)%0a%3c %3ciframe src="http://cf.datawrapper.de/0AIS4/1/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="648" height="743">%3c/iframe>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a
+host:1412838712=46.140.30.26

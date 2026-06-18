@@ -1,0 +1,206 @@
+Sehr geehrte Frau Lindenmann
+Sehr geehrter Herr Wiedemeier
+Sehr geehrter Herr Davatz
+
+Das Levemir-Produkt macht ganz schöne Probleme.
+
+Folgende Tatsachen stehen und können nicht verändert werden:
+
+1) Swissmedic-Nummer ist richtig 56371001 - im Galdat und in der SL
+steht 56371002 
+
+2) Die EAN auf der Packung aufgedruckt lautet 7680563710023 mit
+entsprechendem optischem Barcode - daran kann nicht gerüttelt werden,
+sonst müsste die Firma alle Packungen neu drucken lassen bzw. die ganze
+logistische Kette vom Hersteller bis in die Apotheke würde über den
+Haufen geworfen!  
+
+3) Wir können in unserem System im Moment zwar mehrere EAN zu einem
+Pharmacode erfassen, bei Medikamenten muss der primäre EAN aber synchron
+zu der swissmedic-Nummer stehen.
+
+Aufgrund dieser Tatsachen müssen wir im Moment folgendes Vorgehen wählen:
+
+A) In der SL wird die swissmedic-Nummer korrigiert
+
+B) Im Galdat/Medwin wird die swissmedic-Nummer im Moment nicht
+korrigiert, damit der richtige EAN für die Logistik als Haupt-EAN
+beibehalten wird
+
+C) Wir erfassen in Galdat/Medwin einen 2. sekundären EAN 7680563710016,
+damit auch dieser EAN in den Logistiksystemen bekannt wird 
+
+D) Wir ergänzen unser internes Ssystem, dass die Swissmedic-Nummer mit
+einem beliebigen EAN kontrolliert und korrigieren dann auch die
+swissmedic-Nmmer im Galdat.
+
+
+Mit freundlichen Grüssen
+
+Samuel Aeschbacher 
+
+e-mediat AG
+Samuel Aeschbacher · IT-Verantwortlicher für Data-Mining und Prozessmanagement 
+Grubenstrasse 11 · CH-3322 Schönbühl
+Telefon +41 58 851 26 00 · Fax +41 58 851 27 00 · Direktwahl +41 58 851 26 48
+aeschbacher@e-mediat.net· www.e-mediat.net
+
+ 
+
+-----Ursprüngliche Nachricht-----
+Von: Wiedemeier, Peter [mailto:Peter.Wiedemeier@ksb.ch] 
+Gesendet: Montag, 7. Januar 2008 14:18
+An: Aeschbacher Samuel
+Cc: Lindenmann, Sara
+Betreff: WG: Wie lautet der richtige EAN Code für Insulin Levemir?
+
+Sehr geehrter Herr Aeschbacher,
+
+Können Sie mir da weiterhelfen (siehe untenstehendes Mail)
+
+Besten Dank für Ihr Feedback !
+
+Mit freundlichen Grüssen,
+Peter Wiedemeier
+
+
+Dr. pharm. Peter Wiedemeier
+Kantonsspital Baden AG
+Leiter Spitalapotheke
+Spitalapotheker FPH
+5404 Baden
+Tel. 056/4863941
+
+
+-----Ursprüngliche Nachricht-----
+Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com] 
+Gesendet: Donnerstag, 3. Januar 2008 18:27
+An: ksb@ywesee.com
+Cc: Sara.Lindenmann@ghxeurope.com
+Betreff: Wie lautet der richtige EAN Code für Insulin Levemir?
+
+Sehr geehrter Herr Wiedemeier
+
+ich wünsche Ihnen auch ein frohes und erfolgreiches neues Jahr.
+
+Danke für Ihr Feedback.
+
+Das ist sehr interessant. Die Swissmedic verwendet in diesem Moment andere EAN-Codes als die Medwin.
+
+Unsere Angaben stimmen mit denen der Swissmedic überein. Die Swissmedic
+kann aber einen Fehler publiziert haben (was ich für unwahrscheinlich
+halte, da sie unterschiedliche Registrations-Nummer für hat für "Levemir
+InnoLet 3" - 56372, "Levemir FlexPen 3" - 56371 und für "Levemir Penfill
+3" - 56370 publiziert). Es gibt jeweils nur eine Packung pro
+Registration darum macht die 002-Packungsnummer der Medwin keinen Sinn.
+
+Mein Beweis finden Sie im Swissmedic-Journal vom 11/2003 auf der Seite
+1016: http://www.swissmedic.ch/files/pdf/11_2003.pdf (im PDF auf Seite
+40, Zeile "Packung:"). Das "01" steht für die Sequenz (nicht wichtig für
+den EAN-Code), das "001" ist dann die Packungsnummer.
+
+Mein Vorschlag: Melden Sie diesen "Fehler" mal Herr Aeschbacher von der E-mediat: aeschbacher@e-mediat.net.
+
+Die letzten Ziffern "3" und "6" sind jeweils die Kontrollziffern und werden automatisch errechnet.
+
+Die Frage lautet : Wer hat den korrekten Packungscode? Ich behaupte, dass die Swissmedic richtig liegt.
+
+Mit freundlichen Grüssen
+Zeno Davatz
+
+Am 03.01.2008 um 16:41 schrieb Wiedemeier, Peter:
+
+> Sehr geehrter Herr Davatz,
+>
+> erstmals wünsche ich Ihnen ein gutes Neues Jahr.
+> Seit einigen Tagen übermitteln wir unsere Bestellungen an Galexis via 
+> GHX-Schnittstelle. Übermittelt wird der EAN-Code. Heute wurde uns 
+> Insulin Levemir Flexpen nicht geliefert, da der EAN-Code falsch 
+> hinterlegt ist (Letzte zwei Ziffern: Richtig wäre 23, via ODDB 
+> eingelesen 16).
+> Wie kann das passieren ?
+>
+> Danke für Ihr Feedback !
+>
+> Mit freundlichen Grüssen,
+> Peter Wiedemeier
+>
+>
+> Dr. pharm. Peter Wiedemeier
+> Kantonsspital Baden AG
+> Leiter Spitalapotheke
+> Spitalapotheker FPH
+> 5404 Baden
+> Tel. 056/4863941
+>
+>
+> Von: Lindenmann, Sara [mailto:Sara.Lindenmann@ghxeurope.com]
+> Gesendet: Donnerstag, 3. Januar 2008 16:13
+> An: Wiedemeier, Peter
+> Betreff: Richtiger EAN Code für Insulin Levemir
+>
+> Sehr geehrter Herr Wiedemeider
+>
+> Untenstehend der richtige EAN Code für den Artikel Insulin Levemir 
+> FlexPen.
+>
+> Name und Beschreibung des Artikels
+> INSULIN Levemir FlexPen Inj Lös 5 Amp 3 ml
+>
+> EAN-Code des Artikels (GTIN)
+> 7680563710023
+> Pharmacode
+> 2756771
+>
+>
+> Firmenname
+> Novo Nordisk Pharma AG
+> EAN-Code der Firma (GLN)
+> 7601001001190
+>
+>
+> Weitere Informationen zum Artikel in Pharmavista MedRef ® Letzte 
+> Aktualisierung: 03.01.2008
+>
+>
+> Freundliche Grüsse
+> Sara Lindenmann
+>
+>
+>
+>
+> Mit freundlichem Gruß / With kind regards
+>
+> GHX Switzerland AG
+>
+> i.A. Sara Lindenmann
+>
+> Project Manager
+>
+> Grabenstrasse 25
+> 6340 Baar / Switzerland
+>
+> Telephone        +41 41 760-65-58
+> Telefax             +41 41 760-65-76
+>
+>
+> mailto:sara.lindenmann@ghxeurope.com
+> www.ghxeurope.com
+>
+
+
+**********************************************************************
+The information contained in this email is intended solely for the
+addressee. Access to this email by anyone else is unauthorized. If you
+are not the intended recipient, any form of disclosure, reproduction,
+distribution or any action taken or refrained from in reliance on it, is
+prohibited and may be unlawful. Please notify the sender immediately.
+The content of this email is not legally binding unless confirmed by
+letter. The sending of emails to us will not constitute compliance with
+any time limits or deadlines. We also like to inform you that
+communication via email over the internet is insecure because third
+parties may have the possibility to access and manipulate emails. For
+this reason we will not send any confidential information via email over
+the internet, unless encrypted. 
+
+

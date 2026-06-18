@@ -1,0 +1,30 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9b3pre) Gecko/2008012204 Minefield/3.0b3pre
+author=
+host=77.57.16.157
+name=Ywesee.IPhone
+rev=7
+targets=
+text=! iPhone Support%0aWe do iPhone Support. If you have any problems with your iPhone (locked or unlocked) just contact us at [[mailto:zdavatzatgmaildotcom]] or give us a call at +41 43 540 05 50%0a%0aOur services include:%0a%0a* Downgrading, Upgrading Firmware%0a* Support with Swisscom Data-Plans%0a* Transferring your current addresses to your new iPhone%0a* Unbricking your iPhone%0a%0aLinks to useful Softwares and information:%0a%0a* [[http://code.google.com/p/independence/ | iNdependece]]%0a* [[http://iphone.unlock.no | http://iphone.unlock.no]]%0a* [[http://docs.google.com/View?docid=dgzw9xs_0gfhxns&pli=1 | iPhone Status Document]]
+time=1201081701
+author:1201081701=
+diff:1201081701:1201081645:=11,12c11,12%0a%3c Links to useful Softwares and information:%0a%3c %0a---%0a> Links to useful Softwares:%0a> %0a14,15c14%0a%3c * [[http://iphone.unlock.no | http://iphone.unlock.no]]%0a%3c * [[http://docs.google.com/View?docid=dgzw9xs_0gfhxns&pli=1 | iPhone Status Document]]%0a\ No newline at end of file%0a---%0a> * [[http://iphone.unlock.no | http://iphone.unlock.no]]%0a\ No newline at end of file%0a
+host:1201081701=77.57.16.157
+author:1201081645=
+diff:1201081645:1201077600:=9,14c9%0a%3c * Unbricking your iPhone%0a%3c %0a%3c Links to useful Softwares:%0a%3c %0a%3c * [[http://code.google.com/p/independence/ | iNdependece]]%0a%3c * [[http://iphone.unlock.no | http://iphone.unlock.no]] %0a\ No newline at end of file%0a---%0a> * Unbricking your iPhone%0a\ No newline at end of file%0a
+host:1201081645=77.57.16.157
+author:1201077600=
+diff:1201077600:1201077564:=8,9c8%0a%3c * Transferring your current addresses to your new iPhone%0a%3c * Unbricking your iPhone%0a\ No newline at end of file%0a---%0a> * Transferring your current addresses to your new iPhone%0a\ No newline at end of file%0a
+host:1201077600=77.57.16.157
+author:1201077564=
+diff:1201077564:1201077238:=2,8c2%0a%3c We do iPhone Support. If you have any problems with your iPhone (locked or unlocked) just contact us at [[mailto:zdavatzatgmaildotcom]] or give us a call at +41 43 540 05 50%0a%3c %0a%3c Our services include:%0a%3c %0a%3c * Downgrading, Upgrading Firmware%0a%3c * Support with Swisscom Data-Plans%0a%3c * Transferring your current addresses to your new iPhone%0a\ No newline at end of file%0a---%0a> We do iPhone Support. If you have any problems with your iPhone (locked or unlocked) just contact us at [[mailto:zdavatzatgmaildotcom]] or give us a call at +41 43 540 05 50%0a\ No newline at end of file%0a
+host:1201077564=77.57.16.157
+author:1201077238=
+diff:1201077238:1201077200:=2c2%0a%3c We do iPhone Support. If you have any problems with your iPhone (locked or unlocked) just contact us at [[mailto:zdavatzatgmaildotcom]] or give us a call at +41 43 540 05 50%0a\ No newline at end of file%0a---%0a> If you have any problems with your iPhone (locked or unlocked) just contact us at [[mailto:zdavatzatgmaildotcom]] or give us a call at +41 43 540 05 50%0a\ No newline at end of file%0a
+host:1201077238=77.57.16.157
+author:1201077200=
+diff:1201077200:1201077178:=1,2c1,2%0a%3c ! iPhone Support%0a%3c If you have any problems with your iPhone (locked or unlocked) just contact us at [[mailto:zdavatzatgmaildotcom]] or give us a call at +41 43 540 05 50%0a\ No newline at end of file%0a---%0a> !!! iPhone Support%0a> If you have any problems with your iPhone (locked or unlocked) just contact us at [[mailto:zdavatzatgmaildotcom]]%0a\ No newline at end of file%0a
+host:1201077200=77.57.16.157
+author:1201077178=
+diff:1201077178:1201077178:=1,2d0%0a%3c !!! iPhone Support%0a%3c If you have any problems with your iPhone (locked or unlocked) just contact us at [[mailto:zdavatzatgmaildotcom]]%0a\ No newline at end of file%0a
+host:1201077178=77.57.16.157

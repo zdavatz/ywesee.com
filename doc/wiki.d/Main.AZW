@@ -1,0 +1,27 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:2.0b5pre) Gecko/20100819 Minefield/4.0b5pre
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1265360394
+host=80.219.10.249
+name=Main.AZW
+rev=5
+targets=
+text=! Fachinformationen auf dem Amazon Kindle%0aDer Amazon Kindle verwendet das [[http://en.wikipedia.org/wiki/Amazon_Kindle | AZW File Format]]. Dieses Format ist speziell komprimiert für den [[http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/ref=dp_ob_title_def/190-9813484-3046336 | Kindle Reader]]. Amazon legt grossen wert auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a%0aSiehe auch: http://www.ywesee.com/pmwiki.php/Ywesee/Kindle
+time=1282291583
+author:1282291583=zeno
+diff:1282291583:1265360500:=2,4c2%0a%3c Der Amazon Kindle verwendet das [[http://en.wikipedia.org/wiki/Amazon_Kindle | AZW File Format]]. Dieses Format ist speziell komprimiert für den [[http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/ref=dp_ob_title_def/190-9813484-3046336 | Kindle Reader]]. Amazon legt grossen wert auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a%3c %0a%3c Siehe auch: http://www.ywesee.com/pmwiki.php/Ywesee/Kindle%0a\ No newline at end of file%0a---%0a> Der Amazon Kindle verwendet das [[http://en.wikipedia.org/wiki/Amazon_Kindle | AZW File Format]]. Dieses Format ist speziell komprimiert für den [[http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/ref=dp_ob_title_def/190-9813484-3046336 | Kindle Reader]]. Amazon legt grossen wert auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a\ No newline at end of file%0a
+host:1282291583=80.219.10.249
+author:1265360500=
+diff:1265360500:1265360465:=2c2%0a%3c Der Amazon Kindle verwendet das [[http://en.wikipedia.org/wiki/Amazon_Kindle | AZW File Format]]. Dieses Format ist speziell komprimiert für den [[http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/ref=dp_ob_title_def/190-9813484-3046336 | Kindle Reader]]. Amazon legt grossen wert auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a\ No newline at end of file%0a---%0a> Der Amazon Kindle verwendet das AZW File Format. Dieses Format ist speziell komprimiert für den [[http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/ref=dp_ob_title_def/190-9813484-3046336 | Kindle Reader]]. Amazon legt grossen wert auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a\ No newline at end of file%0a
+host:1265360500=80.219.10.249
+author:1265360465=
+diff:1265360465:1265360453:=2c2%0a%3c Der Amazon Kindle verwendet das AZW File Format. Dieses Format ist speziell komprimiert für den [[http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/ref=dp_ob_title_def/190-9813484-3046336 | Kindle Reader]]. Amazon legt grossen wert auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a\ No newline at end of file%0a---%0a> Der Amazon Kindle verwendet das AZW File Format. Dieses Format ist speziell komprimiert für den [[http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/ref=dp_ob_title_def/190-9813484-3046336 | Kindle Reader]]. Amazon legt grossen werde auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a\ No newline at end of file%0a
+host:1265360465=80.219.10.249
+author:1265360453=
+diff:1265360453:1265360394:=2c2%0a%3c Der Amazon Kindle verwendet das AZW File Format. Dieses Format ist speziell komprimiert für den [[http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/ref=dp_ob_title_def/190-9813484-3046336 | Kindle Reader]]. Amazon legt grossen werde auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a\ No newline at end of file%0a---%0a> Der Amazon Kindle verwendet das AZW File Format. Dieses Format ist speziell komprimiert für den Kindle Reader. Amazon legt grossen werde auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a\ No newline at end of file%0a
+host:1265360453=80.219.10.249
+author:1265360394=
+diff:1265360394:1265360394:=1,2d0%0a%3c ! Fachinformationen auf dem Amazon Kindle%0a%3c Der Amazon Kindle verwendet das AZW File Format. Dieses Format ist speziell komprimiert für den Kindle Reader. Amazon legt grossen werde auf "leichte" Bücher weil Amazon die Übertragung der Bücher auf den Kindle übernimmt via 3G oder Edge.%0a\ No newline at end of file%0a
+host:1265360394=80.219.10.249

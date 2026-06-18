@@ -1,0 +1,24 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1584004195
+host=212.51.146.241
+name=InfoCodex.Index
+rev=4
+targets=InfoCodex.Abstracts,InfoCodex.Dokumentenfamilien,InfoCodex.Vergleichsanalyse
+text=!Wissensmanagement mit InfoCodex%0a* Attach:Wissensmanagement-Worum-geht-es_Info-Codex_12.3.2020.pdf%0a*[[InfoCodex/Abstracts]]%0a*[[InfoCodex/Dokumentenfamilien]]%0a*[[InfoCodex/Vergleichsanalyse]]
+time=1584004420
+author:1584004420=zeno
+diff:1584004420:1584004312:=4a5%0a> *[[InfoCodex/RecentChanges]]%0a
+host:1584004420=212.51.146.241
+author:1584004312=zeno
+diff:1584004312:1584004302:=1c1%0a%3c !Wissensmanagement mit InfoCodex%0a---%0a> Wissensmanagement mit InfoCodex%0a
+host:1584004312=212.51.146.241
+author:1584004302=zeno
+diff:1584004302:1584004195:=2,6c2%0a%3c * Attach:Wissensmanagement-Worum-geht-es_Info-Codex_12.3.2020.pdf%0a%3c *[[InfoCodex/Abstracts]]%0a%3c *[[InfoCodex/Dokumentenfamilien]]%0a%3c *[[InfoCodex/RecentChanges]]%0a%3c *[[InfoCodex/Vergleichsanalyse]]%0a\ No newline at end of file%0a---%0a> * Attach:Wissensmanagement-Worum-geht-es_Info-Codex_12.3.2020.pdf%0a\ No newline at end of file%0a
+host:1584004302=212.51.146.241
+author:1584004195=zeno
+diff:1584004195:1584004195:=1,2d0%0a%3c Wissensmanagement mit InfoCodex%0a%3c * Attach:Wissensmanagement-Worum-geht-es_Info-Codex_12.3.2020.pdf%0a\ No newline at end of file%0a
+host:1584004195=212.51.146.241

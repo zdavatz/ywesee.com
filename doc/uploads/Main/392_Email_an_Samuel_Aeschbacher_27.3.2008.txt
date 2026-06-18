@@ -1,0 +1,71 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 19309 invoked from network); 27 Mar 2008 13:20:34 -0000
+X-Spam-Status: No, hits-4.4 required5.0
+	testsALL_TRUSTED,BAYES_00
+X-Spam-Check-By: mail.ywesee.com
+Received: from [77.57.16.157] (HELO zenogentoo.localdomain) (77.57.16.157)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Thu, 27 Mar 2008 14:20:33 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by zenogentoo.localdomain (Postfix) with ESMTP id B56AB95268;
+	Thu, 27 Mar 2008 14:20:31 +0100 (CET)
+Date: Thu, 27 Mar 2008 14:20:31 +0100 (CET)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: aeschbacher@e-mediat.net
+cc: Andreas Wildi <andreas.wildi@bag.admin.ch>, schaefer@e-mediat.net, 
+    uschaefer@documed.ch, todo@oddb.org
+Subject: ?ISO-8859-15?Q?Cosaar_-_falscher_Pharmacode_auf_der_BAG-Homepage!_2_Wochen_Frist_für_100ige_Korrektur_gemäss_Herr_Dr2E_Wildi_sollte_gen=ügen_f=ür_die_gesamte_Korrektur=2E?=
+Message-ID: <alpine.LNX.1.00.0803271406410.31800@localhost>
+User-Agent: Alpine 1.00 (LNX 882 2007-12-20)
+Organisation: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY"8323328-2089162933-1206623890:31800"
+Content-ID: <alpine.LNX.1.00.0803271420140.31800@localhost>
+X-Virus-Checked: Checked by ClamAV on mail.ywesee.com
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-2089162933-1206623890:31800
+Content-Type: TEXT/PLAIN; CHARSETISO-8859-15; FORMATflowed
+Content-Transfer-Encoding: 8BIT
+Content-ID: <alpine.LNX.1.00.0803271420141.31800@localhost>
+
+Sehr geehrter Herr Aeschbacher
+
+1. Bei Cosaar Plus haben wir folgendes festgestellt:
+
+Cosaar Plus MERCK SHARP & DOHME-CHIBRET AG  02.07.20
+   28 Filmtabs (50+12,5 mg)  1888861 16761 59.35 36.50
+   98 Filmtabs (50+12,5 mg)  1888878 16761 155.05  117.76
+
+                          PC oddb   PC medwin   PC bulletin
+Packungsgrösse 28:       3392265   3392265     1888861
+Packungsgrösse 98:       3392271   3392271     1888878
+
+
+Fazit: der Pharmacode für Cosaar Plus ist im SL-Bulletin (in beiden 
+Versionen, Text und PDF) falsch!
+
+2. Dies ist eines von ca. 86 beanstandeten Produkten in meinem letzten 
+Mail an Sie. Meine Mail an Sie vom Sonntag, 2. März 2008.
+
+3. Ich habe soeben auch mit Herr Wildi gesprochen und er meinte, dass eine 
+Frist von 2 Wochen _vollkommen_ genügen sollte um die ausstehenden 86 
+Produkte 100% zu korrigieren.
+
+4. Herr Wildi hat mich auch darauf aufmerksam gemacht, dass es in Kürze 
+einen grösseren Umbau der BAG-Seite geben wird. Dieser Umbau wird von der 
+E-mediat ausgeführt werden. Ich rechne fest damit, dass der Umbau auch 
+eine 100% Umstellung von Pharmacode auf EAN-Code mit sich bringen wird! 
+Dies ist der ausdrückliche Wunsch von Herr Dr. Wildi vom BAG.
+
+Danke für Ihr Feedback.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50
+--8323328-2089162933-1206623890:31800--

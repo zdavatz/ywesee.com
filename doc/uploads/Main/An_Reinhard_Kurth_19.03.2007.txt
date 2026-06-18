@@ -1,0 +1,53 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 2733 invoked from network); 19 Mar 2007 09:37:22 +0100
+X-Spam-Status: No, hits=-4.4 required=5.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: mail.ywesee.com
+Received: from [84.72.158.179] (HELO zrr.local) (84.72.158.179)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Mon, 19 Mar 2007 09:37:22 +0100
+Received: by zrr.local (Postfix, from userid 1000)
+	id 9464876835; Mon, 19 Mar 2007 09:33:57 +0100 (CET)
+Date: Mon, 19 Mar 2007 09:33:57 +0100
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: kurth@bfarm.de
+Cc: todo@oddb.org
+Subject: Zulassungs-Informationen Arzneimittel
+Message-ID: <20070319083357.GB20127@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.11
+
+Sehr geehrter Herr Dr. Kurth
+
+Ich stelle fest, dass der Bundesbürger von Deutschland heute keine
+Möglichkeit hat sich kostenlos über eine neue oder pendente
+Arzneimittelzulassung zu informieren ohne dass er entweder bei der
+ABDATA oder beim DIMDI etwas bezahlen muss.
+
+Soweit ich verstehen kann, handelt es sich bei den Medikamentennamen,
+den Wirkstoffen und allen weiteren Angaben, welche die Bfarm aus
+Arneimittelsicherheitsgründen von den Pharmafirmen fordert und
+überprüft, um amtlich geforderte Daten, welche nicht urherberrechtlich
+geschützt werden können und darum der Allgemeinheit kostenlos zur
+Verfügung gestellt werden müssen.
+
+Das kostenlose zur Verfügung stellen dieser amtlich geforderten Daten
+hat noch einen weiteren Vorteil: Es entstehen weniger Monopolstrukturen
+und es entsteht auch weniger Missbrauch durch absichtliche
+Fehlinformation.
+
+In diesem Sinne möchte ich Sie fragen ob es Bestrebungen gibt, die durch
+die Zulassungsverfügung der Bfarm amtlich geforderten Daten für
+jedermann kostenlos auf dem Internet zur Verfügung zu stellen?
+
+Besten Dank für Ihr Feedback.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50

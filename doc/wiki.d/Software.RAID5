@@ -1,0 +1,16 @@
+version=pmwiki-2.0.devel13
+newline=²
+time=1097761057
+text=[[http://de.wikipedia.org/wiki/RAID#RAID_5:_Spiegelung | Wikipedia on Raid5]]
+targets=
+author=
+author:1097761042=
+host:1097761042=80.219.133.159
+diff:1097761042:1097761042:=1d0²< [[[[http://de.wikipedia.org/wiki/RAID#RAID_5:_Spiegelung | Wikipedia on Raid5]]²\ No newline at end of file²
+name=Software.RAID5
+host=80.219.133.159
+agent=Mozilla/5.0 (X11; U; Linux ppc; rv:1.7.3) Gecko/20041008 Firefox/0.10.1
+rev=2
+author:1097761057=
+host:1097761057=80.219.133.159
+diff:1097761057:1097761042:=1c1²< [[http://de.wikipedia.org/wiki/RAID#RAID_5:_Spiegelung | Wikipedia on Raid5]]²\ No newline at end of file²---²> [[[[http://de.wikipedia.org/wiki/RAID#RAID_5:_Spiegelung | Wikipedia on Raid5]]²\ No newline at end of file²

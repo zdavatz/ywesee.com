@@ -1,0 +1,146 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 27006 invoked by uid 210); 4 May 06 15:54:11 +00
+Received: from 61.7.1.149 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 1) with qmail-scanner-1.25st 
+ (clamdscan: 0.88.1/1438. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(61.7.1.149):. 
+ Processed in 0.184905 secs); 04 May 06 13:54:11 -0000
+Received: from unknown (HELO ?172.30.9.199?) (zdavatz@ywesee.com@61.7.1.149)
+  by mail.ywesee.com with ESMTPA; 4 May 06 15:54:11 +00
+Mime-Version: 1.0 (Apple Message framework v749.3)
+In-Reply-To: <DD297AA9BD7AC1409EF08B04667B08E309D250@lucmsg02.euro.schp.com>
+References: <DD297AA9BD7AC1409EF08B04667B08E309D250@lucmsg02.euro.schp.com>
+Content-Type: text/plain; charsetISO-8859-1; delspyes; formatflowed
+Message-Id: <0C66ä9B-46A5-4B8D-AE95-73A86D2ED8C9@ywesee.com>
+Content-Transfer-Encoding: quoted-printable
+From: Zeno R.R. Davatz <zdavatz@ywesee.com>
+Subject: Re: Loratadin Generika in der ODDB Datenbank task: /oddb.org
+Date: Thu, 4 May 06 15:56:37 +00
+To: "Zeno R.R. Davatz" <todo@oddb.org>
+X-Mailer: Apple Mail (2.749.3)
+
+Sehr geehrter Herr Dreger
+
+Wie Sie richtig feststellen, kann aus der Publikation des 
+Zulassungsentscheids für ein Generikum, dessen Wirkstoff im Zeitpunkt 
+
+der Generikumszulassung noch Patentgeschützt sein sollte, sicher 
+nicht auf eine Patentverletzung geschlossen werden. Dies ändert sich 
+
+auch dann nicht, wenn diese gesetzlich vorgesehene (Art. 67 Abs. 1 
+HMG) Publikation durch Dritte übernommen und ihrerseits unverändert 
+
+weiter verbreitet wird. Ich sehe deshalb auch keinen Anlass zu 
+prüfen, wie diese Weiterverbreitung unterbunden werden kann, zumal 
+die Weiterverbreitung, d. h. die Bekanntmachung eines 
+Zulassungsentscheids über den Kreis der Adressatinnen und Adressaten 
+
+des Swissmedic Journals hinaus, dem Zweck des Gesetzes durchaus 
+entspricht.
+
+Im Gegensatz zu Ihnen gehe ich zudem davon aus, dass auch die 
+Zulassungsinhaberin des Generikums, welche die Fach- und 
+Patienteninformationen des zugelassenen Präparats in Erfüllung ihrer 
+
+gesetzliche Pflicht (Art. 16a Abs. 1 Arzneimittelverordnung) 
+publiziert, sich keiner Patentrechtsverletzung schuldig macht, ist 
+doch diese gesetzlich vorgeschriebene Publikation meiner Meinung nach 
+
+nicht als Bewerbung des Präparats zu betrachten. Zu beachten ist in 
+
+diesem Zusammenhang zudem, dass von der Publikation der Fach- und 
+Patienteninformationen nicht auf die Erhältlichkeit des Präparats am 
+
+Markt, d. h. dessen Lieferbarkeit, geschlossen werden kann, kommt es 
+doch nicht selten vor, dass zugelassene Präparate während einer 
+gewissen Zeit nicht vertrieben werden.
+
+Wie bereits telefonisch erwähnt haben wir trotzdem die Daten von 
+"Loratadin Sandoz" bis und mit dem 11.6.06 deaktiviert.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50
+
+Am 01.05.06 um 15:43 schrieb Dreger, Christian:
+
+> Sehr geehrter Herr Davatz,
+>
+>
+> Die Essex Chemie AG vertreibt das Präparat Claritine mit dem 
+> Wirkstoff Loratadin in verschiedenen Applikationsformen und 
+> Dosierungen. Der Patentschutz für Loratadin läuft am 11. Juni 06 
+
+> aus.
+>
+>
+> Unser europäisches Legal Department musste leider feststellen, dass 
+
+> auf www.oddb.org das Generikum Loratadin Sandoz trotz bestehenden 
+> Patentschutzes als Präparat aufgeführt ist. Dadurch wird die 
+> Lieferbarkeit des Präparates suggeriert. Wir fordern Sie daher 
+> ausdrücklich auf, umgehend Loratadin Sandoz aus Ihrer Datenbank zu 
+
+> streichen und sicherzustellen, dass bis zum 11. Juni 06 weder 
+> Loratadin Sandoz noch irgendein anderes Loratadin-Generikum in 
+> Ihrer Datenbank aufgeführt werden.
+>
+>
+> Auch der Geschäftsführer von Sandoz (Schweiz) AG, Herrn S. Prebil, 
+
+> wird sich mit Ihnen in Verbindung setzen, um die 
+> sofortigeStreichung von Loratadin Sandoz zu verlangen. Wir werden 
+> Ihnen dafür als Frist einen Arbeitstag und 24 Stunden zur Verfügung 
+
+> stellen, mit Feiertag in manchen Kantonen am 1. Mai 06 ist dies 
+> Mittwoch Morgen, 3. Mai 06.
+>
+>
+> Wir weisen Sie ausdrücklich auf den nach wie vor bestehenden 
+> Patentschutz und das sich daraus ergebenden exklusive Recht unserer 
+
+> Firma, dieses Präparat während der Schutzdauer zu vertreiben, hin. 
+
+> Rechtlich dürfen Sie weder direkt noch indirekt den Vertrieb von 
+> Generika vor Ablauf der Patentzeit fördern, den vollständigen 
+> Gesetzestext kennen Sie.
+>
+>
+> Wir ersuchen Sie, die verlangte Streichung von Loratadin Sandoz auf 
+
+> www.oddb.org zu veranlassen bis 2. Mai 06 sowie uns zu 
+> versichern, schriftlich, dass Sie bis zum 11. Juni 06 keinerlei 
+> Loratadin - Generika aufnehmen werden. Ebenso sind alle Nutzer der 
+> ODDB Datenbank, insbesondere santE9suisse, entsprechend zu 
+> informieren, um den entstandenen Schaden zu limitieren, wozu Sie 
+> rechtlich aufgrund Ihres Verhaltens bis heute verpflichtet sind.
+>
+>
+> Mit freundlichen Grüssen
+>
+>
+> Dr. Christian Dreger
+>
+>
+> General Manager
+>
+> Schering-Plough / ESSEX Chemie AG, Luzern
+>
+>
+> cc:        Henrik Edstam, Legal Director, EUCAN Region, ESSEX 
+> Chemie AG, Luzern
+>
+>             Dr Daniel Huber, Market Access & Regulatory Affairs 
+> Manager
+>
+>             Dr Wolfgang Russ, Medical Director
+>
+>
+>
+> *********************************************************************
+> This message and any attachments are solely for the intended 
+> recipient. If you are not the intended recipient, disclosure, 
+> copying, use or distribution of the information included in this 
+> message is prohibited -- Please immediately and permanently delete.
+

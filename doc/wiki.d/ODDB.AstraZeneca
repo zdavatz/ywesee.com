@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.7) Gecko/20070920 Firefox/2.0.0.7
+author=zrr
+host=77.57.16.157
+name=ODDB.AstraZeneca
+rev=1
+targets=
+text=http://www.astrazeneca.com
+time=1191485390
+author:1191485390=zrr
+diff:1191485390:1191485390:=1d0%0a%3c http://www.astrazeneca.com%0a\ No newline at end of file%0a
+host:1191485390=77.57.16.157

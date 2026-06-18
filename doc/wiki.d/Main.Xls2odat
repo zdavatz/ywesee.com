@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 FireTorrent/2.0.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1292492497
+host=80.219.10.249
+name=Main.Xls2odat
+rev=1
+targets=
+text=http://xls2odat.rubyforge.org/
+time=1292492497
+author:1292492497=zeno
+diff:1292492497:1292492497:=1d0%0a%3c http://xls2odat.rubyforge.org/%0a\ No newline at end of file%0a
+host:1292492497=80.219.10.249

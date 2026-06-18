@@ -1,0 +1,18 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2a1pre) Gecko/20090326 Minefield/3.6a1pre
+author=
+host=77.58.149.99
+name=Software.ReplaceYourHDD
+rev=3
+targets=
+text=!Replace your HDD in Linux%0a# [[http://www.brack.ch/tabid/294/Default.aspx?ID=67349 | Hook]] up your HD via USB to your Linux. Mount it to /mnt/ssdroot%0a# Copy your files with find . -xdev | cpio -pm /mnt/ssdroot%0a# Do the same for boot. Mount it to /mnt/ssdboot%0a# Copy your files with find . -xdev | cpio -pm /mnt/ssdboot%0a# Open your computer and connect it.%0a# Boot up from you USB stick or CD.%0a# Mount /dev/sda3 /mnt/gentoo/%0a# mknod /mnt/dev/console c 5 1 (do this now, not later) %0a# mknod /mnt/dev/null c 1 3 (do this now, not later)%0a# Delete the /boot directory from /mnt/gentoo/boot (because you copied that twice)%0a# Mount /dev/sda1 /mnt/gentoo/boot%0a# mount -o bind /dev /mn/gentoo/dev%0a# mount -o bind /proc /mnt/gentoo/proc%0a# chroot /mnt/gentoo/ /bin/bash%0a# cp /usr/src/linux/arch/i386/boot/bzImage /boot%0a# run lilo -v%0a# Done.%0a%0aAlso see: http://www.ywesee.com/pmwiki.php/Software/SoftwareRaid
+time=1238171663
+author:1238171663=
+diff:1238171663:1238171627:=18,20c18,19%0a%3c # Done.%0a%3c %0a%3c Also see: http://www.ywesee.com/pmwiki.php/Software/SoftwareRaid%0a\ No newline at end of file%0a---%0a> %0a> Done.%0a\ No newline at end of file%0a
+host:1238171663=77.58.149.99
+author:1238171627=
+diff:1238171627:1238171523:=2c2%0a%3c # [[http://www.brack.ch/tabid/294/Default.aspx?ID=67349 | Hook]] up your HD via USB to your Linux. Mount it to /mnt/ssdroot%0a---%0a> # Hook up your HD via USB to your Linux. Mount it to /mnt/ssdroot%0a
+host:1238171627=77.58.149.99
+author:1238171523=
+diff:1238171523:1238171523:=1,19d0%0a%3c !Replace your HDD in Linux%0a%3c # Hook up your HD via USB to your Linux. Mount it to /mnt/ssdroot%0a%3c # Copy your files with find . -xdev | cpio -pm /mnt/ssdroot%0a%3c # Do the same for boot. Mount it to /mnt/ssdboot%0a%3c # Copy your files with find . -xdev | cpio -pm /mnt/ssdboot%0a%3c # Open your computer and connect it.%0a%3c # Boot up from you USB stick or CD.%0a%3c # Mount /dev/sda3 /mnt/gentoo/%0a%3c # mknod /mnt/dev/console c 5 1 (do this now, not later) %0a%3c # mknod /mnt/dev/null c 1 3 (do this now, not later)%0a%3c # Delete the /boot directory from /mnt/gentoo/boot (because you copied that twice)%0a%3c # Mount /dev/sda1 /mnt/gentoo/boot%0a%3c # mount -o bind /dev /mn/gentoo/dev%0a%3c # mount -o bind /proc /mnt/gentoo/proc%0a%3c # chroot /mnt/gentoo/ /bin/bash%0a%3c # cp /usr/src/linux/arch/i386/boot/bzImage /boot%0a%3c # run lilo -v%0a%3c %0a%3c Done.%0a\ No newline at end of file%0a
+host:1238171523=77.58.149.99

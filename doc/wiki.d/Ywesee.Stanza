@@ -1,0 +1,21 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.61 Mobile/12F70 Safari/600.1.4
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1435590858
+host=178.197.225.125
+name=Ywesee.Stanza
+rev=3
+targets=AmiKo.Index
+text=Siehe AmiKo [[AmiKo/Index]]
+time=1435590907
+author:1435590907=zeno
+diff:1435590907:1435590890:=1c1%0a%3c Siehe AmiKo [[AmiKo/Index]]%0a\ No newline at end of file%0a---%0a> '''Strong'''Siehe AmiKo [[AmiKo/Index]]%0a\ No newline at end of file%0a
+host:1435590907=178.197.225.125
+author:1435590890=zeno
+diff:1435590890:1435590858:=1c1%0a%3c '''Strong'''Siehe AmiKo [[AmiKo/Index]]%0a\ No newline at end of file%0a---%0a> Siehe [[AmiKo/Index]]%0a\ No newline at end of file%0a
+host:1435590890=178.197.225.125
+author:1435590858=zeno
+diff:1435590858:1435590858:=1d0%0a%3c Siehe [[AmiKo/Index]]%0a\ No newline at end of file%0a
+host:1435590858=178.197.225.125

@@ -1,0 +1,21 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.4) Gecko/20060703 Firefox/1.5.0.4
+author=
+host=84.72.153.21
+name=Main.Steuern
+rev=4
+targets=
+text=! Steuern und Anleitungen für die Kaufmännische Buchhaltung%0a* [[http://www.steueramt.zh.ch/html/erlasse_merkblaetter/merkblatt_hia.htm | Hilfsblatt A]]. Man beachte die Rückstellungen.%0a* [[http://de.wikipedia.org/wiki/R%25C3%25BCckstellung#Bilanzpolitische_und_steuerliche_Folgen_der_R.C3.BCckstellungsbildung | Rückstellungen gemäss Wikipedia]]. Buchungssatz Beispiel: z.B. '''außerordentlicher Aufwand an Rückstellungen'''.
+time=1153472307
+author:1153472307=
+diff:1153472307:1153472294:=3c3%0a%3c * [[http://de.wikipedia.org/wiki/R%25C3%25BCckstellung#Bilanzpolitische_und_steuerliche_Folgen_der_R.C3.BCckstellungsbildung | Rückstellungen gemäss Wikipedia]]. Buchungssatz Beispiel: z.B. '''außerordentlicher Aufwand an Rückstellungen'''.%0a\ No newline at end of file%0a---%0a> * [[http://de.wikipedia.org/wiki/R%25C3%25BCckstellung#Bilanzpolitische_und_steuerliche_Folgen_der_R.C3.BCckstellungsbildung | Rückstellungen gemäss Wikipedia]]. Buchungssatz Beispiel: z.B. außerordentlicher Aufwand an Rückstellungen.%0a\ No newline at end of file%0a
+host:1153472307=84.72.153.21
+author:1153472294=
+diff:1153472294:1153472260:=3c3%0a%3c * [[http://de.wikipedia.org/wiki/R%25C3%25BCckstellung#Bilanzpolitische_und_steuerliche_Folgen_der_R.C3.BCckstellungsbildung | Rückstellungen gemäss Wikipedia]]. Buchungssatz Beispiel: z.B. außerordentlicher Aufwand an Rückstellungen.%0a\ No newline at end of file%0a---%0a> * [[http://de.wikipedia.org/wiki/R%25C3%25BCckstellung#Bilanzpolitische_und_steuerliche_Folgen_der_R.C3.BCckstellungsbildung | Rückstellungen gemäss Wikipedia]].%0a\ No newline at end of file%0a
+host:1153472294=84.72.153.21
+author:1153472260=
+diff:1153472260:1153470368:=2,3c2%0a%3c * [[http://www.steueramt.zh.ch/html/erlasse_merkblaetter/merkblatt_hia.htm | Hilfsblatt A]]. Man beachte die Rückstellungen.%0a%3c * [[http://de.wikipedia.org/wiki/R%25C3%25BCckstellung#Bilanzpolitische_und_steuerliche_Folgen_der_R.C3.BCckstellungsbildung | Rückstellungen gemäss Wikipedia]].%0a\ No newline at end of file%0a---%0a> * [[http://www.steueramt.zh.ch/html/erlasse_merkblaetter/merkblatt_hia.htm | Hilfsblatt A]]. Man beachte die Rückstellungen.%0a\ No newline at end of file%0a
+host:1153472260=84.72.153.21
+author:1153470368=
+diff:1153470368:1153470368:=1,2d0%0a%3c ! Steuern und Anleitungen für die Kaufmännische Buchhaltung%0a%3c * [[http://www.steueramt.zh.ch/html/erlasse_merkblaetter/merkblatt_hia.htm | Hilfsblatt A]]. Man beachte die Rückstellungen.%0a\ No newline at end of file%0a
+host:1153470368=84.72.153.21

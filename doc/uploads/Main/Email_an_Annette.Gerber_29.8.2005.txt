@@ -1,0 +1,83 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 20570 invoked by uid 210); 29 Aug 2005 11:03:06 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/1045. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.030563 secs); 29 Aug 2005 09:03:06 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@217.162.177.109)
+  by mail.ywesee.com with ESMTPA; 29 Aug 2005 11:03:06 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id 0161A15A463; Mon, 29 Aug 2005 10:55:46 +0200 (CEST)
+Date: Mon, 29 Aug 2005 10:55:46 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Annette.Gerber@bag.admin.ch
+Cc: maya.zuellig@bag.admin.ch, Guillermo.Arestegui@bag.admin.ch,
+	Jeannette.Buri@bag.admin.ch, Stefan.Koller@bag.admin.ch,
+	JeanFrancois.Richard@bag.admin.ch, todo@oddb.org
+Subject: Re: MiGel als Excel exportieren.
+Message-ID: <20050829085546.GA16511@zrr-gentoo.local>
+References: <9F2422A39353D84790404961FDED9B7BFBCABF@bsv001ex.edi.intra.admin.ch>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+In-Reply-To: <9F2422A39353D84790404961FDED9B7BFBCABF@bsv001ex.edi.intra.admin.ch>
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrte Frau Gerber
+
+Was ist den die Situation zur Zeit? Frühjahr 2004 ist eine lange Zeit,
+genug Zeit um manches zu ändern und zu verbessern.
+
+Gibt es Gründe die gegen eine elektronische, maschinenlesbare Form
+sprechen ausser, dass es eine Effizienzsteigerung für das Schweizerische
+Gesundheitswesen ist und somit Kosten sparen hilft?
+
+Mit freundlichen Grüssen aus dem sonnigen Zürich
+Zeno Davatz
+
+* Annette.Gerber@bag.admin.ch <Annette.Gerber@bag.admin.ch> [2005-08-29 10:
+47:39 +0200]:
+
+> Guten Tag Herr Davatz
+
+> Auf Ihre untenstehende Mailanfrage teilen wir Ihnen gerne mit, dass sich die
+> Situation seit Ihren Anfragen im Frühjahr 2004 nicht geändert hat.
+
+> Freundliche Grüsse
+
+> Annette Gerber
+> Medizinische Leistungen BAG Bern
+> Sekretariat MiGeLK
+> Tel. +41 031 322 92 38
+> E-Mail: annette.gerber@bag.admin.ch
+
+> (Mittwochs abwesend)
+
+
+
+> -----Ursprüngliche Nachricht-----
+> Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com]20
+> Gesendet: Montag, 29. August 2005 10:41
+> An: Gerber-Borer Annette
+> Betreff: MiGel als Excel exportieren.
+
+
+> Sehr geehrte Frau Gerber
+
+> Zur Zeit wird die MiGel Liste von http://www.bag.admin.ch/kv/gesetze/d/
+> im PDF Format publiziert.
+
+> Besteht die Möglichkeit, die MiGel-Liste auch in Form eines Excels oder
+> CSV-Files im Internet zu publizieren? Dies würde den elektronischen Umgang
+> mit den Daten um einiges vereinfachen. Wie Sie vielleicht schon wissen, wird
+> die SL-Liste auch in Form eines Excel-Files publiziert.
+
+> Besten Dank für Ihre Rückmeldung.
+
+> Mit freundlichen Grüssen
+> Zeno Davatz
+> 043 540 05 50

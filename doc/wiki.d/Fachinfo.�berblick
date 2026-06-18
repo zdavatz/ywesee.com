@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1331832962
+host=80.219.10.249
+name=Fachinfo.Überblick
+rev=1
+targets=
+text=Attach:alles_wichtige_im_Überblick.jpg
+time=1331832962
+author:1331832962=zeno
+diff:1331832962:1331832962:=1d0%0a%3c Attach:alles_wichtige_im_Überblick.jpg%0a\ No newline at end of file%0a
+host:1331832962=80.219.10.249

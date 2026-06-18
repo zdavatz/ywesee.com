@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/zdavatz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ywesee.com
+  * I am zdavatz (https://keybase.io/zdavatz) on keybase.
+  * I have a public key with fingerprint 0182 6A3A 541E C198 032B  4A92 0840
+  * EBA0 D77B 920F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid":
+"0111985fed9f8c2c1a2f7c295ae4c19a460b89a1034d4069e1fc5c9122e6fb8c63730a",
+      "fingerprint": "01826a3a541ec198032b4a920840eba0d77b920f",
+      "host": "keybase.io",
+      "key_id": "0840eba0d77b920f",
+      "kid":
+"0111985fed9f8c2c1a2f7c295ae4c19a460b89a1034d4069e1fc5c9122e6fb8c63730a",
+      "uid": "2d11d3f81c176cfbc8773ea68b5e7c19",
+      "username": "zdavatz"
+    },
+    "merkle_root": {
+      "ctime": 1588932117,
+      "hash_meta":
+"55f181294f21843d177a190367b2963c008ae3e6e046539b766aac8141d2fb28",
+      "seqno": 16211421
+    },
+    "revoke": {
+      "sig_ids": [
+        "3d46b41df8fc411733eb23f4d1c7add55a8d82f6ccd0dd662ca14d76ee43d51f0f"
+      ]
+    },
+    "service": {
+      "hostname": "ywesee.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1588932138,
+  "expire_in": 157680000,
+  "prev": "0e109aaec22c127bd89a47852231f91ff8f5926d31fb3171ef36826448e5cbb0",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMGnAnicrVM9axRRFF0/0aCYVFpPJRLiu+/7bWVlo/4C0fV93Jcdkt1ZZyYbk5BK
+bCxtNUQC4h8whW0INv4AQSwUSxFstfLOGhG0dZrhPs4599xz3zs8f6I3t3Dm2pfn
+77aeXDj29qBd693dX7qyVYQqbRT9rWIFZz9cTdi0g5UyFf2CAYCzKmNy2UYewfNs
+InfKo4zgvNQsWOeBCZkk0w4hRxUdcI46Bxu1MIL5YrHI5XgZ60ldjtuZrOXaC68k
+IMlYJniQ3nFmJcPgWTImUJWJOKyajkHmgm9wqazojIrBL3v/4v+z77WZHE8ASWQL
+EYyOOURrjECvbVBoSK8DNliP/QgJvZn81LebxfZiMcJ6ZRUHdVW1XbaxLTsEKGud
+4ACG5vPNcDDC1hNRqQwWuJOZg5UigTEeHBPaBO60iIxZjwI1MqmVcMFo7X20ICHx
+HLglGw3eH1fUQZO65EAWapxWK9h1b8pliq0p+rcLkaQORMs2R0k+hMDARZYJovEp
+KeVtsjzrGBNLSWsePchkNCLZUpAp6jvbXbd6WsaZeLeno/k31rFBXIrViAxN6qqt
+YrVK58O2nTT9LpZ2Y9IB1zEMjiQGoRwnuiPEmGLdlNWYhiDkX4kJu1jgg0lZ46Ds
+EMpoy+jr+uC0WzwCc95j5LR0bkKiLUtjFecCsoNMAyvHdaIqCDCAWWi6i1JaVDEE
+9idCwcmnXyZNym3s27Uai+2D6yd7C3O906eOd2+nN3d2/veLevOptzPvDj8/vvTi
+2f73c8N7H/ZeDt6vX+w9PT26uffw8o2dXbf76NuPq18/vrr1+ifuERSu
+=cMHD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zdavatz
+
+==================================================================
+

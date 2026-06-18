@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1
+author=zrr
+host=219.177.168.27
+name=Main.BesucherInnen
+rev=1
+targets=
+text=Damit sind Sie gemeint ;)! Danke für den Besuch!
+time=1167477518
+author:1167477518=zrr
+diff:1167477518:1167477518:=1d0%0a%3c Damit sind Sie gemeint ;)! Danke für den Besuch!%0a\ No newline at end of file%0a
+host:1167477518=219.177.168.27

@@ -1,0 +1,27 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:8.0) Gecko/20100101 Firefox/8.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1322658707
+host=80.219.10.249
+name=Main.Kolumne
+rev=5
+targets=Main.MiGel
+text=!!! 30.11.2011 - Verhinderung führt nie zum Ziel sondern nur zum Desaster%0aIm Jahre 2007 hat Trix Heberlein die WTO/GATT Ausschreibung der Swissmedic zur Publikation der Fach- und Patienteninformation [[http://www.ywesee.com/pmwiki.php/Main/2007#heberlein2007 | verhindert]]. 5 Jahre später erfolgt nun doch die [[http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de | WTO-Aussschreibung]] durch die Swissmedic im Jahr 2012. Es ist ein Sieg für OpenSource und für die Freiheit der amtlich geforderten Information. Das BAG sollte sich am Beispiel der Swissmedic bei der Publikation ihrer [[Main/MiGel | MiGel-Daten]] ein Beispiel nehmen.
+time=1322658901
+author:1322658901=zeno
+diff:1322658901:1322658867:=2c2%0a%3c Im Jahre 2007 hat Trix Heberlein die WTO/GATT Ausschreibung der Swissmedic zur Publikation der Fach- und Patienteninformation [[http://www.ywesee.com/pmwiki.php/Main/2007#heberlein2007 | verhindert]]. 5 Jahre später erfolgt nun doch die [[http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de | WTO-Aussschreibung]] durch die Swissmedic im Jahr 2012. Es ist ein Sieg für OpenSource und für die Freiheit der amtlich geforderten Information. Das BAG sollte sich am Beispiel der Swissmedic bei der Publikation ihrer [[Main/MiGel | MiGel-Daten]] ein Beispiel nehmen.%0a\ No newline at end of file%0a---%0a> Im Jahre 2007 hat Trix Heberlein die WTO/GATT Ausschreibung der Swissmedic zur Publikation der Fach- und Patienteninformation [[http://www.ywesee.com/pmwiki.php/Main/2007#heberlein2007 | verhindert]]. 5 Jahre später erfolgt nun doch die [[http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de | WTO-Aussschreibung]] durch die Swissmedic im Jahr 2012. Es ist ein Sieg für OpenSource und für die Freiheit der amtlich geforderten Information. Das BAG sollte sich am Beispiel der Swissmedic bei der Publikation ihrer MiGel-Daten ein Beispiel nehmen.%0a\ No newline at end of file%0a
+host:1322658901=80.219.10.249
+author:1322658867=zeno
+diff:1322658867:1322658793:=2c2%0a%3c Im Jahre 2007 hat Trix Heberlein die WTO/GATT Ausschreibung der Swissmedic zur Publikation der Fach- und Patienteninformation [[http://www.ywesee.com/pmwiki.php/Main/2007#heberlein2007 | verhindert]]. 5 Jahre später erfolgt nun doch die [[http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de | WTO-Aussschreibung]] durch die Swissmedic im Jahr 2012. Es ist ein Sieg für OpenSource und für die Freiheit der amtlich geforderten Information. Das BAG sollte sich am Beispiel der Swissmedic bei der Publikation ihrer MiGel-Daten ein Beispiel nehmen.%0a\ No newline at end of file%0a---%0a> Im Jahre 2007 hat Trix Heberlein die WTO/GATT Ausschreibung der Swissmedic zur Publikation der Fach- und Patienteninformation [[http://www.ywesee.com/pmwiki.php/Main/2007#heberlein2007 | verhindert]]. 5 Jahre später erfolgt nun doch die [[http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de | WTO-Aussschreibung]] durch die Swissmedic im Jahr 2012. Es ist ein Sieg für OpenSource und die Freiheit der amtlich geforderten Information. Das BAG sollte ich am Beispiel der Swissmedic bei der Publikation der Daten ein Beispiel nehmen.%0a\ No newline at end of file%0a
+host:1322658867=80.219.10.249
+author:1322658793=zeno
+diff:1322658793:1322658734:=2c2%0a%3c Im Jahre 2007 hat Trix Heberlein die WTO/GATT Ausschreibung der Swissmedic zur Publikation der Fach- und Patienteninformation [[http://www.ywesee.com/pmwiki.php/Main/2007#heberlein2007 | verhindert]]. 5 Jahre später erfolgt nun doch die [[http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de | WTO-Aussschreibung]] durch die Swissmedic im Jahr 2012. Es ist ein Sieg für OpenSource und die Freiheit der amtlich geforderten Information. Das BAG sollte ich am Beispiel der Swissmedic bei der Publikation der Daten ein Beispiel nehmen.%0a\ No newline at end of file%0a---%0a> Im Jahre 2007 hat Trix Heberlein die WTO/GATT Ausschreibung der Swissmedic zur Publikation der Fach- und Patienteninformation [[http://www.ywesee.com/pmwiki.php/Main/2007#heberlein2007 | verhindert]]. 5 Jahre später erfolgt nun doch die [[http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de | WTO-Aussschreibung]].%0a\ No newline at end of file%0a
+host:1322658793=80.219.10.249
+author:1322658734=zeno
+diff:1322658734:1322658707:=1c1%0a%3c !!! 30.11.2011 - Verhinderung führt nie zum Ziel sondern nur zum Desaster%0a---%0a> !!! 30.11.2011%0a
+host:1322658734=80.219.10.249
+author:1322658707=zeno
+diff:1322658707:1322658707:=1,2d0%0a%3c !!! 30.11.2011%0a%3c Im Jahre 2007 hat Trix Heberlein die WTO/GATT Ausschreibung der Swissmedic zur Publikation der Fach- und Patienteninformation [[http://www.ywesee.com/pmwiki.php/Main/2007#heberlein2007 | verhindert]]. 5 Jahre später erfolgt nun doch die [[http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de | WTO-Aussschreibung]].%0a\ No newline at end of file%0a
+host:1322658707=80.219.10.249

@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1124720647
+text=!HtmlGrid von ywesee, LGPL²http://scm.ywesee.com/?p=htmlgrid;a=summary
+targets=Ywesee.HtmlGrid
+author=
+author:1124720612=
+host:1124720612=217.162.177.109
+diff:1124720612:1124720612:=1d0²< !HtmlGrid von ywesee, LGPL²\ No newline at end of file²
+name=Ywesee.HtmlGrid
+host=217.162.177.109
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050724 Firefox/1.0.6
+rev=2
+author:1124720647=
+host:1124720647=217.162.177.109
+diff:1124720647:1124720612:=1,2c1²< !HtmlGrid von ywesee, LGPL²< http://scm.ywesee.com/?p=htmlgrid;a=summary²\ No newline at end of file²---²> !HtmlGrid von ywesee, LGPL²\ No newline at end of file²

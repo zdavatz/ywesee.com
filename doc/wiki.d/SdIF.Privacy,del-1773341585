@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1773341550
+host=212.51.146.241
+name=SdIF.Privacy
+rev=2
+targets=
+text=! Privacy Policy SDIF%0a* SDIF '''stores all data on your local machine'''.%0a* SDIF '''does not''' collect any user data.%0a* SDIF '''does not''' store any user data in the cloud.
+time=1773341560
+author:1773341560=zeno
+diff:1773341560:1773341550:=2c2%0a%3c * SDIF '''stores all data on your local machine'''.%0a---%0a> * SDIF '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a
+host:1773341560=212.51.146.241
+author:1773341550=zeno
+diff:1773341550:1773341550:=1,4d0%0a%3c ! Privacy Policy SDIF%0a%3c * SDIF '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a%3c * SDIF '''does not''' collect any user data.%0a%3c * SDIF '''does not''' store any user data in the cloud.%0a\ No newline at end of file%0a
+host:1773341550=212.51.146.241

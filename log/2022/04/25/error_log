@@ -1,0 +1,33 @@
+[Mon Apr 25 00:12:33 2022] [error] [client 45.9.20.103] File does not exist: /var/www/ywesee.com/doc/wp-includes
+[Mon Apr 25 00:27:17 2022] [error] [client 66.249.68.36] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Apr 25 01:07:04 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Mon Apr 25 01:07:05 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Mon Apr 25 02:06:34 2022] [error] [client 159.65.51.181] File does not exist: /var/www/ywesee.com/doc/vendor
+[Mon Apr 25 02:06:35 2022] [error] [client 159.65.51.181] File does not exist: /var/www/ywesee.com/doc/vendor
+[Mon Apr 25 02:06:35 2022] [error] [client 159.65.51.181] File does not exist: /var/www/ywesee.com/doc/app
+[Mon Apr 25 02:06:35 2022] [error] [client 159.65.51.181] File does not exist: /var/www/ywesee.com/doc/app
+[Mon Apr 25 02:06:35 2022] [error] [client 159.65.51.181] File does not exist: /var/www/ywesee.com/doc/.env
+[Mon Apr 25 04:57:18 2022] [error] [client 66.249.68.40] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Apr 25 06:01:34 2022] [error] [client 5.167.4.35] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Mon Apr 25 06:01:40 2022] [error] [client 5.167.4.35] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Mon Apr 25 07:15:24 2022] [error] [client 182.145.126.202] File does not exist: /var/www/ywesee.com/doc/install, referer: https://www.ywesee.com/install/index.php?step=11&insLockfile=a&s_lang=a&install_demo_name=../data/admin/config_update.php
+[Mon Apr 25 10:23:56 2022] [error] [client 142.93.101.222] File does not exist: /var/www/ywesee.com/doc/vendor
+[Mon Apr 25 10:23:56 2022] [error] [client 142.93.101.222] File does not exist: /var/www/ywesee.com/doc/vendor
+[Mon Apr 25 10:23:57 2022] [error] [client 142.93.101.222] File does not exist: /var/www/ywesee.com/doc/app
+[Mon Apr 25 10:23:57 2022] [error] [client 142.93.101.222] File does not exist: /var/www/ywesee.com/doc/app
+[Mon Apr 25 10:23:57 2022] [error] [client 142.93.101.222] File does not exist: /var/www/ywesee.com/doc/.env
+[Mon Apr 25 11:23:13 2022] [error] [client 66.249.68.55] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Mon Apr 25 11:59:22 2022] [error] [client 129.151.234.118] File does not exist: /var/www/ywesee.com/doc/.git
+[Mon Apr 25 12:01:29 2022] [error] [client 66.249.68.38] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Apr 25 12:51:16 2022] [error] [client 66.249.75.136] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Apr 25 13:42:39 2022] [error] [client 66.249.75.136] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Apr 25 13:53:27 2022] [error] [client 66.249.75.136] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Mon Apr 25 14:24:53 2022] [error] [client 66.249.75.132] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Apr 25 15:39:00 2022] [error] [client 182.135.116.203] File does not exist: /var/www/ywesee.com/doc/plus, referer: https://www.ywesee.com/plus/flink.php
+[Mon Apr 25 15:54:33 2022] [error] [client 77.183.86.52] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Mon Apr 25 15:54:33 2022] [error] [client 77.183.86.52] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Mon Apr 25 17:31:41 2022] [error] [client 171.217.251.195] File does not exist: /var/www/ywesee.com/doc/install, referer: https://www.ywesee.com/install/index.php.bak?step=11&insLockfile=a&s_lang=a&install_demo_name=../data/admin/config_update.php
+[Mon Apr 25 19:47:22 2022] [error] [client 37.228.140.149] File does not exist: /var/www/ywesee.com/doc/dev
+[Mon Apr 25 20:49:34 2022] [error] [client 125.65.228.137] File does not exist: /var/www/ywesee.com/doc/plus, referer: https://www.ywesee.com/plus/search.php?keyword=as&typeArr[111%3D@`\\'`)+UnIon+seleCt+1,2,3,4,5,6,7,8,9,10,userid,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,pwd,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42+from+`%23@__admin`%23@`\\'`+]=a
+[Mon Apr 25 21:05:58 2022] [error] [client 66.249.69.196] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Mon Apr 25 23:59:32 2022] [error] [client 66.249.75.151] File does not exist: /var/www/ywesee.com/doc/de

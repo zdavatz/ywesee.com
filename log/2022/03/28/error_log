@@ -1,0 +1,26 @@
+[Mon Mar 28 00:20:00 2022] [error] [client 89.217.82.179] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon.png
+[Mon Mar 28 00:20:00 2022] [error] [client 89.217.82.179] File does not exist: /var/www/ywesee.com/doc/apple-touch-icon-precomposed.png
+[Mon Mar 28 00:30:47 2022] [error] [client 186.102.11.224] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat
+[Mon Mar 28 01:00:05 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Mon Mar 28 01:00:06 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Mon Mar 28 02:52:29 2022] [error] [client 35.204.233.191] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Mon Mar 28 03:12:40 2022] [error] [client 13.57.228.61] File does not exist: /var/www/ywesee.com/doc/.env
+[Mon Mar 28 04:38:04 2022] [error] [client 66.249.66.214] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Mar 28 06:04:26 2022] [error] [client 66.249.66.214] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Mar 28 08:33:10 2022] [error] [client 121.188.17.117] File does not exist: /var/www/ywesee.com/doc/citrix, referer: https://ywesee.com/citrix/cgi/Resources/List
+[Mon Mar 28 08:33:23 2022] [error] [client 121.188.17.117] File does not exist: /var/www/ywesee.com/doc/cgi, referer: https://ywesee.com/cgi/Resources/List
+[Mon Mar 28 12:32:44 2022] [error] [client 157.55.39.89] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Mar 28 12:36:03 2022] [error] [client 66.249.66.218] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Mon Mar 28 13:36:03 2022] [error] [client 66.249.66.216] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Mon Mar 28 16:06:07 2022] [error] [client 66.249.66.223] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Mon Mar 28 17:24:01 2022] [error] [client 66.249.66.214] File does not exist: /var/www/ywesee.com/doc/de
+[Mon Mar 28 19:36:30 2022] [error] [client 46.146.137.124] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Mon Mar 28 19:36:30 2022] [error] [client 46.146.137.124] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Mon Mar 28 19:36:32 2022] [error] [client 46.146.137.124] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Mon Mar 28 19:36:33 2022] [error] [client 2.95.28.250] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Mon Mar 28 19:36:34 2022] [error] [client 46.146.137.124] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Mon Mar 28 19:36:37 2022] [error] [client 2.95.28.250] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Mon Mar 28 19:36:40 2022] [error] [client 2.95.28.250] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Mon Mar 28 22:00:22 2022] [error] [client 185.191.171.3] File does not exist: /var/www/ywesee.com/doc/sitemap.xml
+[Mon Mar 28 22:22:15 2022] [error] [client 219.142.131.78] File does not exist: /var/www/ywesee.com/doc/staff
+[Mon Mar 28 22:22:19 2022] [error] [client 219.142.131.78] File does not exist: /var/www/ywesee.com/doc/staff

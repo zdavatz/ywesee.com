@@ -1,0 +1,42 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 9754 invoked by uid 210); 3 May 06 17:52:29 +00
+Received: from 61.7.1.149 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 1) with qmail-scanner-1.25st 
+ (clamdscan: 0.88.1/1436. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(61.7.1.149):. 
+ Processed in 0.182746 secs); 03 May 06 15:52:29 -0000
+Received: from unknown (HELO ?172.30.9.199?) (zdavatz@ywesee.com@61.7.1.149)
+  by mail.ywesee.com with ESMTPA; 3 May 06 17:52:29 +00
+Mime-Version: 1.0 (Apple Message framework v749.3)
+Content-Type: text/plain; charsetISO-8859-1; delspyes; formatflowed
+Message-Id: <C1875B73-0122-430B-A28E-A5978B6B221A@ywesee.com>
+Cc: "Zeno R.R. Davatz" <todo@oddb.org>
+Content-Transfer-Encoding: quoted-printable
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+Subject: Patentablaufdatum von Swissreg.ch bald in ODDB.org / Generika.cc
+Date: Wed, 3 May 06 17:55:01 +00
+To: "oddb.org mailinglist" <pharmafirma@oddb.org>,
+ "generika.cc mailinglist" <news@generika.cc>,
+ "oddb.org mailinglist" <komplementaermedizin@oddb.org>
+X-Mailer: Apple Mail (2.749.3)
+
+Sehr geehrte Damen und Herren
+
+Wir planen das Patentablaufdatum von Swissreg.ch zu übernehmen. Bitte beachten Sie dabei folgende Regeln:
+
+Wenn in einem ATC-Code ein Patentgeschütztes Produkt vorkommt, werden alle anderen Produkte ausgeblendet, es sei denn:
+
+- Wenn ein Produkt vom gleichen Hersteller ist
+- Wenn ein Produkt als Original oder Co-Marketing-Produkt gekennzeichnet ist
+- Wenn die Registration älter als ein Jahr ist (das ist der Kniff, 
+mit dem wir die allermeisten Produkte vom Vergleich ausschliessen 
+können -  ich denke es würde für Generika-Hersteller keinen Sinn machen, ein 
+Produkt früher zu Registrieren, da ja die Registration 
+nach 5 Jahren schon wieder erneuert werden muss) 
+
+Ihr Feedback ist immer willkommen!
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50

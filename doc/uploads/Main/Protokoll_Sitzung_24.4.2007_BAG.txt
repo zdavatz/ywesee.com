@@ -1,0 +1,36 @@
+Subject: Protokoll Sitzung vom 24.4.2007, 11 Uhr bis 12.09 Uhr
+From: Zeno R.R. Davatz
+Date: Tue, 24 Apr 2007 14:59:58 +0200
+
+Sehr geehrter Herr Wildi
+
+Besten Dank für das Gespräch von heute.
+
+Ich protokolliere die Sitzung wie folgt:
+
+Anwesende:
+Herr Andreas Wildi
+Herr Reinhard Kämpf
+Herr Ueli Schäfer
+Herr Zeno Davatz
+
+1. Ziel ist, dass man sämtliche fehlerhaften EAN-Codes auf 0 reduziert
+mit Hilfe eines Aufräumskripts. Gemäss meiner Vorstellung kann dieses
+EAN-Code-Aufräumskript min. einmal pro Monat laufen gelassen werden,
+jeweils immer einen oder zwei Tage bevor der Excel-Export stattfindet.
+Herr Schäfer erledigt diese Sache zusammen mit Herr Dr. Kämpf.
+
+2. Nach Möglichkeit möchte ich gerne in den Vertrag zwischen der
+E-mediat und dem BAG Einsicht erhalten, bezgl. Preis, Umfang und Dauer
+der Dienstleistung, welche die E-mediat gegenüber dem BAG erbringt.
+
+3. Langfristig haben Sie erwähnt, dass es durchaus zu einer grössern
+Applikation kommen kann, welche dann um einiges grösser wäre als die
+bestehende Applikation. Ev. wäre dies im Zusammenhang mit einer
+WTO-Ausschreibung zu begutachten.
+
+Ich wünsche Ihnen noch einen schönen Tag.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50

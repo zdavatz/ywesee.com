@@ -1,0 +1,27 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.3a1pre) Gecko/20100204 Minefield/3.7a1pre
+author=
+charset=ISO-8859-1
+csum=
+ctime=1265375369
+host=80.219.10.249
+name=Main.EPubReader
+rev=5
+targets=
+text=! EpubReader is a great Firefox Plugin!%0a# EPUBReader erstellt eine ePub-Bibliotheksseite, auf der alle ePub-Dateien, die Sie heruntergeladen/geöffnet haben, aufgelistet werden. Sie können diese Datei auf drei Wegen öffnen:%0a# EPUBReader hat ein Lesezeichen mit dem Namen "ePub-Bibliothek" an das Ende Ihrer Lesezeichenliste eingefügt.%0a# Sie finden ein neues Menü "ePub-Bibliothek" in dem Firefox-Menü "Extras".%0a# Wenn Sie eine ePub-Datei lesen, finden Sie unten einen Button, mit dem Sie die ePub-Bibliothek öffnen können.%0a%0a http://www.epubread.com/de/%0a http://www.epubread.com/de/faq.php
+time=1265378866
+author:1265378866=
+diff:1265378866:1265375471:=7,8c7%0a%3c  http://www.epubread.com/de/%0a%3c  http://www.epubread.com/de/faq.php%0a\ No newline at end of file%0a---%0a>  http://www.epubread.com/de/%0a\ No newline at end of file%0a
+host:1265378866=80.219.10.249
+author:1265375471=
+diff:1265375471:1265375396:=5,7c5%0a%3c # Wenn Sie eine ePub-Datei lesen, finden Sie unten einen Button, mit dem Sie die ePub-Bibliothek öffnen können.%0a%3c %0a%3c  http://www.epubread.com/de/%0a\ No newline at end of file%0a---%0a> # Wenn Sie eine ePub-Datei lesen, finden Sie unten einen Button, mit dem Sie die ePub-Bibliothek öffnen können.%0a\ No newline at end of file%0a
+host:1265375471=80.219.10.249
+author:1265375396=
+diff:1265375396:1265375375:=2,5c2,5%0a%3c # EPUBReader erstellt eine ePub-Bibliotheksseite, auf der alle ePub-Dateien, die Sie heruntergeladen/geöffnet haben, aufgelistet werden. Sie können diese Datei auf drei Wegen öffnen:%0a%3c # EPUBReader hat ein Lesezeichen mit dem Namen "ePub-Bibliothek" an das Ende Ihrer Lesezeichenliste eingefügt.%0a%3c # Sie finden ein neues Menü "ePub-Bibliothek" in dem Firefox-Menü "Extras".%0a%3c # Wenn Sie eine ePub-Datei lesen, finden Sie unten einen Button, mit dem Sie die ePub-Bibliothek öffnen können.%0a\ No newline at end of file%0a---%0a> a.. EPUBReader erstellt eine ePub-Bibliotheksseite, auf der alle ePub-Dateien, die Sie heruntergeladen/geöffnet haben, aufgelistet werden. Sie können diese Datei auf drei Wegen öffnen:%0a> a.. EPUBReader hat ein Lesezeichen mit dem Namen "ePub-Bibliothek" an das Ende Ihrer Lesezeichenliste eingefügt.%0a> b.. Sie finden ein neues Menü "ePub-Bibliothek" in dem Firefox-Menü "Extras".%0a> c.. Wenn Sie eine ePub-Datei lesen, finden Sie unten einen Button, mit dem Sie die ePub-Bibliothek öffnen können.%0a\ No newline at end of file%0a
+host:1265375396=80.219.10.249
+author:1265375375=
+diff:1265375375:1265375369:=3,5c3,5%0a%3c a.. EPUBReader hat ein Lesezeichen mit dem Namen "ePub-Bibliothek" an das Ende Ihrer Lesezeichenliste eingefügt.%0a%3c b.. Sie finden ein neues Menü "ePub-Bibliothek" in dem Firefox-Menü "Extras".%0a%3c c.. Wenn Sie eine ePub-Datei lesen, finden Sie unten einen Button, mit dem Sie die ePub-Bibliothek öffnen können.%0a\ No newline at end of file%0a---%0a>  a.. EPUBReader hat ein Lesezeichen mit dem Namen "ePub-Bibliothek" an das Ende Ihrer Lesezeichenliste eingefügt.%0a>  b.. Sie finden ein neues Menü "ePub-Bibliothek" in dem Firefox-Menü "Extras".%0a>  c.. Wenn Sie eine ePub-Datei lesen, finden Sie unten einen Button, mit dem Sie die ePub-Bibliothek öffnen können.%0a\ No newline at end of file%0a
+host:1265375375=80.219.10.249
+author:1265375369=
+diff:1265375369:1265375369:=1,5d0%0a%3c ! EpubReader is a great Firefox Plugin!%0a%3c a.. EPUBReader erstellt eine ePub-Bibliotheksseite, auf der alle ePub-Dateien, die Sie heruntergeladen/geöffnet haben, aufgelistet werden. Sie können diese Datei auf drei Wegen öffnen:%0a%3c  a.. EPUBReader hat ein Lesezeichen mit dem Namen "ePub-Bibliothek" an das Ende Ihrer Lesezeichenliste eingefügt.%0a%3c  b.. Sie finden ein neues Menü "ePub-Bibliothek" in dem Firefox-Menü "Extras".%0a%3c  c.. Wenn Sie eine ePub-Datei lesen, finden Sie unten einen Button, mit dem Sie die ePub-Bibliothek öffnen können.%0a\ No newline at end of file%0a
+host:1265375369=80.219.10.249

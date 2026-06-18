@@ -1,0 +1,85 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 19746 invoked from network); 19 Jan 2009 16:05:31 -0000
+X-Spam-Status: No, hits-4.4 required3.0
+	testsALL_TRUSTED,BAYES_00
+X-Spam-Check-By: mail.ywesee.com
+Received: from [84.72.92.25] (HELO zenogentoo.localdomain) (84.72.92.25)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Mon, 19 Jan 2009 17:05:31 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by zenogentoo.localdomain (Postfix) with ESMTP id 4AAC5FA119;
+	Mon, 19 Jan 2009 17:05:29 +0100 (CET)
+Date: Mon, 19 Jan 2009 17:05:29 +0100 (CET)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: Aeschbacher Samuel <samuel.aeschbacher@e-mediat.net>
+cc: "todo at ODDB.org" <todo@oddb.org>
+Subject: Potentiell falsche EAN-Codes in Refdata.ch: 40
+Message-ID: <alpine.LNX.2.00.0901191658490.5378@localhost>
+User-Agent: Alpine 2.00 (LNX 1184 2008-12-16)
+Organisation: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY"8323328-1559994924-1232381129:5378"
+X-Virus-Checked: Checked by ClamAV on mail.ywesee.com
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-1559994924-1232381129:5378
+Content-Type: TEXT/PLAIN; formatflowed; charsetISO-8859-1
+Content-Transfer-Encoding: 8BIT
+
+Sehr geehrter Herr Aeschbacher
+
+Wir gehen davon aus, dass folgende EAN-Codes auf Refdata.ch falsch sind 
+(Total 40 Stück). Folgend sind die richtigen EAN-Codes. Wir haben die 
+Codes an Hand vom Swissmedic-Excel verglichen.
+
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,57459!sequence,01!package,003.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,46548!sequence,02!package,029.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,17352!sequence,01!package,025.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,50409!sequence,02!package,023.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,16790!sequence,02!package,053.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,10080!sequence,01!package,045.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,34730!sequence,02!package,024.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,47141!sequence,02!package,037.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,36075!sequence,01!package,023.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,39932!sequence,01!package,024.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,45009!sequence,01!package,042.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,50230!sequence,02!package,023.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,50231!sequence,02!package,038.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,43667!sequence,01!package,025.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,53459!sequence,01!package,021.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,45466!sequence,01!package,020.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,43626!sequence,01!package,043.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,51860!sequence,02!package,020.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,51076!sequence,02!package,029.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,56739!sequence,02!package,004.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,08579!sequence,02!package,040.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,50723!sequence,02!package,038.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,27527!sequence,01!package,020.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,48560!sequence,01!package,032.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,45258!sequence,01!package,025.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,45259!sequence,01!package,021.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,43194!sequence,03!package,046.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,48544!sequence,02!package,029.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,36509!sequence,02!package,023.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,54888!sequence,02!package,024.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,49302!sequence,02!package,011.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,48525!sequence,02!package,032.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,50372!sequence,02!package,022.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,37534!sequence,02!package,014.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,50290!sequence,02!package,026.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,12874!sequence,02!package,015.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,50291!sequence,02!package,022.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,50296!sequence,02!package,024.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,50369!sequence,02!package,021.
+http://www.oddb.org/de/gcc/resolve/pointer/:!registration,45056!sequence,02!package,058.
+
+Danke für Ihr Feedback.
+
+Mit freundlichen Grüssen
+Zeno Davatz
+--8323328-1559994924-1232381129:5378--

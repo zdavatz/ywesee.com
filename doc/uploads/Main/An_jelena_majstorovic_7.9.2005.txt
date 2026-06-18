@@ -1,0 +1,58 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 7720 invoked by uid 210); 7 Sep 2005 17:51:54 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/1066. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.032318 secs); 07 Sep 2005 15:51:54 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 7 Sep 2005 17:51:54 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id C861515A4CA; Wed,  7 Sep 2005 17:43:57 +0200 (CEST)
+Date: Wed, 7 Sep 2005 17:43:57 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Majstorovic Jelena <jelena.majstorovic@weko.admin.ch>
+Cc: todo@oddb.org
+Subject: Akteneinsicht et al.
+Message-ID: <20050907154357.GC5021@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrte Frau Majstorovic
+
+Besten Dank für Ihren Anruf.
+
+1. Hiermit nehme ich Bezug auf meine beiden Emails von heute und möchte
+Sie höflich anfragen mir an erster Stelle die Position 99 aus dem 
+Aktenverzeichnis, welche ca. 27 Seiten enthält per Post zuzustellen.
+
+2. Sollte ich noch weitere Akteneinsicht benötigen, werde ich mich gerne
+nach Bern begeben und die Übrigen Akten kopieren. Einen vereinbarten
+Termin würde ich gemäss Ihrem Wunsch auf den November legen da Sie
+anfangs Oktober abwesend sind. Für diesen Termin werde ich Sie in einem
+separaten Email anfragen.
+
+3. Gemäss Ihrem Wunsch habe ich den WekoBlog von ywesee angepasst und
+alles was nicht direkt mit dem laufenden Verfahren zu tun hat in eine
+separate Seite gestellt unter:20
+
+  http://www.ywesee.com/pmwiki.php?n3DMain.WekoBlogAntragAufErweiterung
+
+Obige Seite habe ich mit dem WekoBlog verlinkt:
+
+  http://www.ywesee.com/pmwiki.php?n3DMain.WekoBlog
+
+4. Des Weiteren bitte ich Sie die Fragestellung der fehlerhaften
+offiziellen SL-Liste/EAN-Codes/Pharmacodes vom BAG auch in den Fragebogen 
+aufzunehmen. Im Vergleich dazu auch der Galdat/Medwin.ch, welcher 
+offensichtlich die korrekten EAN-Codes enthält.
+
+Ich hoffe Ihnen mit diesem Schreiben zu Dienen.
+
+In vorzüglicher Hochachtung
+Zeno Davatz

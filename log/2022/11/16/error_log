@@ -1,0 +1,141 @@
+[Wed Nov 16 00:25:34 2022] [error] [client 35.175.119.171] File does not exist: /var/www/ywesee.com/doc/.git
+[Wed Nov 16 00:25:36 2022] [error] [client 35.175.119.171] File does not exist: /var/www/ywesee.com/doc/.git
+[Wed Nov 16 00:33:23 2022] [error] [client 185.36.81.21] File does not exist: /var/www/ywesee.com/doc/fckeditor
+[Wed Nov 16 00:40:43 2022] [error] [client 54.241.62.11] File does not exist: /var/www/ywesee.com/doc/.git
+[Wed Nov 16 00:40:45 2022] [error] [client 54.241.62.11] File does not exist: /var/www/ywesee.com/doc/.git
+[Wed Nov 16 00:47:45 2022] [error] [client 157.55.39.57] File does not exist: /var/www/ywesee.com/doc/fr
+[Wed Nov 16 01:00:06 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Wed Nov 16 01:00:07 2022] [warn] RSA server certificate CommonName (CN) `www.ywesee.com' does NOT match server name!?
+[Wed Nov 16 01:11:32 2022] [error] [client 145.239.67.10] File does not exist: /var/www/ywesee.com/doc/radio.txt
+[Wed Nov 16 01:55:41 2022] [error] [client 106.227.34.64] File does not exist: /var/www/ywesee.com/doc/databak, referer: http://www.ywesee.com/databak/phome.php
+[Wed Nov 16 02:24:00 2022] [error] [client 185.36.81.21] File does not exist: /var/www/ywesee.com/doc/admin
+[Wed Nov 16 02:37:55 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Wed Nov 16 02:38:00 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Wed Nov 16 02:38:03 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Wed Nov 16 02:38:17 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Wed Nov 16 02:38:22 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Wed Nov 16 02:38:28 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Wed Nov 16 02:38:34 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Wed Nov 16 02:38:40 2022] [error] [client 157.90.182.30] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Wed Nov 16 03:10:58 2022] [error] [client 194.110.203.47] File does not exist: /var/www/ywesee.com/doc/ywesee.comdb.zip
+[Wed Nov 16 03:17:07 2022] [error] [client 66.249.66.218] File does not exist: /var/www/ywesee.com/doc/de
+[Wed Nov 16 03:20:32 2022] [error] [client 66.249.76.245] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Wed Nov 16 03:48:01 2022] [error] [client 157.90.181.222] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Wed Nov 16 03:48:07 2022] [error] [client 157.90.181.222] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Wed Nov 16 03:50:49 2022] [error] [client 185.36.81.21] File does not exist: /var/www/ywesee.com/doc/admin
+[Wed Nov 16 04:57:30 2022] [error] [client 57.128.37.136] File does not exist: /var/www/ywesee.com/doc/wp-content
+[Wed Nov 16 04:57:34 2022] [error] [client 57.128.37.136] File does not exist: /var/www/ywesee.com/doc/wp-content
+[Wed Nov 16 05:17:05 2022] [error] [client 85.54.122.7] File does not exist: /var/www/ywesee.com/doc/ywesee.com_db.zip
+[Wed Nov 16 05:17:40 2022] [error] [client 18.234.30.116] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Nov 16 05:17:41 2022] [error] [client 18.234.30.116] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Nov 16 05:17:42 2022] [error] [client 18.234.30.116] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Nov 16 05:17:43 2022] [error] [client 18.234.30.116] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Nov 16 05:18:58 2022] [error] [client 5.227.26.138] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:18:58 2022] [error] [client 5.227.26.138] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:19:00 2022] [error] [client 5.227.26.138] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:19:00 2022] [error] [client 5.227.26.138] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:19:03 2022] [error] [client 5.227.26.138] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:19:03 2022] [error] [client 5.227.26.138] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:19:05 2022] [error] [client 5.227.26.138] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:19:05 2022] [error] [client 5.227.26.138] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:21:28 2022] [error] [client 167.99.228.9] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat, referer: http://ywesee.com
+[Wed Nov 16 05:21:31 2022] [error] [client 167.99.228.9] File does not exist: /var/www/ywesee.com/doc/wordpress, referer: http://ywesee.com
+[Wed Nov 16 05:21:31 2022] [error] [client 167.99.228.9] File does not exist: /var/www/ywesee.com/doc/blog, referer: http://ywesee.com
+[Wed Nov 16 05:21:32 2022] [error] [client 167.99.228.9] File does not exist: /var/www/ywesee.com/doc/wp, referer: http://ywesee.com
+[Wed Nov 16 05:21:52 2022] [error] [client 89.246.241.14] File does not exist: /var/www/ywesee.com/doc/sitemap.xml
+[Wed Nov 16 05:21:59 2022] [error] [client 89.246.241.14] File does not exist: /var/www/ywesee.com/doc/sitemap.xml
+[Wed Nov 16 05:23:43 2022] [error] [client 188.165.223.112] File does not exist: /var/www/ywesee.com/doc/radio.txt
+[Wed Nov 16 05:28:13 2022] [error] [client 185.36.81.21] File does not exist: /var/www/ywesee.com/doc/admin
+[Wed Nov 16 05:37:17 2022] [error] [client 162.55.86.61] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Wed Nov 16 05:37:23 2022] [error] [client 162.55.86.61] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Wed Nov 16 05:37:58 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:37:59 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:37:59 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:38:00 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:38:01 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:38:01 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:38:03 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:38:04 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:38:04 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:38:05 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:38:06 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:38:06 2022] [error] [client 188.232.236.32] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:39:18 2022] [error] [client 85.140.93.18] File does not exist: /var/www/ywesee.com/doc/apple-app-site-association
+[Wed Nov 16 05:39:21 2022] [error] [client 85.140.93.18] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 05:57:04 2022] [error] [client 198.187.31.250] script '/var/www/ywesee.com/doc/style.php' not found or unable to stat
+[Wed Nov 16 06:08:43 2022] [error] [client 178.214.249.64] File does not exist: /var/www/ywesee.com/doc/.well-known
+[Wed Nov 16 06:47:43 2022] [error] [client 194.110.203.41] File does not exist: /var/www/ywesee.com/doc/ywesee.com-db.zip
+[Wed Nov 16 06:59:04 2022] [error] [client 185.36.81.21] File does not exist: /var/www/ywesee.com/doc/admin
+[Wed Nov 16 08:20:43 2022] [error] [client 171.236.4.28] File does not exist: /var/www/ywesee.com/doc/phpmyadmin
+[Wed Nov 16 08:20:44 2022] [error] [client 171.236.4.28] File does not exist: /var/www/ywesee.com/doc/administrator
+[Wed Nov 16 08:20:44 2022] [error] [client 171.236.4.28] File does not exist: /var/www/ywesee.com/doc/phpmyadmin
+[Wed Nov 16 08:20:45 2022] [error] [client 171.236.4.28] File does not exist: /var/www/ywesee.com/doc/administrator, referer: https://ywesee.com/administrator/
+[Wed Nov 16 08:21:12 2022] [error] [client 171.236.4.28] File does not exist: /var/www/ywesee.com/doc/pma
+[Wed Nov 16 08:21:13 2022] [error] [client 171.236.4.28] File does not exist: /var/www/ywesee.com/doc/wp-admin
+[Wed Nov 16 08:21:15 2022] [error] [client 171.236.4.28] script '/var/www/ywesee.com/doc/admin.php' not found or unable to stat
+[Wed Nov 16 08:21:22 2022] [error] [client 171.236.4.28] File does not exist: /var/www/ywesee.com/doc/admin
+[Wed Nov 16 08:21:44 2022] [error] [client 171.236.4.28] File does not exist: /var/www/ywesee.com/doc/admin
+[Wed Nov 16 08:21:48 2022] [error] [client 185.228.137.72] File does not exist: /var/www/ywesee.com/doc/administrator
+[Wed Nov 16 08:21:50 2022] [error] [client 185.228.137.72] File does not exist: /var/www/ywesee.com/doc/administrator, referer: https://ywesee.com/administrator/
+[Wed Nov 16 08:21:55 2022] [error] [client 45.151.167.10] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat
+[Wed Nov 16 08:21:57 2022] [error] [client 45.151.167.10] File does not exist: /var/www/ywesee.com/doc/wp-admin, referer: https://ywesee.com/wp-login.php
+[Wed Nov 16 08:22:02 2022] [error] [client 45.151.167.10] script '/var/www/ywesee.com/doc/admin.php' not found or unable to stat
+[Wed Nov 16 08:22:05 2022] [error] [client 107.189.11.207] File does not exist: /var/www/ywesee.com/doc/admin
+[Wed Nov 16 08:22:10 2022] [error] [client 45.134.225.36] File does not exist: /var/www/ywesee.com/doc/admin
+[Wed Nov 16 08:22:19 2022] [error] [client 104.149.141.229] File does not exist: /var/www/ywesee.com/doc/admin
+[Wed Nov 16 08:42:47 2022] [error] [client 18.234.30.116] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Nov 16 08:42:48 2022] [error] [client 18.234.30.116] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Nov 16 08:47:02 2022] [error] [client 194.110.203.42] File does not exist: /var/www/ywesee.com/doc/ywesee.com_database.zip
+[Wed Nov 16 09:10:34 2022] [error] [client 185.36.81.21] File does not exist: /var/www/ywesee.com/doc/mambots
+[Wed Nov 16 09:34:39 2022] [error] [client 118.107.11.18] File does not exist: /var/www/ywesee.com/doc/include
+[Wed Nov 16 09:34:41 2022] [error] [client 118.107.11.18] File does not exist: /var/www/ywesee.com/doc/include
+[Wed Nov 16 09:53:20 2022] [error] [client 104.200.151.162] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat
+[Wed Nov 16 10:27:45 2022] [error] [client 66.249.76.87] File does not exist: /var/www/ywesee.com/doc/amiko
+[Wed Nov 16 10:38:22 2022] [error] [client 66.249.66.223] File does not exist: /var/www/ywesee.com/doc/comed
+[Wed Nov 16 10:41:42 2022] [error] [client 185.36.81.21] File does not exist: /var/www/ywesee.com/doc/mambots
+[Wed Nov 16 10:44:00 2022] [error] [client 194.110.203.47] File does not exist: /var/www/ywesee.com/doc/ywesee.com-database.zip
+[Wed Nov 16 10:51:20 2022] [error] [client 66.249.76.91] File does not exist: /var/www/ywesee.com/doc/generikacc
+[Wed Nov 16 12:01:44 2022] [error] [client 40.127.233.44] File does not exist: /var/www/ywesee.com/doc/ywesee.com_dump.zip
+[Wed Nov 16 13:38:18 2022] [error] [client 52.169.66.33] File does not exist: /var/www/ywesee.com/doc/ywesee.com-dump.zip
+[Wed Nov 16 14:26:59 2022] [error] [client 20.198.221.121] File does not exist: /var/www/ywesee.com/doc/wp-admin, referer: binance.com
+[Wed Nov 16 14:27:13 2022] [error] [client 20.198.221.121] File does not exist: /var/www/ywesee.com/doc/.well-known, referer: binance.com
+[Wed Nov 16 14:27:39 2022] [error] [client 20.198.221.121] File does not exist: /var/www/ywesee.com/doc/sites, referer: binance.com
+[Wed Nov 16 14:27:57 2022] [error] [client 20.198.221.121] File does not exist: /var/www/ywesee.com/doc/admin, referer: binance.com
+[Wed Nov 16 14:28:25 2022] [error] [client 20.198.221.121] Directory index forbidden by Options directive: /var/www/ywesee.com/doc/uploads/, referer: binance.com
+[Wed Nov 16 14:50:48 2022] [error] [client 66.249.76.245] File does not exist: /var/www/ywesee.com/doc/app-ads.txt
+[Wed Nov 16 14:50:49 2022] [error] [client 66.249.76.245] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Wed Nov 16 15:28:54 2022] [error] [client 51.104.43.205] File does not exist: /var/www/ywesee.com/doc/ywesee.combackup.zip
+[Wed Nov 16 15:33:37 2022] [error] [client 192.9.139.101] File does not exist: /var/www/ywesee.com/doc/wp-content, referer: http://ywesee.net//wp-content/themes/seotheme/db.php?u
+[Wed Nov 16 15:33:37 2022] [error] [client 192.9.139.101] File does not exist: /var/www/ywesee.com/doc/wp-content, referer: http://ywesee.net//wp-content/plugins/seoplugins/mar.php
+[Wed Nov 16 15:33:38 2022] [error] [client 192.9.139.101] File does not exist: /var/www/ywesee.com/doc/wp-content, referer: http://ywesee.net//wp-content/themes/seotheme/mar.php
+[Wed Nov 16 16:58:03 2022] [error] [client 185.81.157.28] File does not exist: /var/www/ywesee.com/doc/.env
+[Wed Nov 16 16:58:08 2022] [error] [client 185.81.157.28] File does not exist: /var/www/ywesee.com/doc/.env.example
+[Wed Nov 16 16:58:09 2022] [error] [client 185.81.157.28] File does not exist: /var/www/ywesee.com/doc/_profiler
+[Wed Nov 16 17:27:04 2022] [error] [client 157.90.181.221] File does not exist: /var/www/ywesee.com/doc/sitemap
+[Wed Nov 16 17:27:07 2022] [error] [client 157.90.181.221] File does not exist: /var/www/ywesee.com/doc/sitemap.txt
+[Wed Nov 16 17:32:57 2022] [error] [client 66.249.66.216] File does not exist: /var/www/ywesee.com/doc/de
+[Wed Nov 16 18:51:52 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/wp-includes
+[Wed Nov 16 18:51:52 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/feed
+[Wed Nov 16 18:51:52 2022] [error] [client 20.172.65.95] script '/var/www/ywesee.com/doc/xmlrpc.php' not found or unable to stat
+[Wed Nov 16 18:51:52 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/blog
+[Wed Nov 16 18:51:52 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/web
+[Wed Nov 16 18:51:52 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/wordpress
+[Wed Nov 16 18:51:53 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/wp
+[Wed Nov 16 18:51:53 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/shop
+[Wed Nov 16 18:51:53 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/wp1
+[Wed Nov 16 18:51:53 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/test
+[Wed Nov 16 18:51:54 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/site
+[Wed Nov 16 18:51:54 2022] [error] [client 20.172.65.95] File does not exist: /var/www/ywesee.com/doc/cms
+[Wed Nov 16 18:53:03 2022] [error] [client 151.106.35.235] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat, referer: http://ywesee.org/wp-login.php
+[Wed Nov 16 19:15:40 2022] [error] [client 165.232.190.217] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat, referer: http://ywesee.net/wp-login.php
+[Wed Nov 16 19:19:05 2022] [error] [client 152.160.235.235] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat, referer: http://ywesee.ch/wp-login.php
+[Wed Nov 16 19:48:37 2022] [error] [client 51.140.228.26] File does not exist: /var/www/ywesee.com/doc/ywesee.com-backup.zip
+[Wed Nov 16 20:49:19 2022] [error] [client 20.247.124.240] File does not exist: /var/www/ywesee.com/doc/data
+[Wed Nov 16 21:04:14 2022] [error] [client 185.36.81.21] File does not exist: /var/www/ywesee.com/doc/includes
+[Wed Nov 16 21:36:17 2022] [error] [client 20.24.118.117] File does not exist: /var/www/ywesee.com/doc/e
+[Wed Nov 16 22:03:46 2022] [error] [client 60.188.10.33] File does not exist: /var/www/ywesee.com/doc/software
+[Wed Nov 16 22:08:40 2022] [error] [client 154.3.42.136] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat
+[Wed Nov 16 22:35:33 2022] [error] [client 185.36.81.21] File does not exist: /var/www/ywesee.com/doc/includes
+[Wed Nov 16 22:42:36 2022] [error] [client 139.59.7.75] script '/var/www/ywesee.com/doc/wp-login.php' not found or unable to stat, referer: http://ywesee.com/wp-login.php
+[Wed Nov 16 23:21:02 2022] [error] [client 66.249.66.193] File does not exist: /var/www/ywesee.com/doc/ads.txt
+[Wed Nov 16 23:54:43 2022] [error] [client 194.110.203.46] File does not exist: /var/www/ywesee.com/doc/backup_ywesee.com.zip

@@ -1,0 +1,71 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 16450 invoked by uid 210); 9 Sep 2005 15:29:51 +0200
+Received: from 84.73.187.0 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.2/1070. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(84.73.187.0):. 
+ Processed in 0.03037 secs); 09 Sep 2005 13:29:51 -0000
+Received: from unknown (HELO zrr-gentoo-a31) (zdavatz@ywesee.com@84.73.187.0)
+  by mail.ywesee.com with ESMTPA; 9 Sep 2005 15:29:51 +0200
+Received: by zrr-gentoo-a31 (Postfix, from userid 1000)
+	id 3BF9215A4CE; Fri,  9 Sep 2005 15:21:33 +0200 (CEST)
+Date: Fri, 9 Sep 2005 15:21:33 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: ?iso-8859-1?Q?Bähler? Thomas <thomas.baehler@kellerhalslaw.ch>,
+	Zeltner Thomas <thomas.zeltner@bag.admin.ch>,
+	?iso-8859-1?Q?Kämpf? Reinhard <reinhard.kaempf@bag.admin.ch>,
+	todo@oddb.org
+Subject: Kosten ?iso-8859-1?B?Zvxy? die SL-Liste
+Message-ID: <20050909132133.GN10967@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.10i
+
+Sehr geehrter Herr Bähler
+
+Unserer morgendlichen Kommunikation möchte ich noch einige
+nachmittaglichen Kommentare hinzufügen:
+
+1) Falls der noch vorzuweisende Beleg über CHF 50'000 belegt, dass Ihre
+Mandatin nur für die technische Seite der SL-Liste Administration
+zuständig ist dann muss ich sagen, dass wir eine weitaus bessere Dienstle
+istung auch für CHF 15'000 besorgen können. Unter "technisch" verstehe ich das
+Hosting und den Betrieb der Software. Ich weiss nach wie vor nicht, was
+Sie oder Ihre Mandatin unter dem Begriff "technisch" verstehen. Darum
+auch die Forderung nach dem Beleg.
+
+Ohne Belege habe ich leider keine Ahnung wie die Daten zwischen dem BAG
+und der Software der E-mediat (Galdat und Medwin.ch) hin- und
+herfliessen. Ich kann nur Annahmen treffen wieso soviele EAN-Codes
+falsch sind im offiziellen Export.
+
+2) Falls mir nun vom BAG für den technischen Betrieb der SL-Liste 
+CHF 50'000 angeboten würden, so kann ich mit Sicherheit garantieren, dass unser
+Export nicht mehr als 5 fehlerhafte EAN-Codes enthält. Und das wären
+schon sehr viele, fast zuviele Fehler. Für CHF 50'000 kann man nämlich
+noch einige nette Features einbauen, welchem dem User helfen den
+EAN-Code korrekt zu exportieren.
+
+Ganz im Gegenteil zu Ihnen belegen wir übrigens unsere Aussage der
+fehlerhaften EAN-Codes mit stichhaltigen Beweisen!
+
+Ich denke wirklich; der Ball liegt bei Ihnen.
+
+In diesem Sinne setzen wir uns mit unserer OpenSource Software für
+tiefere Kosten im Gesundheitswesen ein und belegen dies auch.
+
+Übrigens: Das BAG könnte heute schon unsere Software zur Verwaltung der
+SL-Daten verwenden, denn unsere Software unterliegt der LGPL-Lizenz und di
+ese Lizenz verhindert zu Gunsten vom Kunden einen Vendor-Lockin. Wenn nun a
+lso das BAG sich entschliessen würde unsere Software zu verwenden, irgend
+wann aber mit unseren Dienstleistungen nicht mehr zufrieden ist, dann kön
+nte sogar Ihre Mandatin oder eine beliebige andere Firma unsere Software we
+iterentwicklen solange sie sich an die LGPL-Bestimmungen hält. Das sind d
+ie Vorteile ein modernen Software wie z.B. auch Linux oder eben ODDB.org.
+
+Mit freundlichen Grüssen
+Zeno Davatz

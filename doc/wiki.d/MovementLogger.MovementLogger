@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1778690188
+host=212.51.146.241
+name=MovementLogger.MovementLogger
+rev=2
+targets=
+text=! MovementLogger%0a# [[https://apps.apple.com/app/movementlogger/id6769086271 | iOS]]%0a# Support Mail: zdavatz at ywesee dot com%0a# Support Phone: +41 43 540 05 50
+time=1778745689
+author:1778745689=zeno
+diff:1778745689:1778690188:=2d1%0a%3c # [[https://apps.apple.com/app/movementlogger/id6769086271 | iOS]]%0a
+host:1778745689=212.51.146.241
+author:1778690188=zeno
+diff:1778690188:1778690188:=1,3d0%0a%3c ! MovementLogger%0a%3c # Support Mail: zdavatz at ywesee dot com%0a%3c # Support Phone: +41 43 540 05 50%0a\ No newline at end of file%0a
+host:1778690188=178.197.223.217

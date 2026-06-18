@@ -1,0 +1,89 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 6239 invoked from network); 6 Jun 2007 14:35:33 +0200
+X-Spam-Status: No, hits-3.4 required5.0
+	testsALL_TRUSTED,AWL,BAYES_00,SUBJECT_ENCODED_TWICE
+X-Spam-Check-By: mail.ywesee.com
+Received: from [77.57.1.173] (HELO zrr.local) (77.57.1.173)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Wed, 06 Jun 2007 14:35:33 +0200
+Received: by zrr.local (Postfix, from userid 1000)
+	id 1FB5076827; Wed,  6 Jun 2007 14:35:56 +0200 (CEST)
+Date: Wed, 6 Jun 2007 14:35:56 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: weko@ywesee.com, swissmedic@oddb.org
+Cc: todo@oddb.org
+Subject: Eingabe WEKO: Datenexport ?iso-8859-1?Q?d?
+	?iso-8859-1?Q?er_Documed_vs_Buchpublikationspflicht_vs_Startposition_f?
+	?iso-8859-1?Q?ür? Online-Markt - Versio 1.0
+Message-ID: <20070606123556.GB29857@zrr-gentoo.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charsetiso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Organisation: ywesee GmbH
+User-Agent: Mutt/1.5.11
+
+Sehr geehrte Damen und Herren
+
+Ich möchte im Zusammenhang mit einem potentiellen Datenexport der Fi's
+vom Server der Documed AG noch folgendes festhalten:
+
+In welchem Format die Documed AG die FI's zur Verfügung stellt, ist
+meiner Meinung nach völlig irrelevant im Vergleich zur
+Buchpublikationspflicht.
+
+So lange die Swissmedic an Ihrer Buchpublikationspflicht festhalten tut,
+hat die Documed AG einen äusserst erheblichen Vorteil.20
+
+Ich habe gerade in dieser und der vergangenen Woche mit zwei
+Pharmafirmen gesprochen - ein Generikahersteller aus der Schweiz und
+eine der Top drei aus der Welt. Beide hätten sehr grosses Interesse bei
+ODDB.org ihre FI's zu publizieren aber da wir kein Buch haben, macht es
+für sie keinen Sinn auch nur die Online-Version der FI zu ODDB.org zu
+wechseln (obwohl wir 50% günstiger sind). Warum will die Pharmafirma
+mit der Online-Version der Fi nicht zu ODDB.org wechseln?
+
+1. Das System ist viel zu steif. Die Pharmafirma hat erhebliche
+Belastungen im Bereich der Zulassung und will Ihre FI Regulatory und
+Administration nicht unnötig verzetteln denn das kostet sie zu viel.
+
+2. Die Documed ist daran interessiert, möglichst wenig am Status Quo zu
+verändern. Die Documed AG macht Ihren grössten Umsatz mit der
+Buchpublikationspflicht und dieses Monopol will sie nicht verlieren.
+
+3. Schafft es die Documed viele kleine Mitbewerber auf den Markt zu
+rufen ohne Ihr wichtigstes Monopol zu verlieren so hat sie Ihr Ziel
+erreicht: Die kleinen Mitbewerber zerfleischen sich und der grosse
+Brocken bleibt dem ursprünglichen Monopolisten. Das
+Buchpublikationsmonopol bleibt erhalten.
+
+4. Haben sich die Mitbewerber einmal zerfleischt, ist die Zeit soweit
+vorangeschritten, dass das Buch nicht mehr gebraucht wird (in der
+Zwischenzeit gibt es aber auch keine Mitbewerber mehr) und Documed kann
+von neuem den ganzen Online-Markt für sich aufteilen, ohne Mitbewerber
+und ohne Buch.
+
+Wir brauchen eine Lösung, die für alle die gleichen Ausgangsbedingungen
+schafft. Ein Lösung, welche mindestens für 100 Jahre hält. Ich verstehe,
+dass die WEKO der Swissmedic nicht sagen können was sie zu tun und zu
+lassen hat. Sie kann meiner Meinung nach aber sagen, dass die
+Buchpublikationspflicht ein riesiger Wettbewerbshinderungsfaktor ist für
+einen neuen Mitbewerber im Bereich der FI Publikationspflicht.  Das Buch
+steht dem Wettbewerb quer im Wege. Es ist etwa so wie wenn die
+Telefonbuchauskunft von Sunrise nur bestehen dürfte, falls die Sunrise
+auch ein Buch Telefonbuch druckt. Ein riesiger Felsbrocken mitten auf
+der Autobahn.
+
+Der Fi-Buch-Publikationsmarkt ist nach wie vor der grösste Markt. In 10
+Jahren ist dies sicherlich nicht mehr der Fall. In 10 Jahren ist der
+Online-Markt der wichtigste Markt. Es geht um die Überbrückung dieser
+Durststrecke und die Startposition für diesen neuen Markt.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50
+
+PS: Zum Zeitpunkt des Drucks ist das Buch bereits veraltet. Ich
+denke nicht, dass hier die Arzneimittelsicherheit profitiert.

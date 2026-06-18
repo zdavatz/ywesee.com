@@ -1,0 +1,357 @@
+Sehr geehrter Herr Bangerter
+
+Besten Dank für Ihr Mail.
+
+1.) Ich lese nun mehr oder weniger "zwischen den Zeilen", dass Refdata die
+"offizielle Datenbank für das Betäubungsmittelgesetz" ist? Wieso schreiben Sie
+denn genau dort diese Bemerkung nicht hin sondern erwähnen das
+Betäubungsmittelgesetz nur bei Medwin? Mit "Bemerkung" meine ich Ihre Bemerkung
+betreffend 'Grundlage für das Betäubungsmittelgesetz' auf Medwin.ch. Diese
+Bemerkung ist eine wohl sehr wichtige, richtungsweisende Bemerkung für die
+Zukunft vom CH-Gesundheitswesen.
+
+2. Wieder liegt es an mir Ihre Äusserungen "zwischen den Zeilen" zu
+interpretieren. Ich bevorzuge Klartext: Wollen Sie damit sagen, dass "kleine
+Fische" nicht wichtig sind? Wenn ich von beteiligten Parteien sprechen, dann
+meine ich _alle_ beteiligten Parteien und nicht nur die grossen Fische. Zudem
+besteht die Mehrheit der Refdata-Datenbank aus kleinen Mitbewerbern im
+CH-Gesundheistwesen.
+
+3. Wieder muss ich zwischen den Zeilen lesen: Werfen Sie mir vor, dass ich die
+E-mediat diffamiere? Ja oder Nein? Ich stelle mich klar gegen die Diffamierung.
+Ich stelle mich ebenso klar gegen Softwarepiraterie und ich stelle mich ebenso
+klar gegen intransparente Situationen. Ich setze mich ein für offene
+Standards, eine klare Kommunikation und fairen Wettbewerb.
+
+Sie haben mich noch nicht ganz überzeugt wo die Grenze liegt zwischen
+Refdata.ch und Medwin.ch.
+
+Ich schätze Ihre offene Diskussionsbereitschaft sehr und freue mich auf eine
+saubere, offene, umfassende und unabhängige EAN-Plattform.
+
+Mit freundlichen Grüssen vom Sechseläuten aus Zürich
+Zeno Davatz
+
+PS: Hoffentlich knallt der Kopf vom Bög schnell und laut, dann wird der Sommer
+gut!
+
+On Mon, 18 Apr 2005 12:19:46 +0200
+"Bangerter Christoph" <bangerter@e-mediat.net> wrote:
+
+> Sehr geehrter Herr Davatz:
+> 
+> Besten Dank für Ihr neuerliches mail, insbesondere auch für dessen
+"zivilisierten" Stil
+> 
+> Was die diversen Hinweise auf medwin betrifft, werden wir der Sache nachgehen,
+ob allenfalls gewisse Referenzen durch die "Migration" der Angabe der
+Abgabeberechtigung für Betäubungsmittel durch Aerzte von www.medwin.ch zu
+www.Refdata.ch noch nicht nachgeführt sind und werden dies ggf in Absprache mit
+Herrn Medioni ergänzen.
+> 
+> Zu Ihren "philosophischen Betrachtungen" kann ich lediglich feststellen dass -
+bei allem Respekt vor unser Aller Anstrengung zur Steigerung der Effizienz in
+den Informatikprozessen des schweizerischen Gesundheitswesens - dessen Zukunft
+wohl doch von wichtigeren Partnern und Gegebenheiten bestimmt wird.
+> 
+> Als Firma steht für e-mediat das Bekenntnis zu offenen Standards, zur
+Marktwirtschaft und zur Konkurrenz nicht in Frage. Die offenen Punkte liegen
+vielmehr in der Frage, wo Diffamierung von Mitbewerbern und Softwarepiraterie an
+den Leistungen Dritter betrieben wird.
+> 
+> Damit möchte ich die Diskussion gerne beenden.
+> 
+> Beste Grüsse
+> 
+> Christoph Bangerter
+> 
+> 
+> -----Ursprüngliche Nachricht-----
+> Von: zdavatz [mailto:zdavatz@ywesee.com] 
+> Gesendet: Sonntag, 10. April 2005 19:22
+> An: Bangerter Christoph
+> Cc: laurent.medioni@swissmedic.ch; hay@medinorma.ch
+> Betreff: Re: AW: http://www.admin.ch/ch/d/sr/812_121_1/a3.html
+> 
+> Sehr geehrter Herr Bangerter 
+> 
+> Besten Dank für Ihr Mail. 
+> 
+> Ich schätze Ihre Leistungen für das Schweizerische Gesundheitswesen. Ich 
+> setze mich ein für Konkurrenz und Wettbewerb. Ich schätze auch, dass Sie 
+> sich stark machen für den EAN-Code und eine unabhängige Referenzierung von 
+> Produkten, Personen und Firmen im CH-Gesundheitswesen. 
+> 
+> Was mir nicht ganz klar ist, wieso Sie die Daten von Medwin.ch versuchen 
+> urheberrechtlichlich zu schützuen und im gleichen Atemzug (auf der Website) 
+> auf das Betäubungsmittelgesetz hinweisen, welches wiederum auf die amtliche 
+> Daten-Sammlung hinweist. 
+> 
+> So wie ich Herr Medioni verstanden habe, bildet Medwin.ch die Grundlage für 
+> das Betäubunsmittelgesetz und nicht Refdata.ch - darum auch meine 
+> Unverständnis darüber wie Sie einen Urheberrechtsschutz geltend machen 
+> wollen. 
+> 
+> Für mich gilt es also zu klären welche Datenbank nun die Grundlage für das 
+> Betäubungsmittelgesetz bildet. Bei dieser Datenbank muss sicherlich ein Mann 
+> vom BAG vertreten sein. Diese Datenbank muss meiner Meinung nach so 
+> umfassend wie nötig sein und allen Parteien für alle möglichen 
+> Dienstleistungen zur Verfügung stehen. Amtlich geforderte Rohdaten bilden ja 
+> bekanntlich das Rückgrad von modernen Dienstleistungen. 
+> 
+> Es ist mir ein Anliegen an dieser Stelle zu kommunizieren, dass der EAN-Code 
+> ein offener Standard ist. 
+> 
+> Ich weiss nicht ob Sie mit mir in der Meinung einhergehen, dass die Zukunft 
+> des Gesundheitswesens auf offenen Standards steht mit vielen sich 
+> konkurrenzierenden Dienstleistern. 
+> 
+> Für mich bildet die Schweizerische Demokratie die Grundlage für echte 
+> Wahlfreiheiten des Konsumenten. Die Planwirtschaft bietet für mich nur 
+> "Schein-Wahlfreiheiten". 
+> 
+> Mit sonntäglichem Gruss aus Zürich
+> Zeno Davatz 
+> 
+> Bangerter Christoph writes: 
+> 
+> > Sehr geehrter Herr Davatz:
+> >  
+> > Besten Dank für Ihr gestriges mail. Ich glaube, ich muss hier etwas weiter
+ausholen, was die Stiftung Refdata betrifft. In diese Stiftung wurde 2001 die
+Dienstleistung der ehemaligen Sanphar übergeführt. In ihr sind wichtige
+Organisationen der Leistungserbringer ( so die FMH, der SAV, der SDV und
+H-plus), der Industrie (Interpharma, VIPS, ASSGP, Grip und Fasmed) und der
+Versicherer (santesuisse und MTK) und last but not least EAN (Schweiz) mit je
+einem Stiftungsrat vertreten. Die Stiftung arbeitet eng mit den
+Verbandsstrukturen zusammen. 
+> > Neu wird es voraussichtlich eine Vertretung des BAG haben, damit auch der
+Bund in dieser wichtigen Organisation vertreten ist. 
+> >  
+> > Die Stiftung hat als Zweck, die Informatikprozesse im Gesundheitswesen und
+die daraus resultierenden Datenaustauschprozesse (klinische Datenströme,
+logistische Datenströme und das ganze claims processing) durch einheitliche
+Referenzierung der Produkte (Pharma- und Nonpharma-Produkte), bzw. der Partner
+(Personen und Institutionen) zu erleichtern und zu unterstützen. Ich verweise
+hier auf das Portal www.refdata.ch auf dem Sie weitere Informationen finden.
+> >  
+> > Die Stiftung Refdata betreibt selber keine operationelle Aktivität im Sinne
+der Refernzierung und ist als Stiftung u.a. auch zu kommerzieller Neutralität
+verpflichtet. Dies ist ein wichtiger Grund, weshalb die Stiftung Refdata Wert
+auf eine minutiöse Abrenzung ihrer eigenen Aktivität von der beispielsweise der
+e-mediat (als outsourcing Partnerin der Stiftung Refdata) legt. Der Stiftungsrat
+Refdata fungiert für diesen outsourcing Teil als Aufsichtsorgan über die
+Aktivität der e-mediat, die sich ihrerseits zu einer NonProfit Tätigkeit für die
+Refdata Stiftung verpflichet. Dies wird jährlich von einer renommierten
+Revisionsgesellschaft überprüft. 
+> >  
+> > Meines Wissens hat die Stiftung Refdata keine Funktionen i S des
+Betäubungsmittelgesetz, wie Sie dies in Ihrem mail andeuten, sondern hat sich im
+Sinne der Stiftung, im Sinne des service public und in Absprache mit Herrn
+Medioni von Swissmedic bereit erklärt, die für den Gross- und Detailhandel
+wichtige Abgabeberechtigung von Aerzten für Betäubungsmittel zu publizieren,
+nachdem dies historisch (dh. bereits zu Zeiten der Sanphar) über www.medwin.ch
+erfolgt ist. Diese Tatsache, wie auch der Umstand, dass bis zur Schaffung des
+eigenen Portals der Stiftung Refdata dies wie bis anhin auf der seit 2001 von
+e-mediat betriebenen Datenbank  www.medwin.ch publiziert wurde, erklärt sicher
+hinreichend, weshalb sich - mindestens im Moment - die Informationen von medwin
+und refdata nur unwesentlich unterscheiden. Es ist mir als Geschäftsführer von
+e-mediat ein Anliegen, dass die Aktivität, die e-mediat in eigener Sache
+betreibt, inhaltlich und kommunikationsmässig klar von der Refdata Ak
+>  tivität getrennt wird. Der Umstand, dass die Information auch weiterhin unter
+Medwin abgerufen werden kann, erklärt sich mit dem Wunsch der Branche, wie er
+uns vielfach mitgeteilt wurde.
+> >  
+> > Ich hoffe, damit erschöpfend auf Ihre Fragen eingegangen zu sein.
+> >  
+> > Beste Grüsse
+> >  
+> > Christoph Bangerter
+> >  
+> > e-mediat AG 
+> > Dr. med. Christoph Bangerter * Leiter e-mediat 
+> > Grubenstrasse 11 * CH-3322 Schönbühl
+> > Telefon +41 (0)58 851 26 30 * Fax +41 (0)58 851 27 00
+> > mailto:bangerter@e-mediat.net <mailto:bangerter@e-mediat.net>  *
+www.e-mediat.net
+> >  
+> >
+*******************************************************************************
+**********
+> > This email and any files transmitted with it are confidential
+> > and intended solely for the use of the individual or entity to whom they
+> > are addressed. If you have received this email in error please notify the
+system manager.  
+> > 
+> > ________________________________ 
+> > 
+> > Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com]
+> > Gesendet: Fr 08.04.2005 17:21
+> > An: Bangerter Christoph
+> > Cc: Laurent Medioni; Andreas Balsiger; Christian Hay;
+claude.houriet@suisse.org; Ditmar Lubini; Hannes Wyss
+> > Betreff: Re: http://www.admin.ch/ch/d/sr/812_121_1/a3.html 
+> > 
+> >  
+> > 
+> > Sehr geehrter Herr Bangerter 
+> > 
+> > Besten Dank für Ihr Mail. 
+> > 
+> > Ich nehme wie folgt Stellung: 
+> > 
+> > On Fri, 8 Apr 2005 16:45:25 +0200
+> > "Bangerter Christoph" <bangerter@e-mediat.net> wrote:
+> >> Medwin ist eine eingetragene Marke der Firma e-mediat, wie Sie dem
+> >> Schutzregister des Eidg. Instituts für Geistiges Eigentum entnehmen können.
+> > Dagegen habe ich nicht einzuwenden. 
+> > 
+> >> Für die Zeit zwischen 2001 und 2004 wurde diese Marke der Refdata Stiftung
+zur
+> >> Benutzung zur Verfügung gestellt.
+> > Ok, das wusste ich nicht, besten Dank für die Info. 
+> > 
+> >> Seit 2004 verfügt die Refdata Stiftung über ein eigenes Portal
+www.refdata.ch
+> >>, in dem alle durch die Stiftung bewirtschafteten Daten publiziert werden.
+> >> Zusätzlich werden dort in Absprache mit Swissmedic/Herrn Medioni einerseits
+> >> und dem Stiftungsrat Refdata andererseits auch die notwendigerweise
+öffentlich
+> >> zu publizierenden Informationen bezüglich Bewilligung zur
+> >> Betäubungsmittelabgabe (soweit die Aerzteschaft betreffend) publiziert.
+Dies
+> >> dient vor allem der Referenz des Gross- und Detailhandels für Medikamente
+in
+> >> der Schweiz.
+> > Besten Dank auch für diese Information. 
+> > 
+> > Für mich ist das nicht der Kern der Sache. Der Kern der Sache liegt meiner
+> > Meinung nach in der Kommunikation auf Medwin.ch. Dort schreiben sie
+einerseits,
+> > dass Medwin die Grundlage für das Betäubungsmittelgesetz bildet und
+> > andererseits, dass der "Missbrauch urherberrechtlich eingeklagt" wird. 
+> > 
+> > Können Sie mir genauer schildern was Sie unter "Missbrauch" von Medwin-Daten
+> > verstehen? Es sind doch genau die gleichen Daten wie auf Refdata.ch. Und
+wieso
+> > steht auf der Refdata-Seite nirgens ein Bezug zum Betäubungsmittelgesetz?
+Und
+> > wieso stellt Refdata keine Daten zur Verfügung, Medwin aber schon
+(Download)? 
+> > 
+> > Ich gehe davon aus, dass diese Daten nicht missbraucht werden können sondern
+> > dass der EAN-Code vielmehr die Basis vom Schweizerischen Gesundheistwesen
+bilden
+> > wird/schon bildet. Ich weiss nicht was Sie an den Daten urheberrechtlich
+> > schützen wollen (ich spreche von den Daten nicht von der Marke oder vom Logo
+> > oder vom restlichen Inhalt von Medwin.ch). 
+> > 
+> > Falls Refdata die Grundlage für das Betäubungsmittelgesetz bildet, sollte
+das
+> > m.M. auf refdata.ch klar und deutlich kommuniziert werden. 
+> > 
+> > Ich verstehe auch nicht wieso zwei Plattformen mit sehr ähnlichen
+Informationen
+> > betrieben werden und bei der einen das "Urheberrecht" ganz besonders
+> > hervorgehoben wird und auf der anderen der Service Public. 
+> > 
+> > Und wieso verweist Refdata.ch immer nur auf Medwin.ch? Beabsichtigen Sie in
+> > Kürze Medwin.ch kostenpflichtig zu machen? 
+> > 
+> > So wie ich das sehe muss/soll/wird in dem Fall Refdata.ch die eindeutige
+> > Datenbank gemäss/für das Betäubungsmittelgesetz werden? 
+> > 
+> > Besten Dank für Ihre Erläuterungen zu den zwei "Schrebergärten". 
+> > 
+> > Mit freundlichen Grüssen aus Züri
+> > Zeno Davatz 
+> > 
+> >> -----Ursprüngliche Nachricht-----
+> >> Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com]
+> >> Gesendet: Dienstag, 29. März 2005 11:12
+> >> An: Bangerter Christoph
+> >> Cc: Laurent Medioni; Andreas Balsiger; Krattinger Nicolas
+> >> Betreff: http://www.admin.ch/ch/d/sr/812_121_1/a3.html 
+> >>
+> >> Sehr geehrter Herr Bangerter 
+> >>
+> >> Ich habe Ihre Angaben von Herr Krattinger (über Herr Medioni) erhalten und
+> > wende
+> >> mich in folgender Angelegenheit an Sie: 
+> >>
+> >> Es geht um folgenden Artikel:
+> >> http://www.admin.ch/ch/d/sr/812_121_1/a3.html 
+> >>
+> >> Die E-mediat AG verwaltet obige Daten basierend auf dem
+> > Betaeubungsmittelgesetz:
+> >> http://www.medwin.ch/content/index.htm 
+> >>
+> >> Weiter macht die E-mediat AG einen Urheberrechtsschutz auf diese Daten
+> > geltend:
+> >>
+> >> http://www.medwin.ch/content/page-11.asp?ConType=3D1&Lev=3D1&PortalId=3D=
+> >> 32&RecordId=3D9=20 
+> >>
+> >> Dies ist meiner Meinung nach aus zwei Gruenden nicht erlaubt.
+> >> 1. Es handelt sich hier um Daten die amtlich gefordert sind. Amtlich
+> >> geforderte Verzeichnisse kann man nicht urheberrechtlich schuetzen. 
+> >>
+> >> 2. Um Ueberhaupt ein Urheberrecht geltend zu machen muss die
+> >> Leistung einen schoepferischen Werkcharakter haben. Ich weiss beim besten
+> > Willen
+> >> nicht wo der schoepferische Werkcharakter ist bei einem EAN-Code oder einer
+> > PLZ
+> >> oder einer Telefonnummer oder einem Strassenamen. 
+> >>
+> >> Meiner Meinung nach muss dieser Urheberrechtsvermerk entfernt werden. 
+> >>
+> >> Besten Dank fuer Ihre Rueckmeldung. 
+> >>
+> >> --
+> >> Mit freundlichen Grüssen / best regards 
+> >>
+> >> Zeno Davatz
+> >> Verkauf & Akquisition 
+> >>
+> >> +41 43 540 05 50 
+> >>
+> >> www.ywesee.com > intellectual capital connected > www.oddb.org 
+> >>
+> >> pub  1024D/D77B920F 2003-06-24
+> >> Schl.-Fingerabdruck = 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F 
+> >>
+> >>
+> >  
+> > 
+> > --
+> > Mit freundlichen Grüssen / best regards 
+> > 
+> > Zeno Davatz
+> > Verkauf & Akquisition 
+> > 
+> > +41 43 540 05 50 
+> > 
+> > www.ywesee.com > intellectual capital connected > www.oddb.org 
+> > 
+> > pub  1024D/D77B920F 2003-06-24
+> > Schl.-Fingerabdruck = 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F 
+> > 
+> >  
+> > 
+>  
+> 
+> 
+
+
+-- 
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-24 
+Schl.-Fingerabdruck = 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

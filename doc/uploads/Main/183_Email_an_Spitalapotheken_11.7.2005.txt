@@ -1,0 +1,80 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 18046 invoked by uid 210); 11 Jul 2005 14:37:41 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/974. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.033717 secs); 11 Jul 2005 12:37:41 -0000
+Received: from unknown (HELO localhost) (zdavatz@ywesee.com@217.162.177.109)
+  by bbmb.ch with ESMTPA; 11 Jul 2005 14:37:41 +0200
+Date: Mon, 11 Jul 2005 14:35:25 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: oddb.org mailinglist <spitalapotheke@oddb.org>
+Cc: todo@oddb.org <todo@oddb.org>, ywesee.com mailinglist
+ <softwarehaeuser@ywesee.com>
+Subject: Einige Gedanken zu separaten ?ISO-8859-1?Q?Artikelstämmen.?
+Message-ID: <20050711143525.45ee5ca1@localhost>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Damen und Herren
+
+Anbei einige Gedanken meinerseits zur Artikelstammdaten-Situation in der
+Schweiz:
+
+1.20
+Es macht meiner Meinung nach Sinn wenn es einen Wettbewerb rund um die
+Artikelstammdaten im CH-Gesundheitswesen gibt. Unsere Preise sind wie folgt:
+http://www.oddb.org/de/gcc/download_export/state_id/-896891666
+Nach Download der Daten, haben Sie keine Einschränkung auf die
+Wiederverwendung, Duplikation oder sonstige Verwendung der Daten. Wir führen
+alle Medikamente (Liste A-E). Sie finden unsere Daten auch Online unter
+http://www.oddb.org oder http://www.generika.cc (kostenlos).
+
+2.20
+Es ist meiner Meinung nach ein Unding, dass Softwarehäuser als Unique Identifier
+den Pharmacode verwenden und keinen offenen Standard wie den EAN-Code. Unsere
+Datenbank baut 100% auf dem EAN-Code auf. Machen Sie Ihr Softwarehaus darauf
+aufmerksam.
+
+3.20
+Die Lösung der Zukunft sieht für mich so aus, dass jede Distirbutionsfirma einen
+eigenen Artikelstamm hat und dass die Software der Apotheke / Drogerie
+mit mehreren Artikelstämmen umgehen kann und so Preis und Mengenvergleich machen
+kann.
+
+4. Falls Sie einen Beispielsatz unserer Daten wollen, wenden Sie sich bitte  per
+Mail an uns.
+
+5. Beteiligen Sie sich an der Untersuchung gegen die Documed AG und weisen Sie
+die WEKO auf das Dienstleistungsbundling bei der Konkurrenz hin (es gibt keinen
+separaten Datenexport nach "Art der Daten" z.B. nur Medikamente oder nur
+"Nicht-Medikamente". Weisen Sie auf den zentralen Charakter vom Galdat 3.0 in
+der Apothekenwelt hin. Ein weiterer Punkt sind die unterschiedlichen Preise,
+welche die Konkurrenz verwendet (Online-Lizenz 125'000, Apotheken-Lizenz 3'000,
+Spital-Lizenz 25'000, Arzt-Lizenz CHF 800.- etc)
+
+  http://www.ywesee.com/uploads/Main/32-0178_Weko_Untersuchung_Documed_AG.pdf
+
+Der Link zum SHAB (Schweizerisches Handeslamtsblatt):
+
+  https://www.shab.ch/DOWNLOADPART/N2908156/N2005.02918436.pdf#2918436
+
+Mit Gruss aus Zürich
+Zeno Davatz
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

@@ -1,0 +1,75 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 18310 invoked from network); 15 May 2008 06:51:55 -0000
+X-Spam-Status: No, hits=-4.4 required=5.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: mail.ywesee.com
+Received: from [77.57.16.157] (HELO zenogentoo.localdomain) (77.57.16.157)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Thu, 15 May 2008 08:51:54 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by zenogentoo.localdomain (Postfix) with ESMTP id C2CF4C7027;
+	Thu, 15 May 2008 08:51:52 +0200 (CEST)
+Date: Thu, 15 May 2008 08:51:52 +0200 (CEST)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: Michael Horn <m.horn@bfarm.de>
+cc: "todo at ODDB.org" <todo@oddb.org>
+Subject: =?ISO-8859-15?Q?Schreiben_von_Herr_G=F6ben_vom_20=2E4=2E2007?=
+Message-ID: <alpine.LNX.1.10.0805150838140.12040@localhost>
+User-Agent: Alpine 1.10 (LNX 962 2008-03-14)
+Organisation: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="8323328-1129215174-1210834312=:12040"
+X-Virus-Checked: Checked by ClamAV on mail.ywesee.com
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-1129215174-1210834312=:12040
+Content-Type: TEXT/PLAIN; format=flowed; charset=ISO-8859-15
+Content-Transfer-Encoding: 8BIT
+
+Sehr geehrter Herr Horn
+
+Besten Dank für das morgendliche Gespräch.
+
+Anbei mein Schreiben an Herr Dexel vom 20.3.2007
+
+ 	http://www.ywesee.com/uploads/Main/An_Dexel_20.03.2007.txt
+
+und dann das Antwort-Schreiben von Herr Göben vom 20.4.2007.
+
+ 	http://www.ywesee.com/uploads/Main/Schreiben_Bfarm_20.3.2007.pdf
+
+Im Schreiben geht es vorallem um die Fach- und Gebrauchsinformation und 
+diese ist jetzt einwandfrei vorhanden! Dazu kann man der Bfarm nur 
+gratulieren.
+
+Für mich ist es nichts als Konsequenz - aus obiger Sache abgeleitet - dass 
+man die Informationen zur einzelnen Packung auch auf 
+http://pharmnet.bund.de publizieren tut (und auch in einem Excel). Die 
+Information zur einzelnen Packung werden momentan "künstlich beschnitten" 
+und auf http://pharmnet.bund.de nicht angezeigt. Dafür gibt es eigentlich 
+keinen Grund, da es sich ja um die Arzneimittelsicherheit in Deutschland 
+handelt und diese Sicherheit jeden Brüger und jede Bürgerin der 
+wunderschönen Bundesrepublik Deutschland betrifft.
+
+Im restlichen Schreiben nimmt Herr Göben Bezug auf das AMIS, welches 
+kostenpflichtig ist. Wir haben aber kein Interesse an der Nutzung vom 
+AMIS. Wir haben Interesse an der Nutzung der Rohdaten, sowie diese aus 
+Arzneimittelsicherheitgründen bei der Bfarm eingereicht werden müssen. An 
+Geschäftgeheimnissen haben wir selbstverständlich überhaupt kein 
+Interesse.
+
+Anbei mein Schreiben an Herr Dr. Kurth vom 19.3.2007
+
+ 	http://www.ywesee.com/uploads/Main/An_Reinhard_Kurth_19.03.2007.txt
+
+Ich werde mich in den nächsten Tagen wieder bei Ihnen melden.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50
+--8323328-1129215174-1210834312=:12040--

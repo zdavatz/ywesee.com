@@ -1,0 +1,13 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1119345823
+text=http://www.openoffice.org
+targets=
+author=
+author:1119345823=
+host:1119345823=217.162.177.109
+diff:1119345823:1119345823:=1d0²< http://www.openoffice.org²\ No newline at end of file²
+name=Ywesee.OpenOffice
+host=217.162.177.109
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.8) Gecko/20050620 Firefox/1.0.4
+rev=1

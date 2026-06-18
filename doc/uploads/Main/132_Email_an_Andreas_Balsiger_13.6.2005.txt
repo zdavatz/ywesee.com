@@ -1,0 +1,95 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 16638 invoked by uid 74); 13 Jun 2005 16:37:53 -0000
+Received: from zdavatz@ywesee.com by debian by uid 71 with qmail-scanner-1.15 
+ (clamscan: 0.54.  Clear:. 
+ Processed in 1.308333 secs); 13 Jun 2005 16:37:53 -0000
+Received: from 217-162-177-109.dclient.hispeed.ch (HELO zrr.local) (217.162.177.109)
+  by 0 with SMTP; 13 Jun 2005 16:37:51 -0000
+Date: Mon, 13 Jun 2005 18:37:55 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Balsiger Andreas Swissmedic <Andreas.Balsiger@swissmedic.ch>
+Cc: Franz Schneller <franz.schneller@swissmedic.ch>, todo@oddb.org
+ <todo@oddb.org>
+Subject: Re: Frage
+Message-ID: <20050613183755.7e186a99@zrr.local>
+In-Reply-To: <3EE656B353A06742992FFDöED9553D5034A6908@smex01s>
+References: <3EE656B353A06742992FFDöED9553D5034A6908@smex01s>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrter Herr Balsiger
+
+On Mon, 13 Jun 2005 18:06:01 +0200
+Balsiger Andreas Swissmedic <Andreas.Balsiger@swissmedic.ch> wrote:
+
+> Nein; im BoeB selber ist diese Frage nicht explizit geregelt, wohl aber in
+> dem ihm zugrunde liegenden Staatsvertrag (GATT/WTO-Übereinkommen über das
+> öffentliche Beschaffungswesen), Art. VI Ziff. 4, die lautet: "Die
+> Beschaffungsstellen dürfen nicht auf eine den Wettbewerb ausschaltende Art
+> und Weise von einer Firma, die ein geschäftliches Interesse an der
+> Beschaffung haben könnte, Ratschläge einholen oder annehmen, welche bei der
+> Ausarbeitung der Spezifikationen für eine bestimmte Beschaffung verwendet
+> werden können." Diese Bestimmung ist auch bei der Anwendung von Bundesrecht,
+> namentlich dem Beschaffungsrecht, gestützt auf den
+> Gleichbehandlungsgrundsatz (Stichwort: "Gleichbehandlung der
+> Gewerbegenossen") ebenfalls anzuwenden.
+Ich denke nicht, dass offene Standards den Wettbewerb verhindern sondern diesen
+eher fördern, da die Swissmedic dann einem Vendor-Lock-In entgeht und somit bei
+Unzufriedenheit jederzeit den Dienstleister wechseln kann. Offene Standards
+ermöglichen mehr Wettbewerb (im Gegensatz zu proprietären Standards die einer
+Firma gehören).
+
+Dazu auch folgende Links:
+http://perens.com/OpenStandards/Definition.html
+http://www.w3.org/Consortium/
+
+Für die Publikation der maschinenlesbaren Daten auf dem Internet macht es Sinn
+einen W3C Standard zu verwenden.
+
+Mit freundlichen Grüssen
+Zeno Davatz
+
+> Freundliche Grüsse
+> Swissmedic, Schweizerisches Heilmittelinstitut
+> Leiter Geschäftsbereich Recht
+> Andreas Balsiger Betts
+
+
+> -----Ursprüngliche Nachricht-----
+> Von: Zeno R.R. Davatz [mailto:zdavatz@ywesee.com]
+> Gesendet: Montag, 13. Juni 2005 17:35
+> An: Balsiger Andreas Swissmedic
+> Cc: todo@oddb.org
+> Betreff: Re: Frage
+
+
+> Sehr geehrter Herr Balsiger
+
+> Meinen Sie vielleicht Artikel 11e?
+
+> http://www.admin.ch/ch/d/sr/172_056_1/a11.html
+
+> Mit freundlichen Grüssen aus Zürich
+> Zeno Davatz
+
+> On Mon, 13 Jun 2005 17:03:56 +0200
+> Balsiger Andreas Swissmedic <Andreas.Balsiger@swissmedic.ch> wrote:
+
+> > Sehr geehrter Herr Davatz
+> > Diese Gefahr besteht aufgrund des Gesetzes über das öffentliche
+> > Beschaffungswesen tatsächlich.
+> > Mit freunlichen Grüssen
+> > Swissmedic, Schweizerisches Heilmittelinstitut
+> > Leiter Geschäftsbereich Recht
+> > Andreas Balsiger Betts
+> 
+> > Erlachstrasse 8, 3000 Bern 9
+> > Tel. +41 31 322 02 03
+> > Fax +41 31 322 04 67
+> > E-Mail: andreas.balsiger@swissmedic.ch
+> > www.swissmedic.ch

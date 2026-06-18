@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.41 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1387203552
+host=46.140.30.26
+name=Refdata.LoeschungFelder
+rev=2
+targets=
+text=!! Refdata löscht Felder ohne Vorwarnung%0a!!! 16.12.2013%0a%0aWir stellen fest, dass%0a%0a1. die Stammdatenstrukturen von Refdata ohne Vorwarnung geändert werden.%0a%0a2. Produkte in Refdata aufgelistet sind, welche schon lange nicht mehr%0abei Swissmedic zugelassen sind.%0a%0a3. Entscheidungen bezüglich dem Löschen von Datenfeldern getroffen%0awerden, ohne dass die zahlenden Pharmafirmen im vornherein informiert%0awerden (im vornherein gefragt werden sie offenbar auch nicht).%0a%0a4. Die Datenfelder im Aufnahmeformular für Neu-Anmeldungen nicht mit%0aden Datenfeldern im zu exportierenden XML übereinstimmen.%0a%0aFalls Refdata als seriöser Partner ernst genommen werden will%0abezüglich ihrem genannten Zweck: "kostengünstige, sozialverträgliche%0aund volkswirtschaftlich relevante Referenzierung von Produkten,%0aDienstleistungen, Personen und Institutionen" dann müssen obige%0auntragbaren Zustände angepackt und verbessert werden.%0a%0aZudem: der ganze Entscheidungsprozess: wann werden Daten aufgenommen,%0awann werden Daten gelöscht, wann werden Datenfelder gelöscht, wann%0awerden Datenfelder hinzugefügt, etc muss in den Statuten schriftlich%0afestgehalten werden, sodass alle zahlenden Mitglieder (insbesondere%0aauch Pharmafirmen) sich ihrer Rechte und Pflichten zu 100%25 bewusst%0asind.
+time=1387203573
+author:1387203573=zeno
+diff:1387203573:1387203552:=2d1%0a%3c !!! 16.12.2013%0a
+host:1387203573=46.140.30.26
+author:1387203552=zeno
+diff:1387203552:1387203552:=1,28d0%0a%3c !! Refdata löscht Felder ohne Vorwarnung%0a%3c %0a%3c Wir stellen fest, dass%0a%3c %0a%3c 1. die Stammdatenstrukturen von Refdata ohne Vorwarnung geändert werden.%0a%3c %0a%3c 2. Produkte in Refdata aufgelistet sind, welche schon lange nicht mehr%0a%3c bei Swissmedic zugelassen sind.%0a%3c %0a%3c 3. Entscheidungen bezüglich dem Löschen von Datenfeldern getroffen%0a%3c werden, ohne dass die zahlenden Pharmafirmen im vornherein informiert%0a%3c werden (im vornherein gefragt werden sie offenbar auch nicht).%0a%3c %0a%3c 4. Die Datenfelder im Aufnahmeformular für Neu-Anmeldungen nicht mit%0a%3c den Datenfeldern im zu exportierenden XML übereinstimmen.%0a%3c %0a%3c Falls Refdata als seriöser Partner ernst genommen werden will%0a%3c bezüglich ihrem genannten Zweck: "kostengünstige, sozialverträgliche%0a%3c und volkswirtschaftlich relevante Referenzierung von Produkten,%0a%3c Dienstleistungen, Personen und Institutionen" dann müssen obige%0a%3c untragbaren Zustände angepackt und verbessert werden.%0a%3c %0a%3c Zudem: der ganze Entscheidungsprozess: wann werden Daten aufgenommen,%0a%3c wann werden Daten gelöscht, wann werden Datenfelder gelöscht, wann%0a%3c werden Datenfelder hinzugefügt, etc muss in den Statuten schriftlich%0a%3c festgehalten werden, sodass alle zahlenden Mitglieder (insbesondere%0a%3c auch Pharmafirmen) sich ihrer Rechte und Pflichten zu 100%25 bewusst%0a%3c sind.%0a\ No newline at end of file%0a
+host:1387203552=46.140.30.26

@@ -1,0 +1,15 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.7.10) Gecko/20050824 Firefox/1.0.6
+author=
+host=84.73.187.0
+name=Main.ProprietaererStandard
+rev=2
+targets=Main.W3C
+text=! Was ist ein Proprietärer Standard%0aEin [[http://de.wikipedia.org/wiki/Propriet%25C3%25A4r | proprietärer Standard]] ist das gleiche wie ein geschlossener Standard. Ein proprietäres Format ist ein Standard der einer Firma gehört und nicht offen ist. Bei Problemen mit einem proprietären Format kann nur der Eigentümer darüber bestimmen wie und wo das Format geändert werden darf. PDF  ist ein proprietärer Standard. XML, SOAP, Yaml sind offene Standards die sich nach die W3C Richtlinien halten.
+time=1126615883
+author:1126615883=
+diff:1126615883:1125646204:=2c2%0a%3c Ein [[http://de.wikipedia.org/wiki/Propriet%25C3%25A4r | proprietärer Standard]] ist das gleiche wie ein geschlossener Standard. Ein proprietäres Format ist ein Standard der einer Firma gehört und nicht offen ist. Bei Problemen mit einem proprietären Format kann nur der Eigentümer darüber bestimmen wie und wo das Format geändert werden darf. PDF  ist ein proprietärer Standard. XML, SOAP, Yaml sind offene Standards die sich nach die W3C Richtlinien halten.%0a\ No newline at end of file%0a---%0a> Ein proprietärer Standard ist das gleiche wie ein geschlossener Standard. Ein proprietäres Format ist ein Standard der einer Firma gehört und nicht offen ist. Bei Problemen mit einem proprietären Format kann nur der Eigentümer darüber bestimmen wie und wo das Format geändert werden darf. PDF  ist ein proprietärer Standard. XML, SOAP, Yaml sind offene Standards die sich nach die W3C Richtlinien halten.%0a\ No newline at end of file%0a
+host:1126615883=84.73.187.0
+author:1125646204=
+diff:1125646204:1125646204:=1,2d0%0a%3c ! Was ist ein Proprietärer Standard%0a%3c Ein proprietärer Standard ist das gleiche wie ein geschlossener Standard. Ein proprietäres Format ist ein Standard der einer Firma gehört und nicht offen ist. Bei Problemen mit einem proprietären Format kann nur der Eigentümer darüber bestimmen wie und wo das Format geändert werden darf. PDF  ist ein proprietärer Standard. XML, SOAP, Yaml sind offene Standards die sich nach die W3C Richtlinien halten.%0a\ No newline at end of file%0a
+host:1125646204=84.73.187.0

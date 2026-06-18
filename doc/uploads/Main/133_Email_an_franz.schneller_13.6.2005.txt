@@ -1,0 +1,49 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 12459 invoked by uid 74); 14 Jun 2005 06:54:14 -0000
+Received: from zdavatz@ywesee.com by debian by uid 71 with qmail-scanner-1.15 
+ (clamscan: 0.54.  Clear:. 
+ Processed in 1.05727 secs); 14 Jun 2005 06:54:14 -0000
+Received: from 217-162-177-109.dclient.hispeed.ch (HELO zrr.local) (217.162.177.109)
+  by 0 with SMTP; 14 Jun 2005 06:54:13 -0000
+Date: Tue, 14 Jun 2005 08:55:13 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: Franz Schneller <franz.schneller@swissmedic.ch>
+Cc: Andreas Balsiger <andreas.balsiger@swissmedic.ch>, todo@oddb.org
+ <todo@oddb.org>
+Subject: Nachtrag zum ?ISO-8859-1?Q?Telefongespräch?
+Message-ID: <20050614085513.4ff8766e@zrr.local>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrter Herr Schneller
+
+Als Nachtrag zu unserem gestrigen Telefongespräch möchte ich gerne
+folgende Gedanken anfügen:
+
+1.) Es macht meiner Meinung nach Sinn (unabhängig ob es eine WTO-Aussschreibung
+für die Publikation der Fi gibt) sämtliche Daten, welche die Swissmedic
+produziert, auf Ihrer Website im maschinenlesbaren Format zu publizieren.
+
+2.) Das Internet ist das Medium von Heute und Morgen. Die Publikation der Daten
+im maschinenlesbaren Format schliesst eine Publikation der Daten in einem
+Printmedium nicht aus. Im Gegenteil, es vereinfacht die Printpublikation.
+
+Mit freundlichen Grüssen aus Zürich
+Zeno Davatz
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

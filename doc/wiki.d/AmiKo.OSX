@@ -1,0 +1,66 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4644.0 Safari/537.36 Edg/96.0.1032.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1380610406
+host=212.51.146.241
+name=AmiKo.OSX
+rev=18
+targets=AmiKo.Index,AmiKo.OSXRezeptfunktion,AmiKo.KrankenkassenKartenleser
+text=%3c%3c|[[Index]]|>>%0a!! AmiKo für macOS%0aAb Version 10.12 (Sierra)%0a* https://itunes.apple.com/us/app/amiko/id708142753?mt=12 - Deutsch%0a* https://itunes.apple.com/us/app/comed/id710472327?mt=12 - Französisch%0a%0a!! Anleitung zur Rezeptfunktion in AmiKo Desitin für macOS%0a* Abrechnung über [[https://www.medidata.ch/md/online/public/organizationregistrations/ | Medidata]].%0a* [[AmiKo/OSXRezeptfunktion | Rezeptfunktion]]%0a* [[AmiKo/KrankenkassenKartenleser | Krankenkassen Kartenleser]] gemäss eCH-0064, ISO/IEC 7816-4.%0a* Etiketten Drucker%0a* Volltext Suche%0a* Präparat Suche%0a* Hersteller Suche%0a* Patienten-Verwaltung%0a* Rezept Drucken%0a* Rezept exportieren%0a* Rezept importieren%0a%0a!! Kontakt%0a* 043 540 05 50%0a* zdavatz at ywesee dot com
+time=1633686175
+author:1633686175=zeno
+diff:1633686175:1631859720:=8d7%0a%3c * Abrechnung über [[https://www.medidata.ch/md/online/public/organizationregistrations/ | Medidata]].%0a
+host:1633686175=212.51.146.241
+author:1631859720=zeno
+diff:1631859720:1631859695:=5c5%0a%3c * https://itunes.apple.com/us/app/comed/id710472327?mt=12 - Französisch%0a---%0a> * https://itunes.apple.com/us/app/comed-desitin/id710472327&mt=12 - Französisch%0a
+host:1631859720=212.51.146.241
+author:1631859695=zeno
+diff:1631859695:1562570799:=5c5%0a%3c * https://itunes.apple.com/us/app/comed-desitin/id710472327&mt=12 - Französisch%0a---%0a> * https://itunes.apple.com/us/app/comed/id710472327&mt=12 - Französisch%0a
+host:1631859695=212.51.146.241
+author:1562570799=zeno
+diff:1562570799:1528096135:=9c9%0a%3c * [[AmiKo/KrankenkassenKartenleser | Krankenkassen Kartenleser]] gemäss eCH-0064, ISO/IEC 7816-4.%0a---%0a> * Krankenkassen Kartenleser gemäss eCH-0064, ISO/IEC 7816-4.%0a
+host:1562570799=212.51.146.241
+author:1528096135=zeno
+diff:1528096135:1528096115:=13d12%0a%3c * Hersteller Suche%0a
+host:1528096135=212.51.146.241
+author:1528096115=zeno
+diff:1528096115:1516875352:=9,16d8%0a%3c * Krankenkassen Kartenleser gemäss eCH-0064, ISO/IEC 7816-4.%0a%3c * Etiketten Drucker%0a%3c * Volltext Suche%0a%3c * Präparat Suche%0a%3c * Patienten-Verwaltung%0a%3c * Rezept Drucken%0a%3c * Rezept exportieren%0a%3c * Rezept importieren%0a
+host:1528096115=212.51.146.241
+author:1516875352=zeno
+diff:1516875352:1516875343:=8c8%0a%3c * [[AmiKo/OSXRezeptfunktion | Rezeptfunktion]]%0a---%0a> [[AmiKo/OSXRezeptfunktion | Rezeptfunktion]]%0a
+host:1516875352=212.51.146.241
+author:1516875343=zeno
+diff:1516875343:1516875324:=7,8c7,8%0a%3c !! Anleitung zur Rezeptfunktion in AmiKo Desitin für macOS%0a%3c [[AmiKo/OSXRezeptfunktion | Rezeptfunktion]]%0a---%0a> !! Anleitung zur Rezeptfunktion%0a> [[AmiKo/OSXRezeptfunktion | inkl. Rezeptfunktion]]%0a
+host:1516875343=212.51.146.241
+author:1516875324=zeno
+diff:1516875324:1516875289:=7d6%0a%3c !! Anleitung zur Rezeptfunktion%0a
+host:1516875324=212.51.146.241
+author:1516875289=zeno
+diff:1516875289:1516875207:=6,7d5%0a%3c %0a%3c [[AmiKo/OSXRezeptfunktion | inkl. Rezeptfunktion]]%0a
+host:1516875289=212.51.146.241
+author:1516875207=zeno
+diff:1516875207:1516875193:=3c3%0a%3c Ab Version 10.12 (Sierra)%0a---%0a> Ab Version 10.12%0a
+host:1516875207=212.51.146.241
+author:1516875193=zeno
+diff:1516875193:1402485671:=2,3c2,3%0a%3c !! AmiKo für macOS%0a%3c Ab Version 10.12%0a---%0a> !! AmiKo für OS X%0a> Ab Version 10.7%0a5a6,16%0a> %0a> !! Version 1.7%0a> * EPha.ch Interaktionen wurden integriert.%0a> %0a> !! Version 1.5%0a> * Täglich Daten aktualisieren.%0a> %0a> !! Version 1.4%0a> * Favoritenliste%0a> * Druckfunktion%0a> * Suche nach Präparat, Inhaberin, ATC-Code (Code und Code-Name), Zulassungsnummer, Wirkstoff, Therapie%0a
+host:1516875193=212.51.146.241
+author:1402485671=zeno
+diff:1402485671:1392730087:=6,8d5%0a%3c %0a%3c !! Version 1.7%0a%3c * EPha.ch Interaktionen wurden integriert.%0a
+host:1402485671=46.140.30.26
+author:1392730087=zeno
+diff:1392730087:1389001577:=6,8d5%0a%3c %0a%3c !! Version 1.5%0a%3c * Täglich Daten aktualisieren.%0a
+host:1392730087=46.140.30.26
+author:1389001577=zeno
+diff:1389001577:1389001446:=10,14c10%0a%3c * Suche nach Präparat, Inhaberin, ATC-Code (Code und Code-Name), Zulassungsnummer, Wirkstoff, Therapie%0a%3c %0a%3c !! Kontakt%0a%3c * 043 540 05 50%0a%3c * zdavatz at ywesee dot com%0a\ No newline at end of file%0a---%0a> * Suche nach Präparat, Inhaberin, ATC-Code (Code und Code-Name), Zulassungsnummer, Wirkstoff, Therapie%0a\ No newline at end of file%0a
+host:1389001577=46.140.30.26
+author:1389001446=zeno
+diff:1389001446:1381759203:=5,10c5%0a%3c * https://itunes.apple.com/us/app/comed/id710472327&mt=12 - Französisch%0a%3c %0a%3c !! Version 1.4%0a%3c * Favoritenliste%0a%3c * Druckfunktion%0a%3c * Suche nach Präparat, Inhaberin, ATC-Code (Code und Code-Name), Zulassungsnummer, Wirkstoff, Therapie%0a\ No newline at end of file%0a---%0a> * https://itunes.apple.com/us/app/comed/id710472327&mt=12 - Französisch%0a\ No newline at end of file%0a
+host:1389001446=46.140.30.26
+author:1381759203=zeno
+diff:1381759203:1380610406:=1d0%0a%3c %3c%3c|[[Index]]|>>%0a
+host:1381759203=80.219.10.25
+author:1380610406=zeno
+diff:1380610406:1380610406:=1,4d0%0a%3c !! AmiKo für OS X%0a%3c Ab Version 10.7%0a%3c * https://itunes.apple.com/us/app/amiko/id708142753?mt=12 - Deutsch%0a%3c * https://itunes.apple.com/us/app/comed/id710472327&mt=12 - Französisch%0a\ No newline at end of file%0a
+host:1380610406=80.219.10.25

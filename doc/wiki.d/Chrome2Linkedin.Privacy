@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1778604324
+host=212.51.146.241
+name=Chrome2Linkedin.Privacy
+rev=1
+targets=
+text=! Chrome2Linkedin%0a# We do not collect any personal data.%0a# We do not track any users.
+time=1778604324
+author:1778604324=zeno
+diff:1778604324:1778604324:=1,3d0%0a%3c ! Chrome2Linkedin%0a%3c # We do not collect any personal data.%0a%3c # We do not track any users.%0a\ No newline at end of file%0a
+host:1778604324=212.51.146.241

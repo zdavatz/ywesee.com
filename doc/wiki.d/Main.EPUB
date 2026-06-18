@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.30 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1435590985
+host=46.140.30.26
+name=Main.EPUB
+rev=2
+targets=AmiKo.Index
+text=Siehe AmiKo [[AmiKo/Index]]
+time=1435594953
+author:1435594953=zeno
+diff:1435594953:1435590985:=1c1%0a%3c Siehe AmiKo [[AmiKo/Index]]%0a\ No newline at end of file%0a---%0a> http://www.ywesee.com/pmwiki.php/Main/EPUB%0a\ No newline at end of file%0a
+host:1435594953=46.140.30.26
+author:1435590985=zeno
+diff:1435590985:1435590985:=1d0%0a%3c http://www.ywesee.com/pmwiki.php/Main/EPUB%0a\ No newline at end of file%0a
+host:1435590985=178.197.225.125

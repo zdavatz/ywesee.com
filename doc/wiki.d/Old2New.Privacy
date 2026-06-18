@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1774886222
+host=212.51.146.241
+name=Old2New.Privacy
+rev=1
+targets=
+text=! Privacy for old2new App%0a# We do not collect any data.
+time=1774886222
+author:1774886222=zeno
+diff:1774886222:1774886222:=1,2d0%0a%3c ! Privacy for old2new App%0a%3c # We do not collect any data.%0a\ No newline at end of file%0a
+host:1774886222=212.51.146.241

@@ -1,0 +1,59 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 25903 invoked by uid 210); 30 Jun 2005 21:42:50 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/960. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 0.032602 secs); 30 Jun 2005 19:42:50 -0000
+Received: from unknown (HELO localhost) (zdavatz@ywesee.com@217.162.177.109)
+  by bbmb.ch with ESMTPA; 30 Jun 2005 21:42:50 +0200
+Date: Thu, 30 Jun 2005 21:42:04 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: todo@oddb.org <todo@oddb.org>
+Subject: 31-0178: Die WEKO ?ISO-8859-1?Q?eröffnet? die Untersuchung
+ gegen die Documed AG
+Message-ID: <20050630214204.5b4fefe0@localhost>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4 (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charsetISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Damen und Herren
+
+Es ist soweit. Die Schweizerische Wettbewerbskommission eröffnet die
+Untersuchung gegen die Documed AG betreffend Daten und Software im
+schweizerischen Gesundheitswesen.
+
+Jetzt ist Zeit zum Handeln. Wehren Sie sich gegen jegliches Monopoly
+von wettbewerbsverzerrenden Teilnehmern im CH-Gesundheitswesen. Setzen Sie 
+sich ein für offene Standards und gegen ein Vendor-Lockin!
+
+Setzen Sie sich ein für mehr Wettbewerb. Ihre Kunden profitieren am meisten
+davon und sie schlussendlich auch.
+
+http://www.ywesee.com/uploads/Main/von_WEKO_30.6.2005.pdf
+
+Wenden Sie sich bitte direkt an die WEKO falls Sie etwas zu sagen haben und
+mehr Wettbewerb im CH Gesundheitswesen wollen.
+
+Informieren Sie sich über offene Standards:
+* http://perens.com/OpenStandards/Definition.html
+* http://www.w3.org/Consortium/20
+
+Mit singenden Grüssen vom Zürichsee
+Zeno Davatz
+
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-2420
+Schl.-Fingerabdruck 3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

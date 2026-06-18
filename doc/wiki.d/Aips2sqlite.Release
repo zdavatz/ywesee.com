@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1383556963
+host=46.140.30.26
+name=Aips2sqlite.Release
+rev=2
+targets=Aips2sqlite.Index
+text=%3c%3c|[[Index]]|>>%0a! aips2sqlite%0a%0aMit unserem neuen Tool "aips2sqlite" können Sie direkt eine SQlite%0aDatenbank erstellen (http://www.sqlite.org/).%0a%0aaips2sqlite kann hier runtergeladen werden:%0ahttps://github.com/zdavatz/aips2sqlite/blob/master/README.md%0a%0aDie erstellte Datenbank enthält unter anderem alle Daten aus dem%0aPublic Domain (AIPS; Fachinfo, BAG; Preise, Refdata; Pharmacode),%0ainkl. allen Indikationen aus dem Kapitel "Anwendung" der FI.%0a%0aDie Datenbank kann für Desktop, Mobile oder auch Server-Lösungen%0aeingesetzt werden. Die Abfrage-Sprache ist normales SQL.%0a%0aaips2sqlite hat auch eine XML-Option; d.h. sie können anstelle von%0aeiner SQlite Datenbank auch XML-Files erstellen.%0a%0aDie Software aips2sqlite ist GPLv3.0. Entspricht Ihre Software auch%0ader GPLv3.0 Lizenz, dann können Sie aips2sqlite kostenlos verwenden.%0aWollen Sie aips2sqlite mit einer proprietären Software kombinieren, so%0afallen jährliche Lizenzgebühren an.%0a%0aFür Fragen stehen wir Ihnen gerne zur Verfügung.%0a%0aMfG\\%0aZeno Davatz\\%0a+41 43 540 05 50
+time=1383557005
+author:1383557005=zeno
+diff:1383557005:1383556963:=1d0%0a%3c %3c%3c|[[Index]]|>>%0a
+host:1383557005=46.140.30.26
+author:1383556963=zeno
+diff:1383556963:1383556963:=1,28d0%0a%3c ! aips2sqlite%0a%3c %0a%3c Mit unserem neuen Tool "aips2sqlite" können Sie direkt eine SQlite%0a%3c Datenbank erstellen (http://www.sqlite.org/).%0a%3c %0a%3c aips2sqlite kann hier runtergeladen werden:%0a%3c https://github.com/zdavatz/aips2sqlite/blob/master/README.md%0a%3c %0a%3c Die erstellte Datenbank enthält unter anderem alle Daten aus dem%0a%3c Public Domain (AIPS; Fachinfo, BAG; Preise, Refdata; Pharmacode),%0a%3c inkl. allen Indikationen aus dem Kapitel "Anwendung" der FI.%0a%3c %0a%3c Die Datenbank kann für Desktop, Mobile oder auch Server-Lösungen%0a%3c eingesetzt werden. Die Abfrage-Sprache ist normales SQL.%0a%3c %0a%3c aips2sqlite hat auch eine XML-Option; d.h. sie können anstelle von%0a%3c einer SQlite Datenbank auch XML-Files erstellen.%0a%3c %0a%3c Die Software aips2sqlite ist GPLv3.0. Entspricht Ihre Software auch%0a%3c der GPLv3.0 Lizenz, dann können Sie aips2sqlite kostenlos verwenden.%0a%3c Wollen Sie aips2sqlite mit einer proprietären Software kombinieren, so%0a%3c fallen jährliche Lizenzgebühren an.%0a%3c %0a%3c Für Fragen stehen wir Ihnen gerne zur Verfügung.%0a%3c %0a%3c MfG\\%0a%3c Zeno Davatz\\%0a%3c +41 43 540 05 50%0a\ No newline at end of file%0a
+host:1383556963=46.140.30.26

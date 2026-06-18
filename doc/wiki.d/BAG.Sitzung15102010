@@ -1,0 +1,123 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 FireTorrent/2.0.1
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1287147323
+host=80.219.10.249
+name=BAG.Sitzung15102010
+rev=37
+targets=
+text=!Protokoll zur Sitzung vom 15.10.2010 beim BAG%0a%0aGrund zum Anlass der Sitzung: \\%0ahttp://groups.google.com/group/sl-errors-schweiz/msg/39cf6332551fd531\\%0ahttp://www.ywesee.com/pmwiki.php/BAG/SL%0a%0a10.35 Uhr bis 12Uhr%0a%0aAnwesende: Herr Aeschbacher (e-mediat), Herr Kämpf (Ex-BAG), Herr Krayenbühl (BAG), Herr Davatz (ywesee)%0a %0a!! 1 Pharmacodes:%0aDie Notwendigkeit einer Weiterführung der Pharmacodes auf der SL wird mit den Anwendern abgeklärt. Dafür ist eine Diskussion mit der Eidgenössischen Arzneimittelkommission erforderlich, wo die Vertreter von den Anwendern Einsitz haben (Krankenkassen, Industrie, Ärzte und Apotheker). Die nächste Sitzung der EAK findet am 2. November statt.%0a%0a%0a!! 2 EAN/Swissmedic-Nummern:%0aEs soll sichergestellt werden, dass zwischen der Swissmedic-Nummer auf der Zulassungsbescheinigung (Urkunde) und der Publikation derselben auf der SL keine Abweichungen vorkommen können. Dafür ist eine Verknüpfung der XML-Datei der SL mit der periodischen Excelpublikation von Swissmedic sicherzustellen, die Excel-Tabelle von Swissmedic erscheint Mitte Monat, die Anpassung an dieser Tabelle sollte per 1. des darauffolgenden Monats erfolgen.%0a%0a%0a!! 3 Streichungen:%0aEs liegt im Interesse des BAG, möglichst frühzeitig von Abregistrierungen durch Swissmedic zu erfahren. In solchen Fällen wird die Firma angeschrieben und falls Bestätigung der Abregistrierung erfolgt, wir das Präparat per nächstmöglichen Termin aus der SL gestrichen.%0a%0aNach der [[http://www.admin.ch/ch/d/cf/ko/index_311.html | EAK]]-Sitzung vom 2. November 2010 werden wir uns bei Ihnen melden und Ihnen über die Rückmeldung aus der EAK informieren.%0a%0a!!!!Offene Fragen aus Sicht der ywesee GmbH:%0a%0a!!! Zu Punkt 1: Rechtliche Haftbarkeit wenn die Krankenkasse ohne Pharmacode abrechnen will%0aUnter Punkt eins (Pharmacodes), geht es mir insbesondere darum, wer aus rechtlicher Sicht haftet, wenn die Krankenkasse bei der Verwendung vom BAG-XML nur mit den EAN-Codes der Swissmedic abrechnet und die Pharmacodes nicht verwendet; wer haftet ins besondere dann wenn in der SL die Swissmedic-Nummer falsch ist, jedoch im Swissmedic-Excel die Nummer korrekt hinterlegt war. Wenn der Krankenkasse also ein wirtschaftlicher Schaden entsteht weil an Hand der nicht korrekten BAG-XML Daten die Medikamente nicht erkannt wurden.%0a%0aKönnen Sie bitte diese Frage allen Ihren Juristen stellen und auch der [[http://www.admin.ch/ch/d/cf/ko/index_311.html | EAK]] vorlegen.%0a%0a!!! Zu Punkt 1: Überprüfbarkeit der Zulassung durch den Konsumenten auf seiner Krankenkassen-Rechnung%0aGenau gleich wie bei der Natel-Rechnung hat der Konsument mit höchstem Selbstbehalt auch ein Anrecht auf Transparenz wenn es um seine Medikamenten-Kosten geht. Somit stellt sich die Frage: Welcher Code ist am "legalsten" und gehört somit auf die Krankenkassen-Rechnung welche dem Kunden nach Hause gesandt wird? Meiner Meinung nach kann dies nur der EAN-Code der Swissmedic sein, denn dieser Code ist gemäss [[http://www.admin.ch/ch/d/sr/832_112_31/a30.html#fn3 | Art. 30 Grundsatz Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung]] die Grundlage für jede SL-Zulassung beim Schweizer Bundesamt für Gesundheit.%0a%0aZu Punkte 2 und 3 habe ich zur Zeit nichts hinzuzufügen.%0a%0a!!Bibliographie%0aAttach:Sitzung_BAG_15.10.2010.jpg%0a%0a'''ZLB'''=Zulassungsbescheinigung\\%0a'''hot spots'''=ca. 2-3 Produkte pro Jahr.\\%0a'''EAK'''=Eidgenössische Arzneimittelkommission\\%0aGemäss BAG gibt es ca. 200 Neuzulassungen in die SL pro Jahr und die sind offenbar alle dringend.\\%0aGenerika werden offenbar nie "schnell" zugelassen.\\%0a'''VAZV'''=[[http://www.admin.ch/ch/d/sr/c812_212_23.html | Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln]]. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind. Die Swissmedic-Urkunde muss aber auf jeden Fall schon vorliegen.\\%0a'''XML'''=Amtliche XML-Datenpublikation vom BAG.%0a%0a
+time=1287154363
+author:1287154363=zeno
+diff:1287154363:1287154305:=44,46c44%0a%3c '''VAZV'''=[[http://www.admin.ch/ch/d/sr/c812_212_23.html | Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln]]. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind. Die Swissmedic-Urkunde muss aber auf jeden Fall schon vorliegen.\\%0a%3c '''XML'''=Amtliche XML-Datenpublikation vom BAG.%0a%3c %0a---%0a> '''VAZV'''=[[http://www.admin.ch/ch/d/sr/c812_212_23.html | Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln]]. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind. Die Swissmedic-Urkunde muss aber auf jeden Fall schon vorliegen.%0a
+host:1287154363=80.219.10.249
+author:1287154305=zeno
+diff:1287154305:1287154241:=44c44%0a%3c '''VAZV'''=[[http://www.admin.ch/ch/d/sr/c812_212_23.html | Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln]]. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind. Die Swissmedic-Urkunde muss aber auf jeden Fall schon vorliegen.%0a---%0a> '''VAZV'''=Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind. Die Swissmedic-Urkunde muss aber auf jeden Fall schon vorliegen.%0a
+host:1287154305=80.219.10.249
+author:1287154241=zeno
+diff:1287154241:1287154220:=40c40%0a%3c '''hot spots'''=ca. 2-3 Produkte pro Jahr.\\%0a---%0a> hot spots=ca. 2-3 Produkte pro Jahr.\\%0a
+host:1287154241=80.219.10.249
+author:1287154220=zeno
+diff:1287154220:1287154195:=39c39%0a%3c '''ZLB'''=Zulassungsbescheinigung\\%0a---%0a> ZLB=Zulassungsbescheinigung\\%0a41c41%0a%3c '''EAK'''=Eidgenössische Arzneimittelkommission\\%0a---%0a> EAK=Eidgenössische Arzneimittelkommission\\%0a44c44%0a%3c '''VAZV'''=Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind. Die Swissmedic-Urkunde muss aber auf jeden Fall schon vorliegen.%0a---%0a> VAZV=Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind. Die Swissmedic-Urkunde muss aber auf jeden Fall schon vorliegen.%0a
+host:1287154220=80.219.10.249
+author:1287154195=zeno
+diff:1287154195:1287154164:=44c44%0a%3c VAZV=Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind. Die Swissmedic-Urkunde muss aber auf jeden Fall schon vorliegen.%0a---%0a> VAZV=Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind.%0a
+host:1287154195=80.219.10.249
+author:1287154164=zeno
+diff:1287154164:1287154097:=44c44%0a%3c VAZV=Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln. Die VAZV ermöglicht der Pharmafirma offenbar sein Produkt schneller in die SL aufzunehmen. Die Behauptung vom BAG ist hier, dass diejenigen Produkte zu diesem Zeitpunkt noch nicht im XLS-File der Swissmedic vorhanden sind.%0a---%0a> VAZV=Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln%0a
+host:1287154164=80.219.10.249
+author:1287154097=zeno
+diff:1287154097:1287154080:=44c44%0a%3c VAZV=Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Meldepflicht von Arzneimitteln%0a---%0a> VAZV=Verordnung des Schweizeri-schen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Mel-depflicht von Arzneimitteln%0a
+host:1287154097=80.219.10.249
+author:1287154080=zeno
+diff:1287154080:1287153996:=44c44%0a%3c VAZV=Verordnung des Schweizeri-schen Heilmittelinstituts vom 9. November 2001 über die vereinfachte Zulassung und die Mel-depflicht von Arzneimitteln%0a---%0a> VAZ=%0a
+host:1287154080=80.219.10.249
+author:1287153996=zeno
+diff:1287153996:1287153989:=3c3%0a%3c Grund zum Anlass der Sitzung: \\%0a---%0a> Grund zum Anlass der Sitzung:%0a
+host:1287153996=80.219.10.249
+author:1287153989=zeno
+diff:1287153989:1287153981:=3c3%0a%3c Grund zum Anlass der Sitzung:%0a---%0a> Grund zum Anlass der Sitzung:\\ %0a
+host:1287153989=80.219.10.249
+author:1287153981=zeno
+diff:1287153981:1287153966:=3,5c3%0a%3c Grund zum Anlass der Sitzung:\\ %0a%3c http://groups.google.com/group/sl-errors-schweiz/msg/39cf6332551fd531\\%0a%3c http://www.ywesee.com/pmwiki.php/BAG/SL%0a---%0a> Grund zum Anlass der Sitzung: http://groups.google.com/group/sl-errors-schweiz/msg/39cf6332551fd531, http://www.ywesee.com/pmwiki.php/BAG/SL%0a
+host:1287153981=80.219.10.249
+author:1287153966=zeno
+diff:1287153966:1287153829:=3c3%0a%3c Grund zum Anlass der Sitzung: http://groups.google.com/group/sl-errors-schweiz/msg/39cf6332551fd531, http://www.ywesee.com/pmwiki.php/BAG/SL%0a---%0a> Grund zum Anlass der Sitzung: http://groups.google.com/group/sl-errors-schweiz/msg/39cf6332551fd531%0a
+host:1287153966=80.219.10.249
+author:1287153829=zeno
+diff:1287153829:1287153804:=41,42c41,42%0a%3c Generika werden offenbar nie "schnell" zugelassen.\\%0a%3c VAZ=%0a---%0a> Generika werden offenbar nie "schnell" zugelassen.%0a> VAZ=%0a\ No newline at end of file%0a
+host:1287153829=80.219.10.249
+author:1287153804=zeno
+diff:1287153804:1287153768:=41d40%0a%3c Generika werden offenbar nie "schnell" zugelassen.%0a
+host:1287153804=80.219.10.249
+author:1287153768=zeno
+diff:1287153768:1287153757:=40c40%0a%3c Gemäss BAG gibt es ca. 200 Neuzulassungen in die SL pro Jahr und die sind offenbar alle dringend.\\%0a---%0a> Gemäss BAG gibt es ca. 200 Neuzulassungen in die SL pro Jahr und die sind offenbar alle dringend.%0a
+host:1287153768=80.219.10.249
+author:1287153757=zeno
+diff:1287153757:1287153653:=40,41c40%0a%3c Gemäss BAG gibt es ca. 200 Neuzulassungen in die SL pro Jahr und die sind offenbar alle dringend.%0a%3c VAZ=%0a\ No newline at end of file%0a---%0a> Gemäss BAG gibt es ca. 200 Neuzulassungen in die SL pro Jahr und die sind offenbar alle dringend.%0a\ No newline at end of file%0a
+host:1287153757=80.219.10.249
+author:1287153653=zeno
+diff:1287153653:1287153601:=39,40c39%0a%3c EAK=Eidgenössische Arzneimittelkommission\\%0a%3c Gemäss BAG gibt es ca. 200 Neuzulassungen in die SL pro Jahr und die sind offenbar alle dringend.%0a\ No newline at end of file%0a---%0a> EAK=Eidgenössische Arzneimittelkommission%0a\ No newline at end of file%0a
+host:1287153653=80.219.10.249
+author:1287153601=zeno
+diff:1287153601:1287153519:=37,39c37,38%0a%3c ZLB=Zulassungsbescheinigung\\%0a%3c hot spots=ca. 2-3 Produkte pro Jahr.\\%0a%3c EAK=Eidgenössische Arzneimittelkommission%0a\ No newline at end of file%0a---%0a> ZLB=Zulassungsbescheinigung%0a> hot spots=ca. 2-3 Produkte pro Jahr.%0a\ No newline at end of file%0a
+host:1287153601=80.219.10.249
+author:1287153519=zeno
+diff:1287153519:1287153454:=35,38c35%0a%3c Attach:Sitzung_BAG_15.10.2010.jpg%0a%3c %0a%3c ZLB=Zulassungsbescheinigung%0a%3c hot spots=ca. 2-3 Produkte pro Jahr.%0a\ No newline at end of file%0a---%0a> Attach:Sitzung_BAG_15.10.2010.jpg%0a\ No newline at end of file%0a
+host:1287153519=80.219.10.249
+author:1287153454=zeno
+diff:1287153454:1287153445:=34c34%0a%3c !!Bibliographie%0a---%0a> !!!Bibliographie%0a
+host:1287153454=80.219.10.249
+author:1287153445=zeno
+diff:1287153445:1287153376:=34d33%0a%3c !!!Bibliographie%0a
+host:1287153445=80.219.10.249
+author:1287153376=zeno
+diff:1287153376:1287150075:=32,34c32%0a%3c Zu Punkte 2 und 3 habe ich zur Zeit nichts hinzuzufügen.%0a%3c %0a%3c Attach:Sitzung_BAG_15.10.2010.jpg%0a\ No newline at end of file%0a---%0a> Zu Punkte 2 und 3 habe ich zur Zeit nichts hinzuzufügen.%0a\ No newline at end of file%0a
+host:1287153376=80.219.10.249
+author:1287150075=zeno
+diff:1287150075:1287148553:=22,24c22,24%0a%3c !!!!Offene Fragen aus Sicht der ywesee GmbH:%0a%3c %0a%3c !!! Zu Punkt 1: Rechtliche Haftbarkeit wenn die Krankenkasse ohne Pharmacode abrechnen will%0a---%0a> !!!Offene Fragen aus Sicht der ywesee GmbH:%0a> %0a> !! Zu Punkt 1: Rechtliche Haftbarkeit wenn die Krankenkasse ohne Pharmacode abrechnen will%0a29c29%0a%3c !!! Zu Punkt 1: Überprüfbarkeit der Zulassung durch den Konsumenten auf seiner Krankenkassen-Rechnung%0a---%0a> !! Zu Punkt 1: Überprüfbarkeit der Zulassung durch den Konsumenten auf seiner Krankenkassen-Rechnung%0a
+host:1287150075=80.219.10.249
+author:1287148553=zeno
+diff:1287148553:1287148229:=30,32c30%0a%3c Genau gleich wie bei der Natel-Rechnung hat der Konsument mit höchstem Selbstbehalt auch ein Anrecht auf Transparenz wenn es um seine Medikamenten-Kosten geht. Somit stellt sich die Frage: Welcher Code ist am "legalsten" und gehört somit auf die Krankenkassen-Rechnung welche dem Kunden nach Hause gesandt wird? Meiner Meinung nach kann dies nur der EAN-Code der Swissmedic sein, denn dieser Code ist gemäss [[http://www.admin.ch/ch/d/sr/832_112_31/a30.html#fn3 | Art. 30 Grundsatz Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung]] die Grundlage für jede SL-Zulassung beim Schweizer Bundesamt für Gesundheit.%0a%3c %0a%3c Zu Punkte 2 und 3 habe ich zur Zeit nichts hinzuzufügen.%0a\ No newline at end of file%0a---%0a> Genau gleich wie bei der Natel-Rechnung hat der Konsument mit höchstem Selbstbehalt auch ein Anrecht auf Transparenz wenn es um seine Medikamenten-Kosten geht. Somit stellt sich die Frage: Welcher Code ist am "legalsten" und gehört somit auf die Krankenkassen-Rechnung welche dem Kunden nach Hause gesandt wird? Meiner Meinung nach kann dies nur der EAN-Code der Swissmedic sein, denn dieser Code ist gemäss [[http://www.admin.ch/ch/d/sr/832_112_31/a30.html#fn3 | Art. 30 Grundsatz Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung]] die Grundlage für jede SL-Zulassung beim Schweizer Bundesamt für Gesundheit.%0a\ No newline at end of file%0a
+host:1287148553=80.219.10.249
+author:1287148229=zeno
+diff:1287148229:1287148137:=24c24%0a%3c !! Zu Punkt 1: Rechtliche Haftbarkeit wenn die Krankenkasse ohne Pharmacode abrechnen will%0a---%0a> !! Zu Punkt 1: Rechtliche Hafbarkeit wenn die Krankenkasse ohne Pharmacode abrechnen will%0a
+host:1287148229=80.219.10.249
+author:1287148137=zeno
+diff:1287148137:1287147963:=2,4d1%0a%3c %0a%3c Grund zum Anlass der Sitzung: http://groups.google.com/group/sl-errors-schweiz/msg/39cf6332551fd531%0a%3c %0a
+host:1287148137=80.219.10.249
+author:1287147963=zeno
+diff:1287147963:1287147911:=4c4%0a%3c Anwesende: Herr Aeschbacher (e-mediat), Herr Kämpf (Ex-BAG), Herr Krayenbühl (BAG), Herr Davatz (ywesee)%0a---%0a> Anwesende: Herr Aeschbacher (e-mediat), Herr Kämpf(Ex-BAG), Herr Krayenbühl (BAG), Herr Davatz (ywesee)%0a
+host:1287147963=80.219.10.249
+author:1287147911=zeno
+diff:1287147911:1287147887:=26c26%0a%3c !! Zu Punkt 1: Überprüfbarkeit der Zulassung durch den Konsumenten auf seiner Krankenkassen-Rechnung%0a---%0a> !! Zu Punkt 1: Überprüfbarkeit der Zulassung durch den Konsumenten%0a
+host:1287147911=80.219.10.249
+author:1287147887=zeno
+diff:1287147887:1287147665:=24,27c24%0a%3c Können Sie bitte diese Frage allen Ihren Juristen stellen und auch der [[http://www.admin.ch/ch/d/cf/ko/index_311.html | EAK]] vorlegen.%0a%3c %0a%3c !! Zu Punkt 1: Überprüfbarkeit der Zulassung durch den Konsumenten%0a%3c Genau gleich wie bei der Natel-Rechnung hat der Konsument mit höchstem Selbstbehalt auch ein Anrecht auf Transparenz wenn es um seine Medikamenten-Kosten geht. Somit stellt sich die Frage: Welcher Code ist am "legalsten" und gehört somit auf die Krankenkassen-Rechnung welche dem Kunden nach Hause gesandt wird? Meiner Meinung nach kann dies nur der EAN-Code der Swissmedic sein, denn dieser Code ist gemäss [[http://www.admin.ch/ch/d/sr/832_112_31/a30.html#fn3 | Art. 30 Grundsatz Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung]] die Grundlage für jede SL-Zulassung beim Schweizer Bundesamt für Gesundheit.%0a\ No newline at end of file%0a---%0a> Können Sie bitte diese Frage allen Ihren Juristen stellen und auch der [[http://www.admin.ch/ch/d/cf/ko/index_311.html | EAK]] vorlegen.%0a\ No newline at end of file%0a
+host:1287147887=80.219.10.249
+author:1287147665=zeno
+diff:1287147665:1287147647:=19c19%0a%3c !!!Offene Fragen aus Sicht der ywesee GmbH:%0a---%0a> !!!Offene Fragen von meiner Seite:%0a
+host:1287147665=80.219.10.249
+author:1287147647=zeno
+diff:1287147647:1287147613:=21c21%0a%3c !! Zu Punkt 1: Rechtliche Hafbarkeit wenn die Krankenkasse ohne Pharmacode abrechnen will%0a---%0a> !! Zu Punkt 1%0a
+host:1287147647=80.219.10.249
+author:1287147613=zeno
+diff:1287147613:1287147590:=17c17%0a%3c Nach der [[http://www.admin.ch/ch/d/cf/ko/index_311.html | EAK]]-Sitzung vom 2. November 2010 werden wir uns bei Ihnen melden und Ihnen über die Rückmeldung aus der EAK informieren.%0a---%0a> Nach der EAK-Sitzung vom 2. November 2010 werden wir uns bei Ihnen melden und Ihnen über die Rückmeldung aus der EAK informieren.%0a
+host:1287147613=80.219.10.249
+author:1287147590=zeno
+diff:1287147590:1287147425:=6c6%0a%3c !! 1 Pharmacodes:%0a---%0a> !!Pharmacodes:%0a10c10%0a%3c !! 2 EAN/Swissmedic-Nummern:%0a---%0a> !!EAN/Swissmedic-Nummern:%0a14c14%0a%3c !! 3 Streichungen:%0a---%0a> !!Streichungen:%0a17,24c17%0a%3c Nach der EAK-Sitzung vom 2. November 2010 werden wir uns bei Ihnen melden und Ihnen über die Rückmeldung aus der EAK informieren.%0a%3c %0a%3c !!!Offene Fragen von meiner Seite:%0a%3c %0a%3c !! Zu Punkt 1%0a%3c Unter Punkt eins (Pharmacodes), geht es mir insbesondere darum, wer aus rechtlicher Sicht haftet, wenn die Krankenkasse bei der Verwendung vom BAG-XML nur mit den EAN-Codes der Swissmedic abrechnet und die Pharmacodes nicht verwendet; wer haftet ins besondere dann wenn in der SL die Swissmedic-Nummer falsch ist, jedoch im Swissmedic-Excel die Nummer korrekt hinterlegt war. Wenn der Krankenkasse also ein wirtschaftlicher Schaden entsteht weil an Hand der nicht korrekten BAG-XML Daten die Medikamente nicht erkannt wurden.%0a%3c %0a%3c Können Sie bitte diese Frage allen Ihren Juristen stellen und auch der [[http://www.admin.ch/ch/d/cf/ko/index_311.html | EAK]] vorlegen.%0a\ No newline at end of file%0a---%0a> Nach der EAK-Sitzung vom 2. November 2010 werden wir uns bei Ihnen melden und Ihnen über die Rückmeldung aus der EAK informieren.%0a\ No newline at end of file%0a
+host:1287147590=80.219.10.249
+author:1287147425=zeno
+diff:1287147425:1287147406:=1c1%0a%3c !Protokoll zur Sitzung vom 15.10.2010 beim BAG%0a---%0a> !Sitzung vom 15.10.2010 beim BAG%0a
+host:1287147425=80.219.10.249
+author:1287147406=zeno
+diff:1287147406:1287147384:=4c4%0a%3c Anwesende: Herr Aeschbacher (e-mediat), Herr Kämpf(Ex-BAG), Herr Krayenbühl (BAG), Herr Davatz (ywesee)%0a---%0a> Anwesende: Herr Aeschbacher, Herr Kämpf, Herr Krayenbühl, Herr Davatz%0a
+host:1287147406=80.219.10.249
+author:1287147384=zeno
+diff:1287147384:1287147323:=1,5d0%0a%3c !Sitzung vom 15.10.2010 beim BAG%0a%3c 10.35 Uhr bis 12Uhr%0a%3c %0a%3c Anwesende: Herr Aeschbacher, Herr Kämpf, Herr Krayenbühl, Herr Davatz%0a%3c  %0a
+host:1287147384=80.219.10.249
+author:1287147323=zeno
+diff:1287147323:1287147323:=1,12d0%0a%3c !!Pharmacodes:%0a%3c Die Notwendigkeit einer Weiterführung der Pharmacodes auf der SL wird mit den Anwendern abgeklärt. Dafür ist eine Diskussion mit der Eidgenössischen Arzneimittelkommission erforderlich, wo die Vertreter von den Anwendern Einsitz haben (Krankenkassen, Industrie, Ärzte und Apotheker). Die nächste Sitzung der EAK findet am 2. November statt.%0a%3c %0a%3c %0a%3c !!EAN/Swissmedic-Nummern:%0a%3c Es soll sichergestellt werden, dass zwischen der Swissmedic-Nummer auf der Zulassungsbescheinigung (Urkunde) und der Publikation derselben auf der SL keine Abweichungen vorkommen können. Dafür ist eine Verknüpfung der XML-Datei der SL mit der periodischen Excelpublikation von Swissmedic sicherzustellen, die Excel-Tabelle von Swissmedic erscheint Mitte Monat, die Anpassung an dieser Tabelle sollte per 1. des darauffolgenden Monats erfolgen.%0a%3c %0a%3c %0a%3c !!Streichungen:%0a%3c Es liegt im Interesse des BAG, möglichst frühzeitig von Abregistrierungen durch Swissmedic zu erfahren. In solchen Fällen wird die Firma angeschrieben und falls Bestätigung der Abregistrierung erfolgt, wir das Präparat per nächstmöglichen Termin aus der SL gestrichen.%0a%3c %0a%3c Nach der EAK-Sitzung vom 2. November 2010 werden wir uns bei Ihnen melden und Ihnen über die Rückmeldung aus der EAK informieren.%0a\ No newline at end of file%0a
+host:1287147323=80.219.10.249

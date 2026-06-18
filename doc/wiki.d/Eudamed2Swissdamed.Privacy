@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1775821262
+host=212.51.146.241
+name=Eudamed2Swissdamed.Privacy
+rev=1
+targets=
+text=! Eudamed2Swissdamed Privacy%0a# Eudamed2Swissdamed does not store any personal data%0a# Eudamed2Swissdamed does not track any user data.%0a# Eudamed2Swissdamed does not contain any ad-ids.
+time=1775821262
+author:1775821262=zeno
+diff:1775821262:1775821262:=1,4d0%0a%3c ! Eudamed2Swissdamed Privacy%0a%3c # Eudamed2Swissdamed does not store any personal data%0a%3c # Eudamed2Swissdamed does not track any user data.%0a%3c # Eudamed2Swissdamed does not contain any ad-ids.%0a\ No newline at end of file%0a
+host:1775821262=212.51.146.241

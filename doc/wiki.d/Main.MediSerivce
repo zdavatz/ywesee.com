@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; rv:1.8) Gecko/20060120 Firefox/1.5
+author=
+host=84.73.186.135
+name=Main.MediSerivce
+rev=1
+targets=
+text=http://www.mediservice.ch
+time=1138725352
+author:1138725352=
+diff:1138725352:1138725352:=1d0%0a%3c http://www.mediservice.ch%0a\ No newline at end of file%0a
+host:1138725352=84.73.186.135

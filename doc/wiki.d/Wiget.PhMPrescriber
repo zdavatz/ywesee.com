@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.49 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1402554589
+host=46.140.30.26
+name=Wiget.PhMPrescriber
+rev=4
+targets=
+text=!!! Schnittstellenbeschreibung PhM Prescriber%0aDie Übermittlung eines E-Rezepts vom Desktop des Arztes an die Apotheke ist per sofort kein Problem mehr.%0a%0aMittels der Schnittstelle von "PhM Prescriber" kann der Arzt sein Rezept direkt an die Apotheke übermitteln. Dabei kann der Patient frei wählen, bei welcher Apotheke er gerne sein Rezept einlösen möchte.%0a%0aDie Beschreibung der Schnittstelle finden Sie hier:%0a%0aAttach:PhMPrescriber_V0_08.pdf%0a%0aPatienten-Daten bleiben in der Hand des Patienten, des Arztes und der Apotheke. Patientendaten werden _nicht_ auf unserem Server gespeichert. Einfach und innovativ.%0a%0aBei Fragen stehen wir gerne zur Verfügung.%0a%0aMfG\\%0aZeno Davatz\\%0a+41 43 540 05 50
+time=1402587128
+author:1402587128=zeno
+diff:1402587128:1402555336:=8c8%0a%3c Attach:PhMPrescriber_V0_08.pdf%0a---%0a> http://www.ywesee.com/uploads/Wiget/PhMPrescriber_V0_07.pdf%0a
+host:1402587128=46.140.30.26
+author:1402555336=zeno
+diff:1402555336:1402555329:=14,15c14,15%0a%3c MfG\\%0a%3c Zeno Davatz\\%0a---%0a> MfG%0a> Zeno Davatz%0a
+host:1402555336=46.140.30.26
+author:1402555329=zeno
+diff:1402555329:1402554589:=2,16c2%0a%3c Die Übermittlung eines E-Rezepts vom Desktop des Arztes an die Apotheke ist per sofort kein Problem mehr.%0a%3c %0a%3c Mittels der Schnittstelle von "PhM Prescriber" kann der Arzt sein Rezept direkt an die Apotheke übermitteln. Dabei kann der Patient frei wählen, bei welcher Apotheke er gerne sein Rezept einlösen möchte.%0a%3c %0a%3c Die Beschreibung der Schnittstelle finden Sie hier:%0a%3c %0a%3c http://www.ywesee.com/uploads/Wiget/PhMPrescriber_V0_07.pdf%0a%3c %0a%3c Patienten-Daten bleiben in der Hand des Patienten, des Arztes und der Apotheke. Patientendaten werden _nicht_ auf unserem Server gespeichert. Einfach und innovativ.%0a%3c %0a%3c Bei Fragen stehen wir gerne zur Verfügung.%0a%3c %0a%3c MfG%0a%3c Zeno Davatz%0a%3c +41 43 540 05 50%0a\ No newline at end of file%0a---%0a> * Attach:PhMPrescriber_V0_07.pdf%0a
+host:1402555329=46.140.30.26
+author:1402554589=zeno
+diff:1402554589:1402554589:=1,2d0%0a%3c !!! Schnittstellenbeschreibung PhM Prescriber%0a%3c * Attach:PhMPrescriber_V0_07.pdf%0a
+host:1402554589=46.140.30.26

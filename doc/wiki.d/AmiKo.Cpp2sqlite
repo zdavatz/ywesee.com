@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+author=
+charset=ISO-8859-1
+csum=
+ctime=1556237077
+host=124.32.48.237
+name=AmiKo.Cpp2sqlite
+rev=2
+targets=
+text=! cpp2sqlite%0aDatenbank Generierung für alle AmiKo Plattformen mit [[https://github.com/zdavatz/cpp2sqlite | cpp2sqlite]].
+time=1556237094
+author:1556237094=
+diff:1556237094:1556237077:=2c2%0a%3c Datenbank Generierung für alle AmiKo Plattformen mit [[https://github.com/zdavatz/cpp2sqlite | cpp2sqlite]].%0a\ No newline at end of file%0a---%0a> Datenbank Generierung für alle AmiKo Plattformen mit [[cpp2sqlite | https://github.com/zdavatz/cpp2sqlite]].%0a\ No newline at end of file%0a
+host:1556237094=124.32.48.237
+author:1556237077=
+diff:1556237077:1556237077:=1,2d0%0a%3c ! cpp2sqlite%0a%3c Datenbank Generierung für alle AmiKo Plattformen mit [[cpp2sqlite | https://github.com/zdavatz/cpp2sqlite]]. %0a\ No newline at end of file%0a
+host:1556237077=124.32.48.237

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20100101 Firefox/17.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1355835278
+host=80.219.10.249
+name=Swissmedic.Index
+rev=1
+targets=Swissmedic.Formatvorlagen
+text=* [[Swissmedic/Formatvorlagen]]
+time=1355835278
+author:1355835278=zeno
+diff:1355835278:1355835278:=1d0%0a%3c * [[Swissmedic/Formatvorlagen]]%0a\ No newline at end of file%0a
+host:1355835278=80.219.10.249

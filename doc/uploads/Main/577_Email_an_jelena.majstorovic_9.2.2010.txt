@@ -1,0 +1,100 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 26417 invoked from network); 9 Feb 2010 17:45:51 -0000
+Received: from [80.219.10.249] (HELO zenogentoo.localdomain) (80.219.10.249)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.82) with (AES256-SHA encrypted) ESMTPSA; Tue, 09 Feb 2010 18:45:51 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by zenogentoo.localdomain (Postfix) with ESMTP id 2F51ÜAD7;
+	Tue,  9 Feb 2010 18:45:41 +0100 (CET)
+Date: Tue, 9 Feb 2010 18:45:41 +0100 (CET)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: jelena.majstorovic@weko.admin.ch
+cc: stefano.dozio@weko.admin.ch, ursula.schuetz@weko.admin.ch, 
+    "todo at ODDB.org" <todo@oddb.org>
+Subject: Re: WG: 32-0178: Publikation von Arzneimittelinformationen
+In-Reply-To: <F16DA63221030F44A4E2E81645E9B5170397AE68@EVD-C8001.bk.evdad.admin.ch>
+Message-ID: <alpine.LNX.2.01.1002091750040.10139@localhost>
+References: <F16DA63221030F44A4E2E81645E9B5170397AE68@EVD-C8001.bk.evdad.admin.ch>
+User-Agent: Alpine 2.01 (LNX 1266 2009-07-14)
+Organisation: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY"8323328-201956431-1265735838:10139"
+Content-ID: <alpine.LNX.2.01.1002091828260.10139@localhost>
+X-Virus-Checked: Checked by ClamAV on mail.ywesee.com
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-201956431-1265735838:10139
+Content-Type: TEXT/PLAIN; CHARSETUTF-8; FORMATflowed
+Content-Transfer-Encoding: 8BIT
+Content-ID: <alpine.LNX.2.01.1002091828261.10139@localhost>
+
+Sehr geehrte Frau Majstorovic
+
+Danke für Ihr Mail.
+
+On Tue, 9 Feb 2010, jelena.majstorovic@weko.admin.ch wrote:
+
+> Bei den FI besteht für die Pharmaunternehmen jedoch immer noch die 
+> Verpflichtung, diese gedruckt und online zu publizieren. Da die Documed 
+> AG zur Zeit das einzige Unternehmen ist, das diese Dienstleistung 
+> anbietet, sind die Pharmaunternehmen gezwungen, sich für die Publikation 
+> der FI gedruckt an die Documed AG zu wenden. Der grösste Teil der Arbeit 
+> für die Publikation der FI fällt für die gedruckte Version an. Sobald 
+> die Documed AG diese Arbeiten durchgeführt hat, muss sie die FI nur noch 
+> online schalten. Die Kosten, die für die Publikation der Onlineversion 
+> der FI entstehen, sind im Vergleich zur gedruckten Version der FI minim. 
+> Die vergleichsweise tiefen Kosten für die Onlinepublikation der FI den 
+> Pharmaunternehmen zu verrechnen, würde bei der Documed AG höhere Kosten 
+> als die Pauschalpreise verursachen.
+
+Wie kommen Sie darauf? Wie rechtfertigen Sie diese Argumentation? Ich 
+denke, dass die Preise für das Buch gleich bleiben würden, die Kosten für 
+Online aber sinken würden.
+
+Woher wissen Sie, dass der Markt für Online-FI-Publikation effizient ist?
+
+Der Markt für die Offline-Buch-FI Publikation ist sicher nicht effizient. 
+Das wissen wir wohl beide.
+
+> Dies hätte im Endeffekt höhere Publikationspreise für die 
+> Pharmaunternehmen zur Folge.
+
+Diesen Schluss verstehe ich so nicht und ich kann ihn auch nicht 
+nachvollziehen.
+
+Wenn die Documed AG zwei Preise anbeitet, einen für Offline und einen für 
+Online, dann kommt der Preis für Online sicher unter Druck weil dort ein 
+zweiter Anbieter existiert.
+
+Mit Ihrer Argumentation unterstützten sie das Monpol der Documed AG und 
+verhindern gleichzeitig auch die faire Konkurrenz im Online-Bereich.
+
+Das Buch ist der grosse Gewinnbringer der Documed AG. Der Gewinn vom Buch 
+wird nicht nur ins Buch reinvestiert. Es findet eine Quersubventionierung 
+statt wobei Geld, welches für das Buch bezahlt wurde für die 
+Weiterentwicklung der Online-Dienste investiert wird! Und das ist kein 
+fairer Wettbewerb! Das ist einfach nur unfair. Das ist Missbrauch.
+
+Zudem bieten wir jetzt auch Offline Produkte an in Form einen Ebooks. 
+Siehe den Eintrag vom 9.2.2010:
+
+ 	http://www.ywesee.com/
+
+Somit ist die Offline-Verfügbarkeit der Fachinformation noch mehr gegeben.
+
+Indem Sie Online und Offline als ein Produkt betrachten, kann die Documed 
+Ihre bestehende Position von Offline auch für den Ausbau Ihrer Online 
+Dienstleistungen verwenden. Ich nenne das Missbrauch der Monopolsituation.
+
+Die Produkte Offline und Online sind nicht das gleiche und sollten auch 
+als solches unterschiedlich betrachtet werden.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50
+--8323328-201956431-1265735838:10139--

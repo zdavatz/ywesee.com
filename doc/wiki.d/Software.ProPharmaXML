@@ -1,0 +1,26 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+author=zeno
+charset=ISO-8859-1
+csum=
+host=80.219.10.249
+name=Software.ProPharmaXML
+rev=5
+targets=
+text=!Bestellungen aus dem ProPharma via XML versenden%0a%0aAttach:Lieferanten_1.png%0a1. Mit der Tastenkombination %3cF8> /li %3cEnter> gelangen Sie zu Bild 1 (der%0akorrekte Lieferant muss dann natürlich noch gesucht und ausgewählt%0awerden. Mit %3cF4> kann der Satz editiert werden, im Feld "Übermittlung"%0amuss "X" ausgewählt werden. %3cF10> schliesst die Mutation ab.%0a%0a%0aAttach:Lieferanten_2.png%0a2. Mit %3cF2> gelangen Sie zum Bild 2. Hier müssen die Felder "Kundennummer"%0aund "Passwort" individuell eingestellt werden (Passwort ist nötig wegen%0ader Validierung des Schemas, eigentlich kann irgend etwas eingegeben%0awerden). Die Adresse muss "Sandoz" enthalten, das Feld "Applikationen"%0anur ein "B" (Bestellung; Lieferscheine und Test Verfügbarkeit geht ja%0anicht). Bei französischen Systemen muss ein "C" für Commande eingegeben%0awerden.%0a%0aAlternative: Bestellung via [[http://www.ywesee.com/pmwiki.php/Software/ProPharma | Mail-Attachment]].
+time=1330584952
+author:1330584952=zeno
+diff:1330584952:1233581557:=19c19%0a%3c Alternative: Bestellung via [[http://www.ywesee.com/pmwiki.php/Software/ProPharma | Mail-Attachment]].%0a\ No newline at end of file%0a---%0a> Alternative: Bestellung via [[www.ywesee.com/pmwiki.php/Software/ProPharma | Mail-Attachment]].%0a\ No newline at end of file%0a
+host:1330584952=80.219.10.249
+author:1233581557=
+diff:1233581557:1233581297:=17,19c17%0a%3c werden.%0a%3c %0a%3c Alternative: Bestellung via [[www.ywesee.com/pmwiki.php/Software/ProPharma | Mail-Attachment]].%0a\ No newline at end of file%0a---%0a> werden.%0a\ No newline at end of file%0a
+host:1233581557=84.72.92.25
+author:1233581297=
+diff:1233581297:1233581278:=2a3%0a> 1.%0a4c5%0a%3c 1. Mit der Tastenkombination %3cF8> /li %3cEnter> gelangen Sie zu Bild 1 (der%0a---%0a> Mit der Tastenkombination %3cF8> /li %3cEnter> gelangen Sie zu Bild 1 (der%0a9c10%0a%3c %0a---%0a> 2.%0a11c12%0a%3c 2. Mit %3cF2> gelangen Sie zum Bild 2. Hier müssen die Felder "Kundennummer"%0a---%0a> Mit %3cF2> gelangen Sie zum Bild 2. Hier müssen die Felder "Kundennummer"%0a
+host:1233581297=84.72.92.25
+author:1233581278=
+diff:1233581278:1233581224:=3d2%0a%3c 1.%0a5c4%0a%3c Mit der Tastenkombination %3cF8> /li %3cEnter> gelangen Sie zu Bild 1 (der%0a---%0a> 1. Mit der Tastenkombination %3cF8> /li %3cEnter> gelangen Sie zu Bild 1 (der%0a10d8%0a%3c 2.%0a12c10%0a%3c Mit %3cF2> gelangen Sie zum Bild 2. Hier müssen die Felder "Kundennummer"%0a---%0a> 2. Mit %3cF2> gelangen Sie zum Bild 2. Hier müssen die Felder "Kundennummer"%0a
+host:1233581278=84.72.92.25
+author:1233581224=
+diff:1233581224:1233581224:=1,16d0%0a%3c !Bestellungen aus dem ProPharma via XML versenden%0a%3c %0a%3c Attach:Lieferanten_1.png%0a%3c 1. Mit der Tastenkombination %3cF8> /li %3cEnter> gelangen Sie zu Bild 1 (der%0a%3c korrekte Lieferant muss dann natürlich noch gesucht und ausgewählt%0a%3c werden. Mit %3cF4> kann der Satz editiert werden, im Feld "Übermittlung"%0a%3c muss "X" ausgewählt werden. %3cF10> schliesst die Mutation ab.%0a%3c %0a%3c Attach:Lieferanten_2.png%0a%3c 2. Mit %3cF2> gelangen Sie zum Bild 2. Hier müssen die Felder "Kundennummer"%0a%3c und "Passwort" individuell eingestellt werden (Passwort ist nötig wegen%0a%3c der Validierung des Schemas, eigentlich kann irgend etwas eingegeben%0a%3c werden). Die Adresse muss "Sandoz" enthalten, das Feld "Applikationen"%0a%3c nur ein "B" (Bestellung; Lieferscheine und Test Verfügbarkeit geht ja%0a%3c nicht). Bei französischen Systemen muss ein "C" für Commande eingegeben%0a%3c werden.%0a\ No newline at end of file%0a
+host:1233581224=84.72.92.25

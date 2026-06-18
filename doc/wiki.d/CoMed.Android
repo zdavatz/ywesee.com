@@ -1,0 +1,36 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.34 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1563814471
+host=212.51.146.241
+name=CoMed.Android
+rev=8
+targets=
+text=! CoMed pour Android%0a* [[https://play.google.com/store/apps/details?id=com.ywesee.amiko.fr | CoMed Français]] - [[ http://www.youtube.com/watch?v=y1YcmdHH0sE | Youtube Guide ]], [[http://www.youtube.com/watch?v=JxJfeENG4uw | Favoris]]%0a!!!Fonctionnalités%0a* Nom du spécimen%0a* Fabricant%0a* Code ATC et code ATC Nom%0a* Numéro Swissmedic%0a* Ingrédient actif%0a* Classification du traitement (p. ex. conjonctivite, VIH, etc.)%0a* Dosages pour enfants de swisspeddose%0a* Prix SL, taille de l'emballage, code d'assurance maladie, détails de la franchise, qualité marchande, limitation%0a* Créer une recette, imprimer%0a* Imprimer l'étiquette%0a* Partager la recette%0a* Scanner le code-barres%0a* Lire la carte d'assurance maladie%0a* Reconnaître la carte d'assurance maladie%0a* Gérer les patients.%0a* Sauvegardez les prescriptions, les patients, le profil du médecin, les favoris dans Gdrive.
+time=1588584252
+author:1588584252=zeno
+diff:1588584252:1588584193:=0a1%0a> %3c%3c|[[Index]]|>>%0a
+host:1588584252=212.51.146.241
+author:1588584193=zeno
+diff:1588584193:1588584165:=1d0%0a%3c %3c%3c|[[Index]]|>>%0a
+host:1588584193=212.51.146.241
+author:1588584165=zeno
+diff:1588584165:1563814743:=18,19c18%0a%3c * Gérer les patients.%0a%3c * Sauvegardez les prescriptions, les patients, le profil du médecin, les favoris dans Gdrive.%0a\ No newline at end of file%0a---%0a> * Gérer les patients.%0a\ No newline at end of file%0a
+host:1588584165=212.51.146.241
+author:1563814743=
+diff:1563814743:1563814643:=0a1%0a> %3c%3c|[[Index]]|>>%0a
+host:1563814743=94.66.223.190
+author:1563814643=
+diff:1563814643:1563814622:=1d0%0a%3c %3c%3c|[[Index]]|>>%0a
+host:1563814643=94.66.223.190
+author:1563814622=
+diff:1563814622:1563814506:=1d0%0a%3c ! CoMed pour Android%0a
+host:1563814622=94.66.223.190
+author:1563814506=
+diff:1563814506:1563814471:=1d0%0a%3c * [[https://play.google.com/store/apps/details?id=com.ywesee.amiko.fr | CoMed Français]] - [[ http://www.youtube.com/watch?v=y1YcmdHH0sE | Youtube Guide ]], [[http://www.youtube.com/watch?v=JxJfeENG4uw | Favoris]]%0a
+host:1563814506=94.66.223.190
+author:1563814471=
+diff:1563814471:1563814471:=1,16d0%0a%3c !!!Fonctionnalités%0a%3c * Nom du spécimen%0a%3c * Fabricant%0a%3c * Code ATC et code ATC Nom%0a%3c * Numéro Swissmedic%0a%3c * Ingrédient actif%0a%3c * Classification du traitement (p. ex. conjonctivite, VIH, etc.)%0a%3c * Dosages pour enfants de swisspeddose%0a%3c * Prix SL, taille de l'emballage, code d'assurance maladie, détails de la franchise, qualité marchande, limitation%0a%3c * Créer une recette, imprimer%0a%3c * Imprimer l'étiquette%0a%3c * Partager la recette%0a%3c * Scanner le code-barres%0a%3c * Lire la carte d'assurance maladie%0a%3c * Reconnaître la carte d'assurance maladie%0a%3c * Gérer les patients.%0a\ No newline at end of file%0a
+host:1563814471=94.66.223.190

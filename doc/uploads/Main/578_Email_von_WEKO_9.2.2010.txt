@@ -1,0 +1,159 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 26680 invoked from network); 9 Feb 2010 17:46:34 -0000
+Received: from [80.219.10.249] (HELO zenogentoo.localdomain) (80.219.10.249)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.82) with (AES256-SHA encrypted) ESMTPSA; Tue, 09 Feb 2010 18:46:34 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by zenogentoo.localdomain (Postfix) with ESMTP id 66228166066
+	for <todo@oddb.org>; Tue,  9 Feb 2010 18:46:28 +0100 (CET)
+Date: Tue, 9 Feb 2010 18:46:28 +0100 (CET)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: "todo at ODDB.org" <todo@oddb.org>
+Subject: WG: 32-0178: Publikation von Arzneimittelinformationen
+Message-ID: <alpine.LNX.2.01.1002091845490.10139@localhost>
+User-Agent: Alpine 2.01 (LNX 1266 2009-07-14)
+Organisation: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY"8323328-1293751514-1265737588:10139"
+X-Virus-Checked: Checked by ClamAV on mail.ywesee.com
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-1293751514-1265737588:10139
+Content-Type: TEXT/PLAIN; charsetUTF-8; formatflowed
+Content-Transfer-Encoding: 8BIT
+
+FYI.
+
+Gruss
+Zeno
+
+---------- Forwarded message ---------- Date: Tue, 9 Feb 2010 17:42:34 
++0100 From: jelena.majstorovic@weko.admin.ch To: zdavatz@ywesee.com Cc: 
+stefano.dozio@weko.admin.ch, ursula.schuetz@weko.admin.ch Subject: WG: 
+32-0178: Publikaiton von Arzneimittelinformationen
+
+Sehr geehrter Herr Davatz
+
+Ich beziehe mich auf Ihre E-Mail vom 21. Januar 2010.
+
+Sie haben sich beschwert, dass die Novartis Pharma AG, die Novartis 
+Consumer Health AG und die Sandoz Pharmaceuticals AG ihre 
+Fachinformationen (FI) und Patienteninformationen (PI) auf ch.oddb.org 
+publizieren möchten. Für die FI würde die Documed AG jedoch keine 
+separaten Preise für die Publikation der FI gedruckt und online bekannt 
+geben.
+
+Seit einigen Jahren müssen die PI lediglich online publiziert werden. Die 
+Documed AG listet die Preise für die Onlinepublikation für die PI auch 
+separat in ihrer Preisliste auf. Für ein Pharmaunternehmen besteht somit 
+die Möglichkeit, für die Onlinepublikation ihrer PI zwischen der Documed 
+AG und der ywesee GmbH zu wählen.
+
+Bei den FI besteht für die Pharmaunternehmen jedoch immer noch die 
+Verpflichtung, diese gedruckt und online zu publizieren. Da die Documed AG 
+zur Zeit das einzige Unternehmen ist, das diese Dienstleistung anbietet, 
+sind die Pharmaunternehmen gezwungen, sich für die Publikation der FI 
+gedruckt an die Documed AG zu wenden. Der grösste Teil der Arbeit für die 
+Publikation der FI fällt für die gedruckte Version an. Sobald die Documed 
+AG diese Arbeiten durchgeführt hat, muss sie die FI nur noch online 
+schalten. Die Kosten, die für die Publikation der Onlineversion der FI 
+entstehen, sind im Vergleich zur gedruckten Version der FI minim. Die 
+vergleichsweise tiefen Kosten für die Onlinepublikation der FI den 
+Pharmaunternehmen zu verrechnen, würde bei der Documed AG höhere Kosten 
+als die Pauschalpreise verursachen. Dies hätte im Endeffekt höhere 
+Publikationspreise für die Pharmaunternehmen zur Folge. Für detaillierte 
+Ausführungen im Zusammenhang mit dieser Problematik verweise ich Sie auf 
+die rechtskräftige Verfügung der Wettbewerbskommission (WEKO) vom 7. Juli 
+2008, insbesondere die Rz. 197 ff. Die WEKO hat in der genannten Verfügung 
+festgestellt, dass die einheitlichen Preise für die Publikation der FI 
+gedruckt und online keine unzulässige Koppelung im Sinne des 
+Kartellgesetzes darstellen. Diesbezüglich liegt somit kein 
+kartellrechtlich relevanter Sachverhalt vor.
+
+Ob die Buchpublikationspflicht aus gesundheitspolitischen Erwägungen 
+notwendig ist, liegt in der Entscheidkompetenz von Swissmedic.
+
+Ich hoffe Ihnen mit diesen Ausführungen gedient zu haben und verbleibe
+
+mit freundlichen Grüssen
+
+Jelena Majstorovi¿, lic. iur. Fürsprecherin Wissenschaftliche 
+Mitarbeiterin
+
+Wettbewerbskommission Sekretariat Dienst Dienstleistungen
+
+Monbijoustrasse 43, 3003 Bern Tel.  + 41 31 322 20 18 Fax.  + 41 31 322 20 
+53 jelena.majstorovic@weko.admin.ch www.weko.ch
+
+
+
+
+-----Message d'origine----- De : Zeno R.R. Davatz 
+[mailto:zdavatz@ywesee.com] Envoyé : jeudi 21 janvier 2010 16:10 À : 
+Schaller Olivier WEKO Cc : todo at ODDB.org Objet : 32-0178: Trennung der 
+Preise für FI Buch und FI Online
+
+Sehr geehrter Herr Schaller
+
+Sie mögen sich ev. noch an die Documed AG und ywesee GmbH erinnern.
+
+Am Montag war ich bei der Novartis in Basel, weil Novartis Pharma AG, 
+Novartis Consumer Health AG und Sandoz Pharmaceuticals AG gerne Ihre 
+Patienten- und Fachinformationen bei uns auf ch.oddb.org publizieren 
+möchten; jeweils die Online-Versionen. Dies aus dem Grund weil sie dann 
+ca. 50% der Kosten sparen könnten.
+
+Von der Documed AG und von der Swissmedic erhalten diese jedoch keine 
+separaten Preise für die Online Publikation der Fachinformation und für 
+die Buchpublikation der Fachinformation. Die Documed bietet diese beiden 
+Optionen nur im Bundle an. Genau gleich wie Microsoft immer den Internet 
+Explorer zusammen mit dem Betriebssystem angeboten hat, bis sie von der EU 
+gebüsst wurden dafür.
+
+Frau Majstorovic hatte mir damals gesagt, dass es Aufgabe der Swissmedic 
+ist, hier für mehr Klarheit zu sorgen und einfach die Preise separat 
+aufzulisten. Herr Balsiger von der Swissmedic sagt mir aber jetzt, dass 
+auch wenn er das tun würde, dies am Verhalten der Documed nichts ändern 
+würde.
+
+Jeder schiebt dem anderen den Ball zu. Was wir aber benötigen ist mehr 
+Wettbewerb der den Markt belebt.
+
+In der Zwischenzeit sind wir soweit, dass wir eine elektronische Version 
+der FI auf dem Kindle (E-Reader von Amazon) oder einem weiteren E-Reader 
+(Nook von Barnes and Noble) anbieten können.
+
+Es ist auch bekannt, dass der Arzt die FI nicht mehr im Buch anschaut. Der 
+Arzt schaut die FI nur noch Online an (jeder Arzt hat eine 
+Internet-Verbindung wegen dem Tarmed-Update). Jedoch hat er über 
+Jahrzehnte ein kostenloses Geschenk erhalten in Form von einem Buch. Das 
+will er nicht loslassen, ohne dass er ein neues Geschenk erhält.
+
+Mit der Publikation der FI auf dem E-Reader hätten wir einen neuen Markt, 
+der wettbewerbstauglich ist. Es gibt nämlich mehr als einen E-Reader 
+Hersteller.
+
+Wenn wir mal soweit sind, dass der E-Reader als Ersatz zum Kompendiumsbuch 
+anerkannt wird, weil die Verbände und der Arzt merken, dass man damit mehr 
+Geld sparen und auch noch andere Anwendungen laufen lassen kann, dann sind 
+wir wirklich einen Schritt weiter.
+
+Meine Frage an Sie ist also: In wie weit kann sich die WEKO ebenfalls für 
+eine Trennung vom Online-Publikations-Preis der FI und dem 
+Buch-Publikations-Preis der FI einsetzen? Dieser Schritt geht ganz klar 
+Richtung mehr Wettbewerb für die Online-Publikation der FI und für das 
+Gesundheitswesen im Allgemeinen.
+
+Danke für Ihr Feedback.
+
+Mit freundlichen Grüssen Zeno Davatz
+
+!DSPAM:60,4b719099167593977521282!
+
+
+--8323328-1293751514-1265737588:10139--

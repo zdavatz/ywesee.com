@@ -1,0 +1,15 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:5.0) Gecko/20100101 Firefox/5.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1310130288
+host=80.219.10.249
+name=Swissmedic.PraeparatelisteMitWS
+rev=1
+targets=
+text=!! Wann kommt ein Produkt in das File Praeparateliste_mit_WS.xls?%0a[@Die Daten stammen alle aus einer Datenbank und werden Anfang Monat nach unterschiedlichen Kriterien in die Listen eingelesen.%0aWenn ein Arzneimittel zugelassen wird, kommt es in beide Listen, wenn es Packungen hat (Hauptzulassung) oder es kommt nur in%0adie Liste Präparate_mit_WS.xls, wenn es keine Packungen hat (Exportzulassung oder definierte Komplementärarzneimittel). Wenn%0aeine Hauptzulassung in eine Exportzulassung umgewandelt wird, d. h. die Packungen nicht mehr zugelassen sind, verschwindet es%0aim darauf folgenden Monat aus der Liste Packungen.xls. Den umgekehrten Fall gibt es natürlich auch.@]
+time=1310130288
+author:1310130288=
+diff:1310130288:1310130288:=1,6d0%0a%3c !! Wann kommt ein Produkt in das File Praeparateliste_mit_WS.xls?%0a%3c [@Die Daten stammen alle aus einer Datenbank und werden Anfang Monat nach unterschiedlichen Kriterien in die Listen eingelesen.%0a%3c Wenn ein Arzneimittel zugelassen wird, kommt es in beide Listen, wenn es Packungen hat (Hauptzulassung) oder es kommt nur in%0a%3c die Liste Präparate_mit_WS.xls, wenn es keine Packungen hat (Exportzulassung oder definierte Komplementärarzneimittel). Wenn%0a%3c eine Hauptzulassung in eine Exportzulassung umgewandelt wird, d. h. die Packungen nicht mehr zugelassen sind, verschwindet es%0a%3c im darauf folgenden Monat aus der Liste Packungen.xls. Den umgekehrten Fall gibt es natürlich auch.@]%0a\ No newline at end of file%0a
+host:1310130288=80.219.10.249

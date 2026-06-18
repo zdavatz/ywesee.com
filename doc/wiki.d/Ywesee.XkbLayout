@@ -1,0 +1,16 @@
+version=pmwiki-2.0.beta26
+newline=²
+time=1121777254
+text=Config File for xorg for IBM T43, Attach:xorg.conf.txt
+targets=
+author=
+author:1121777171=
+host:1121777171=62.2.188.194
+diff:1121777171:1121777171:=1d0²< Attach:xorg.conf.txt²\ No newline at end of file²
+name=Ywesee.XkbLayout
+host=62.2.188.194
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.9) Gecko/20050719 Firefox/1.0.5
+rev=2
+author:1121777254=
+host:1121777254=62.2.188.194
+diff:1121777254:1121777171:=1c1²< Config File for xorg for IBM T43, Attach:xorg.conf.txt²\ No newline at end of file²---²> Attach:xorg.conf.txt²\ No newline at end of file²

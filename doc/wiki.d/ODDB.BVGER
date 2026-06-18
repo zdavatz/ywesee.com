@@ -1,0 +1,30 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:5.0) Gecko/20100101 Firefox/5.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1311595536
+host=80.219.10.249
+name=ODDB.BVGER
+rev=6
+targets=
+text=!! Kommentar zum Urteil vom BVGer%0a [[https://docs.google.com/a/ywesee.com/viewer?a=v&pid=explorer&chrome=true&srcid=13L6DP5Dg5huTSGHT_zhUaYD9IWDr_2waIbW09fHvPMcVA1GQ-eOLjPNyM13m&hl=en_US | Urteil BVGER 17.6.2011]]%0a# Dass Pharmafirmen die Arzneimittelinformation veröffentlichen müssen, ergibt sich nach wie vor aus HMG 11 Abs. 2 lit. f (http://www.admin.ch/ch/d/sr/812_21/a11.html)%0a# Auch Art. 13 der Zulassungsverordnung verlangt das (http://www.admin.ch/ch/d/sr/812_212_22/a13.html). Diese Bestimmung wurde vom BVGer nicht gekippt.%0a# Die Information muss also immer noch auf "geeignete Weise" erfolgen; nur darf Swissmedic nicht mehr sagen, das bedeute automatisch Documed oder ODDB.%0a# Nur: Welche Alternativen gibt es denn zu Documed und ODDB? Wenn es keine gibt, dann bleibt es eben vorläufig trotz allem beim Alten.
+time=1311595954
+author:1311595954=
+diff:1311595954:1311595939:=1c1%0a%3c !! Kommentar zum Urteil vom BVGer%0a---%0a> !! Kommentar zum Urteil vom BVGER%0a
+host:1311595954=80.219.10.249
+author:1311595939=
+diff:1311595939:1311595915:=3c3%0a%3c # Dass Pharmafirmen die Arzneimittelinformation veröffentlichen müssen, ergibt sich nach wie vor aus HMG 11 Abs. 2 lit. f (http://www.admin.ch/ch/d/sr/812_21/a11.html)%0a---%0a> # Dass sie die Arzneimittelinformation veröffentlichen müssen, ergibt sich nach wie vor aus HMG 11 Abs. 2 lit. f (http://www.admin.ch/ch/d/sr/812_21/a11.html)%0a
+host:1311595939=80.219.10.249
+author:1311595915=
+diff:1311595915:1311595907:=2c2%0a%3c  [[https://docs.google.com/a/ywesee.com/viewer?a=v&pid=explorer&chrome=true&srcid=13L6DP5Dg5huTSGHT_zhUaYD9IWDr_2waIbW09fHvPMcVA1GQ-eOLjPNyM13m&hl=en_US | Urteil BVGER 17.6.2011]]%0a---%0a> * [[https://docs.google.com/a/ywesee.com/viewer?a=v&pid=explorer&chrome=true&srcid=13L6DP5Dg5huTSGHT_zhUaYD9IWDr_2waIbW09fHvPMcVA1GQ-eOLjPNyM13m&hl=en_US | Urteil BVGER 17.6.2011]]%0a
+host:1311595915=80.219.10.249
+author:1311595907=
+diff:1311595907:1311595562:=2c2%0a%3c * [[https://docs.google.com/a/ywesee.com/viewer?a=v&pid=explorer&chrome=true&srcid=13L6DP5Dg5huTSGHT_zhUaYD9IWDr_2waIbW09fHvPMcVA1GQ-eOLjPNyM13m&hl=en_US | Urteil BVGER 17.6.2011]]%0a---%0a> %0a
+host:1311595907=80.219.10.249
+author:1311595562=
+diff:1311595562:1311595536:=3,6c3,6%0a%3c # Dass sie die Arzneimittelinformation veröffentlichen müssen, ergibt sich nach wie vor aus HMG 11 Abs. 2 lit. f (http://www.admin.ch/ch/d/sr/812_21/a11.html)%0a%3c # Auch Art. 13 der Zulassungsverordnung verlangt das (http://www.admin.ch/ch/d/sr/812_212_22/a13.html). Diese Bestimmung wurde vom BVGer nicht gekippt.%0a%3c # Die Information muss also immer noch auf "geeignete Weise" erfolgen; nur darf Swissmedic nicht mehr sagen, das bedeute automatisch Documed oder ODDB.%0a%3c # Nur: Welche Alternativen gibt es denn zu Documed und ODDB? Wenn es keine gibt, dann bleibt es eben vorläufig trotz allem beim Alten.%0a\ No newline at end of file%0a---%0a> *(i) Dass sie die Arzneimittelinformation veröffentlichen müssen, ergibt sich nach wie vor aus HMG 11 Abs. 2 lit. f (http://www.admin.ch/ch/d/sr/812_21/a11.html)%0a> *(ii) Auch Art. 13 der Zulassungsverordnung verlangt das (http://www.admin.ch/ch/d/sr/812_212_22/a13.html). Diese Bestimmung wurde vom BVGer nicht gekippt.%0a> *(iii) Die Information muss also immer noch auf "geeignete Weise" erfolgen; nur darf Swissmedic nicht mehr sagen, das bedeute automatisch Documed oder ODDB.%0a> *(iv) Nur: Welche Alternativen gibt es denn zu Documed und ODDB? Wenn es keine gibt, dann bleibt es eben vorläufig trotz allem beim Alten.%0a\ No newline at end of file%0a
+host:1311595562=80.219.10.249
+author:1311595536=
+diff:1311595536:1311595536:=1,6d0%0a%3c !! Kommentar zum Urteil vom BVGER%0a%3c %0a%3c *(i) Dass sie die Arzneimittelinformation veröffentlichen müssen, ergibt sich nach wie vor aus HMG 11 Abs. 2 lit. f (http://www.admin.ch/ch/d/sr/812_21/a11.html)%0a%3c *(ii) Auch Art. 13 der Zulassungsverordnung verlangt das (http://www.admin.ch/ch/d/sr/812_212_22/a13.html). Diese Bestimmung wurde vom BVGer nicht gekippt.%0a%3c *(iii) Die Information muss also immer noch auf "geeignete Weise" erfolgen; nur darf Swissmedic nicht mehr sagen, das bedeute automatisch Documed oder ODDB.%0a%3c *(iv) Nur: Welche Alternativen gibt es denn zu Documed und ODDB? Wenn es keine gibt, dann bleibt es eben vorläufig trotz allem beim Alten.%0a\ No newline at end of file%0a
+host:1311595536=80.219.10.249

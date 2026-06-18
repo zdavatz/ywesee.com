@@ -1,0 +1,27 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1486643885
+host=212.51.146.241
+name=AmiKo.Privacy
+rev=5
+targets=
+text=! Privacy Policy AmiKo/CoMed Desitin%0a* AmiKo Desitin '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a* AmiKo Desitin '''does not''' collect any user data.%0a* AmiKo Desitin '''does not''' store any user data in the cloud.
+time=1486663877
+author:1486663877=zeno
+diff:1486663877:1486644888:=2,4c2,3%0a%3c * AmiKo Desitin '''stores all data on your local machine''' (Favorites, Database, Interactions).%0a%3c * AmiKo Desitin '''does not''' collect any user data.%0a%3c * AmiKo Desitin '''does not''' store any user data in the cloud.%0a\ No newline at end of file%0a---%0a> * AmiKo Desitin stores all data on you local machine (Favorites, Database, Interactions).%0a> * AmiKo Desitin does not collect any user data.%0a\ No newline at end of file%0a
+host:1486663877=212.51.146.241
+author:1486644888=zeno
+diff:1486644888:1486644871:=2c2%0a%3c * AmiKo Desitin stores all data on you local machine (Favorites, Database, Interactions).%0a---%0a> * AmiKo Desitin stores all data on you local machine (Favorites, Database, etc).%0a
+host:1486644888=212.51.146.241
+author:1486644871=zeno
+diff:1486644871:1486643926:=1c1%0a%3c ! Privacy Policy AmiKo/CoMed Desitin%0a---%0a> ! Privacy Policy AmiKo Desitin%0a
+host:1486644871=212.51.146.241
+author:1486643926=zeno
+diff:1486643926:1486643885:=2c2%0a%3c * AmiKo Desitin stores all data on you local machine (Favorites, Database, etc).%0a---%0a> * AmiKo Desitin stores all data on you local machine%0a
+host:1486643926=212.51.146.241
+author:1486643885=zeno
+diff:1486643885:1486643885:=1,3d0%0a%3c ! Privacy Policy AmiKo Desitin%0a%3c * AmiKo Desitin stores all data on you local machine%0a%3c * AmiKo Desitin does not collect any user data.%0a\ No newline at end of file%0a
+host:1486643885=212.51.146.241

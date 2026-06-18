@@ -1,0 +1,47 @@
+Sehr geehrter Herr Medioni
+
+Ich habe Ihre Angaben von Herr Andreas Balsiger erhalten.
+
+Es geht um folgenden Artikel:
+http://www.admin.ch/ch/d/sr/812_121_1/a3.html
+
+Die E-mediat AG verwaltet obige Daten basierend auf dem Betäubungsmittelgesetz:
+http://www.medwin.ch/content/index.htm
+
+Weiter macht die E-mediat AG einen Urheberrechtsschutz auf diese Daten geltend:
+http://www.medwin.ch/content/page-11.asp?ConType=1&Lev=1&PortalId=32&RecordId=9
+
+Dies ist meiner Meinung nach aus zwei Gründen nicht erlaubt. 
+1. Es handelt sich hier um Daten die amtlich gefordert sind. Amtlich geforderte
+Verzeichnisse kann man nicht urheberrechtlich schützen.
+2. Um überhaupt ein Urheberrecht geltend zu machen muss die Leistung einen
+schöpferischen Werkcharakter haben. Ich weiss beim besten Willen nicht wo der
+schöpferische Werkcharakter ist bei einem EAN-Code oder einer PLZ oder einer
+Telefonnummer oder einem Strassenamen.
+
+Unser Anliegen:
+Wir sind eine Softwarefirma die sich für offene Standards (OpenSource) im
+Schweizerischen Gesundheitswesen einsetzt. Offene Standards verhindern ein
+Vendor-Lock-In und bilden für alle beteiligten Parteien eine gerechte
+Ausgangsbasis.
+
+Besten Dank für Ihre Rückmeldung.
+
+Mit freundlichen Grüssen aus Zürich.
+Zeno Davatz
+
+PS: Interessanterweise funktioniert der Link zu http://www.refdata.ch
+gar nicht in diesem Moment?!?
+
+-- 
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-24 
+Schl.-Fingerabdruck = 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

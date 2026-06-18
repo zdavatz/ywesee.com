@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20100101 Firefox/17.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1355835343
+host=80.219.10.249
+name=Swissmedic.Formatvorlagen
+rev=4
+targets=
+text=! Hinweise zu Swissmedic Formatvorlagen%0a* http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de%0a%0a!!Fachinfo%0a[@%0aWeitere Hinweise zur richtigen Erstellung einer FI auf der bestehenden Formatvorlage:%0aBilder nur im Format jpg, png (kein gif) ins Dokument einfügen%0aKein Objekt (z.B. Bild in Bild) in Text integrieren%0aTabellen und Bilder nicht über den definierten Seitenrand hinaus einfügen%0aÜberschriften von Tabellen nicht in die Tabelle integrieren%0aDie FI nicht als Tabelle formatieren (Grund: innerhalb einer Tabelle werden die Kapiteltexte nicht erkannt)%0aDie FI möglichst als .docx abspeichern%0aKopf- und Fusszeilen werden beim Hochladen der FI / PI nicht berücksichtigt%0a@]%0a%0a!!Patinfo%0a[@%0aWeitere Hinweise zur richtigen Erstellung einer PI auf der bestehenden Formatvorlage:%0aBilder nur im Format jpg, png (kein gif) ins Dokument einfügen%0aKein Objekt (z.B. Bild in Bild) in Text integrieren%0aTabellen und Bilder nicht über den definierten Seitenrand hinaus einfügen%0aÜberschriften von Tabellen nicht in die Tabelle integrieren%0aDie PI nicht als Tabelle formatieren (Grund: innerhalb einer Tabelle werden die Kapiteltexte nicht erkannt)%0aDie PI möglichst als .docx abspeichern%0aKopf- und Fusszeilen werden beim Hochladen der FI / PI nicht berücksichtigt%0a@]
+time=1355835492
+author:1355835492=zeno
+diff:1355835492:1355835472:=1c1%0a%3c ! Hinweise zu Swissmedic Formatvorlagen%0a---%0a> ! Die Swissmedic Formatvorlagen findet man hier%0a
+host:1355835492=80.219.10.249
+author:1355835472=zeno
+diff:1355835472:1355835353:=3,4d2%0a%3c %0a%3c !!Fachinfo%0a6,17c4,9%0a%3c Weitere Hinweise zur richtigen Erstellung einer FI auf der bestehenden Formatvorlage:%0a%3c Bilder nur im Format jpg, png (kein gif) ins Dokument einfügen%0a%3c Kein Objekt (z.B. Bild in Bild) in Text integrieren%0a%3c Tabellen und Bilder nicht über den definierten Seitenrand hinaus einfügen%0a%3c Überschriften von Tabellen nicht in die Tabelle integrieren%0a%3c Die FI nicht als Tabelle formatieren (Grund: innerhalb einer Tabelle werden die Kapiteltexte nicht erkannt)%0a%3c Die FI möglichst als .docx abspeichern%0a%3c Kopf- und Fusszeilen werden beim Hochladen der FI / PI nicht berücksichtigt%0a%3c @]%0a%3c %0a%3c !!Patinfo%0a%3c [@%0a---%0a> Erläuterungen zur Formatvorlage%0a> %0a> Folgende fakultative Kapitel fehlen in der obigen Auflistung:%0a> Kurzcharakteristikum%0a> Herstellerin%0a> %0a
+host:1355835472=80.219.10.249
+author:1355835353=zeno
+diff:1355835353:1355835343:=
+host:1355835353=80.219.10.249
+author:1355835343=zeno
+diff:1355835343:1355835343:=1,18d0%0a%3c ! Die Swissmedic Formatvorlagen findet man hier%0a%3c * http://www.swissmedic.ch/aktuell/00003/01840/index.html?lang=de%0a%3c [@%0a%3c Erläuterungen zur Formatvorlage%0a%3c %0a%3c Folgende fakultative Kapitel fehlen in der obigen Auflistung:%0a%3c Kurzcharakteristikum%0a%3c Herstellerin%0a%3c %0a%3c Weitere Hinweise zur richtigen Erstellung einer PI auf der bestehenden Formatvorlage:%0a%3c Bilder nur im Format jpg, png (kein gif) ins Dokument einfügen%0a%3c Kein Objekt (z.B. Bild in Bild) in Text integrieren%0a%3c Tabellen und Bilder nicht über den definierten Seitenrand hinaus einfügen%0a%3c Überschriften von Tabellen nicht in die Tabelle integrieren%0a%3c Die PI nicht als Tabelle formatieren (Grund: innerhalb einer Tabelle werden die Kapiteltexte nicht erkannt)%0a%3c Die PI möglichst als .docx abspeichern%0a%3c Kopf- und Fusszeilen werden beim Hochladen der FI / PI nicht berücksichtigt%0a%3c @]%0a\ No newline at end of file%0a
+host:1355835343=80.219.10.249

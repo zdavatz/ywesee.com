@@ -1,0 +1,12 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9b1) Gecko/2007110903 Firefox/3.0b1
+author=zrr
+host=77.57.16.157
+name=Main.FMH
+rev=1
+targets=
+text=http://www.fmh.ch
+time=1195566279
+author:1195566279=zrr
+diff:1195566279:1195566279:=1d0%0a%3c http://www.fmh.ch%0a\ No newline at end of file%0a
+host:1195566279=77.57.16.157

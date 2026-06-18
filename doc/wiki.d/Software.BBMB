@@ -1,0 +1,27 @@
+version=pmwiki-2.0.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; rv:1.8) Gecko/20060120 Firefox/1.5
+author=
+host=84.73.186.135
+name=Software.BBMB
+rev=6
+targets=Software.ODBA,Main.SideBar,Software.YDPM
+text=! BBMB - Browserbasierte Medikamenten Bestellung%0aMehr Info's zur BBMB unter http://wiki.bbmb.ch%0a%0a!!! Dienstleistung%0a* Browserbasierte Software zum Bestellen und verschreiben von Medikamenten%0a* Interaktionsüberprüfung%0a* Dauerrezept%0a* Intelligente Suche%0a* Preisvergleich zwischen Medikamenten%0a* Fach- und Patienteninformation%0a* Hohe Sicherheitsstandards (SSL, Streichliste)%0a* Symbol Barcodeleser mit Browser verknüpfen%0a%0a!!! Zielgruppen%0a* Pre Wholesalers%0a* Arzt%0a* Apotheke%0a* Spital%0a* Drogerie%0a* Heim%0a%0a%0a%25trail%25%3c%3c|[[Main/SideBar]]|>>
+time=1138806897
+author:1138806897=
+diff:1138806897:1097769779:=20,23c20%0a%3c * Heim%0a%3c %0a%3c %0a%3c %25trail%25%3c%3c|[[Main/SideBar]]|>>%0a\ No newline at end of file%0a---%0a> * Heim%0a\ No newline at end of file%0a
+host:1138806897=84.73.186.135
+author:1097769779=
+diff:1097769779:1097769760:=19,20c19%0a%3c * Drogerie%0a%3c * Heim%0a\ No newline at end of file%0a---%0a> * Drogerie%0a\ No newline at end of file%0a
+host:1097769779=80.219.133.159
+author:1097769760=
+diff:1097769760:1097769058:=12d11%0a%3c * Symbol Barcodeleser mit Browser verknüpfen%0a
+host:1097769760=80.219.133.159
+author:1097769058=
+diff:1097769058:1097761482:=2,18c2%0a%3c Mehr Info's zur BBMB unter http://wiki.bbmb.ch%0a%3c %0a%3c !!! Dienstleistung%0a%3c * Browserbasierte Software zum Bestellen und verschreiben von Medikamenten%0a%3c * Interaktionsüberprüfung%0a%3c * Dauerrezept%0a%3c * Intelligente Suche%0a%3c * Preisvergleich zwischen Medikamenten%0a%3c * Fach- und Patienteninformation%0a%3c * Hohe Sicherheitsstandards (SSL, Streichliste)%0a%3c %0a%3c !!! Zielgruppen%0a%3c * Pre Wholesalers%0a%3c * Arzt%0a%3c * Apotheke%0a%3c * Spital%0a%3c * Drogerie%0a\ No newline at end of file%0a---%0a> Mehr Info's zur BBMB unter http://wiki.bbmb.ch%0a\ No newline at end of file%0a
+host:1097769058=80.219.133.159
+author:1097761482=
+diff:1097761482:1097761473:=2c2%0a%3c Mehr Info's zur BBMB unter http://wiki.bbmb.ch%0a\ No newline at end of file%0a---%0a> Mehr Info zur BBMB unter http://wiki.bbmb.ch%0a\ No newline at end of file%0a
+host:1097761482=80.219.133.159
+author:1097761473=
+diff:1097761473:1097761473:=1,2d0%0a%3c ! BBMB - Browserbasierte Medikamenten Bestellung%0a%3c Mehr Info zur BBMB unter http://wiki.bbmb.ch%0a\ No newline at end of file%0a
+host:1097761473=80.219.133.159

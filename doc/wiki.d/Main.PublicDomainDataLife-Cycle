@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1363445710
+host=80.219.10.249
+name=Main.PublicDomainDataLife-Cycle
+rev=2
+targets=
+text=Attach:Public_Domain_Data_Life_Cycle.png
+time=1363445733
+author:1363445733=zeno
+diff:1363445733:1363445710:=0a1%0a> !! Public Domain Data Life-Cycle%0a
+host:1363445733=80.219.10.249
+author:1363445710=zeno
+diff:1363445710:1363445710:=1,2d0%0a%3c !! Public Domain Data Life-Cycle%0a%3c Attach:Public_Domain_Data_Life_Cycle.png%0a\ No newline at end of file%0a
+host:1363445710=80.219.10.249

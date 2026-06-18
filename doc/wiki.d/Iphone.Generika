@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1334569155
+host=80.219.10.249
+name=Iphone.Generika
+rev=2
+targets=
+text=!! Support für das iPhone App "Generika"%0a* http://itunes.apple.com/us/app/generika/id520038123?ls=1&mt=8
+time=1365487864
+author:1365487864=zeno
+diff:1365487864:1334569155:=1,2c1%0a%3c !! Support für das iPhone App "Generika"%0a%3c * http://itunes.apple.com/us/app/generika/id520038123?ls=1&mt=8%0a\ No newline at end of file%0a---%0a> !! Support für das iPhone App "Generika"%0a\ No newline at end of file%0a
+host:1365487864=80.219.10.249
+author:1334569155=zeno
+diff:1334569155:1334569155:=1d0%0a%3c !! Support für das iPhone App "Generika"%0a\ No newline at end of file%0a
+host:1334569155=80.219.10.249

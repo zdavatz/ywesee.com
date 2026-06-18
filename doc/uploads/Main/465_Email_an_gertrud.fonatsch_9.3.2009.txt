@@ -1,0 +1,61 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 2097 invoked from network); 9 Mar 2009 08:22:22 -0000
+X-Spam-Status: No, hits-4.4 required3.0
+	testsALL_TRUSTED,AWL,BAYES_00
+X-Spam-Check-By: mail.ywesee.com
+Received: from [77.58.149.99] (HELO zenogentoo.localdomain) (77.58.149.99)
+  (smtp-auth username zdavatz@ywesee.com, mechanism plain)
+  by mail.ywesee.com (qpsmtpd/0.32) with ESMTPA; Mon, 09 Mar 2009 09:22:22 +0100
+Received: from localhost (localhost [127.0.0.1])
+	by zenogentoo.localdomain (Postfix) with ESMTP id 24CB119000;
+	Mon,  9 Mar 2009 09:22:22 +0100 (CET)
+Date: Mon, 9 Mar 2009 09:22:22 +0100 (CET)
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+X-X-Sender: zeno@localhost
+To: Gertrud Fonatsch <gertrud.fonatsch@bag.admin.ch>, 
+    ?ISO-8859-1?Q?Reinhard_Kämpf? <Reinhard.Kaempf@bag.admin.ch>, 
+    Sandra Schneider <sandra.schneider@bag.admin.ch>, 
+    ?ISO-8859-1?Q?Jean_Christian_Krayenbühl? <jeanchristian.krayenbuehl@bag.admin.ch>
+cc: aeschbacher@e-mediat.net, "todo at ODDB.org" <todo@oddb.org>
+Subject: Fehlinterpretation XML Status-Codes im SL-Export
+Message-ID: <alpine.LNX.2.00.0903090915360.3341@localhost>
+User-Agent: Alpine 2.00 (LNX 1184 2008-12-16)
+Organisation: ywesee GmbH
+MIME-Version: 1.0
+Content-Type: MULTIPART/Mixed; BOUNDARY"8323328-1752063662-1236585965:3341"
+Content-ID: <alpine.LNX.2.00.0903090915361.3341@localhost>
+X-Virus-Checked: Checked by ClamAV on mail.ywesee.com
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--8323328-1752063662-1236585965:3341
+Content-Type: TEXT/PLAIN; FORMATflowed; CHARSETISO-8859-1
+Content-Transfer-Encoding: 8BIT
+Content-ID: <alpine.LNX.2.00.0903090915362.3341@localhost>
+
+Sehr geehrte Frau Fonatsch
+
+Bezüglich den Mails vom Freitag konnte Herr Aeschbacher einiges klären. 
+Offenbar hat der Export-Status-Code im XML der SL keine Bedeutung. Das 
+einzige was anzeigt ob ein Produkt in der SL ist oder nicht - gemäss Herr 
+Aeschbacher - ist die Record-ID. Enstprechend konnten wir unsere 
+"Fehlerliste" wie folgt anpassen:
+
+ 	SMeX/SL-Differences (Registrations) 06.03.2009                3
+ 	Critical Pharmacodes BAG-XML 06.03.2009                      15
+ 	Missing Swissmedic-Codes in SL 06.03.2009                     0
+ 	Missing Pharmacodes in SL 06.03.2009                        499
+ 	Missing Swissmedic-Codes in SL (out of trade) 06.03.2009     54
+ 	Unknown Packages in SL 06.03.2009                            24
+ 	Unknown Registrations in SL 06.03.2009                        1
+ 	Unknown Packages in SL (out of trade) 06.03.2009            128
+
+Ausstehend nebst obigen Fehlern ist noch die Frage zu Accupaque.
+
+Mit freundlichen Grüssen
+Zeno Davatz
++41 43 540 05 50
+--8323328-1752063662-1236585965:3341--

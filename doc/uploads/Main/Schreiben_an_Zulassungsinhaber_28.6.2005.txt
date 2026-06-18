@@ -1,0 +1,64 @@
+Return-Path: <zdavatz@ywesee.com>
+Mailing-List: contact todo-help@oddb.org; run by ezmlm
+Delivered-To: mailing list todo@oddb.org
+Received: (qmail 21654 invoked by uid 210); 28 Jun 2005 09:58:26 +0200
+Received: from 217.162.177.109 by mail.ywesee.com (envelope-from <zdavatz@ywesee.com>, uid 201) with qmail-scanner-1.25st 
+ (clamdscan: 0.86.1/959. spamassassin: 3.0.4. perlscan: 1.25st.  
+ Clear:RC:1(217.162.177.109):. 
+ Processed in 1.962442 secs); 28 Jun 2005 07:58:26 -0000
+Received: from unknown (HELO zrr.local) (217.162.177.109)
+  by bbmb.ch with SMTP; 28 Jun 2005 09:58:24 +0200
+Date: Tue, 28 Jun 2005 09:57:57 +0200
+From: "Zeno R.R. Davatz" <zdavatz@ywesee.com>
+To: generika.cc mailinglist <news@generika.cc>, oddb.org mailinglist
+ <pharmafirma@oddb.org>, svkh-offerte@oddb.org <svkh-offerte@oddb.org>
+Cc: swissmedic@oddb.org <swissmedic@oddb.org>, Thomas Zeltner
+ <thomas.zeltner@bag.admin.ch>, Hans Heinrich Brunner
+ <hans-heinrich.brunner@bag.admin.ch>, todo@oddb.org <todo@oddb.org>
+Subject: Verlangen Sie von der Swissmedic und vom BAG offene Standards!
+Message-ID: <20050628095757.694dd168@zrr.local>
+Organization: ywesee GmbH
+X-Mailer: Sylpheed-Claws 1.0.4a (GTK+ 1.2.10; powerpc-unknown-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Damen und Herren
+
+Verlangen Sie bei der Einreichung _Ihrer_ Daten an die Swissmedic und an das BAG
+nach offenen Standards. Fragen Sie bei den Bundesbehörden, bei denen Sie Ihre
+Daten einreichen müssen ob Ihre Daten dann in einem offenen, nicht
+proprietären Format publiziert werden. Von Vorteil für Sie ist auch ganz klar
+wenn die Daten in einem maschinenlesbaren Format sind.
+
+Offene Standards verhindern ein Vendor-Lock in.
+
+Lesen Sie mehr über offene Standards:
+* http://perens.com/OpenStandards/Definition.html
+* http://www.w3.org/Consortium/=20
+
+Langfristig können Sie von offenen Standards nur profitieren, da diese den
+wahren Wettbewerb fördern und für alle Anbieter einen gleich langen Spiess
+machen. Ihre Optionen vergrössern sich, die Dienstleistungen werden besser.
+
+Linux ist das beste Beispiel.
+
+Norwegen macht es uns vor (Achtung Link ist lange und kann Umbrechen!):
+http://www.andwest.com/blojsom/blog/tatle/agenda/2005/06/27/Norwegian_Minister_Proprietary_Standards_No_Longer_Acceptable_in_Communication_with_Government.html
+
+Mit freundlichen Grüssen aus dem südländischen Zürich
+
+PS: Geschlossene, proprietäre Standards sind Dinosaurier und vom Aussterben
+bedroht! Bleiben Sie flexibel.
+
+Mit freundlichen Grüssen / best regards
+
+Zeno Davatz
+Verkauf & Akquisition
+
++41 43 540 05 50, SkypeID: zdavatz
+
+www.ywesee.com > intellectual capital connected > www.oddb.org
+
+pub  1024D/D77B920F 2003-06-24=20
+Schl.-Fingerabdruck =3D 0182 6A3A 541E C198 032B  4A92 0840 EBA0 D77B 920F

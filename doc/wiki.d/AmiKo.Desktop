@@ -1,0 +1,24 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/33.0.1750.14 Mobile/11B651 Safari/9537.53
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1393274311
+host=178.197.225.217
+name=AmiKo.Desktop
+rev=4
+targets=AmiKo.Windows
+text=Siehe AmiKo für [[AmiKo/Windows]]
+time=1393274402
+author:1393274402=zeno
+diff:1393274402:1393274347:=1c1%0a%3c Siehe AmiKo für [[AmiKo/Windows]]%0a\ No newline at end of file%0a---%0a> [[AmiKo/Windows]]%0a\ No newline at end of file%0a
+host:1393274402=178.197.225.217
+author:1393274347=zeno
+diff:1393274347:1393274331:=1c1%0a%3c [[AmiKo/Windows]]%0a\ No newline at end of file%0a---%0a> [[Amiko/Windows]]%0a\ No newline at end of file%0a
+host:1393274347=178.197.225.217
+author:1393274331=zeno
+diff:1393274331:1393274311:=1c1%0a%3c [[Amiko/Windows]]%0a\ No newline at end of file%0a---%0a> [Amiko/Windows]%0a\ No newline at end of file%0a
+host:1393274331=178.197.225.217
+author:1393274311=zeno
+diff:1393274311:1393274311:=1d0%0a%3c [Amiko/Windows]%0a\ No newline at end of file%0a
+host:1393274311=178.197.225.217

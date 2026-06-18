@@ -1,0 +1,18 @@
+version=pmwiki-2.2.6 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1333088984
+host=80.219.10.249
+name=Elexis.Installation
+rev=2
+targets=
+text=!! Installation von Med-Elexis auf Windwos:%0a# Java installieren%0a# Den aktuellen [[http://ngiger.dyndns.org/jenkins/view/2.1.6/job/elexis-2.1.6-ant/lastSuccessfulBuild/artifact/deploy/elexis-windows-2.1.6.dev-qualifier.20120329-install.jar | Build]] runterladen. %0a# Beim Installations-Prozess die Demo-DB anwählen.%0a# Spielen.%0a%0a!! Bootstrap Installation kann von hier gemacht werden:%0a# https://bitbucket.org/ngiger/elexis-bootstrap
+time=1333089014
+author:1333089014=zeno
+diff:1333089014:1333088984:=5,8c5%0a%3c # Spielen.%0a%3c %0a%3c !! Bootstrap Installation kann von hier gemacht werden:%0a%3c # https://bitbucket.org/ngiger/elexis-bootstrap%0a\ No newline at end of file%0a---%0a> # Spielen.%0a\ No newline at end of file%0a
+host:1333089014=80.219.10.249
+author:1333088984=zeno
+diff:1333088984:1333088984:=1,5d0%0a%3c !! Installation von Med-Elexis auf Windwos:%0a%3c # Java installieren%0a%3c # Den aktuellen [[http://ngiger.dyndns.org/jenkins/view/2.1.6/job/elexis-2.1.6-ant/lastSuccessfulBuild/artifact/deploy/elexis-windows-2.1.6.dev-qualifier.20120329-install.jar | Build]] runterladen. %0a%3c # Beim Installations-Prozess die Demo-DB anwählen.%0a%3c # Spielen.%0a\ No newline at end of file%0a
+host:1333088984=80.219.10.249
