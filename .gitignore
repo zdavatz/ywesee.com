@@ -4,3 +4,7 @@
 
 # Lock file used by log/rebuild-webalizer
 /var/lock/update_vhost_stats
+
+# Python virtualenv used for generating PDFs
+/venv/
+__pycache__/

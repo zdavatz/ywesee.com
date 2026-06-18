@@ -58,6 +58,24 @@ copy its secrets elsewhere or commit them to a public location.
 - **Customize the site:** edit `doc/local/config.php`; for layout edit `doc/pub/skins/ywesee/gila.tmpl`
   and `gila.css`.
 
+## Summaries / generated documents
+
+- Top-level `Zusammenfassung_*.md` / `Zusammenfassung_*.pdf` files are human-facing briefings
+  compiled from the wiki content and the linked PDFs under `doc/uploads/Main/`. Each summary
+  must include clickable links to the original references (the `https://ywesee.com/uploads/Main/<file>`
+  attachments). The Markdown is the source of truth; the PDF mirrors it.
+- Wiki attachment URLs map to `https://ywesee.com/uploads/Main/<filename>`; URL-encode special
+  characters (e.g. the ISO-8859-1 `ü` byte becomes `%FC`).
+
+## Generating PDFs
+
+- **Always use a Python virtualenv** — never install into the system Python:
+  `python3 -m venv venv && ./venv/bin/pip install fpdf2`. If `ensurepip` is missing, create the
+  venv with `--without-pip` and bootstrap via `get-pip.py`.
+- `fpdf2` with the built-in Helvetica font is **latin-1 only**: replace en/em dashes and curly
+  quotes before rendering (`–`/`—`→`-`, `‘’“”`→`'`/`"`); `«»` and `·` are fine. Use clickable
+  links via `write(..., link=url)` / `cell(..., link=url)`.
+
 ## Working conventions
 
 - Treat everything under `doc/scripts/` and `doc/wikilib.d/` as upstream PmWiki — customize via
