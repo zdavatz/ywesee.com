@@ -9,4 +9,4 @@ path = "src/main.rs"
 
 [dependencies]
 anyhow = "1"
-genpdf = "0.2"
+genpdfi = "0.2.7"
