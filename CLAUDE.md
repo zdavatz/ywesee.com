@@ -8,7 +8,7 @@ This is the production deployment of **ywesee.com**, the website of ywesee GmbH.
 [PmWiki](https://www.pmwiki.org/) installation (engine `pmwiki-2.2.84`, see `doc/scripts/version.php`)
 plus log archives and Webalizer-generated traffic statistics. There is no build step, package manager,
 or test suite of the usual kind — PmWiki is a self-contained PHP application served directly by a
-webserver. This is **not** a git repository.
+webserver. The tree is tracked in git (`origin` = <https://github.com/zdavatz/ywesee.com>, branch `main`).
 
 ## Layout
 
@@ -25,6 +25,7 @@ webserver. This is **not** a git repository.
   that rewrite `/PageName` to `pmwiki.php?n=PageName`
 - `log/` — yearly Apache access-log archives (`YYYY.tar.bz2`) plus `rebuild-webalizer`
 - `webalizer/`, `webalizer.bak/` — generated HTML traffic-stats output (do not hand-edit)
+- `carteblanche/` — Rust (`genpdfi`) generator for the opinion-piece PDF (see below)
 
 ## Wiki content format (`wiki.d/`)
 
@@ -66,6 +67,24 @@ copy its secrets elsewhere or commit them to a public location.
   attachments). The Markdown is the source of truth; the PDF mirrors it.
 - Wiki attachment URLs map to `https://ywesee.com/uploads/Main/<filename>`; URL-encode special
   characters (e.g. the ISO-8859-1 `ü` byte becomes `%FC`).
+
+## Opinion piece (`Public_Domain_Open_Source_…`)
+
+- `Public_Domain_Open_Source_Grundlage_Innovation_und_gesunden_Wettbewerb.md` / `.pdf` is Zeno Davatz's
+  opinion article for the magazine «Innovation Healthcare» (B2B Swiss Medien AG, rubric **Meinung**,
+  November 2026 issue; first drafted as a «Carte Blanche», hence the directory name). The repository
+  holds the version sent to the editor on 8.10.2026, which already includes her edits.
+- The text lives in **two places that must stay identical**: the Markdown file and the `BODY` array in
+  `carteblanche/src/main.rs`. The PDF is built from the Rust source, not from the Markdown:
+  `cd carteblanche && cargo run --release` (needs the DejaVu fonts, `$FONT_DIR`, default
+  `/usr/share/fonts/dejavu`).
+- The PDF must fit **one A4 page** — check with `pdfinfo` after every text change and adjust
+  `set_line_spacing` / the paragraph `Break` in `main.rs` if it spills over.
+- Cited rulings are linked through the `LINKS` table in `main.rs` (phrase → `uploads/Main` URL); a
+  phrase is only linked if it appears verbatim in `BODY`, so reword both together.
+- Editorial rule from the magazine: keep verifiable facts and the author's opinion apart. Statements
+  about what a court decided must be backed by the ruling (e.g. BGer 2C_244/2022, Dispositiv Ziff. 2 and
+  E. 10.8.5); conclusions drawn from it are phrased as «Für mich …».
 
 ## Generating PDFs
 
