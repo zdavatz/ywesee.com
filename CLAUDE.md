@@ -37,6 +37,22 @@ revision history (`diff:`, `author:`, `host:` keyed by timestamp). **Do not edit
 edit pages through the wiki's web UI (`?action=edit`) so revision history, checksums, and diffs stay
 consistent.
 
+### Homepage news entries (`Main.Home`)
+
+The homepage is the page `Main.Home`; its news list lives in the `text=` field. Each item is three
+`%0a`-separated lines — `!!!<D.M.YYYY>`, then `'''<Kategorie>'''`, then `* <Text>` — and the newest
+item goes **at the top**, right after the `Attach:yweseelogo.gif` logo line and before the previous
+`!!!<date>`. Link a PDF with `[[Attach:<file>.pdf | <Titel>]]` and first copy that PDF into
+`doc/uploads/Main/` so the attachment resolves.
+
+When there is no web UI to edit through, edit the flat file directly but **byte-precise**, because it is
+ISO-8859-1: write umlauts as the latin-1 byte (`ü`=`0xFC`, `ä`=`0xE4`, `ö`=`0xF6`, `Ä`=`0xC4` …), never
+UTF-8 — do it with a small Python script operating on `bytes`, not the text editor. Keep PmWiki
+consistent by also: bumping `rev=`, setting the head `time=` to `date +%s`, and prepending one revision
+to the history (`author:<t>=zeno`, a reverse `diff:<new>:<prev>:=…` where added lines start with `%3c `
+and removed lines with `> `, and `host:<t>=…`). See the scripts under the session scratchpad used for the
+13.10.2026 entry for the exact diff format (`3,5d2` for an insert, `4,5c4,5` for a replacement).
+
 ## Configuration (`doc/local/config.php`)
 
 All site behavior is driven from here. Key things it sets:
