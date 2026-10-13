@@ -49,6 +49,10 @@ depends on the exact bytes; for a complete working copy, clone on Linux. Details
   no contractual restrictions), citing the rulings from the case above:
   [Markdown](Stellungnahme_ywesee_HMG_3b.md) ·
   [PDF](Stellungnahme_ywesee_HMG_3b.pdf).
+  The same statement was also submitted on the federal platform
+  [Consultations](https://www.consultations.admin.ch) on 13.10.2026; the platform's summary
+  of that submission is kept as a receipt:
+  [PDF](Stellungnahme_ywesee_HMG_3b_Consultations.pdf).
 
 ## Notes
 

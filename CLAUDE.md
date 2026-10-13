@@ -145,6 +145,21 @@ copy its secrets elsewhere or commit them to a public location.
   [input.md] [output.pdf]`. Plain `cargo run --release` still builds the opinion piece (`default-run`).
 - The renderer (`carteblanche/src/stellungnahme.rs`) only understands `# ` headings, `> ` quoted law text,
   `- ` bullets, `**bold**` and one paragraph per line; addressee, date and title are constants in that file.
+- The same statement was also entered on the federal platform Consultations
+  (<https://www.consultations.admin.ch>) and bindingly submitted there on 13.10.2026.
+  `Stellungnahme_ywesee_HMG_3b_Consultations.pdf` is the platform's own summary of that submission
+  (unzipped from the download `28709 Stellungnahme.zip`) — a receipt, not generated here, so never
+  regenerate or edit it. A submitted statement can no longer be changed on the platform.
+- What the platform entry contains: general statement «Eher Zustimmung» with the section «Zur ywesee GmbH»
+  and the three Anträge; Art. 9b Abs. 3 and Art. 20 Abs. 1 «Zustimmung»; Art. 9b Abs. 4, Art. 9c^bis Abs. 6,
+  Art. 14 and Art. 30a Abs. 3 «Zustimmung mit Anpassung» with counter-proposal and reasoning. Left out
+  because the form has no place for them: the letter frame (salutation, request for confirmation of
+  receipt, closing, contact line) and the sentence «Zu den übrigen Bestimmungen nehmen wir nicht Stellung.»
+  No PDF attachment was uploaded; Transplantationsgesetz and Betäubungsmittelgesetz are «Keine Rückmeldung».
+- Filling that platform with browser automation: saving shows an ALTCHA captcha once per session, which the
+  user must confirm; «Beilage hinzufügen» opens a native file dialog, so attachments must be added by the
+  user; «Zustimmung mit Anpassung» prefills the counter-proposal field with the current law text; the
+  contact step needs Vorname and Nachname of a contact person before «Einreichen» becomes active.
 
 ## Generating PDFs
 
