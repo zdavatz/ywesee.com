@@ -2,10 +2,15 @@
 name = "carteblanche"
 version = "0.1.0"
 edition = "2021"
+default-run = "carteblanche"
 
 [[bin]]
 name = "carteblanche"
 path = "src/main.rs"
+
+[[bin]]
+name = "stellungnahme"
+path = "src/stellungnahme.rs"
 
 [dependencies]
 anyhow = "1"

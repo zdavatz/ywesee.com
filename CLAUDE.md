@@ -25,7 +25,8 @@ webserver. The tree is tracked in git (`origin` = <https://github.com/zdavatz/yw
   that rewrite `/PageName` to `pmwiki.php?n=PageName`
 - `log/` — yearly Apache access-log archives (`YYYY.tar.bz2`) plus `rebuild-webalizer`
 - `webalizer/`, `webalizer.bak/` — generated HTML traffic-stats output (do not hand-edit)
-- `carteblanche/` — Rust (`genpdfi`) generator for the opinion-piece PDF (see below)
+- `carteblanche/` — Rust (`genpdfi`) generators for the opinion-piece PDF and the consultation-statement
+  PDF (see below)
 
 ## Wiki content format (`wiki.d/`)
 
@@ -85,6 +86,16 @@ copy its secrets elsewhere or commit them to a public location.
 - Editorial rule from the magazine: keep verifiable facts and the author's opinion apart. Statements
   about what a court decided must be backed by the ruling (e.g. BGer 2C_244/2022, Dispositiv Ziff. 2 and
   E. 10.8.5); conclusions drawn from it are phrased as «Für mich …».
+
+## Consultation statement (`Stellungnahme_ywesee_HMG_3b.*`)
+
+- ywesee's statement on the revision of the Heilmittelgesetz (HMG 3b, consultation deadline 16.10.2026),
+  structured like the BAG answer form and submitted to the BAG by e-mail on 13.10.2026 — the files record
+  what was sent, so do not reword them. Here the **Markdown is the single source**; the PDF is rendered from
+  it by a second binary in the same crate: `cd carteblanche && cargo run --release --bin stellungnahme
+  [input.md] [output.pdf]`. Plain `cargo run --release` still builds the opinion piece (`default-run`).
+- The renderer (`carteblanche/src/stellungnahme.rs`) only understands `# ` headings, `> ` quoted law text,
+  `- ` bullets, `**bold**` and one paragraph per line; addressee, date and title are constants in that file.
 
 ## Generating PDFs
 
