@@ -8,6 +8,26 @@ uploaded documents, log archives and Webalizer traffic statistics.
 
 See [CLAUDE.md](CLAUDE.md) for the repository layout, configuration and common operations.
 
+## Cloning on macOS
+
+On macOS `git clone` ends with `fatal: unable to checkout working tree`. The download is
+complete; only the checkout aborts, because 21 paths cannot exist on a default APFS volume:
+13 files have ISO-8859-1 umlauts in their name (`Illegal byte sequence`), and 8 pairs of
+files differ only in upper/lower case. Repair the clone in place:
+
+```sh
+git reset -q
+git ls-files -z -m -d | sort -zu | git update-index -z --skip-worktree --stdin
+git status --short    # must be empty
+```
+
+Run this only right after a fresh clone — the second command hides every modified or
+deleted file from git. Afterwards commit and push work normally and leave those 21 files
+untouched upstream, but they are missing or unreliable on disk (read them with
+`git show HEAD:<path>`). The names must stay as they are, because the live PmWiki server
+depends on the exact bytes; for a complete working copy, clone on Linux. Details in
+[CLAUDE.md](CLAUDE.md#cloning--checking-out-on-macos).
+
 ## Summaries / Briefings
 
 - **Documed / Galenica (HCI Solutions) vs. ywesee** — chronological document overview
