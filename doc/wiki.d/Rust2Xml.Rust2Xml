@@ -1,15 +1,18 @@
 version=pmwiki-2.2.84 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 author=zeno
 charset=ISO-8859-1
 csum=
 ctime=1777196573
-host=212.51.146.241
+host=9.246.61.158
 name=Rust2Xml.Rust2Xml
-rev=3
+rev=4
 targets=
-text=! Rust2Xml%0a# Convert your Swiss Healthcare Data from the Public Domain to XML, SQlite, CSV, etc.%0a# For questions or problems contact: zdavatz at ywesee . com%0a# Phone: +41 43 540 05 50
-time=1778080793
+text=! Rust2Xml%0a# Convert your Swiss Healthcare Data from the Public Domain to XML, SQlite, CSV, etc.%0a# For questions or problems contact: zdavatz at ywesee . com%0a# Phone: +41 43 540 05 50%0a# Download: https://apps.microsoft.com/detail/9ntks4tbrlf6?hl=en-US&gl=PE
+time=1785248680
+author:1785248680=zeno
+diff:1785248680:1778080793:=4,5c4%0a%3c # Phone: +41 43 540 05 50%0a%3c # Download: https://apps.microsoft.com/detail/9ntks4tbrlf6?hl=en-US&gl=PE%0a\ No newline at end of file%0a---%0a> # Phone: +41 43 540 05 50%0a\ No newline at end of file%0a
+host:1785248680=9.246.61.158
 author:1778080793=zeno
 diff:1778080793:1778080684:=3,4c3,4%0a%3c # For questions or problems contact: zdavatz at ywesee . com%0a%3c # Phone: +41 43 540 05 50%0a\ No newline at end of file%0a---%0a> # For questions or problems contact zdavatz at ywesee . com%0a> # or call +41 43 540 05 50%0a\ No newline at end of file%0a
 host:1778080793=212.51.146.241

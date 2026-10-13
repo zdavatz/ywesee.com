@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1786721822
+host=150.228.63.241
+name=PumpTsueri.Privacy
+rev=1
+targets=
+text=! Pump Tsüri%0a# Pump Tsüri does not collect personal information.%0a# Pump Tsüri does not track you.
+time=1786721822
+author:1786721822=zeno
+diff:1786721822:1786721822:=1,3d0%0a%3c ! Pump Tsüri%0a%3c # Pump Tsüri does not collect personal information.%0a%3c # Pump Tsüri does not track you.%0a\ No newline at end of file%0a
+host:1786721822=150.228.63.241

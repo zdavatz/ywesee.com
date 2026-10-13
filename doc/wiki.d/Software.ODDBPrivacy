@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+author=zeno
+charset=ISO-8859-1
+csum=
+ctime=1787745605
+host=212.51.146.241
+name=Software.ODDBPrivacy
+rev=1
+targets=
+text=! oddb.org Privacy%0a# We do not track users%0a# We do not collect personal data.
+time=1787745605
+author:1787745605=zeno
+diff:1787745605:1787745605:=1,3d0%0a%3c ! oddb.org Privacy%0a%3c # We do not track users%0a%3c # We do not collect personal data.%0a\ No newline at end of file%0a
+host:1787745605=212.51.146.241
