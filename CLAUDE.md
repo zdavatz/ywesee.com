@@ -28,6 +28,39 @@ webserver. The tree is tracked in git (`origin` = <https://github.com/zdavatz/yw
 - `carteblanche/` — Rust (`genpdfi`) generators for the opinion-piece PDF and the consultation-statement
   PDF (see below)
 
+## Cloning / checking out on macOS
+
+`git clone` on macOS ends with `fatal: unable to checkout working tree`. The clone itself is complete;
+only the checkout aborts, because 21 paths cannot exist on a default APFS volume:
+
+- **13 files with ISO-8859-1 umlauts in the name** (`Illegal byte sequence`) — APFS only accepts UTF-8
+  filenames. E.g. `doc/wiki.d/Main.Komplement<E4>rmedizin`, `doc/wiki.d/Fachinfo.<DC>berblick`,
+  `doc/uploads/Main/Zivilgericht_Basel_Verf<FC>gung_14.3.2007.pdf`.
+- **8 pairs differing only in case** — the filesystem is case-insensitive, so only one file of each pair
+  lands on disk. E.g. `doc/uploads/Android/Apydan.jpg` / `apydan.jpg`, `doc/wiki.d/Ywesee.KIndle` /
+  `Ywesee.Kindle`, `doc/wiki.d/ODDB.RecentChanges` / `Oddb.RecentChanges`.
+
+Repair in place instead of re-cloning (the aborted checkout leaves every file staged as deleted):
+
+```sh
+git reset -q                                  # rebuild the index from HEAD, working tree untouched
+git ls-files -z -m -d | sort -zu | git update-index -z --skip-worktree --stdin
+git status --short                            # must be empty
+```
+
+Run the second command only right after a fresh clone, when the 21 paths are the only differences —
+it hides *every* modified or deleted file from git. `git ls-files -v | grep '^S'` lists the hidden paths.
+
+Consequences on a Mac:
+
+- The 13 umlaut files are not on disk; read them with `git show HEAD:<path>`.
+- For each case pair the one file on disk may hold the content of either twin — do not edit those 8 files
+  here.
+- `git add -A` / commit / push are safe: skip-worktree paths are left alone, nothing gets deleted upstream.
+- **Do not rename these files to UTF-8 or merge the case twins** to make the checkout work — the live
+  PmWiki server is ISO-8859-1 and case-sensitive, so the page names and attachment links depend on the
+  exact bytes. For a complete working copy, clone on Linux.
+
 ## Wiki content format (`wiki.d/`)
 
 Each file is one page named `Group.PageName` (e.g. `AIPS.Index`, `AmiKo.Android`). Files named
