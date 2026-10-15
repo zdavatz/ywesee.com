@@ -54,6 +54,14 @@ depends on the exact bytes; for a complete working copy, clone on Linux. Details
   of that submission is kept as a receipt:
   [PDF](Stellungnahme_ywesee_HMG_3b_Consultations.pdf).
 
+## Tools
+
+- `tools/li_post.py` — publish a text post (with link preview) to LinkedIn, reusing the OAuth +
+  REST Posts logic of [swissdamed2sqlite](https://github.com/zdavatz/swissdamed2sqlite). Credentials
+  live in `~/.config/swissdamed2sqlite/` and are **never** committed. See CLAUDE.md →
+  "Posting to LinkedIn". Example:
+  `python3 tools/li_post.py --text "…\n\nhttps://youtu.be/…\n\n#tags"`
+
 ## Notes
 
 - Secrets (`doc/local/config.php`, `etc/htaccess`) are git-ignored; a sanitized

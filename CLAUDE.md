@@ -170,6 +170,30 @@ copy its secrets elsewhere or commit them to a public location.
   quotes before rendering (`–`/`—`→`-`, `‘’“”`→`'`/`"`); `«»` and `·` are fine. Use clickable
   links via `write(..., link=url)` / `cell(..., link=url)`.
 
+## Posting to LinkedIn (`tools/li_post.py`)
+
+`tools/li_post.py` publishes a PUBLIC text post (LinkedIn renders a preview from any URL in the text)
+to Zeno's profile, reusing the logic of
+[swissdamed2sqlite](https://github.com/zdavatz/swissdamed2sqlite) `src/linkedin.rs`: refresh the OAuth
+token if a `refresh_token` is present, then `POST https://api.linkedin.com/rest/posts` with
+`author: urn:li:person:<id>`, `visibility: PUBLIC`, `MAIN_FEED`, headers `LinkedIn-Version: 202603`
+and `X-Restli-Protocol-Version: 2.0.0`. Commentary is escaped for LinkedIn "little text"
+(`()<>@|{}[]*_~\` get a backslash). Usage:
+`python3 tools/li_post.py --text "…\n\nhttps://…\n\n#tags"` (also `--file`, stdin, `--dry-run`).
+
+Credentials are read from `~/.config/swissdamed2sqlite/` (lookup order
+`$SWISSDAMED_CREDENTIALS_DIR` → `~/.config/swissdamed2sqlite` → cwd → `$HOME`) and must **never** be
+committed:
+- `linkedin_credentials.json` → `{client_id, client_secret}` from the LinkedIn app "ywesee"
+  (<https://www.linkedin.com/developers/apps> → Auth tab).
+- `linkedin_token.json` → `{access_token, refresh_token, person_id, …}`, obtained once via the
+  3-legged OAuth flow: open `https://www.linkedin.com/oauth/v2/authorization` with
+  `scope=openid profile w_member_social` and a redirect URL registered on the app
+  (e.g. `http://localhost:8000/callback`), then exchange the `code` at
+  `https://www.linkedin.com/oauth/v2/accessToken`; take `person_id` from the `sub` of
+  `GET https://api.linkedin.com/v2/userinfo`. The "ywesee" app currently issues **no** refresh token,
+  so the access token must be re-minted (~60-day lifetime) by repeating that flow.
+
 ## Working conventions
 
 - Treat everything under `doc/scripts/` and `doc/wikilib.d/` as upstream PmWiki — customize via
